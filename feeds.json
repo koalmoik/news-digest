@@ -10,7 +10,7 @@
     {"name": "Die Presse",        "region": "AT",   "url": "https://www.diepresse.com/rss/", "paywall": "teilweise"},
     {"name": "Salzburger Nachrichten", "region": "AT", "url": "https://www.sn.at/xml/rss", "paywall": "teilweise"},
     {"name": "Tagesschau",        "region": "INT",  "url": "https://www.tagesschau.de/xml/rss2/"},
-    {"name": "ZDFheute",          "region": "INT",  "url": "https://www.zdf.de/rss/zdf/nachrichten"},
+    {"name": "ZDFheute",          "region": "INT",  "url": "https://www.zdfheute.de/rss/zdf/nachrichten"},
     {"name": "Deutsche Welle",    "region": "INT",  "url": "https://rss.dw.com/rdf/rss-de-all"},
     {"name": "SRF",               "region": "INT",  "url": "https://www.srf.ch/news/bnf/rss/1646"},
     {"name": "BBC",               "region": "INT",  "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
