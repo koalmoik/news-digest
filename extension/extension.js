@@ -252,8 +252,8 @@ class DigestIndicator extends PanelMenu.Button {
 export default class NewsDigestExtension extends Extension {
     enable() {
         this._indicator = new DigestIndicator();
-        // Links in der Leiste, gleich nach den To-dos
-        Main.panel.addToStatusArea(this.uuid, this._indicator, 2, 'left');
+        // Links in der Leiste, gleich nach „Aktivitäten“
+        Main.panel.addToStatusArea(this.uuid, this._indicator, 1, 'left');
     }
 
     disable() {
