@@ -211,7 +211,11 @@ class DigestIndicator extends PanelMenu.Button {
                 section.addMenuItem(new PopupMenu.PopupSeparatorMenuItem(topic.name));
                 for (const it of topic.items) {
                     const sub = new PopupMenu.PopupSubMenuMenuItem(it.title);
-                    sub.label.set_style(`max-width: ${TEXT_WIDTH};`);
+                    // Lange Titel umbrechen statt abschneiden
+                    sub.label.set_style(`width: ${TEXT_WIDTH};`);
+                    sub.label.clutter_text.line_wrap = true;
+                    sub.label.clutter_text.line_wrap_mode = Pango.WrapMode.WORD_CHAR;
+                    sub.label.clutter_text.ellipsize = Pango.EllipsizeMode.NONE;
                     sub.setOrnament(readIds.includes(it.id) ? PopupMenu.Ornament.CHECK : PopupMenu.Ornament.DOT);
                     sub.menu.addMenuItem(textItem(wrappedLabel(it.summary)));
                     for (const s of it.sources) {
@@ -258,7 +262,8 @@ class DigestIndicator extends PanelMenu.Button {
 export default class NewsDigestExtension extends Extension {
     enable() {
         this._indicator = new DigestIndicator();
-        Main.panel.addToStatusArea(this.uuid, this._indicator);
+        // Links in der Leiste, gleich nach den To-dos
+        Main.panel.addToStatusArea(this.uuid, this._indicator, 2, 'left');
     }
 
     disable() {

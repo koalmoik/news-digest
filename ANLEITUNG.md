@@ -30,11 +30,13 @@ keine Fakten, Links oder Quellen. Du darfst höchstens 5 Artikel-Links per curl 
 ## 3. Auswählen und schreiben → `work/draft.json`
 
 Themen, genau diese Namen, in dieser Reihenfolge:
-`Innenpolitik`, `EU`, `Wirtschaft`, `Klima`, `Tech/KI`, `Wissenschaft`, `Nahost`, `USA`
+`Innenpolitik`, `EU`, `Welt`, `Wirtschaft`, `Klima`, `Tech/KI`, `Wissenschaft`, `Nahost`, `USA`
 
 - **Innenpolitik** heißt österreichische Innenpolitik. Bevorzuge dafür ORF, Der Standard, Die Presse, SN.
+- **Welt:** große internationale Ereignisse, die nicht zu EU, Nahost oder USA passen
+  (z. B. Ukraine-Krieg, China, Russland, Wahlen anderswo, große Katastrophen).
 - **Wirtschaft:** Österreich und international gemischt.
-- Pro Thema 1–2 Meldungen, bei einem wirklich großen Ereignis höchstens 3. Insgesamt 12–16.
+- Pro Thema 1–2 Meldungen, bei einem wirklich großen Ereignis höchstens 3. Insgesamt 14–18.
   Gibt es zu einem Thema nichts Relevantes, lass es weg.
 - Auswahl nach Bedeutung: Was muss ein informierter Mensch in Österreich heute wissen?
   Nicht aufnehmen: Sport, Promis, Lifestyle, Lokal-Kriminalität, Liveticker, Kommentare und
