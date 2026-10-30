@@ -23,7 +23,7 @@
     {"name": "The Guardian",      "region": "INT",  "url": "https://www.theguardian.com/science/rss"},
     {"name": "Al Jazeera",        "region": "INT",  "url": "https://www.aljazeera.com/xml/rss/all.xml"},
     {"name": "France 24",         "region": "INT",  "url": "https://www.france24.com/en/rss"},
-    {"name": "Euractiv",          "region": "INT",  "url": "https://www.euractiv.com/feed/"},
+    {"name": "Rapporteur (ex-Euractiv)", "region": "INT", "url": "https://www.rapporteur.com/feed/"},
     {"name": "Politico Europe",   "region": "INT",  "url": "https://www.politico.eu/feed/"},
     {"name": "heise online",      "region": "INT",  "url": "https://www.heise.de/rss/heise-top-atom.xml", "paywall": "teilweise"}
   ]
