@@ -1,0 +1,7 @@
+{
+  "uuid": "news-digest@peter",
+  "name": "Morgen-Digest",
+  "description": "Zeigt den täglichen Nachrichten-Digest (Österreich & international) in der oberen Leiste.",
+  "shell-version": ["50"],
+  "version": 1
+}

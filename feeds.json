@@ -1,0 +1,30 @@
+{
+  "_hinweis": "Nur diese Quellen dürfen im Digest vorkommen. paywall=teilweise heißt: nur verlinken, wenn es keine freie Alternative gibt.",
+  "feeds": [
+    {"name": "ORF",               "region": "AT",   "url": "https://rss.orf.at/news.xml"},
+    {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/inland"},
+    {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/international"},
+    {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/wirtschaft"},
+    {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/wissenschaft"},
+    {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/web"},
+    {"name": "Die Presse",        "region": "AT",   "url": "https://www.diepresse.com/rss/", "paywall": "teilweise"},
+    {"name": "Salzburger Nachrichten", "region": "AT", "url": "https://www.sn.at/xml/rss", "paywall": "teilweise"},
+    {"name": "Tagesschau",        "region": "INT",  "url": "https://www.tagesschau.de/xml/rss2/"},
+    {"name": "ZDFheute",          "region": "INT",  "url": "https://www.zdf.de/rss/zdf/nachrichten"},
+    {"name": "Deutsche Welle",    "region": "INT",  "url": "https://rss.dw.com/rdf/rss-de-all"},
+    {"name": "SRF",               "region": "INT",  "url": "https://www.srf.ch/news/bnf/rss/1646"},
+    {"name": "BBC",               "region": "INT",  "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "BBC",               "region": "INT",  "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"},
+    {"name": "BBC",               "region": "INT",  "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"},
+    {"name": "The Guardian",      "region": "INT",  "url": "https://www.theguardian.com/world/rss"},
+    {"name": "The Guardian",      "region": "INT",  "url": "https://www.theguardian.com/us-news/rss"},
+    {"name": "The Guardian",      "region": "INT",  "url": "https://www.theguardian.com/environment/rss"},
+    {"name": "The Guardian",      "region": "INT",  "url": "https://www.theguardian.com/technology/rss"},
+    {"name": "The Guardian",      "region": "INT",  "url": "https://www.theguardian.com/science/rss"},
+    {"name": "Al Jazeera",        "region": "INT",  "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+    {"name": "France 24",         "region": "INT",  "url": "https://www.france24.com/en/rss"},
+    {"name": "Euractiv",          "region": "INT",  "url": "https://www.euractiv.com/feed/"},
+    {"name": "Politico Europe",   "region": "INT",  "url": "https://www.politico.eu/feed/"},
+    {"name": "heise online",      "region": "INT",  "url": "https://www.heise.de/rss/heise-top-atom.xml", "paywall": "teilweise"}
+  ]
+}
