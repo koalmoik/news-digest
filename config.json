@@ -1,4 +1,5 @@
 {
   "ntfy_server": "https://ntfy.sh",
-  "github_repo": "koalmoik/news-digest"
+  "github_repo": "koalmoik/news-digest",
+  "pages_url": "https://koalmoik.github.io/news-digest-pages"
 }

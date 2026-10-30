@@ -12,11 +12,10 @@ import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
 
 const CACHE_DIR = GLib.build_filenamev([GLib.get_user_cache_dir(), 'news-digest']);
 const DIGEST_FILE = GLib.build_filenamev([CACHE_DIR, 'latest.json']);
-const BRANCH_FILE = GLib.build_filenamev([CACHE_DIR, 'branch']);
 const STATE_DIR = GLib.build_filenamev([GLib.get_user_state_dir(), 'news-digest']);
 const STATE_FILE = GLib.build_filenamev([STATE_DIR, 'state.json']);
 const SYNC = GLib.build_filenamev([GLib.get_home_dir(), 'Programs', 'news-digest', 'sync.sh']);
-const REPO_URL = 'https://github.com/koalmoik/news-digest';
+const PAGES_URL = 'https://koalmoik.github.io/news-digest-pages';
 const KEEP_DAYS = 14;
 const ACCENT = '#62a0ea';
 const TEXT_WIDTH = '28em';
@@ -34,14 +33,6 @@ function readJson(path, fallback) {
         return JSON.parse(new TextDecoder().decode(bytes));
     } catch {
         return fallback;
-    }
-}
-
-function readText(path) {
-    try {
-        return new TextDecoder().decode(GLib.file_get_contents(path)[1]).trim();
-    } catch {
-        return '';
     }
 }
 
@@ -237,9 +228,8 @@ class DigestIndicator extends PanelMenu.Button {
                     this._markRead(it, {setOrnament: () => {}});
                 this._buildMenu();
             }, 'object-select-symbolic');
-            const branch = readText(BRANCH_FILE) || 'main';
-            this.menu.addAction('Im Browser öffnen', () =>
-                openUri(`${REPO_URL}/blob/${branch}/digests/${d.date}.md`), 'web-browser-symbolic');
+            this.menu.addAction('Im Browser lesen', () =>
+                openUri(`${PAGES_URL}/${d.date}.html`), 'web-browser-symbolic');
         }
         this.menu.addAction('Jetzt aktualisieren', () => {
             try {

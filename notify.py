@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Schickt die Schlagzeilen aus latest.json als ntfy-Push aufs Handy.
 
-Ein Tipp auf die Benachrichtigung öffnet den Digest auf GitHub.
+Ein Tipp auf die Benachrichtigung öffnet die Leseseite.
 Aufruf: python3 notify.py [branch]   (Standard: aktueller Git-Branch)
 """
 import json
@@ -29,7 +29,8 @@ def main():
         'topic': config['ntfy_topic'],
         'title': f'{digest["title"]} ({total} Meldungen)',
         'message': '\n'.join(lines)[:3800],
-        'click': f'https://github.com/{config["github_repo"]}/blob/{branch}/digests/{digest["date"]}.md',
+        'click': f'{config["pages_url"]}/{digest["date"]}.html' if config.get('pages_url') else
+                 f'https://github.com/{config["github_repo"]}/blob/{branch}/digests/{digest["date"]}.md',
         'tags': ['newspaper'],
     }
     req = urllib.request.Request(config.get('ntfy_server', 'https://ntfy.sh'),

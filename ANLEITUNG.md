@@ -82,6 +82,17 @@ git push origin HEAD:main
 Wird der Push auf `main` abgelehnt, nimm stattdessen den Branch `claude/digest`:
 `git push --force origin HEAD:claude/digest`. Merk dir, welcher Branch geklappt hat.
 
+Danach die Leseseiten im öffentlichen Repo `news-digest-pages` aktualisieren. Es ist
+neben diesem Repo ausgecheckt (`../news-digest-pages`):
+
+```bash
+python3 render_site.py ../news-digest-pages
+cd ../news-digest-pages && git add -A && git commit -m "Digest $(TZ=Europe/Vienna date +%F)" && git push origin HEAD:main; cd -
+```
+
+Lässt sich `../news-digest-pages` nicht finden oder nicht pushen, mach trotzdem mit Schritt 6 weiter
+und erwähne das in deiner Schlusszeile.
+
 ## 6. Handy benachrichtigen
 
 ```bash
