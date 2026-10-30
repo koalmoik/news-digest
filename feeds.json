@@ -25,6 +25,12 @@
     {"name": "France 24",         "region": "INT",  "url": "https://www.france24.com/en/rss"},
     {"name": "Rapporteur (ex-Euractiv)", "region": "INT", "url": "https://www.rapporteur.com/feed/"},
     {"name": "Politico Europe",   "region": "INT",  "url": "https://www.politico.eu/feed/"},
-    {"name": "heise online",      "region": "INT",  "url": "https://www.heise.de/rss/heise-top-atom.xml", "paywall": "teilweise"}
+    {"name": "heise online",      "region": "INT",  "url": "https://www.heise.de/rss/heise-top-atom.xml", "paywall": "teilweise"},
+    {"name": "heise Security",    "region": "INT",  "url": "https://www.heise.de/security/feed.xml", "paywall": "teilweise"},
+    {"name": "CERT.at",           "region": "AT",   "url": "https://www.cert.at/cert-at.de.all.rss_2.0.xml"},
+    {"name": "The Record",        "region": "INT",  "url": "https://therecord.media/feed"},
+    {"name": "Krebs on Security", "region": "INT",  "url": "https://krebsonsecurity.com/feed/"},
+    {"name": "Schneier on Security", "region": "INT", "url": "https://www.schneier.com/feed/atom/"},
+    {"name": "Ars Technica",      "region": "INT",  "url": "https://feeds.arstechnica.com/arstechnica/index"}
   ]
 }

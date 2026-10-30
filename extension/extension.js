@@ -6,6 +6,7 @@ import Pango from 'gi://Pango';
 import St from 'gi://St';
 
 import * as Main from 'resource:///org/gnome/shell/ui/main.js';
+import {ensureActorVisibleInScrollView} from 'resource:///org/gnome/shell/misc/animationUtils.js';
 import * as PanelMenu from 'resource:///org/gnome/shell/ui/panelMenu.js';
 import * as PopupMenu from 'resource:///org/gnome/shell/ui/popupMenu.js';
 import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
@@ -192,10 +193,11 @@ class DigestIndicator extends PanelMenu.Button {
             this.menu.addMenuItem(holder);
             holder.addMenuItem(section);
             holder.actor.remove_child(section.actor);
-            holder.actor.add_child(new St.ScrollView({
+            const scroll = new St.ScrollView({
                 child: section.actor, style: 'max-height: 55em;',
                 hscrollbar_policy: St.PolicyType.NEVER, vscrollbar_policy: St.PolicyType.AUTOMATIC,
-            }));
+            });
+            holder.actor.add_child(scroll);
 
             const readIds = this._readIds();
             for (const topic of d.topics) {
@@ -214,8 +216,10 @@ class DigestIndicator extends PanelMenu.Button {
                             () => openUri(s.url), 'web-browser-symbolic');
                     }
                     sub.menu.connect('open-state-changed', (_m, open) => {
-                        if (open)
-                            this._markRead(it, sub);
+                        if (!open)
+                            return;
+                        this._markRead(it, sub);
+                        this._scrollIntoView(scroll, sub);
                     });
                     section.addMenuItem(sub);
                 }
@@ -240,10 +244,25 @@ class DigestIndicator extends PanelMenu.Button {
         }, 'view-refresh-symbolic');
     }
 
+    // Aufgeklappte Meldung ganz sichtbar machen, sobald die Aufklapp-Animation fertig ist
+    _scrollIntoView(scroll, sub) {
+        if (this._scrollTimer)
+            GLib.source_remove(this._scrollTimer);
+        this._scrollTimer = GLib.timeout_add(GLib.PRIORITY_DEFAULT, 300, () => {
+            this._scrollTimer = 0;
+            ensureActorVisibleInScrollView(scroll, sub.menu.actor);
+            // danach den Titel, falls die Zusammenfassung höher als der sichtbare Bereich ist
+            ensureActorVisibleInScrollView(scroll, sub);
+            return GLib.SOURCE_REMOVE;
+        });
+    }
+
     destroy() {
-        if (this._timer)
-            GLib.source_remove(this._timer);
-        this._timer = 0;
+        for (const id of [this._timer, this._scrollTimer]) {
+            if (id)
+                GLib.source_remove(id);
+        }
+        this._timer = this._scrollTimer = 0;
         this._monitor?.cancel();
         super.destroy();
     }

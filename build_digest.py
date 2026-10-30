@@ -12,7 +12,7 @@ from zoneinfo import ZoneInfo
 
 DIR = Path(__file__).resolve().parent
 TZ = ZoneInfo('Europe/Vienna')
-TOPICS = ['Innenpolitik', 'EU', 'Welt', 'Wirtschaft', 'Klima', 'Tech/KI', 'Wissenschaft', 'Nahost', 'USA']
+TOPICS = ['Innenpolitik', 'EU', 'Welt', 'Wirtschaft', 'Klima', 'Tech/KI', 'IT-Security', 'Wissenschaft', 'Nahost', 'USA']
 WEEKDAYS = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag', 'Sonntag']
 MONTHS = ['Jänner', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August',
           'September', 'Oktober', 'November', 'Dezember']
