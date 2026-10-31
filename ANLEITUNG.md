@@ -5,15 +5,15 @@ Du erstellst Peters täglichen Morgen-Digest: ein kurzer, hochwertiger Nachricht
 
 ## 1. Soll heute ein Digest entstehen?
 
-Die Routine startet täglich um 06:00 und 07:00 UTC, damit es trotz Sommer-/Winterzeit
-immer einen Lauf um 08:00 Wiener Zeit gibt.
+Die Routine startet täglich um 04:05 und 05:05 UTC, damit es trotz Sommer-/Winterzeit
+immer einen Lauf um 06:05 Wiener Zeit gibt (fertig vor 06:30).
 
 ```bash
 TZ=Europe/Vienna date +'%F %H'
 ```
 
 - Gibt es `digests/<heutiges Datum>.json` schon → **sofort beenden**, nichts tun.
-- Ist es in Wien vor 08 Uhr → **sofort beenden**, nichts tun.
+- Ist es in Wien vor 06 Uhr → **sofort beenden**, nichts tun.
 - Sonst weiter.
 
 ## 2. Meldungen holen

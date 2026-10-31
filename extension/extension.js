@@ -176,7 +176,7 @@ class DigestIndicator extends PanelMenu.Button {
         this.menu.removeAll();
         const d = this._digest;
         if (!d) {
-            this.menu.addMenuItem(new PopupMenu.PopupMenuItem('Noch kein Digest – kommt um 8:00', {reactive: false}));
+            this.menu.addMenuItem(new PopupMenu.PopupMenuItem('Noch kein Digest – kommt um 6:30', {reactive: false}));
         } else {
             this.menu.addMenuItem(textItem(wrappedLabel(d.title, 'font-weight: bold;')));
             if (d.date !== isoDay()) {

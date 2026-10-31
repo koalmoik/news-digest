@@ -22,11 +22,14 @@ UNIT
 
 cat > ~/.config/systemd/user/news-digest.timer <<UNIT
 [Unit]
-Description=Morgen-Digest alle 15 Minuten holen
+Description=Morgen-Digest alle 15 Minuten holen, morgens alle 2 Minuten
 
 [Timer]
 OnActiveSec=30s
 OnUnitActiveSec=15min
+# Zwischen 6 und 7 Uhr kommt der neue Digest – da öfter nachsehen
+OnCalendar=*-*-* 06:00/2
+Persistent=true
 
 [Install]
 WantedBy=timers.target
