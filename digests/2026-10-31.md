@@ -78,7 +78,7 @@ Google hat eingeräumt, dass die KI-Zusammenfassungen in der Suche die Werbeeinn
 
 In einer Anthropic-Studie folgten 86 Prozent der Experten der ihnen zugeteilten Empfehlung eines KI-Agenten. Mehr als die Hälfte hielt sie anschließend für ihr eigenes Urteil.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346708/studie-grosse-mehrheit-der-fachleute-uebernahm-die-meinung-eines-ki-agenten?ref=rss) · [heise online 🔒](https://www.heise.de/news/Untersuchung-Experten-uebernehmen-oft-unbewusst-KI-Entscheidungen-11505781.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [Der Standard](https://www.derstandard.at/story/3000000346708/studie-grosse-mehrheit-der-fachleute-uebernahm-die-meinung-eines-ki-agenten?ref=rss) · [heise online](https://www.heise.de/news/Untersuchung-Experten-uebernehmen-oft-unbewusst-KI-Entscheidungen-11505781.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
 ## IT-Security
 
@@ -92,13 +92,13 @@ Bei der Kryptobörse Binance wurden Werte von rund 6,3 Milliarden Dollar gestohl
 
 Die offizielle Claude-Code-Erweiterung enthielt im Cursor-Marktplatz knapp zwölf Stunden lang eine Hintertür, verteilt über ein automatisches Update. Wer die infizierte Version installiert hat, sollte das System rasch prüfen. Wie die Angreifer an den verifizierten Account kamen, ist unklar.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346800/claude-code-millionenfach-genutzte-erweiterung-bei-cursor-mit-hintertuer-unterwandert?ref=rss) · [heise Security 🔒](https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html) · [Ars Technica](https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/)
+→ [Der Standard](https://www.derstandard.at/story/3000000346800/claude-code-millionenfach-genutzte-erweiterung-bei-cursor-mit-hintertuer-unterwandert?ref=rss) · [heise Security](https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html) · [Ars Technica](https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/)
 
 ### Kritische Linux-TCP/IP-Lücke ermöglicht Remote Code Execution
 
 Im TCP/IP-Stack des Linux-Kernels steckt ein elf Jahre alter Fehler, der Codeausführung aus der Ferne erlaubt; entdeckt wurde er laut heise von Anthropics Claude. Updates sind in Arbeit.
 
-→ [heise Security 🔒](https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html)
+→ [heise Security](https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html)
 
 ## Wissenschaft
 

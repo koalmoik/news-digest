@@ -215,8 +215,7 @@
       },
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Untersuchung-Experten-uebernehmen-oft-unbewusst-KI-Entscheidungen-11505781.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-       "paywall": true
+       "url": "https://www.heise.de/news/Untersuchung-Experten-uebernehmen-oft-unbewusst-KI-Entscheidungen-11505781.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
       }
      ]
     }
@@ -255,8 +254,7 @@
       },
       {
        "name": "heise Security",
-       "url": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html",
-       "paywall": true
+       "url": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html"
       },
       {
        "name": "Ars Technica",
@@ -271,8 +269,7 @@
      "sources": [
       {
        "name": "heise Security",
-       "url": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html",
-       "paywall": true
+       "url": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html"
       }
      ]
     }

@@ -1,5 +1,5 @@
 {
-  "_hinweis": "Nur diese Quellen dürfen im Digest vorkommen. paywall=teilweise heißt: nur verlinken, wenn es keine freie Alternative gibt.",
+  "_hinweis": "Nur diese Quellen dürfen im Digest vorkommen. paywall_marker: Text in url oder title, an dem gesperrte Artikel erkennbar sind. paywall=teilweise ohne Marker: jeder Artikel gilt als möglicherweise gesperrt.",
   "feeds": [
     {"name": "ORF",               "region": "AT",   "url": "https://rss.orf.at/news.xml"},
     {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/inland"},
@@ -7,7 +7,7 @@
     {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/wirtschaft"},
     {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/wissenschaft"},
     {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/web"},
-    {"name": "Die Presse",        "region": "AT",   "url": "https://www.diepresse.com/rss/", "paywall": "teilweise"},
+    {"name": "Die Presse",        "region": "AT",   "url": "https://www.diepresse.com/rss/", "paywall_marker": {"in": "title", "text": "[premium]"}},
     {"name": "Salzburger Nachrichten", "region": "AT", "url": "https://www.sn.at/xml/rss", "paywall": "teilweise"},
     {"name": "Tagesschau",        "region": "INT",  "url": "https://www.tagesschau.de/xml/rss2/"},
     {"name": "ZDFheute",          "region": "INT",  "url": "https://www.zdfheute.de/rss/zdf/nachrichten"},
@@ -25,8 +25,8 @@
     {"name": "France 24",         "region": "INT",  "url": "https://www.france24.com/en/rss"},
     {"name": "Rapporteur (ex-Euractiv)", "region": "INT", "url": "https://www.rapporteur.com/feed/"},
     {"name": "Politico Europe",   "region": "INT",  "url": "https://www.politico.eu/feed/"},
-    {"name": "heise online",      "region": "INT",  "url": "https://www.heise.de/rss/heise-top-atom.xml", "paywall": "teilweise"},
-    {"name": "heise Security",    "region": "INT",  "url": "https://www.heise.de/security/feed.xml", "paywall": "teilweise"},
+    {"name": "heise online",      "region": "INT",  "url": "https://www.heise.de/rss/heise-top-atom.xml", "paywall_marker": {"in": "url", "text": "beitrag_plus"}},
+    {"name": "heise Security",    "region": "INT",  "url": "https://www.heise.de/security/feed.xml", "paywall_marker": {"in": "url", "text": "beitrag_plus"}},
     {"name": "CERT.at",           "region": "AT",   "url": "https://www.cert.at/cert-at.de.all.rss_2.0.xml"},
     {"name": "The Record",        "region": "INT",  "url": "https://therecord.media/feed"},
     {"name": "Krebs on Security", "region": "INT",  "url": "https://krebsonsecurity.com/feed/"},

@@ -76,6 +76,14 @@ def fetch(feed):
     return feed, items, None
 
 
+def paywalled(feed, item):
+    """Liegt dieser Artikel hinter einer Paywall? Mit Marker pro Artikel, sonst pro Quelle."""
+    marker = feed.get('paywall_marker')
+    if marker:
+        return marker['text'] in item[marker['in']]
+    return bool(feed.get('paywall'))
+
+
 def main():
     feeds = json.loads((DIR / 'feeds.json').read_text())['feeds']
     cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS)
@@ -90,9 +98,13 @@ def main():
                 if it['published'] and it['published'] < cutoff:
                     continue
                 seen.add(it['url'])
+                paywall = paywalled(feed, it)
+                marker = feed.get('paywall_marker')
+                if marker and marker['in'] == 'title':
+                    it['title'] = it['title'].replace(marker['text'], '').strip()
                 out.append({
                     'source': feed['name'], 'region': feed['region'],
-                    **({'paywall': feed['paywall']} if feed.get('paywall') else {}),
+                    **({'paywall': True} if paywall else {}),
                     'title': it['title'], 'summary': it['summary'], 'url': it['url'],
                     'published': it['published'].isoformat(timespec='minutes') if it['published'] else None,
                 })
