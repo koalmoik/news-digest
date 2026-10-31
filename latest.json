@@ -1,44 +1,35 @@
 {
- "date": "2026-10-30",
- "title": "Morgen-Digest · Freitag, 30. Oktober 2026",
- "generated": "2026-10-30T22:11+01:00",
- "intro": "Der Hackerangriff auf Binance mit 6,3 Milliarden Dollar Beute und der Kurssturz bei KI-Werten bestimmen die Nachrichten, vier Tage vor den US-Midterms mit Rekord bei der vorzeitigen Stimmabgabe. In Österreich legt das Innenministerium eine knappe Quote für den Familiennachzug vor, in der Ukraine gelingt eine seltene Evakuierung in Oleschky.",
+ "date": "2026-10-31",
+ "title": "Morgen-Digest · Samstag, 31. Oktober 2026",
+ "generated": "2026-10-31T08:09+01:00",
+ "intro": "Die EU und Kanada gründen eine „Allianz für die Zukunft“, in Polen eskaliert der Machtkampf ums Verfassungsgericht, und im Persischen Golf brennen erneut Tanker. Dazu: ein Rekordhack bei Binance und eine Hintertür in einer Claude-Code-Erweiterung.",
  "topics": [
   {
    "name": "Innenpolitik",
    "items": [
     {
-     "id": "2026-10-30-01",
-     "title": "Familiennachzug: nur 314 Plätze bei rund 6000 Anträgen",
-     "summary": "Das Innenministerium hat Quoten für den Familiennachzug im Asylbereich vorgeschlagen: Nur 314 Personen pro Jahr sollen einreisen dürfen, obwohl rund 6000 Anträge offen sind. Die Familienzusammenführung war im Vorjahr ausgesetzt worden. Kritik gibt es an der geringen Zahl und an offenen Fragen zum Vorschlag.",
+     "id": "2026-10-31-01",
+     "title": "Klimagesetz: Viel Kritik am Ziel Klimaneutralität 2040",
+     "summary": "Die Begutachtungsfrist für das Klimagesetz ist am Freitag zu Ende gegangen. Kritik gibt es vor allem am Ziel der Klimaneutralität bis 2040, zu dem zahlreiche Stellungnahmen eingelangt sind.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3446599/"
-      },
+       "url": "https://orf.at/stories/3446567/"
+      }
+     ]
+    },
+    {
+     "id": "2026-10-31-02",
+     "title": "Familiennachzug: 314 Plätze für rund 6.000 Wartende",
+     "summary": "Laut Entwurf der Niederlassungsverordnung dürfen 2026 und 2027 jeweils nur 314 Personen im Rahmen der Familienzusammenführung einreisen. Dem stehen rund 6.000 Wartende gegenüber. Für die meisten bedeutet das weiteres Warten.",
+     "sources": [
       {
        "name": "Der Standard",
        "url": "https://www.derstandard.at/story/3000000346692/asyl-sehr-schmale-erste-quote-f252r-familiennachzug?ref=rss"
       },
       {
-       "name": "Salzburger Nachrichten",
-       "url": "https://www.sn.at/politik/innenpolitik/aeusserst-knappe-quote-fuer-familiennachzug-art-681392",
-       "paywall": true
-      }
-     ]
-    },
-    {
-     "id": "2026-10-30-02",
-     "title": "Zukunftsdepot geht in Begutachtung",
-     "summary": "Das steuerlich begünstigte Zukunftsdepot, das die Bundesregierung ab kommendem Jahr umsetzen will, wurde am Freitag in Begutachtung geschickt. Damit beginnt der Feinschliff für das geplante Vorsorgeprodukt.",
-     "sources": [
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3446635/"
-      },
-      {
-       "name": "Salzburger Nachrichten",
-       "url": "https://www.sn.at/politik/innenpolitik/zukunftsdepot-ist-in-begutachtung-art-681298",
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41404044/quote-fuer-familiennachzug-kommt-doch-eine-frist-bereitet-probleme",
        "paywall": true
       }
      ]
@@ -49,9 +40,9 @@
    "name": "EU",
    "items": [
     {
-     "id": "2026-10-30-03",
+     "id": "2026-10-31-03",
      "title": "EU und Kanada gründen „Allianz für die Zukunft“",
-     "summary": "Beim Gipfel in Montreal haben die EU und Kanada eine neue Allianz vereinbart, die auch anderen Staaten offensteht. Geplant ist eine engere Zusammenarbeit etwa bei Energie, Rüstung, KI und Rohstoffen; die Idee einer „assoziierten EU-Mitgliedschaft“ ist laut Standard vom Tisch. Hintergrund ist das schwierigere Verhältnis zu den USA.",
+     "summary": "Beim Gipfel in Montreal haben die EU und Kanada ein Bündnis vereinbart, das offen für weitere Länder sein soll. Die Zusammenarbeit reicht von Energie und Rüstung über KI und kritische Rohstoffe bis zur Raumfahrt. Ziel ist mehr Unabhängigkeit in einer veränderten Weltordnung.",
      "sources": [
       {
        "name": "ORF",
@@ -62,25 +53,27 @@
        "url": "https://www.derstandard.at/story/3000000346740/kanada-baut-kooperationen-in-energie-und-ruestung-mit-eu-staaten-aus?ref=rss"
       },
       {
-       "name": "Salzburger Nachrichten",
-       "url": "https://www.sn.at/politik/weltpolitik/eu-und-kanada-gruenden-allianz-fuer-die-zukunft-art-681170",
-       "paywall": true
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html"
       }
      ]
     },
     {
-     "id": "2026-10-30-04",
-     "title": "EU-Gebühr von zwei Euro auf Pakete aus Drittstaaten",
-     "summary": "Ab Sonntag gilt in der EU eine Bearbeitungsgebühr von zwei Euro pro Sendung von außerhalb der EU. Sie zielt vor allem auf Billigpakete aus China und soll auch den langfristigen EU-Haushalt mitfinanzieren.",
+     "id": "2026-10-31-04",
+     "title": "Polen: Machtkampf ums Verfassungsgericht eskaliert",
+     "summary": "Nach der Suspendierung des Gerichtspräsidenten wurde Bereitschaftspolizei vor dem Verfassungsgericht in Warschau eingesetzt. Präsident Nawrocki und die Regierung von Donald Tusk streiten über die Legitimität des Gerichts; es kam zu Protesten und Rangeleien.",
      "sources": [
       {
-       "name": "Rapporteur (ex-Euractiv)",
-       "url": "https://www.rapporteur.com/news/new-handling-fee-set-to-hit-non-eu-parcels/"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446652/"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41404034/neue-eu-gebuehr-von-zwei-euro-pro-paket-zielt-auf-china-ab",
-       "paywall": true
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346822/streit-um-verfassungsgericht-in-polen-eskaliert?ref=rss"
+      },
+      {
+       "name": "Politico Europe",
+       "url": "https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
       }
      ]
     }
@@ -90,9 +83,9 @@
    "name": "Welt",
    "items": [
     {
-     "id": "2026-10-30-05",
-     "title": "Oleschky: Evakuierung während seltener Feuerpause",
-     "summary": "Aus der von Russland besetzten südukrainischen Frontstadt Oleschky sind während einer lokalen Feuerpause Einwohner evakuiert worden, zudem erreichten Hilfsgüter den Ort. Die Aktion wurde gemeinsam von Russland und der Ukraine organisiert. Zugleich greift Russland laut Selenskyj weiter den ukrainischen Energiesektor an.",
+     "id": "2026-10-31-05",
+     "title": "Oleschky: Zivilisten während Feuerpause evakuiert",
+     "summary": "Aus der von Russland besetzten Frontstadt Oleschky wurden am Freitag mehrere hundert Menschen evakuiert, ohne Zwischenfälle. Die lokale Feuerpause hatte auf Initiative von Melania Trump gehalten. Zugleich erreichten erstmals Hilfsgüter die Stadt.",
      "sources": [
       {
        "name": "ORF",
@@ -103,27 +96,27 @@
        "url": "https://www.derstandard.at/jetzt/livebericht/3000000346663/entminung-oleschkys-abgeschlossen-hilfsaktion-startet?ref=rss"
       },
       {
-       "name": "ZDFheute",
-       "url": "https://www.zdfheute.de/politik/ausland/oleschky-waffenruhe-evakuierung-hilfe-ukraine-krieg-russland-100.html"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "id": "2026-10-30-06",
-     "title": "Spanien: Verkehrsminister lehnt Rücktritt nach Zugunglück ab",
-     "summary": "Nach der Kollision zweier Hochgeschwindigkeitszüge in der Provinz Toledo, bei der mindestens 69 Menschen starben, hat Minister Óscar Puente einen Rücktritt abgelehnt. Die Fahrdatenschreiber wurden geborgen, die Opferzahl könnte noch steigen. Unter den Betroffenen sind laut Regierungschef Sánchez Menschen aus 27 Nationen.",
+     "id": "2026-10-31-06",
+     "title": "USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
+     "summary": "Das Geschäft hat einen Umfang von rund 2,1 Milliarden Dollar; mitfinanziert wird es unter anderem von Kanada, Deutschland und Norwegen. Selenskyj lobte die Entscheidung, warnte aber, dass die Lieferung Jahre dauern könnte.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3446610/"
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-usa-genehmigen-verkauf-von-500-patriot-raketen-an-die-ukraine"
       },
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346687/zugsungl252ck-in-spanien-fahrdatenschreiber-geborgen?ref=rss"
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html"
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss"
       }
      ]
     }
@@ -133,37 +126,37 @@
    "name": "Wirtschaft",
    "items": [
     {
-     "id": "2026-10-30-07",
-     "title": "Kursrutsch bei KI-Werten: Zweifel an den Milliardeninvestitionen",
-     "summary": "Nach schwachen Quartalszahlen und Prognosen sind US-Techwerte stark gefallen; Intel verlor rund 30 Prozent, auch Amazon und zuvor Google gerieten unter Druck. Laut Guardian verloren die US-Märkte fast eine Billion Dollar. Anleger zweifeln, ob die enormen KI-Ausgaben schnell genug Erträge bringen.",
+     "id": "2026-10-31-07",
+     "title": "Intel-Absturz verstärkt Zweifel am KI-Boom",
+     "summary": "Die Intel-Aktie verlor nach einer schwachen Prognose rund 29 Prozent, auch Amazon geriet unter Druck. Der Nasdaq fiel auf den tiefsten Stand seit über zwei Monaten, da die Investitionen in KI sich nahe einer Billion Dollar bewegen.",
      "sources": [
       {
        "name": "ORF",
        "url": "https://orf.at/stories/3446636/"
       },
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346805/chipriese-intel-zieht-techkonzerne-nach-unten?ref=rss"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41404874/kursgemetzel-bei-ki-werten-setzt-sich-fort-nun-erwischt-es-amazon-und-intel",
-       "paywall": true
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "id": "2026-10-30-08",
-     "title": "Wirtschaft in Deutschland und Österreich wächst stärker als erwartet",
-     "summary": "Die Wirtschaft der Euro-Zone ist im Sommer stärker gewachsen als erwartet. Deutschland und Österreich arbeiten sich laut Standard aus der Krise; das deutsche BIP legte im dritten Quartal um 0,2 Prozent zu, wo viele Experten Stagnation erwartet hatten.",
+     "id": "2026-10-31-08",
+     "title": "Neue EU-Gebühr von zwei Euro auf Pakete aus Drittstaaten",
+     "summary": "Ab Sonntag gilt in der EU eine Bearbeitungsgebühr von zwei Euro pro Sendung von außerhalb der EU. Sie zielt vor allem auf die stark gestiegenen Paketmengen aus China ab und soll auch den langfristigen EU-Haushalt mitfinanzieren.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346775/deutschland-und-oesterreich-arbeiten-sich-aus-der-krise?ref=rss"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41404034/neue-eu-gebuehr-von-zwei-euro-pro-paket-zielt-auf-china-ab",
+       "paywall": true
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html"
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/new-handling-fee-set-to-hit-non-eu-parcels/"
       }
      ]
     }
@@ -173,22 +166,21 @@
    "name": "Klima",
    "items": [
     {
-     "id": "2026-10-30-09",
-     "title": "UN-Artenschutzkonferenz einigt sich auf zentrale Abkommen",
-     "summary": "Bei der COP17 in Jerewan haben sich rund 200 Staaten nach fast zweiwöchigen Verhandlungen auf zwei zentrale Abkommen zum Stopp des Artenverlusts bis 2030 geeinigt. Streitpunkte waren zuvor umweltschädliche Subventionen und die Finanzierung der Maßnahmen.",
+     "id": "2026-10-31-09",
+     "title": "UNO-Artenschutzkonferenz einigt sich auf zentrale Beschlüsse",
+     "summary": "Rund 200 Staaten haben sich in Armenien nach zwei Wochen und Verlängerung auf Vereinbarungen zum Stopp des Artensterbens bis 2030 geeinigt. Strittig waren vor allem umweltschädliche Subventionen und die Finanzierung; beim Geld bleiben Fragen offen.",
      "sources": [
       {
        "name": "ORF",
        "url": "https://orf.at/stories/3446651/"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41407184/uno-artenschutzkonferenz-einigt-sich-bei-mehreren-zentralen-themen",
-       "paywall": true
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346817/un-artenschutzkonferenz-einigt-sich-bei-mehreren-zentralen-themen?ref=rss"
       },
       {
-       "name": "France 24",
-       "url": "https://www.france24.com/en/environment/20261030-un-nature-summit-approves-two-key-agreements-after-marathon-negotiations"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -198,9 +190,9 @@
    "name": "Tech/KI",
    "items": [
     {
-     "id": "2026-10-30-10",
-     "title": "KI-Suche drückt Googles Werbegeschäft, Aktie bricht ein",
-     "summary": "Google hat eingeräumt, dass die KI-Zusammenfassungen in der Suche die Werbeerlöse belasten. Die Aktie fiel auf ein Sechsmonatstief, der Börsenwert sank um rund 500 Milliarden Dollar. Betroffen ist laut Standard besonders auch das offene Web.",
+     "id": "2026-10-31-10",
+     "title": "Googles KI-Suche belastet erstmals das Werbegeschäft",
+     "summary": "Google hat eingeräumt, dass die KI-Zusammenfassungen in der Suche die Werbeeinnahmen beeinträchtigen. Die Aktie fiel auf ein Sechsmonatstief, der Börsenwert sank um etwa 500 Milliarden Dollar.",
      "sources": [
       {
        "name": "Der Standard",
@@ -213,9 +205,9 @@
      ]
     },
     {
-     "id": "2026-10-30-11",
-     "title": "Studie: 86 Prozent der Fachleute übernehmen KI-Meinung",
-     "summary": "Laut einer Studie von Anthropic folgten 86 Prozent der Teilnehmer der zufällig zugeteilten Position eines KI-Agenten, mehr als die Hälfte hielt sie für das eigene Urteil. Das zeigt, wie stark KI-Empfehlungen auch Experten beeinflussen, oft unbewusst.",
+     "id": "2026-10-31-11",
+     "title": "Studie: 86 Prozent der Fachleute übernehmen KI-Position",
+     "summary": "In einer Anthropic-Studie folgten 86 Prozent der Experten der ihnen zugeteilten Empfehlung eines KI-Agenten. Mehr als die Hälfte hielt sie anschließend für ihr eigenes Urteil.",
      "sources": [
       {
        "name": "Der Standard",
@@ -234,14 +226,10 @@
    "name": "IT-Security",
    "items": [
     {
-     "id": "2026-10-30-12",
-     "title": "Binance: Krypto-Raub über 6,3 Milliarden Dollar",
-     "summary": "Die Kryptobörse Binance meldet den größten Krypto-Diebstahl der Geschichte; rund 3 Milliarden Dollar konnten eingefroren werden. Zwei Analysefirmen ordnen den Angriff der nordkoreanischen Gruppe TraderTraitor zu. Binance will alle Kundenverluste ersetzen.",
+     "id": "2026-10-31-12",
+     "title": "Binance: Hack über 6,3 Milliarden Dollar, Spur führt nach Nordkorea",
+     "summary": "Bei der Kryptobörse Binance wurden Werte von rund 6,3 Milliarden Dollar gestohlen, der größte Krypto-Diebstahl bisher. Analysefirmen ordnen ihn der nordkoreanischen Gruppe TraderTraitor zu. Etwa 3 Milliarden konnten eingefroren werden; Binance will Kundenverluste ersetzen.",
      "sources": [
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3446653/"
-      },
       {
        "name": "Der Standard",
        "url": "https://www.derstandard.at/story/3000000346691/binance-meldet-massiven-hackerangriff-25-milliarden-dollar-eingefroren?ref=rss"
@@ -249,13 +237,17 @@
       {
        "name": "BBC",
        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
       }
      ]
     },
     {
-     "id": "2026-10-30-13",
+     "id": "2026-10-31-13",
      "title": "Claude-Code-Erweiterung im Cursor-Marktplatz mit SSH-Backdoor",
-     "summary": "In der offiziellen Claude-Code-Erweiterung im Marktplatz der Entwicklungsumgebung Cursor steckte eine SSH-Backdoor. Sie wurde per automatischem Update verteilt und gab Angreifern Zugriff auf betroffene Systeme; wer die infizierte Version installiert hat, sollte rasch reagieren.",
+     "summary": "Die offizielle Claude-Code-Erweiterung enthielt im Cursor-Marktplatz knapp zwölf Stunden lang eine Hintertür, verteilt über ein automatisches Update. Wer die infizierte Version installiert hat, sollte das System rasch prüfen. Wie die Angreifer an den verifizierten Account kamen, ist unklar.",
      "sources": [
       {
        "name": "Der Standard",
@@ -265,13 +257,17 @@
        "name": "heise Security",
        "url": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html",
        "paywall": true
+      },
+      {
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
       }
      ]
     },
     {
-     "id": "2026-10-30-14",
-     "title": "Kritische Lücke im Linux-TCP/IP-Stack erlaubt Remote Code Execution",
-     "summary": "Im TCP/IP-Stack des Linux-Kerns wurde ein kritischer, elf Jahre alter Fehler entdeckt, der Remote Code Execution ermöglicht; er wurde von Anthropics Claude gefunden. Updates sind laut heise in Arbeit.",
+     "id": "2026-10-31-14",
+     "title": "Kritische Linux-TCP/IP-Lücke ermöglicht Remote Code Execution",
+     "summary": "Im TCP/IP-Stack des Linux-Kernels steckt ein elf Jahre alter Fehler, der Codeausführung aus der Ferne erlaubt; entdeckt wurde er laut heise von Anthropics Claude. Updates sind in Arbeit.",
      "sources": [
       {
        "name": "heise Security",
@@ -286,24 +282,24 @@
    "name": "Wissenschaft",
    "items": [
     {
-     "id": "2026-10-30-15",
-     "title": "Möglicher neuer Zwergplanet „ED138“ entdeckt",
-     "summary": "Der Astronom Matthew Holman hat mit einem eigenen Suchcode einen möglichen neuen Zwergplaneten namens „ED138“ gefunden. Sein Team verfolgte die Umlaufbahn über mehr als zehn Jahre.",
-     "sources": [
-      {
-       "name": "ZDFheute",
-       "url": "https://www.zdfheute.de/video/panorama-neuer-zwergplanet-sonnensystem-100.html"
-      }
-     ]
-    },
-    {
-     "id": "2026-10-30-16",
-     "title": "Marsmeteorit aus der Sahara gibt Einblick in die alte Marskruste",
-     "summary": "Ein in der Sahara gefundener Meteorit stammt aus der uralten Kruste des Mars und gilt als selten. Er liefert Forschern Hinweise auf die frühe Geologie des Planeten.",
+     "id": "2026-10-31-15",
+     "title": "Marsmeteorit aus der Sahara zeigt uralte Marskruste",
+     "summary": "Ein in der Sahara gefundener Meteorit stellt ein seltenes Stück der frühen Marskruste dar und erlaubt Einblicke in deren Entstehung.",
      "sources": [
       {
        "name": "Ars Technica",
        "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/"
+      }
+     ]
+    },
+    {
+     "id": "2026-10-31-16",
+     "title": "Möglicher neuer Zwergplanet „ED138“ entdeckt",
+     "summary": "Der Astronom Matthew Holman fand mit eigenem Suchcode ein mögliches neues Zwergplaneten-Objekt. Sein Team verfolgte die Umlaufbahn über mehr als zehn Jahre.",
+     "sources": [
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/video/panorama-neuer-zwergplanet-sonnensystem-100.html"
       }
      ]
     }
@@ -313,41 +309,36 @@
    "name": "Nahost",
    "items": [
     {
-     "id": "2026-10-30-17",
-     "title": "Israel: Wahl endet im Patt, Netanjahu greift arabische Parteien an",
-     "summary": "Nach Auszählung aller Stimmen verfehlt Netanjahus rechte Koalition mit 53 Sitzen die Mehrheit, auch Eisenkots Opposition kommt auf keine. Netanjahu wirft arabischen Parteien ausländische Finanzierung und Wahlbetrug vor, Behörden weisen das zurück. Nun könnten arabische Parteien eine Regierungsbildung mitentscheiden.",
+     "id": "2026-10-31-17",
+     "title": "Hormus: Iran meldet vier brennende Tanker",
+     "summary": "Die Revolutionsgarde meldet, vier Tanker seien in der Straße von Hormus nach Minentreffern in Brand geraten; ein weiterer Tanker wurde laut UKMTO von einem Geschoss getroffen. Der Oman brachte 25 Besatzungsmitglieder in Sicherheit.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346678/israel-wahl-nach-ausz228hlung-aller-stimmen-weiterhin-pattsituation?ref=rss"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446654/"
       },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346821/irans-revolutionsgarde-vier-tanker-brennen-in-stra223e-von-hormuz?ref=rss"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-10-31-18",
+     "title": "Israel nach der Wahl im Patt",
+     "summary": "Das Endergebnis ergibt für keinen Block eine regierungsfähige Mehrheit. Netanjahu steht ohne Mehrheit da, nun könnten arabische Parteien zum Zünglein werden, doch eine Regierungsbildung ist nicht in Sicht.",
+     "sources": [
       {
        "name": "Tagesschau",
        "url": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html"
       },
       {
        "name": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power"
-      }
-     ]
-    },
-    {
-     "id": "2026-10-30-18",
-     "title": "Vance wirbt mit Brief an Iran für Verhandlungen",
-     "summary": "US-Vizepräsident Vance hat sich schriftlich an einen hochrangigen iranischen Sicherheitsvertreter gewandt, um einen neuen Konflikt zu vermeiden. Katarische Vermittler sind laut Insidern nach Teheran gereist. In der Straße von Hormus brannte indes erneut ein Schiff.",
-     "sources": [
-      {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41404069/us-vizepraesident-vance-macht-iran-ein-angebot-um-neuen-krieg-zu-vermeiden",
-       "paywall": true
-      },
-      {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
-      },
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346702/oelpreise-legen-zu-sorge-vor-us-militaerschlag-im-iran-waechst?ref=rss"
+       "url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties"
       }
      ]
     }
@@ -357,37 +348,41 @@
    "name": "USA",
    "items": [
     {
-     "id": "2026-10-30-19",
+     "id": "2026-10-31-19",
      "title": "Midterms: Rekord bei vorzeitiger Stimmabgabe",
-     "summary": "Vier Tage vor den Kongresswahlen haben rund 47,9 Millionen Menschen vorzeitig gewählt, mehr als die 45,9 Millionen bei den Midterms 2022. Auch Papst Leo XIV. gab per Briefwahl seine Stimme ab.",
+     "summary": "Rund 47,9 Millionen Menschen haben vor den Zwischenwahlen am Dienstag bereits gewählt, mehr als der bisherige Rekord von 45,9 Millionen im Jahr 2022. Zur Wahl stehen alle 435 Sitze im Repräsentantenhaus, 35 im Senat und 39 Gouverneursposten.",
      "sources": [
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346815/us-wahlen-mit-479-mio-w228hlern-rekord-bei-vorzeitiger-stimmabgabe?ref=rss"
-      },
       {
        "name": "ORF",
        "url": "https://orf.at/stories/3446645/"
       },
       {
-       "name": "Salzburger Nachrichten",
-       "url": "https://www.sn.at/politik/weltpolitik/neuer-rekord-bei-vorzeitiger-stimmabgabe-fuer-us-midterms-art-681391",
-       "paywall": true
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346815/us-wahlen-mit-479-mio-w228hlern-rekord-bei-vorzeitiger-stimmabgabe?ref=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/politics/video/2026/oct/30/final-countdown-to-the-make-or-break-midterms-podcast"
       }
      ]
     },
     {
-     "id": "2026-10-30-20",
-     "title": "Berufungsgericht weist Trumps Antrag zu Kalifornien-Stimmen ab",
-     "summary": "Ein US-Berufungsgericht hat erneut den Versuch der Trump-Regierung zurückgewiesen, 20.000 kalifornische Briefwahlstimmen zurückzuhalten. Das Justizministerium hatte behauptet, es könnte sich um Stimmen von Nichtstaatsbürgern handeln; das Gericht nannte den Antrag verfassungswidrig.",
+     "id": "2026-10-31-20",
+     "title": "Papst Leo XIV. wählt per Briefwahl bei US-Midterms",
+     "summary": "Erstmals hat ein Papst bei einer US-Wahl abgestimmt: Der gebürtige Chicagoer gab per Briefwahl seine Stimme ab, wie der Vatikan bestätigte. Wen er wählte, ist offen.",
      "sources": [
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41405833/us-wahlen-papst-hat-per-briefwahl-seine-stimme-abgegeben",
+       "paywall": true
       },
       {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346706/registereintraege-in-den-usa-decken-auf-wie-der-papst-waehlt?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
