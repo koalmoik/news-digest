@@ -1,0 +1,368 @@
+{
+ "date": "2026-11-01",
+ "title": "Morgen-Digest · Sonntag, 1. November 2026",
+ "generated": "2026-11-01T06:06+01:00",
+ "intro": "Vor den US-Zwischenwahlen am Dienstag und einer drohenden neuen Iran-Eskalation prägen Proteste in Frankreich und Deutschland sowie der Machtkampf um Polens Verfassungsgericht die Nachrichten. Dazu kommen der Rekord-Hack bei Binance und die Evakuierung der Menschen aus Oleschky.",
+ "topics": [
+  {
+   "name": "Innenpolitik",
+   "items": [
+    {
+     "id": "2026-11-01-01",
+     "title": "Kirche kritisiert Familiennachzug-Quote der Regierung",
+     "summary": "Der Wiener Erzbischof Josef Grünwidl und die Katholische Aktion lehnen die von der Regierung präsentierte Niederlassungsverordnung samt Quote für den Familiennachzug ab. Die Kritik kommt von einem gewichtigen gesellschaftlichen Akteur und dürfte die Debatte um die Migrationspolitik weiter anheizen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346872/kirche-kritisiert-quotenregelung-bei-familienzusammenf252hrung?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-02",
+     "title": "Finanzminister Marterbauer schließt Chemotherapie ab",
+     "summary": "Markus Marterbauer (SPÖ) hat die Chemotherapie gegen seinen Lymphknotenkrebs nach eigenen Angaben gut überstanden, nun folgt eine Erhaltungstherapie. Seine Erkrankung hatte er im Juli öffentlich gemacht; Anfang 2027 soll er Andreas Babler als SPÖ-Chef nachfolgen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346845/marterbauer-hat-chemotherapie-gut-252berstanden?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41407435/finanzminister-marterbauer-hat-chemotherapie-gut-ueberstanden"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "EU",
+   "items": [
+    {
+     "id": "2026-11-01-03",
+     "title": "Polens Streit um das Verfassungsgericht eskaliert",
+     "summary": "Präsident Karol Nawrocki hat sich Berichten zufolge Zugang zum Verfassungsgericht verschafft und damit den Konflikt mit der Regierung von Donald Tusk verschärft. Tusk spricht von einem Angriff auf Demokratie und Rechtsstaat, vor dem Gericht kam es zu Protesten, Nawrocki berief Krisengespräche ein. Der Streit weitet sich zur Staatskrise aus.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41407367/polens-justizstreit-weitet-sich-zur-staatskrise-aus"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html"
+      },
+      {
+       "name": "Politico Europe",
+       "url": "https://www.politico.eu/article/poland-president-karol-nawrocki-rule-of-law-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-04",
+     "title": "Dritter Protestsamstag in Frankreich mit über 500 Festnahmen",
+     "summary": "Rund 320.000 Menschen demonstrierten laut Innenministerium gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande kam es zu Ausschreitungen, landesweit wurden mehr als 500 Personen festgenommen. In Deutschland schlugen friedliche Jugendproteste der Initiative „Gen Z regelt“ am Abend in mehreren Städten in Krawalle und Plünderungen um.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346828/massenproteste-am-samstag-erwartet-frankreich-mobilisiert-70000-polizisten?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41408218/320000-demonstrieren-bei-protesttag-in-frankreich"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welt",
+   "items": [
+    {
+     "id": "2026-11-01-05",
+     "title": "Evakuierte aus Oleschky in der Ukraine angekommen",
+     "summary": "Die Bewohner der russisch besetzten Frontstadt Oleschky wurden in einer gemeinsamen Aktion von Ukrainern und Russen mit 25 Bussen herausgebracht, es war die größte derartige Aktion seit Kriegsbeginn. Sie reisten über Belarus und sind nun wieder in ukrainisch kontrolliertem Gebiet. Parallel verhandelt Selenskyj in Istanbul mit Erdoğan über Schifffahrt im Schwarzen Meer.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000346812/eu-aussenbeauftragte-wirft-russischem-aussenminister-luegen-ueber-ukraine-vor?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-06",
+     "title": "USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
+     "summary": "Washington hat den Verkauf von 500 Patriot-Abfangraketen an Kiew genehmigt. Selenskyj drängt auf rasche Lieferung, warnt aber, dass diese Jahre dauern könnte.",
+     "sources": [
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/politik/ausland/usa-patriot-lieferung-ukraine-krieg-russland-100.html"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-07",
+     "title": "Ebola-Ausbruch im Kongo fordert mehr als 5.000 Tote",
+     "summary": "Laut Behörden sind im Kongo seit Mai über 5.000 Menschen an Ebola gestorben, mehr als 10.000 haben sich infiziert. Experten vermuten höhere Zahlen; es ist der bisher verheerendste Ausbruch in Afrika.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346827/mittlerweile-mehr-als-5000-ebola-tote-im-kongo?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wirtschaft",
+   "items": [
+    {
+     "id": "2026-11-01-08",
+     "title": "Neue EU-Zollgebühr pro Position ab November",
+     "summary": "Mit der EU-Zollreform wird Anfang November eine neue Gebühr fällig, die pro Warenposition statt pro Paket anfällt. Direktimporte aus Nicht-EU-Ländern könnten dadurch teurer werden.",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Importpakete-2-Euro-zusaetzliche-Gebuehr-pro-Warenposition-11507130.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-09",
+     "title": "US-Techaktien nach Quartalszahlen unter Druck",
+     "summary": "Nach Geschäftszahlen brachen die Kurse von Unternehmen wie Google und Intel ein. Mit dem Aufkommen von KI geraten laut Wochenbilanz Geschäftsmodelle ins Wanken.",
+     "sources": [
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Klima",
+   "items": [
+    {
+     "id": "2026-11-01-10",
+     "title": "UN-Biodiversitätskonferenz endet mit begrenzten Fortschritten",
+     "summary": "Bei der COP17 in Armenien wurden zwei zentrale Dokumente verabschiedet, die Staaten räumten ein, bei den Naturschutzzielen nicht auf Kurs zu sein. Bei der Finanzierung und dem Abbau umweltschädlicher Subventionen blieb es bei einer Blockade.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346838/uno-biodiversitaetskonferenz-mit-zentralen-naturschutzbeschluessen?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html"
+      },
+      {
+       "name": "Politico Europe",
+       "url": "https://www.politico.eu/article/funding-deadlock-derails-global-effort-to-save-nature/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech/KI",
+   "items": [
+    {
+     "id": "2026-11-01-11",
+     "title": "Schulden von Rechenzentren nähren Sorge vor KI-Blase",
+     "summary": "Wenig bekannte Firmen, die Rechenzentren betreiben, haben laut BBC Schulden in zweistelliger Milliardenhöhe angehäuft. Das verstärkt die Befürchtung, die KI-Blase könnte platzen.",
+     "sources": [
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IT-Security",
+   "items": [
+    {
+     "id": "2026-11-01-12",
+     "title": "Binance-Hack: FBI sieht Nordkorea hinter 6,3-Milliarden-Diebstahl",
+     "summary": "Laut FBI steckt die nordkoreanische Gruppe TraderTraitor hinter dem Angriff auf die Kryptobörse, es wäre der größte Krypto-Diebstahl überhaupt. Binance hat nach eigenen Angaben 90 Prozent der gestohlenen Werte ersetzt, Auszahlungen sollen am Sonntag wieder starten.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446716/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346869/binance-ersetzt-nach-hackerangriff-90-prozent-der-gestohlenen-werte?ref=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-13",
+     "title": "Popcorn Time: Verlassene Update-Server gefährdeten Mac-Nutzer",
+     "summary": "Bei dem P2P-Streamingdienst Popcorn Time waren Update-Server verlassen worden, was Mac-Nutzern mit installiertem Client zum Risiko wurde. Betroffene sollten den Client entfernen.",
+     "sources": [
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Alte-Popcorn-Time-App-reisst-Sicherheitsluecke-auf-dem-Mac-11506871.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-14",
+     "title": "Cyberangriff auf Schulplattform im Kanton Waadt",
+     "summary": "Hacker haben Daten von über 40.000 Schülern und Lehrkräften von einer IT-Supportplattform für Waadtländer Schulen gestohlen. Betroffen sind Namen und E-Mail-Adressen.",
+     "sources": [
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/schweiz/cyberangriff-im-kanton-waadt-hacker-stehlen-daten-von-ueber-40-000-schuelern-und-lehrkraeften"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wissenschaft",
+   "items": [
+    {
+     "id": "2026-11-01-15",
+     "title": "Lancet-Studien: Warum Männer früher sterben",
+     "summary": "Drei neue Studien im Fachblatt „The Lancet“ zeigen, dass Männer häufiger an Krankheiten leiden, die zu einem vorzeitigen Tod führen. Sie liefern Erklärungen für die geringere Lebenserwartung gegenüber Frauen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346659/warum-maenner-im-schnitt-weniger-lang-leben-als-frauen?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-16",
+     "title": "Mikrodrohnen fliegen per Ultraschall durch den Körper",
+     "summary": "An der ETH Lausanne wurden winzige Drohnen entwickelt, die ohne Motor und Batterie mit Ultraschall bewegt werden. Sie könnten künftig in der Medizin eingesetzt werden.",
+     "sources": [
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/dialog/innovation-in-der-medizin-winzige-drohnen-fliegen-dank-ultraschall-durch-den-koerper"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nahost",
+   "items": [
+    {
+     "id": "2026-11-01-17",
+     "title": "Iran droht mit Gegenschlägen, Gespräche an Bedingungen geknüpft",
+     "summary": "Irans Führer Chamenei warnte die USA vor „sofortigen, wirkungsvollen“ Gegenschlägen, nachdem Trump neue Angriffe ins Spiel gebracht hatte. Teheran knüpft Gespräche an sieben Bedingungen; laut Außenminister gibt es mit Katar einen Plan, die Straße von Hormus in zwei Tagen zu öffnen.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446686/"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/weltpolitik/trump-bringt-weitere-angriffe-auf-iran-ins-spiel-art-681485",
+       "paywall": true
+      },
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-knuepft-gespraeche-mit-den-usa-an-sieben-bedingungen"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-18",
+     "title": "Israel: Herzog kündigt Gespräche zur Regierungsbildung an",
+     "summary": "Nach der Parlamentswahl will Präsident Herzog Gespräche zur Regierungsbildung führen. Arabische Listen erzielten große Erfolge, stehen aber vor einem Dilemma, und tausende demonstrierten für eine jüdisch-arabische Koalition gegen Netanjahu.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446724/"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "USA",
+   "items": [
+    {
+     "id": "2026-11-01-19",
+     "title": "Midterms am Dienstag: Über 50 Millionen haben vorab gewählt",
+     "summary": "Vor den Zwischenwahlen haben mehr als 50 Millionen Amerikaner früh gewählt, Demokraten liegen in Staaten mit entsprechenden Daten vorne. Es geht um die Mehrheit in Repräsentantenhaus und Senat, für Trump gelten sie als Wendepunkt.",
+     "sources": [
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41404077/die-wichtigsten-rennen-wo-sich-fuer-trump-die-us-wahl-entscheidet",
+       "paywall": true
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-01-20",
+     "title": "Gericht untersagt Regierung Druck auf Wahlhelfer",
+     "summary": "Ein US-Bundesrichter hat dem Justizministerium verboten, Wahlhelfer unter Druck zu setzen, die Auszählung von als strittig eingestuften Stimmzetteln zu stoppen. Das Urteil gilt als Dämpfer für Versuche der Regierung, die Wahl zu beeinflussen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346829/us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer?ref=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,143 +1,143 @@
-# Morgen-Digest · Samstag, 31. Oktober 2026
+# Morgen-Digest · Sonntag, 1. November 2026
 
-_Die EU und Kanada gründen eine „Allianz für die Zukunft“, in Polen eskaliert der Machtkampf ums Verfassungsgericht, und im Persischen Golf brennen erneut Tanker. Dazu: ein Rekordhack bei Binance und eine Hintertür in einer Claude-Code-Erweiterung._
+_Vor den US-Zwischenwahlen am Dienstag und einer drohenden neuen Iran-Eskalation prägen Proteste in Frankreich und Deutschland sowie der Machtkampf um Polens Verfassungsgericht die Nachrichten. Dazu kommen der Rekord-Hack bei Binance und die Evakuierung der Menschen aus Oleschky._
 
 ## Innenpolitik
 
-### Klimagesetz: Viel Kritik am Ziel Klimaneutralität 2040
+### Kirche kritisiert Familiennachzug-Quote der Regierung
 
-Die Begutachtungsfrist für das Klimagesetz ist am Freitag zu Ende gegangen. Kritik gibt es vor allem am Ziel der Klimaneutralität bis 2040, zu dem zahlreiche Stellungnahmen eingelangt sind.
+Der Wiener Erzbischof Josef Grünwidl und die Katholische Aktion lehnen die von der Regierung präsentierte Niederlassungsverordnung samt Quote für den Familiennachzug ab. Die Kritik kommt von einem gewichtigen gesellschaftlichen Akteur und dürfte die Debatte um die Migrationspolitik weiter anheizen.
 
-→ [ORF](https://orf.at/stories/3446567/)
+→ [Der Standard](https://www.derstandard.at/story/3000000346872/kirche-kritisiert-quotenregelung-bei-familienzusammenf252hrung?ref=rss)
 
-### Familiennachzug: 314 Plätze für rund 6.000 Wartende
+### Finanzminister Marterbauer schließt Chemotherapie ab
 
-Laut Entwurf der Niederlassungsverordnung dürfen 2026 und 2027 jeweils nur 314 Personen im Rahmen der Familienzusammenführung einreisen. Dem stehen rund 6.000 Wartende gegenüber. Für die meisten bedeutet das weiteres Warten.
+Markus Marterbauer (SPÖ) hat die Chemotherapie gegen seinen Lymphknotenkrebs nach eigenen Angaben gut überstanden, nun folgt eine Erhaltungstherapie. Seine Erkrankung hatte er im Juli öffentlich gemacht; Anfang 2027 soll er Andreas Babler als SPÖ-Chef nachfolgen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346692/asyl-sehr-schmale-erste-quote-f252r-familiennachzug?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41404044/quote-fuer-familiennachzug-kommt-doch-eine-frist-bereitet-probleme)
+→ [Der Standard](https://www.derstandard.at/story/3000000346845/marterbauer-hat-chemotherapie-gut-252berstanden?ref=rss) · [Die Presse](https://www.diepresse.com/41407435/finanzminister-marterbauer-hat-chemotherapie-gut-ueberstanden)
 
 ## EU
 
-### EU und Kanada gründen „Allianz für die Zukunft“
+### Polens Streit um das Verfassungsgericht eskaliert
 
-Beim Gipfel in Montreal haben die EU und Kanada ein Bündnis vereinbart, das offen für weitere Länder sein soll. Die Zusammenarbeit reicht von Energie und Rüstung über KI und kritische Rohstoffe bis zur Raumfahrt. Ziel ist mehr Unabhängigkeit in einer veränderten Weltordnung.
+Präsident Karol Nawrocki hat sich Berichten zufolge Zugang zum Verfassungsgericht verschafft und damit den Konflikt mit der Regierung von Donald Tusk verschärft. Tusk spricht von einem Angriff auf Demokratie und Rechtsstaat, vor dem Gericht kam es zu Protesten, Nawrocki berief Krisengespräche ein. Der Streit weitet sich zur Staatskrise aus.
 
-→ [ORF](https://orf.at/stories/3446644/) · [Der Standard](https://www.derstandard.at/story/3000000346740/kanada-baut-kooperationen-in-energie-und-ruestung-mit-eu-staaten-aus?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html)
+→ [Die Presse](https://www.diepresse.com/41407367/polens-justizstreit-weitet-sich-zur-staatskrise-aus) · [Tagesschau](https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html) · [Politico Europe](https://www.politico.eu/article/poland-president-karol-nawrocki-rule-of-law-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-### Polen: Machtkampf ums Verfassungsgericht eskaliert
+### Dritter Protestsamstag in Frankreich mit über 500 Festnahmen
 
-Nach der Suspendierung des Gerichtspräsidenten wurde Bereitschaftspolizei vor dem Verfassungsgericht in Warschau eingesetzt. Präsident Nawrocki und die Regierung von Donald Tusk streiten über die Legitimität des Gerichts; es kam zu Protesten und Rangeleien.
+Rund 320.000 Menschen demonstrierten laut Innenministerium gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande kam es zu Ausschreitungen, landesweit wurden mehr als 500 Personen festgenommen. In Deutschland schlugen friedliche Jugendproteste der Initiative „Gen Z regelt“ am Abend in mehreren Städten in Krawalle und Plünderungen um.
 
-→ [ORF](https://orf.at/stories/3446652/) · [Der Standard](https://www.derstandard.at/story/3000000346822/streit-um-verfassungsgericht-in-polen-eskaliert?ref=rss) · [Politico Europe](https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+→ [Der Standard](https://www.derstandard.at/story/3000000346828/massenproteste-am-samstag-erwartet-frankreich-mobilisiert-70000-polizisten?ref=rss) · [Die Presse](https://www.diepresse.com/41408218/320000-demonstrieren-bei-protesttag-in-frankreich) · [Tagesschau](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html)
 
 ## Welt
 
-### Oleschky: Zivilisten während Feuerpause evakuiert
+### Evakuierte aus Oleschky in der Ukraine angekommen
 
-Aus der von Russland besetzten Frontstadt Oleschky wurden am Freitag mehrere hundert Menschen evakuiert, ohne Zwischenfälle. Die lokale Feuerpause hatte auf Initiative von Melania Trump gehalten. Zugleich erreichten erstmals Hilfsgüter die Stadt.
+Die Bewohner der russisch besetzten Frontstadt Oleschky wurden in einer gemeinsamen Aktion von Ukrainern und Russen mit 25 Bussen herausgebracht, es war die größte derartige Aktion seit Kriegsbeginn. Sie reisten über Belarus und sind nun wieder in ukrainisch kontrolliertem Gebiet. Parallel verhandelt Selenskyj in Istanbul mit Erdoğan über Schifffahrt im Schwarzen Meer.
 
-→ [ORF](https://orf.at/stories/3446633/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000346663/entminung-oleschkys-abgeschlossen-hilfsaktion-startet?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000346812/eu-aussenbeauftragte-wirft-russischem-aussenminister-luegen-ueber-ukraine-vor?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/oleschky-ukraine-100.html) · [The Guardian](https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine)
 
 ### USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine
 
-Das Geschäft hat einen Umfang von rund 2,1 Milliarden Dollar; mitfinanziert wird es unter anderem von Kanada, Deutschland und Norwegen. Selenskyj lobte die Entscheidung, warnte aber, dass die Lieferung Jahre dauern könnte.
+Washington hat den Verkauf von 500 Patriot-Abfangraketen an Kiew genehmigt. Selenskyj drängt auf rasche Lieferung, warnt aber, dass diese Jahre dauern könnte.
 
-→ [SRF](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-usa-genehmigen-verkauf-von-500-patriot-raketen-an-die-ukraine) · [The Guardian](https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years) · [Al Jazeera](https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss)
+→ [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-patriot-lieferung-ukraine-krieg-russland-100.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/)
+
+### Ebola-Ausbruch im Kongo fordert mehr als 5.000 Tote
+
+Laut Behörden sind im Kongo seit Mai über 5.000 Menschen an Ebola gestorben, mehr als 10.000 haben sich infiziert. Experten vermuten höhere Zahlen; es ist der bisher verheerendste Ausbruch in Afrika.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000346827/mittlerweile-mehr-als-5000-ebola-tote-im-kongo?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html) · [BBC](https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss)
 
 ## Wirtschaft
 
-### Intel-Absturz verstärkt Zweifel am KI-Boom
+### Neue EU-Zollgebühr pro Position ab November
 
-Die Intel-Aktie verlor nach einer schwachen Prognose rund 29 Prozent, auch Amazon geriet unter Druck. Der Nasdaq fiel auf den tiefsten Stand seit über zwei Monaten, da die Investitionen in KI sich nahe einer Billion Dollar bewegen.
+Mit der EU-Zollreform wird Anfang November eine neue Gebühr fällig, die pro Warenposition statt pro Paket anfällt. Direktimporte aus Nicht-EU-Ländern könnten dadurch teurer werden.
 
-→ [ORF](https://orf.at/stories/3446636/) · [Der Standard](https://www.derstandard.at/story/3000000346805/chipriese-intel-zieht-techkonzerne-nach-unten?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss)
+→ [heise online](https://www.heise.de/news/Importpakete-2-Euro-zusaetzliche-Gebuehr-pro-Warenposition-11507130.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
-### Neue EU-Gebühr von zwei Euro auf Pakete aus Drittstaaten
+### US-Techaktien nach Quartalszahlen unter Druck
 
-Ab Sonntag gilt in der EU eine Bearbeitungsgebühr von zwei Euro pro Sendung von außerhalb der EU. Sie zielt vor allem auf die stark gestiegenen Paketmengen aus China ab und soll auch den langfristigen EU-Haushalt mitfinanzieren.
+Nach Geschäftszahlen brachen die Kurse von Unternehmen wie Google und Intel ein. Mit dem Aufkommen von KI geraten laut Wochenbilanz Geschäftsmodelle ins Wanken.
 
-→ [Die Presse 🔒](https://www.diepresse.com/41404034/neue-eu-gebuehr-von-zwei-euro-pro-paket-zielt-auf-china-ab) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/new-handling-fee-set-to-hit-non-eu-parcels/)
+→ [SRF](https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen)
 
 ## Klima
 
-### UNO-Artenschutzkonferenz einigt sich auf zentrale Beschlüsse
+### UN-Biodiversitätskonferenz endet mit begrenzten Fortschritten
 
-Rund 200 Staaten haben sich in Armenien nach zwei Wochen und Verlängerung auf Vereinbarungen zum Stopp des Artensterbens bis 2030 geeinigt. Strittig waren vor allem umweltschädliche Subventionen und die Finanzierung; beim Geld bleiben Fragen offen.
+Bei der COP17 in Armenien wurden zwei zentrale Dokumente verabschiedet, die Staaten räumten ein, bei den Naturschutzzielen nicht auf Kurs zu sein. Bei der Finanzierung und dem Abbau umweltschädlicher Subventionen blieb es bei einer Blockade.
 
-→ [ORF](https://orf.at/stories/3446651/) · [Der Standard](https://www.derstandard.at/story/3000000346817/un-artenschutzkonferenz-einigt-sich-bei-mehreren-zentralen-themen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000346838/uno-biodiversitaetskonferenz-mit-zentralen-naturschutzbeschluessen?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html) · [Politico Europe](https://www.politico.eu/article/funding-deadlock-derails-global-effort-to-save-nature/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
 ## Tech/KI
 
-### Googles KI-Suche belastet erstmals das Werbegeschäft
+### Schulden von Rechenzentren nähren Sorge vor KI-Blase
 
-Google hat eingeräumt, dass die KI-Zusammenfassungen in der Suche die Werbeeinnahmen beeinträchtigen. Die Aktie fiel auf ein Sechsmonatstief, der Börsenwert sank um etwa 500 Milliarden Dollar.
+Wenig bekannte Firmen, die Rechenzentren betreiben, haben laut BBC Schulden in zweistelliger Milliardenhöhe angehäuft. Das verstärkt die Befürchtung, die KI-Blase könnte platzen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346777/ki-wandel-schadet-erstmals-googles-werbegeschaeft-der-wahre-verlierer-ist-aber-das-offene-web?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss)
-
-### Studie: 86 Prozent der Fachleute übernehmen KI-Position
-
-In einer Anthropic-Studie folgten 86 Prozent der Experten der ihnen zugeteilten Empfehlung eines KI-Agenten. Mehr als die Hälfte hielt sie anschließend für ihr eigenes Urteil.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000346708/studie-grosse-mehrheit-der-fachleute-uebernahm-die-meinung-eines-ki-agenten?ref=rss) · [heise online](https://www.heise.de/news/Untersuchung-Experten-uebernehmen-oft-unbewusst-KI-Entscheidungen-11505781.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [BBC](https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss)
 
 ## IT-Security
 
-### Binance: Hack über 6,3 Milliarden Dollar, Spur führt nach Nordkorea
+### Binance-Hack: FBI sieht Nordkorea hinter 6,3-Milliarden-Diebstahl
 
-Bei der Kryptobörse Binance wurden Werte von rund 6,3 Milliarden Dollar gestohlen, der größte Krypto-Diebstahl bisher. Analysefirmen ordnen ihn der nordkoreanischen Gruppe TraderTraitor zu. Etwa 3 Milliarden konnten eingefroren werden; Binance will Kundenverluste ersetzen.
+Laut FBI steckt die nordkoreanische Gruppe TraderTraitor hinter dem Angriff auf die Kryptobörse, es wäre der größte Krypto-Diebstahl überhaupt. Binance hat nach eigenen Angaben 90 Prozent der gestohlenen Werte ersetzt, Auszahlungen sollen am Sonntag wieder starten.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346691/binance-meldet-massiven-hackerangriff-25-milliarden-dollar-eingefroren?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack)
+→ [ORF](https://orf.at/stories/3446716/) · [Der Standard](https://www.derstandard.at/story/3000000346869/binance-ersetzt-nach-hackerangriff-90-prozent-der-gestohlenen-werte?ref=rss) · [The Guardian](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
 
-### Claude-Code-Erweiterung im Cursor-Marktplatz mit SSH-Backdoor
+### Popcorn Time: Verlassene Update-Server gefährdeten Mac-Nutzer
 
-Die offizielle Claude-Code-Erweiterung enthielt im Cursor-Marktplatz knapp zwölf Stunden lang eine Hintertür, verteilt über ein automatisches Update. Wer die infizierte Version installiert hat, sollte das System rasch prüfen. Wie die Angreifer an den verifizierten Account kamen, ist unklar.
+Bei dem P2P-Streamingdienst Popcorn Time waren Update-Server verlassen worden, was Mac-Nutzern mit installiertem Client zum Risiko wurde. Betroffene sollten den Client entfernen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346800/claude-code-millionenfach-genutzte-erweiterung-bei-cursor-mit-hintertuer-unterwandert?ref=rss) · [heise Security](https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html) · [Ars Technica](https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/)
+→ [heise Security](https://www.heise.de/news/Alte-Popcorn-Time-App-reisst-Sicherheitsluecke-auf-dem-Mac-11506871.html)
 
-### Kritische Linux-TCP/IP-Lücke ermöglicht Remote Code Execution
+### Cyberangriff auf Schulplattform im Kanton Waadt
 
-Im TCP/IP-Stack des Linux-Kernels steckt ein elf Jahre alter Fehler, der Codeausführung aus der Ferne erlaubt; entdeckt wurde er laut heise von Anthropics Claude. Updates sind in Arbeit.
+Hacker haben Daten von über 40.000 Schülern und Lehrkräften von einer IT-Supportplattform für Waadtländer Schulen gestohlen. Betroffen sind Namen und E-Mail-Adressen.
 
-→ [heise Security](https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html)
+→ [SRF](https://www.srf.ch/news/schweiz/cyberangriff-im-kanton-waadt-hacker-stehlen-daten-von-ueber-40-000-schuelern-und-lehrkraeften)
 
 ## Wissenschaft
 
-### Marsmeteorit aus der Sahara zeigt uralte Marskruste
+### Lancet-Studien: Warum Männer früher sterben
 
-Ein in der Sahara gefundener Meteorit stellt ein seltenes Stück der frühen Marskruste dar und erlaubt Einblicke in deren Entstehung.
+Drei neue Studien im Fachblatt „The Lancet“ zeigen, dass Männer häufiger an Krankheiten leiden, die zu einem vorzeitigen Tod führen. Sie liefern Erklärungen für die geringere Lebenserwartung gegenüber Frauen.
 
-→ [Ars Technica](https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/)
+→ [Der Standard](https://www.derstandard.at/story/3000000346659/warum-maenner-im-schnitt-weniger-lang-leben-als-frauen?ref=rss)
 
-### Möglicher neuer Zwergplanet „ED138“ entdeckt
+### Mikrodrohnen fliegen per Ultraschall durch den Körper
 
-Der Astronom Matthew Holman fand mit eigenem Suchcode ein mögliches neues Zwergplaneten-Objekt. Sein Team verfolgte die Umlaufbahn über mehr als zehn Jahre.
+An der ETH Lausanne wurden winzige Drohnen entwickelt, die ohne Motor und Batterie mit Ultraschall bewegt werden. Sie könnten künftig in der Medizin eingesetzt werden.
 
-→ [ZDFheute](https://www.zdfheute.de/video/panorama-neuer-zwergplanet-sonnensystem-100.html)
+→ [SRF](https://www.srf.ch/news/dialog/innovation-in-der-medizin-winzige-drohnen-fliegen-dank-ultraschall-durch-den-koerper)
 
 ## Nahost
 
-### Hormus: Iran meldet vier brennende Tanker
+### Iran droht mit Gegenschlägen, Gespräche an Bedingungen geknüpft
 
-Die Revolutionsgarde meldet, vier Tanker seien in der Straße von Hormus nach Minentreffern in Brand geraten; ein weiterer Tanker wurde laut UKMTO von einem Geschoss getroffen. Der Oman brachte 25 Besatzungsmitglieder in Sicherheit.
+Irans Führer Chamenei warnte die USA vor „sofortigen, wirkungsvollen“ Gegenschlägen, nachdem Trump neue Angriffe ins Spiel gebracht hatte. Teheran knüpft Gespräche an sieben Bedingungen; laut Außenminister gibt es mit Katar einen Plan, die Straße von Hormus in zwei Tagen zu öffnen.
 
-→ [ORF](https://orf.at/stories/3446654/) · [Der Standard](https://www.derstandard.at/story/3000000346821/irans-revolutionsgarde-vier-tanker-brennen-in-stra223e-von-hormuz?ref=rss) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss)
+→ [ORF](https://orf.at/stories/3446686/) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-bringt-weitere-angriffe-auf-iran-ins-spiel-art-681485) · [SRF](https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-knuepft-gespraeche-mit-den-usa-an-sieben-bedingungen) · [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss)
 
-### Israel nach der Wahl im Patt
+### Israel: Herzog kündigt Gespräche zur Regierungsbildung an
 
-Das Endergebnis ergibt für keinen Block eine regierungsfähige Mehrheit. Netanjahu steht ohne Mehrheit da, nun könnten arabische Parteien zum Zünglein werden, doch eine Regierungsbildung ist nicht in Sicht.
+Nach der Parlamentswahl will Präsident Herzog Gespräche zur Regierungsbildung führen. Arabische Listen erzielten große Erfolge, stehen aber vor einem Dilemma, und tausende demonstrierten für eine jüdisch-arabische Koalition gegen Netanjahu.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html) · [The Guardian](https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties)
+→ [ORF](https://orf.at/stories/3446724/) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss)
 
 ## USA
 
-### Midterms: Rekord bei vorzeitiger Stimmabgabe
+### Midterms am Dienstag: Über 50 Millionen haben vorab gewählt
 
-Rund 47,9 Millionen Menschen haben vor den Zwischenwahlen am Dienstag bereits gewählt, mehr als der bisherige Rekord von 45,9 Millionen im Jahr 2022. Zur Wahl stehen alle 435 Sitze im Repräsentantenhaus, 35 im Senat und 39 Gouverneursposten.
+Vor den Zwischenwahlen haben mehr als 50 Millionen Amerikaner früh gewählt, Demokraten liegen in Staaten mit entsprechenden Daten vorne. Es geht um die Mehrheit in Repräsentantenhaus und Senat, für Trump gelten sie als Wendepunkt.
 
-→ [ORF](https://orf.at/stories/3446645/) · [Der Standard](https://www.derstandard.at/story/3000000346815/us-wahlen-mit-479-mio-w228hlern-rekord-bei-vorzeitiger-stimmabgabe?ref=rss) · [The Guardian](https://www.theguardian.com/politics/video/2026/oct/30/final-countdown-to-the-make-or-break-midterms-podcast)
+→ [The Guardian](https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms) · [Die Presse 🔒](https://www.diepresse.com/41404077/die-wichtigsten-rennen-wo-sich-fuer-trump-die-us-wahl-entscheidet) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html)
 
-### Papst Leo XIV. wählt per Briefwahl bei US-Midterms
+### Gericht untersagt Regierung Druck auf Wahlhelfer
 
-Erstmals hat ein Papst bei einer US-Wahl abgestimmt: Der gebürtige Chicagoer gab per Briefwahl seine Stimme ab, wie der Vatikan bestätigte. Wen er wählte, ist offen.
+Ein US-Bundesrichter hat dem Justizministerium verboten, Wahlhelfer unter Druck zu setzen, die Auszählung von als strittig eingestuften Stimmzetteln zu stoppen. Das Urteil gilt als Dämpfer für Versuche der Regierung, die Wahl zu beeinflussen.
 
-→ [Die Presse 🔒](https://www.diepresse.com/41405833/us-wahlen-papst-hat-per-briefwahl-seine-stimme-abgegeben) · [Der Standard](https://www.derstandard.at/story/3000000346706/registereintraege-in-den-usa-decken-auf-wie-der-papst-waehlt?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000346829/us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots)
