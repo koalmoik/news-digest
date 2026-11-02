@@ -1,35 +1,36 @@
 {
- "date": "2026-11-01",
- "title": "Morgen-Digest · Sonntag, 1. November 2026",
- "generated": "2026-11-01T06:06+01:00",
- "intro": "Vor den US-Zwischenwahlen am Dienstag und einer drohenden neuen Iran-Eskalation prägen Proteste in Frankreich und Deutschland sowie der Machtkampf um Polens Verfassungsgericht die Nachrichten. Dazu kommen der Rekord-Hack bei Binance und die Evakuierung der Menschen aus Oleschky.",
+ "date": "2026-11-02",
+ "title": "Morgen-Digest · Montag, 2. November 2026",
+ "generated": "2026-11-02T06:06+01:00",
+ "intro": "Wenige Tage vor den US-Zwischenwahlen dominieren der Streit der Demokraten in Michigan und Trumps Iran-Kurs die Nachrichten; in Europa beschäftigen Jugendproteste, Polens Verfassungskrise und der Wahlsieg von Jotowa in Bulgarien. In Österreich wird die neue EU-Paketgebühr wirksam, der AMS muss Nachzahlungen selbst finanzieren.",
  "topics": [
   {
    "name": "Innenpolitik",
    "items": [
     {
-     "id": "2026-11-01-01",
-     "title": "Kirche kritisiert Familiennachzug-Quote der Regierung",
-     "summary": "Der Wiener Erzbischof Josef Grünwidl und die Katholische Aktion lehnen die von der Regierung präsentierte Niederlassungsverordnung samt Quote für den Familiennachzug ab. Die Kritik kommt von einem gewichtigen gesellschaftlichen Akteur und dürfte die Debatte um die Migrationspolitik weiter anheizen.",
+     "id": "2026-11-02-01",
+     "title": "AMS muss Nachzahlungen von 135 Mio. Euro selbst aufbringen",
+     "summary": "Rund 250.000 Menschen sollen Nachzahlungen erhalten, im Schnitt etwa 400 Euro pro Person. Laut Medienberichten gibt es dafür kein zusätzliches Budget, der AMS muss die 135 Millionen Euro aus eigenen Mitteln stemmen.",
      "sources": [
       {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446763/"
+      },
+      {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346872/kirche-kritisiert-quotenregelung-bei-familienzusammenf252hrung?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000346915/ams-muss-millionen-nachzahlungen-an-250000-menschen-selbst-stemmen?ref=rss"
       }
      ]
     },
     {
-     "id": "2026-11-01-02",
-     "title": "Finanzminister Marterbauer schließt Chemotherapie ab",
-     "summary": "Markus Marterbauer (SPÖ) hat die Chemotherapie gegen seinen Lymphknotenkrebs nach eigenen Angaben gut überstanden, nun folgt eine Erhaltungstherapie. Seine Erkrankung hatte er im Juli öffentlich gemacht; Anfang 2027 soll er Andreas Babler als SPÖ-Chef nachfolgen.",
+     "id": "2026-11-02-02",
+     "title": "Bures legt gegen Babler nach",
+     "summary": "Die SPÖ-Politikerin Doris Bures sagt, dem Noch-SPÖ-Chef Andreas Babler habe es an Selbstkritik und Nachdenklichkeit gefehlt. Das Kapitel Babler sei für sie beendet. Der Machtkampf in der SPÖ-Spitze geht damit weiter.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346845/marterbauer-hat-chemotherapie-gut-252berstanden?ref=rss"
-      },
-      {
        "name": "Die Presse",
-       "url": "https://www.diepresse.com/41407435/finanzminister-marterbauer-hat-chemotherapie-gut-ueberstanden"
+       "url": "https://www.diepresse.com/41409514/bures-legt-erneut-gegen-babler-nach",
+       "paywall": true
       }
      ]
     }
@@ -39,40 +40,40 @@
    "name": "EU",
    "items": [
     {
-     "id": "2026-11-01-03",
-     "title": "Polens Streit um das Verfassungsgericht eskaliert",
-     "summary": "Präsident Karol Nawrocki hat sich Berichten zufolge Zugang zum Verfassungsgericht verschafft und damit den Konflikt mit der Regierung von Donald Tusk verschärft. Tusk spricht von einem Angriff auf Demokratie und Rechtsstaat, vor dem Gericht kam es zu Protesten, Nawrocki berief Krisengespräche ein. Der Streit weitet sich zur Staatskrise aus.",
+     "id": "2026-11-02-03",
+     "title": "Neue EU-Gebühr auf Pakete aus Drittstaaten gilt seit Sonntag",
+     "summary": "Für Sendungen von Händlern wie Shein oder Temu außerhalb der EU fallen nun mindestens zwei Euro pro Warenposition an. Die EU will damit die Flut an Billigpaketen eindämmen, die jährlich in Milliardenzahl ankommen.",
      "sources": [
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41407367/polens-justizstreit-weitet-sich-zur-staatskrise-aus"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346955/neue-eu-gebuehr-fuer-pakete-von-shein-temu-und-co-in-kraft?ref=rss"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446587/"
       },
       {
        "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html"
-      },
-      {
-       "name": "Politico Europe",
-       "url": "https://www.politico.eu/article/poland-president-karol-nawrocki-rule-of-law-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+       "url": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html"
       }
      ]
     },
     {
-     "id": "2026-11-01-04",
-     "title": "Dritter Protestsamstag in Frankreich mit über 500 Festnahmen",
-     "summary": "Rund 320.000 Menschen demonstrierten laut Innenministerium gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande kam es zu Ausschreitungen, landesweit wurden mehr als 500 Personen festgenommen. In Deutschland schlugen friedliche Jugendproteste der Initiative „Gen Z regelt“ am Abend in mehreren Städten in Krawalle und Plünderungen um.",
+     "id": "2026-11-02-04",
+     "title": "Brüssel stellt sich im Streit um Polens Verfassungsgericht hinter Tusk",
+     "summary": "Die EU-Kommission sieht die Ernennung neuer Richter in der Kompetenz des Sejm und drängt Präsident Nawrocki, diese anzuerkennen. Der Konflikt eskalierte am Wochenende; Tusk spricht von einem Angriff auf Demokratie und Rechtsstaat.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346828/massenproteste-am-samstag-erwartet-frankreich-mobilisiert-70000-polizisten?ref=rss"
-      },
-      {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41408218/320000-demonstrieren-bei-protesttag-in-frankreich"
+       "url": "https://www.derstandard.at/story/3000000346935/der-machtkampf-um-polens-verfassungsgericht-ist-noch-nicht-entschieden?ref=rss"
       },
       {
        "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html"
+       "url": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"
+      },
+      {
+       "name": "Politico Europe",
+       "url": "https://www.politico.eu/article/european-commission-backs-donald-tusk-over-poland-constitutional-court-judges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
       }
      ]
     }
@@ -82,55 +83,40 @@
    "name": "Welt",
    "items": [
     {
-     "id": "2026-11-01-05",
-     "title": "Evakuierte aus Oleschky in der Ukraine angekommen",
-     "summary": "Die Bewohner der russisch besetzten Frontstadt Oleschky wurden in einer gemeinsamen Aktion von Ukrainern und Russen mit 25 Bussen herausgebracht, es war die größte derartige Aktion seit Kriegsbeginn. Sie reisten über Belarus und sind nun wieder in ukrainisch kontrolliertem Gebiet. Parallel verhandelt Selenskyj in Istanbul mit Erdoğan über Schifffahrt im Schwarzen Meer.",
+     "id": "2026-11-02-05",
+     "title": "Ukraine: Feuerpause in Oleschky ausgelaufen, Angriffe auf Energieversorgung",
+     "summary": "Nach Auslaufen der lokalen Waffenruhe in der Region Cherson, die Evakuierungen ermöglichte, lehnte Russland eine Verlängerung ab. Bei russischen Angriffen waren am Sonntag Hunderttausende Haushalte ohne Strom.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/jetzt/livebericht/3000000346812/eu-aussenbeauftragte-wirft-russischem-aussenminister-luegen-ueber-ukraine-vor?ref=rss"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446806/"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
-      },
-      {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-01-06",
-     "title": "USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine",
-     "summary": "Washington hat den Verkauf von 500 Patriot-Abfangraketen an Kiew genehmigt. Selenskyj drängt auf rasche Lieferung, warnt aber, dass diese Jahre dauern könnte.",
-     "sources": [
-      {
-       "name": "ZDFheute",
-       "url": "https://www.zdfheute.de/politik/ausland/usa-patriot-lieferung-ukraine-krieg-russland-100.html"
-      },
-      {
-       "name": "Rapporteur (ex-Euractiv)",
-       "url": "https://www.rapporteur.com/news/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-01-07",
-     "title": "Ebola-Ausbruch im Kongo fordert mehr als 5.000 Tote",
-     "summary": "Laut Behörden sind im Kongo seit Mai über 5.000 Menschen an Ebola gestorben, mehr als 10.000 haben sich infiziert. Experten vermuten höhere Zahlen; es ist der bisher verheerendste Ausbruch in Afrika.",
-     "sources": [
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346827/mittlerweile-mehr-als-5000-ebola-tote-im-kongo?ref=rss"
-      },
-      {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446761/"
       },
       {
        "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+       "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-02-06",
+     "title": "Russlandfreundliche Jotowa gewinnt Präsidentenwahl in Bulgarien",
+     "summary": "Die Interimspräsidentin Ilijana Jotowa setzte sich in der Stichwahl klar gegen den liberalen Andrej Gjurow durch. Sie ist die erste gewählte Frau an der Staatsspitze, die Wahl galt als Richtungsentscheidung zwischen Kiew und Moskau.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346949/russlandfreundliche-praesidentin-jotowa-liegt-laut-prognosen-in-bulgarien-vorn?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41410084/bulgarien-hat-gewaehlt-praesidentin-jotowa-laut-prognosen-vorne"
+      },
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/politik/ausland/bulgarien-wahl-jotowa-100.html"
       }
      ]
     }
@@ -140,24 +126,28 @@
    "name": "Wirtschaft",
    "items": [
     {
-     "id": "2026-11-01-08",
-     "title": "Neue EU-Zollgebühr pro Position ab November",
-     "summary": "Mit der EU-Zollreform wird Anfang November eine neue Gebühr fällig, die pro Warenposition statt pro Paket anfällt. Direktimporte aus Nicht-EU-Ländern könnten dadurch teurer werden.",
+     "id": "2026-11-02-07",
+     "title": "Österreichs Industrie produziert trotz hoher Gaspreise wieder mehr",
+     "summary": "Trotz hoher Energiekosten und Lieferkettenproblemen wächst die heimische Industrieproduktion wieder. Offen ist, ob daraus ein dauerhafter Aufschwung wird.",
      "sources": [
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Importpakete-2-Euro-zusaetzliche-Gebuehr-pro-Warenposition-11507130.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346473/robuster-als-gedacht-heimische-industrie-waechst-wieder?ref=rss"
       }
      ]
     },
     {
-     "id": "2026-11-01-09",
-     "title": "US-Techaktien nach Quartalszahlen unter Druck",
-     "summary": "Nach Geschäftszahlen brachen die Kurse von Unternehmen wie Google und Intel ein. Mit dem Aufkommen von KI geraten laut Wochenbilanz Geschäftsmodelle ins Wanken.",
+     "id": "2026-11-02-08",
+     "title": "Deutsche Gasspeicher verfehlen Füllstandsziel vor dem Winter",
+     "summary": "Die Speicher sollten am 1. November zu 70 Prozent gefüllt sein, das Ziel wurde verfehlt. Das Wirtschaftsministerium beteuert dennoch, die Versorgung sei gesichert; die Speicher sind so leer wie lange nicht vor einem Winter.",
      "sources": [
       {
-       "name": "SRF",
-       "url": "https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen"
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/vorgaben-für-gasspeicher-füllstand-in-deutschland-verfehlt/a-79822308?maca=de-rss-de-all-1119-rdf"
+      },
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/wirtschaft/gasspeicher-fuellstand-winter-gaspreis-100.html"
       }
      ]
     }
@@ -167,21 +157,21 @@
    "name": "Klima",
    "items": [
     {
-     "id": "2026-11-01-10",
-     "title": "UN-Biodiversitätskonferenz endet mit begrenzten Fortschritten",
-     "summary": "Bei der COP17 in Armenien wurden zwei zentrale Dokumente verabschiedet, die Staaten räumten ein, bei den Naturschutzzielen nicht auf Kurs zu sein. Bei der Finanzierung und dem Abbau umweltschädlicher Subventionen blieb es bei einer Blockade.",
+     "id": "2026-11-02-09",
+     "title": "Bericht: Eisschmelze großteils unumkehrbar, bei Überschreiten von 1,5 Grad drohen bleibende Schäden",
+     "summary": "Ein UN-gestützter Bericht warnt kurz vor der COP31, dass Gletscher, Permafrost und Polareisschilde auch bei nur zeitweiser Überschreitung der 1,5-Grad-Marke dauerhaft geschädigt werden. Ein Teil der Schäden sei schon irreversibel, lasse sich aber noch bremsen.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346838/uno-biodiversitaetskonferenz-mit-zentralen-naturschutzbeschluessen?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000346788/die-globale-eisschmelze-ist-unumkehrbar-sie-laesst-sich-aber-noch-bremsen?ref=rss"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html"
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn"
       },
       {
-       "name": "Politico Europe",
-       "url": "https://www.politico.eu/article/funding-deadlock-derails-global-effort-to-save-nature/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/climate-scientists-paint-devastating-picture-of-ice-loss-worldwide/"
       }
      ]
     }
@@ -191,13 +181,17 @@
    "name": "Tech/KI",
    "items": [
     {
-     "id": "2026-11-01-11",
-     "title": "Schulden von Rechenzentren nähren Sorge vor KI-Blase",
-     "summary": "Wenig bekannte Firmen, die Rechenzentren betreiben, haben laut BBC Schulden in zweistelliger Milliardenhöhe angehäuft. Das verstärkt die Befürchtung, die KI-Blase könnte platzen.",
+     "id": "2026-11-02-10",
+     "title": "Digitalgipfel in Berlin: Wie kann Europa bei KI aufholen?",
+     "summary": "Die deutsche Bundesregierung berät zwei Tage lang über digitale Souveränität und KI-Sicherheit. Diskutiert wird auch ein einfacheres Regelwerk für KI und die Frage, ob Europa den Anschluss schon verloren hat.",
      "sources": [
       {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html"
+      },
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/politik/deutschland/digitalgipfel-bundesregierung-merz-ki-sicherheit-souveraenitaet-100.html"
       }
      ]
     }
@@ -207,43 +201,55 @@
    "name": "IT-Security",
    "items": [
     {
-     "id": "2026-11-01-12",
-     "title": "Binance-Hack: FBI sieht Nordkorea hinter 6,3-Milliarden-Diebstahl",
-     "summary": "Laut FBI steckt die nordkoreanische Gruppe TraderTraitor hinter dem Angriff auf die Kryptobörse, es wäre der größte Krypto-Diebstahl überhaupt. Binance hat nach eigenen Angaben 90 Prozent der gestohlenen Werte ersetzt, Auszahlungen sollen am Sonntag wieder starten.",
+     "id": "2026-11-02-11",
+     "title": "Warn-Apps in der Ukraine und Russland gehackt",
+     "summary": "Die ukrainische Luftalarm-App zeigte kurzzeitig für Kiew und andere Gebiete einen Atomalarm bzw. Strahlenwarnung an. Wenig später meldete auch Russland einen Hack seiner Warn-App mit falschen Meldungen.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3446716/"
+       "url": "https://orf.at/stories/3446807/"
       },
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346869/binance-ersetzt-nach-hackerangriff-90-prozent-der-gestohlenen-werte?ref=rss"
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/politik/ausland/hack-notfall-app-ukraine-krieg-russland-100.html"
       },
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "id": "2026-11-01-13",
-     "title": "Popcorn Time: Verlassene Update-Server gefährdeten Mac-Nutzer",
-     "summary": "Bei dem P2P-Streamingdienst Popcorn Time waren Update-Server verlassen worden, was Mac-Nutzern mit installiertem Client zum Risiko wurde. Betroffene sollten den Client entfernen.",
+     "id": "2026-11-02-12",
+     "title": "FBI: Nordkoreas TraderTraitor stahl 6,3 Mrd. Dollar von Binance",
+     "summary": "Das FBI macht die staatlich gestützte Gruppe TraderTraitor für den bisher größten Hack einer Kryptobörse verantwortlich. Binance hat die Auszahlungen wieder aufgenommen und nach eigenen Angaben 90 Prozent der Verluste ersetzt; ein kompromittierter Laptop eines IT-Mitarbeiters könnte das Einfallstor gewesen sein.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346881/fbi-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-02-13",
+     "title": "Apple warnt vor Spyware-Kompromittierung, Hinweis betrifft Bundespolitik",
+     "summary": "Apple meldete die Kompromittierung von Geräten durch Spyware; der deutsche Digitalminister bestätigte einen amtlichen Hinweis. Nach ARD-Informationen gab es möglicherweise einen Hackerangriff auf Bundestagsabgeordnete und Regierungsmitglieder.",
      "sources": [
       {
        "name": "heise Security",
-       "url": "https://www.heise.de/news/Alte-Popcorn-Time-App-reisst-Sicherheitsluecke-auf-dem-Mac-11506871.html"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-01-14",
-     "title": "Cyberangriff auf Schulplattform im Kanton Waadt",
-     "summary": "Hacker haben Daten von über 40.000 Schülern und Lehrkräften von einer IT-Supportplattform für Waadtländer Schulen gestohlen. Betroffen sind Namen und E-Mail-Adressen.",
-     "sources": [
+       "url": "https://www.heise.de/news/BSI-Warnung-vor-Spaehsoftware-auf-Politiker-Handys-11507404.html"
+      },
       {
-       "name": "SRF",
-       "url": "https://www.srf.ch/news/schweiz/cyberangriff-im-kanton-waadt-hacker-stehlen-daten-von-ueber-40-000-schuelern-und-lehrkraeften"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
       }
      ]
     }
@@ -253,24 +259,28 @@
    "name": "Wissenschaft",
    "items": [
     {
-     "id": "2026-11-01-15",
-     "title": "Lancet-Studien: Warum Männer früher sterben",
-     "summary": "Drei neue Studien im Fachblatt „The Lancet“ zeigen, dass Männer häufiger an Krankheiten leiden, die zu einem vorzeitigen Tod führen. Sie liefern Erklärungen für die geringere Lebenserwartung gegenüber Frauen.",
+     "id": "2026-11-02-14",
+     "title": "KI widerlegt binnen Wochen drei Vermutungen der Komplexitätstheorie",
+     "summary": "Seit Anfang Oktober wurden gleich drei wichtige Vermutungen der theoretischen Informatik durch KI-Methoden widerlegt. Damit verlieren viele darauf aufbauende Ergebnisse ihre Grundlage.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346659/warum-maenner-im-schnitt-weniger-lang-leben-als-frauen?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000346714/ki-stellt-innerhalb-von-wochen-eine-mathematische-teildisziplin-auf-den-kopf?ref=rss"
       }
      ]
     },
     {
-     "id": "2026-11-01-16",
-     "title": "Mikrodrohnen fliegen per Ultraschall durch den Körper",
-     "summary": "An der ETH Lausanne wurden winzige Drohnen entwickelt, die ohne Motor und Batterie mit Ultraschall bewegt werden. Sie könnten künftig in der Medizin eingesetzt werden.",
+     "id": "2026-11-02-15",
+     "title": "NASA-Mars-Simulation nach einem Jahr beendet",
+     "summary": "Vier Freiwillige lebten zwölf Monate lang auf rund 160 Quadratmetern, ohne das Gelände zu verlassen. Es war bereits die zweite derartige Langzeitmission; sie soll Erkenntnisse für künftige Marsflüge liefern.",
      "sources": [
       {
-       "name": "SRF",
-       "url": "https://www.srf.ch/news/dialog/innovation-in-der-medizin-winzige-drohnen-fliegen-dank-ultraschall-durch-den-koerper"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346891/ein-jahr-mars-freiwillige-beenden-extremes-nasa-experiment?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/nasa-mars-108.html"
       }
      ]
     }
@@ -280,45 +290,41 @@
    "name": "Nahost",
    "items": [
     {
-     "id": "2026-11-01-17",
-     "title": "Iran droht mit Gegenschlägen, Gespräche an Bedingungen geknüpft",
-     "summary": "Irans Führer Chamenei warnte die USA vor „sofortigen, wirkungsvollen“ Gegenschlägen, nachdem Trump neue Angriffe ins Spiel gebracht hatte. Teheran knüpft Gespräche an sieben Bedingungen; laut Außenminister gibt es mit Katar einen Plan, die Straße von Hormus in zwei Tagen zu öffnen.",
+     "id": "2026-11-02-16",
+     "title": "Indirekte US-Iran-Gespräche über Öffnung der Straße von Hormus",
+     "summary": "Am dritten Tag verhandelt Katar über die Freigabe iranischer Vermögen von 6 Mrd. Dollar, was die Wasserstraße wieder öffnen könnte. Gleichzeitig wurde erneut ein Tanker im Golf angegriffen, und Trump spekuliert über neue Angriffe auf iranische Atomanlagen.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3446686/"
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
       },
       {
        "name": "Salzburger Nachrichten",
-       "url": "https://www.sn.at/politik/weltpolitik/trump-bringt-weitere-angriffe-auf-iran-ins-spiel-art-681485",
+       "url": "https://www.sn.at/politik/weltpolitik/erneut-tanker-im-persischen-golf-attackiert-art-681584",
        "paywall": true
       },
       {
-       "name": "SRF",
-       "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-knuepft-gespraeche-mit-den-usa-an-sieben-bedingungen"
-      },
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346908/israels-opposition-warnt-vor-neuem-krieg-mit-iran-unter-netanyahu?ref=rss"
       }
      ]
     },
     {
-     "id": "2026-11-01-18",
-     "title": "Israel: Herzog kündigt Gespräche zur Regierungsbildung an",
-     "summary": "Nach der Parlamentswahl will Präsident Herzog Gespräche zur Regierungsbildung führen. Arabische Listen erzielten große Erfolge, stehen aber vor einem Dilemma, und tausende demonstrierten für eine jüdisch-arabische Koalition gegen Netanjahu.",
+     "id": "2026-11-02-17",
+     "title": "Tote bei israelischen Angriffen in Gaza trotz Waffenruhe",
+     "summary": "Berichten zufolge wurden bis zu zehn Palästinenser getötet, darunter mehrere Polizisten in Khan Younis. Die israelische Armee spricht von Angriffen auf Mitglieder bewaffneter Gruppen.",
      "sources": [
       {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346918/nahost-zehn-pal228stinenser-bei-angriffen-israels-in-gaza-get246tet?ref=rss"
+      },
+      {
        "name": "ORF",
-       "url": "https://orf.at/stories/3446724/"
+       "url": "https://orf.at/stories/3446766/"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html"
-      },
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -328,37 +334,40 @@
    "name": "USA",
    "items": [
     {
-     "id": "2026-11-01-19",
-     "title": "Midterms am Dienstag: Über 50 Millionen haben vorab gewählt",
-     "summary": "Vor den Zwischenwahlen haben mehr als 50 Millionen Amerikaner früh gewählt, Demokraten liegen in Staaten mit entsprechenden Daten vorne. Es geht um die Mehrheit in Repräsentantenhaus und Senat, für Trump gelten sie als Wendepunkt.",
+     "id": "2026-11-02-18",
+     "title": "Michigan: Demokratin Stevens unterstützt republikanischen Senatskandidaten",
+     "summary": "Haley Stevens, bei der Nominierung gegen Abdul El-Sayed unterlegen, stellt sich hinter den Republikaner Mike Rogers. Parteifreunde sprechen von Verrat; Trump lobte Stevens und griff El-Sayed bei einer Kundgebung an.",
      "sources": [
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346971/unterlegene-demokratin-in-michigan-unterstuetzt-nun-republikaner?ref=rss"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41404077/die-wichtigsten-rennen-wo-sich-fuer-trump-die-us-wahl-entscheidet",
-       "paywall": true
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446799/"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "id": "2026-11-01-20",
-     "title": "Gericht untersagt Regierung Druck auf Wahlhelfer",
-     "summary": "Ein US-Bundesrichter hat dem Justizministerium verboten, Wahlhelfer unter Druck zu setzen, die Auszählung von als strittig eingestuften Stimmzetteln zu stoppen. Das Urteil gilt als Dämpfer für Versuche der Regierung, die Wahl zu beeinflussen.",
+     "id": "2026-11-02-19",
+     "title": "Gericht weist Trump-nahe Klage zur Senatswahl in Alaska ab",
+     "summary": "Ein Richter wies den Versuch ab, Ergebnisse der Senatswahl bei einer Niederlage des Republikaners zu blockieren. Amtsinhaber Dan Sullivan erklärte, er werde das Ergebnis akzeptieren. Wahlleiter fürchten vor den Midterms am Dienstag mögliche Eingriffe.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000346829/us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer?ref=rss"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446800/"
       },
       {
        "name": "The Guardian",
-       "url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots"
+       "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
+      },
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/video/politik-wahlsicherheit-usa-midterms-video-100.html"
       }
      ]
     }

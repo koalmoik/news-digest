@@ -1,143 +1,137 @@
-# Morgen-Digest · Sonntag, 1. November 2026
+# Morgen-Digest · Montag, 2. November 2026
 
-_Vor den US-Zwischenwahlen am Dienstag und einer drohenden neuen Iran-Eskalation prägen Proteste in Frankreich und Deutschland sowie der Machtkampf um Polens Verfassungsgericht die Nachrichten. Dazu kommen der Rekord-Hack bei Binance und die Evakuierung der Menschen aus Oleschky._
+_Wenige Tage vor den US-Zwischenwahlen dominieren der Streit der Demokraten in Michigan und Trumps Iran-Kurs die Nachrichten; in Europa beschäftigen Jugendproteste, Polens Verfassungskrise und der Wahlsieg von Jotowa in Bulgarien. In Österreich wird die neue EU-Paketgebühr wirksam, der AMS muss Nachzahlungen selbst finanzieren._
 
 ## Innenpolitik
 
-### Kirche kritisiert Familiennachzug-Quote der Regierung
+### AMS muss Nachzahlungen von 135 Mio. Euro selbst aufbringen
 
-Der Wiener Erzbischof Josef Grünwidl und die Katholische Aktion lehnen die von der Regierung präsentierte Niederlassungsverordnung samt Quote für den Familiennachzug ab. Die Kritik kommt von einem gewichtigen gesellschaftlichen Akteur und dürfte die Debatte um die Migrationspolitik weiter anheizen.
+Rund 250.000 Menschen sollen Nachzahlungen erhalten, im Schnitt etwa 400 Euro pro Person. Laut Medienberichten gibt es dafür kein zusätzliches Budget, der AMS muss die 135 Millionen Euro aus eigenen Mitteln stemmen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346872/kirche-kritisiert-quotenregelung-bei-familienzusammenf252hrung?ref=rss)
+→ [ORF](https://orf.at/stories/3446763/) · [Der Standard](https://www.derstandard.at/story/3000000346915/ams-muss-millionen-nachzahlungen-an-250000-menschen-selbst-stemmen?ref=rss)
 
-### Finanzminister Marterbauer schließt Chemotherapie ab
+### Bures legt gegen Babler nach
 
-Markus Marterbauer (SPÖ) hat die Chemotherapie gegen seinen Lymphknotenkrebs nach eigenen Angaben gut überstanden, nun folgt eine Erhaltungstherapie. Seine Erkrankung hatte er im Juli öffentlich gemacht; Anfang 2027 soll er Andreas Babler als SPÖ-Chef nachfolgen.
+Die SPÖ-Politikerin Doris Bures sagt, dem Noch-SPÖ-Chef Andreas Babler habe es an Selbstkritik und Nachdenklichkeit gefehlt. Das Kapitel Babler sei für sie beendet. Der Machtkampf in der SPÖ-Spitze geht damit weiter.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346845/marterbauer-hat-chemotherapie-gut-252berstanden?ref=rss) · [Die Presse](https://www.diepresse.com/41407435/finanzminister-marterbauer-hat-chemotherapie-gut-ueberstanden)
+→ [Die Presse 🔒](https://www.diepresse.com/41409514/bures-legt-erneut-gegen-babler-nach)
 
 ## EU
 
-### Polens Streit um das Verfassungsgericht eskaliert
+### Neue EU-Gebühr auf Pakete aus Drittstaaten gilt seit Sonntag
 
-Präsident Karol Nawrocki hat sich Berichten zufolge Zugang zum Verfassungsgericht verschafft und damit den Konflikt mit der Regierung von Donald Tusk verschärft. Tusk spricht von einem Angriff auf Demokratie und Rechtsstaat, vor dem Gericht kam es zu Protesten, Nawrocki berief Krisengespräche ein. Der Streit weitet sich zur Staatskrise aus.
+Für Sendungen von Händlern wie Shein oder Temu außerhalb der EU fallen nun mindestens zwei Euro pro Warenposition an. Die EU will damit die Flut an Billigpaketen eindämmen, die jährlich in Milliardenzahl ankommen.
 
-→ [Die Presse](https://www.diepresse.com/41407367/polens-justizstreit-weitet-sich-zur-staatskrise-aus) · [Tagesschau](https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html) · [Politico Europe](https://www.politico.eu/article/poland-president-karol-nawrocki-rule-of-law-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+→ [Der Standard](https://www.derstandard.at/story/3000000346955/neue-eu-gebuehr-fuer-pakete-von-shein-temu-und-co-in-kraft?ref=rss) · [ORF](https://orf.at/stories/3446587/) · [Tagesschau](https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html)
 
-### Dritter Protestsamstag in Frankreich mit über 500 Festnahmen
+### Brüssel stellt sich im Streit um Polens Verfassungsgericht hinter Tusk
 
-Rund 320.000 Menschen demonstrierten laut Innenministerium gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande kam es zu Ausschreitungen, landesweit wurden mehr als 500 Personen festgenommen. In Deutschland schlugen friedliche Jugendproteste der Initiative „Gen Z regelt“ am Abend in mehreren Städten in Krawalle und Plünderungen um.
+Die EU-Kommission sieht die Ernennung neuer Richter in der Kompetenz des Sejm und drängt Präsident Nawrocki, diese anzuerkennen. Der Konflikt eskalierte am Wochenende; Tusk spricht von einem Angriff auf Demokratie und Rechtsstaat.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346828/massenproteste-am-samstag-erwartet-frankreich-mobilisiert-70000-polizisten?ref=rss) · [Die Presse](https://www.diepresse.com/41408218/320000-demonstrieren-bei-protesttag-in-frankreich) · [Tagesschau](https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000346935/der-machtkampf-um-polens-verfassungsgericht-ist-noch-nicht-entschieden?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html) · [Politico Europe](https://www.politico.eu/article/european-commission-backs-donald-tusk-over-poland-constitutional-court-judges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
 ## Welt
 
-### Evakuierte aus Oleschky in der Ukraine angekommen
+### Ukraine: Feuerpause in Oleschky ausgelaufen, Angriffe auf Energieversorgung
 
-Die Bewohner der russisch besetzten Frontstadt Oleschky wurden in einer gemeinsamen Aktion von Ukrainern und Russen mit 25 Bussen herausgebracht, es war die größte derartige Aktion seit Kriegsbeginn. Sie reisten über Belarus und sind nun wieder in ukrainisch kontrolliertem Gebiet. Parallel verhandelt Selenskyj in Istanbul mit Erdoğan über Schifffahrt im Schwarzen Meer.
+Nach Auslaufen der lokalen Waffenruhe in der Region Cherson, die Evakuierungen ermöglichte, lehnte Russland eine Verlängerung ab. Bei russischen Angriffen waren am Sonntag Hunderttausende Haushalte ohne Strom.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000346812/eu-aussenbeauftragte-wirft-russischem-aussenminister-luegen-ueber-ukraine-vor?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/oleschky-ukraine-100.html) · [The Guardian](https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine)
+→ [ORF](https://orf.at/stories/3446806/) · [ORF](https://orf.at/stories/3446761/) · [BBC](https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss)
 
-### USA genehmigen Verkauf von 500 Patriot-Raketen an Ukraine
+### Russlandfreundliche Jotowa gewinnt Präsidentenwahl in Bulgarien
 
-Washington hat den Verkauf von 500 Patriot-Abfangraketen an Kiew genehmigt. Selenskyj drängt auf rasche Lieferung, warnt aber, dass diese Jahre dauern könnte.
+Die Interimspräsidentin Ilijana Jotowa setzte sich in der Stichwahl klar gegen den liberalen Andrej Gjurow durch. Sie ist die erste gewählte Frau an der Staatsspitze, die Wahl galt als Richtungsentscheidung zwischen Kiew und Moskau.
 
-→ [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-patriot-lieferung-ukraine-krieg-russland-100.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/trump-admin-approves-potential-patriot-missiles-sale-to-ukraine/)
-
-### Ebola-Ausbruch im Kongo fordert mehr als 5.000 Tote
-
-Laut Behörden sind im Kongo seit Mai über 5.000 Menschen an Ebola gestorben, mehr als 10.000 haben sich infiziert. Experten vermuten höhere Zahlen; es ist der bisher verheerendste Ausbruch in Afrika.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000346827/mittlerweile-mehr-als-5000-ebola-tote-im-kongo?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html) · [BBC](https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000346949/russlandfreundliche-praesidentin-jotowa-liegt-laut-prognosen-in-bulgarien-vorn?ref=rss) · [Die Presse](https://www.diepresse.com/41410084/bulgarien-hat-gewaehlt-praesidentin-jotowa-laut-prognosen-vorne) · [ZDFheute](https://www.zdfheute.de/politik/ausland/bulgarien-wahl-jotowa-100.html)
 
 ## Wirtschaft
 
-### Neue EU-Zollgebühr pro Position ab November
+### Österreichs Industrie produziert trotz hoher Gaspreise wieder mehr
 
-Mit der EU-Zollreform wird Anfang November eine neue Gebühr fällig, die pro Warenposition statt pro Paket anfällt. Direktimporte aus Nicht-EU-Ländern könnten dadurch teurer werden.
+Trotz hoher Energiekosten und Lieferkettenproblemen wächst die heimische Industrieproduktion wieder. Offen ist, ob daraus ein dauerhafter Aufschwung wird.
 
-→ [heise online](https://www.heise.de/news/Importpakete-2-Euro-zusaetzliche-Gebuehr-pro-Warenposition-11507130.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [Der Standard](https://www.derstandard.at/story/3000000346473/robuster-als-gedacht-heimische-industrie-waechst-wieder?ref=rss)
 
-### US-Techaktien nach Quartalszahlen unter Druck
+### Deutsche Gasspeicher verfehlen Füllstandsziel vor dem Winter
 
-Nach Geschäftszahlen brachen die Kurse von Unternehmen wie Google und Intel ein. Mit dem Aufkommen von KI geraten laut Wochenbilanz Geschäftsmodelle ins Wanken.
+Die Speicher sollten am 1. November zu 70 Prozent gefüllt sein, das Ziel wurde verfehlt. Das Wirtschaftsministerium beteuert dennoch, die Versorgung sei gesichert; die Speicher sind so leer wie lange nicht vor einem Winter.
 
-→ [SRF](https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen)
+→ [Deutsche Welle](https://www.dw.com/de/vorgaben-für-gasspeicher-füllstand-in-deutschland-verfehlt/a-79822308?maca=de-rss-de-all-1119-rdf) · [ZDFheute](https://www.zdfheute.de/wirtschaft/gasspeicher-fuellstand-winter-gaspreis-100.html)
 
 ## Klima
 
-### UN-Biodiversitätskonferenz endet mit begrenzten Fortschritten
+### Bericht: Eisschmelze großteils unumkehrbar, bei Überschreiten von 1,5 Grad drohen bleibende Schäden
 
-Bei der COP17 in Armenien wurden zwei zentrale Dokumente verabschiedet, die Staaten räumten ein, bei den Naturschutzzielen nicht auf Kurs zu sein. Bei der Finanzierung und dem Abbau umweltschädlicher Subventionen blieb es bei einer Blockade.
+Ein UN-gestützter Bericht warnt kurz vor der COP31, dass Gletscher, Permafrost und Polareisschilde auch bei nur zeitweiser Überschreitung der 1,5-Grad-Marke dauerhaft geschädigt werden. Ein Teil der Schäden sei schon irreversibel, lasse sich aber noch bremsen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346838/uno-biodiversitaetskonferenz-mit-zentralen-naturschutzbeschluessen?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html) · [Politico Europe](https://www.politico.eu/article/funding-deadlock-derails-global-effort-to-save-nature/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+→ [Der Standard](https://www.derstandard.at/story/3000000346788/die-globale-eisschmelze-ist-unumkehrbar-sie-laesst-sich-aber-noch-bremsen?ref=rss) · [The Guardian](https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/climate-scientists-paint-devastating-picture-of-ice-loss-worldwide/)
 
 ## Tech/KI
 
-### Schulden von Rechenzentren nähren Sorge vor KI-Blase
+### Digitalgipfel in Berlin: Wie kann Europa bei KI aufholen?
 
-Wenig bekannte Firmen, die Rechenzentren betreiben, haben laut BBC Schulden in zweistelliger Milliardenhöhe angehäuft. Das verstärkt die Befürchtung, die KI-Blase könnte platzen.
+Die deutsche Bundesregierung berät zwei Tage lang über digitale Souveränität und KI-Sicherheit. Diskutiert wird auch ein einfacheres Regelwerk für KI und die Frage, ob Europa den Anschluss schon verloren hat.
 
-→ [BBC](https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss)
+→ [Tagesschau](https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html) · [ZDFheute](https://www.zdfheute.de/politik/deutschland/digitalgipfel-bundesregierung-merz-ki-sicherheit-souveraenitaet-100.html)
 
 ## IT-Security
 
-### Binance-Hack: FBI sieht Nordkorea hinter 6,3-Milliarden-Diebstahl
+### Warn-Apps in der Ukraine und Russland gehackt
 
-Laut FBI steckt die nordkoreanische Gruppe TraderTraitor hinter dem Angriff auf die Kryptobörse, es wäre der größte Krypto-Diebstahl überhaupt. Binance hat nach eigenen Angaben 90 Prozent der gestohlenen Werte ersetzt, Auszahlungen sollen am Sonntag wieder starten.
+Die ukrainische Luftalarm-App zeigte kurzzeitig für Kiew und andere Gebiete einen Atomalarm bzw. Strahlenwarnung an. Wenig später meldete auch Russland einen Hack seiner Warn-App mit falschen Meldungen.
 
-→ [ORF](https://orf.at/stories/3446716/) · [Der Standard](https://www.derstandard.at/story/3000000346869/binance-ersetzt-nach-hackerangriff-90-prozent-der-gestohlenen-werte?ref=rss) · [The Guardian](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
+→ [ORF](https://orf.at/stories/3446807/) · [ZDFheute](https://www.zdfheute.de/politik/ausland/hack-notfall-app-ukraine-krieg-russland-100.html) · [BBC](https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss)
 
-### Popcorn Time: Verlassene Update-Server gefährdeten Mac-Nutzer
+### FBI: Nordkoreas TraderTraitor stahl 6,3 Mrd. Dollar von Binance
 
-Bei dem P2P-Streamingdienst Popcorn Time waren Update-Server verlassen worden, was Mac-Nutzern mit installiertem Client zum Risiko wurde. Betroffene sollten den Client entfernen.
+Das FBI macht die staatlich gestützte Gruppe TraderTraitor für den bisher größten Hack einer Kryptobörse verantwortlich. Binance hat die Auszahlungen wieder aufgenommen und nach eigenen Angaben 90 Prozent der Verluste ersetzt; ein kompromittierter Laptop eines IT-Mitarbeiters könnte das Einfallstor gewesen sein.
 
-→ [heise Security](https://www.heise.de/news/Alte-Popcorn-Time-App-reisst-Sicherheitsluecke-auf-dem-Mac-11506871.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000346881/fbi-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/hack-binance-100.html) · [BBC](https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss)
 
-### Cyberangriff auf Schulplattform im Kanton Waadt
+### Apple warnt vor Spyware-Kompromittierung, Hinweis betrifft Bundespolitik
 
-Hacker haben Daten von über 40.000 Schülern und Lehrkräften von einer IT-Supportplattform für Waadtländer Schulen gestohlen. Betroffen sind Namen und E-Mail-Adressen.
+Apple meldete die Kompromittierung von Geräten durch Spyware; der deutsche Digitalminister bestätigte einen amtlichen Hinweis. Nach ARD-Informationen gab es möglicherweise einen Hackerangriff auf Bundestagsabgeordnete und Regierungsmitglieder.
 
-→ [SRF](https://www.srf.ch/news/schweiz/cyberangriff-im-kanton-waadt-hacker-stehlen-daten-von-ueber-40-000-schuelern-und-lehrkraeften)
+→ [heise Security](https://www.heise.de/news/BSI-Warnung-vor-Spaehsoftware-auf-Politiker-Handys-11507404.html) · [Tagesschau](https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html)
 
 ## Wissenschaft
 
-### Lancet-Studien: Warum Männer früher sterben
+### KI widerlegt binnen Wochen drei Vermutungen der Komplexitätstheorie
 
-Drei neue Studien im Fachblatt „The Lancet“ zeigen, dass Männer häufiger an Krankheiten leiden, die zu einem vorzeitigen Tod führen. Sie liefern Erklärungen für die geringere Lebenserwartung gegenüber Frauen.
+Seit Anfang Oktober wurden gleich drei wichtige Vermutungen der theoretischen Informatik durch KI-Methoden widerlegt. Damit verlieren viele darauf aufbauende Ergebnisse ihre Grundlage.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346659/warum-maenner-im-schnitt-weniger-lang-leben-als-frauen?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000346714/ki-stellt-innerhalb-von-wochen-eine-mathematische-teildisziplin-auf-den-kopf?ref=rss)
 
-### Mikrodrohnen fliegen per Ultraschall durch den Körper
+### NASA-Mars-Simulation nach einem Jahr beendet
 
-An der ETH Lausanne wurden winzige Drohnen entwickelt, die ohne Motor und Batterie mit Ultraschall bewegt werden. Sie könnten künftig in der Medizin eingesetzt werden.
+Vier Freiwillige lebten zwölf Monate lang auf rund 160 Quadratmetern, ohne das Gelände zu verlassen. Es war bereits die zweite derartige Langzeitmission; sie soll Erkenntnisse für künftige Marsflüge liefern.
 
-→ [SRF](https://www.srf.ch/news/dialog/innovation-in-der-medizin-winzige-drohnen-fliegen-dank-ultraschall-durch-den-koerper)
+→ [Der Standard](https://www.derstandard.at/story/3000000346891/ein-jahr-mars-freiwillige-beenden-extremes-nasa-experiment?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/nasa-mars-108.html)
 
 ## Nahost
 
-### Iran droht mit Gegenschlägen, Gespräche an Bedingungen geknüpft
+### Indirekte US-Iran-Gespräche über Öffnung der Straße von Hormus
 
-Irans Führer Chamenei warnte die USA vor „sofortigen, wirkungsvollen“ Gegenschlägen, nachdem Trump neue Angriffe ins Spiel gebracht hatte. Teheran knüpft Gespräche an sieben Bedingungen; laut Außenminister gibt es mit Katar einen Plan, die Straße von Hormus in zwei Tagen zu öffnen.
+Am dritten Tag verhandelt Katar über die Freigabe iranischer Vermögen von 6 Mrd. Dollar, was die Wasserstraße wieder öffnen könnte. Gleichzeitig wurde erneut ein Tanker im Golf angegriffen, und Trump spekuliert über neue Angriffe auf iranische Atomanlagen.
 
-→ [ORF](https://orf.at/stories/3446686/) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-bringt-weitere-angriffe-auf-iran-ins-spiel-art-681485) · [SRF](https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-iran-knuepft-gespraeche-mit-den-usa-an-sieben-bedingungen) · [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss)
+→ [The Guardian](https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/erneut-tanker-im-persischen-golf-attackiert-art-681584) · [Der Standard](https://www.derstandard.at/story/3000000346908/israels-opposition-warnt-vor-neuem-krieg-mit-iran-unter-netanyahu?ref=rss)
 
-### Israel: Herzog kündigt Gespräche zur Regierungsbildung an
+### Tote bei israelischen Angriffen in Gaza trotz Waffenruhe
 
-Nach der Parlamentswahl will Präsident Herzog Gespräche zur Regierungsbildung führen. Arabische Listen erzielten große Erfolge, stehen aber vor einem Dilemma, und tausende demonstrierten für eine jüdisch-arabische Koalition gegen Netanjahu.
+Berichten zufolge wurden bis zu zehn Palästinenser getötet, darunter mehrere Polizisten in Khan Younis. Die israelische Armee spricht von Angriffen auf Mitglieder bewaffneter Gruppen.
 
-→ [ORF](https://orf.at/stories/3446724/) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000346918/nahost-zehn-pal228stinenser-bei-angriffen-israels-in-gaza-get246tet?ref=rss) · [ORF](https://orf.at/stories/3446766/) · [BBC](https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss)
 
 ## USA
 
-### Midterms am Dienstag: Über 50 Millionen haben vorab gewählt
+### Michigan: Demokratin Stevens unterstützt republikanischen Senatskandidaten
 
-Vor den Zwischenwahlen haben mehr als 50 Millionen Amerikaner früh gewählt, Demokraten liegen in Staaten mit entsprechenden Daten vorne. Es geht um die Mehrheit in Repräsentantenhaus und Senat, für Trump gelten sie als Wendepunkt.
+Haley Stevens, bei der Nominierung gegen Abdul El-Sayed unterlegen, stellt sich hinter den Republikaner Mike Rogers. Parteifreunde sprechen von Verrat; Trump lobte Stevens und griff El-Sayed bei einer Kundgebung an.
 
-→ [The Guardian](https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms) · [Die Presse 🔒](https://www.diepresse.com/41404077/die-wichtigsten-rennen-wo-sich-fuer-trump-die-us-wahl-entscheidet) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000346971/unterlegene-demokratin-in-michigan-unterstuetzt-nun-republikaner?ref=rss) · [ORF](https://orf.at/stories/3446799/) · [BBC](https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss)
 
-### Gericht untersagt Regierung Druck auf Wahlhelfer
+### Gericht weist Trump-nahe Klage zur Senatswahl in Alaska ab
 
-Ein US-Bundesrichter hat dem Justizministerium verboten, Wahlhelfer unter Druck zu setzen, die Auszählung von als strittig eingestuften Stimmzetteln zu stoppen. Das Urteil gilt als Dämpfer für Versuche der Regierung, die Wahl zu beeinflussen.
+Ein Richter wies den Versuch ab, Ergebnisse der Senatswahl bei einer Niederlage des Republikaners zu blockieren. Amtsinhaber Dan Sullivan erklärte, er werde das Ergebnis akzeptieren. Wahlleiter fürchten vor den Midterms am Dienstag mögliche Eingriffe.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346829/us-gericht-verbietet-trumps-regierung-druck-auf-wahlhelfer?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots)
+→ [ORF](https://orf.at/stories/3446800/) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan) · [ZDFheute](https://www.zdfheute.de/video/politik-wahlsicherheit-usa-midterms-video-100.html)
