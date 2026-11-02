@@ -1,12 +1,12 @@
 #!/bin/bash
-# Holt den neuesten Digest von GitHub in den Cache, den die GNOME-Erweiterung liest.
+# Fetches the latest digest from GitHub into the cache that the GNOME extension reads.
 set -euo pipefail
 DIR="$(cd "$(dirname "$0")" && pwd)"
 CACHE="${XDG_CACHE_HOME:-$HOME/.cache}/news-digest"
 mkdir -p "$CACHE"
 git -C "$DIR" fetch --quiet origin
 
-# Die Routine pusht nach main oder (falls gesperrt) nach claude/digest – der neuere gewinnt
+# The routine pushes to main or (if that is blocked) to claude/digest – the newer one wins
 best='' best_time=0
 for ref in origin/main origin/claude/digest; do
     git -C "$DIR" cat-file -e "$ref:latest.json" 2>/dev/null || continue

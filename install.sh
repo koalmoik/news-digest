@@ -1,18 +1,18 @@
 #!/bin/bash
-# Richtet den Sync-Timer und die GNOME-Erweiterung ein.
+# Sets up the sync timer and the GNOME extension.
 set -euo pipefail
 DIR="$(cd "$(dirname "$0")" && pwd)"
 EXT=news-digest@peter
 
 mkdir -p ~/.config/systemd/user ~/.local/share/gnome-shell/extensions
 
-# git fetch über das gh-Login authentifizieren
+# authenticate git fetch through the gh login
 gh auth setup-git
 
-# Digest alle 15 Minuten von GitHub holen
+# Fetch the digest from GitHub every 15 minutes
 cat > ~/.config/systemd/user/news-digest.service <<UNIT
 [Unit]
-Description=Morgen-Digest von GitHub holen
+Description=Fetch the morning digest from GitHub
 After=network-online.target
 
 [Service]
@@ -22,12 +22,12 @@ UNIT
 
 cat > ~/.config/systemd/user/news-digest.timer <<UNIT
 [Unit]
-Description=Morgen-Digest alle 15 Minuten holen, morgens alle 2 Minuten
+Description=Fetch the morning digest every 15 minutes, every 2 minutes in the morning
 
 [Timer]
 OnActiveSec=30s
 OnUnitActiveSec=15min
-# Zwischen 6 und 7 Uhr kommt der neue Digest – da öfter nachsehen
+# The new digest arrives between 6 and 7 a.m. – check more often then
 OnCalendar=*-*-* 06:00/2
 Persistent=true
 
@@ -40,5 +40,5 @@ ln -sfn "$DIR/extension" ~/.local/share/gnome-shell/extensions/$EXT
 systemctl --user daemon-reload
 systemctl --user enable --now news-digest.timer
 gnome-extensions enable $EXT 2>/dev/null \
-  || echo "Erweiterung: einmal ab- und wieder anmelden, dann: gnome-extensions enable $EXT"
-echo "Fertig."
+  || echo "Extension: log out and back in once, then run: gnome-extensions enable $EXT"
+echo "Done."

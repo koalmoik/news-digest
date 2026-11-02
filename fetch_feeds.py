@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Holt alle Feeds aus feeds.json und sammelt die Meldungen der letzten Stunden.
+"""Fetch all feeds from feeds.json and collect the items of the last few hours.
 
-Schreibt alles nach work/candidates.json und gibt eine kompakte, nummerierte Liste aus,
-auf deren Nummern sich der Entwurf (work/draft.json) bezieht.
-Nur Standardbibliothek, damit es in der Cloud-Umgebung ohne Installation läuft.
-Aufruf: python3 fetch_feeds.py [stunden]
+Writes everything to work/candidates.json and prints a compact, numbered list whose
+numbers the draft (work/draft.json) refers to.
+Standard library only, so it runs in the cloud environment without installing anything.
+Usage: python3 fetch_feeds.py [hours]
 """
 import html
 import json
@@ -77,7 +77,7 @@ def fetch(feed):
 
 
 def paywalled(feed, item):
-    """Liegt dieser Artikel hinter einer Paywall? Mit Marker pro Artikel, sonst pro Quelle."""
+    """Is this article paywalled? Per article if the feed has a marker, otherwise per source."""
     marker = feed.get('paywall_marker')
     if marker:
         return marker['text'] in item[marker['in']]
@@ -114,9 +114,9 @@ def main():
     work.mkdir(exist_ok=True)
     (work / 'candidates.json').write_text(json.dumps({'errors': errors, 'items': out}, ensure_ascii=False))
 
-    print(f'{len(out)} Meldungen aus den letzten {HOURS} h. Format: #Nr Quelle [Region] | Titel — Teaser')
+    print(f'{len(out)} items from the last {HOURS} h. Format: #No Source [Region] | Title — Teaser')
     for e in errors:
-        print(f'! Feed nicht erreichbar: {e["source"]} ({e["error"]})')
+        print(f'! Feed unreachable: {e["source"]} ({e["error"]})')
     for it in out:
         pay = ' $' if it.get('paywall') else ''
         teaser = f' — {it["summary"]}' if it['summary'] and it['summary'] != it['title'] else ''

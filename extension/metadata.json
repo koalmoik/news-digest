@@ -1,7 +1,7 @@
 {
   "uuid": "news-digest@peter",
-  "name": "Morgen-Digest",
-  "description": "Zeigt den täglichen Nachrichten-Digest (Österreich & international) in der oberen Leiste.",
+  "name": "Morning Digest",
+  "description": "Shows the daily news digest (Austria & international) in the top bar.",
   "shell-version": ["50"],
   "version": 1
 }

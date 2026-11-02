@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Rendert alle Digests aus digests/*.json als statische Leseseiten fürs Handy.
+"""Render all digests from digests/*.json as static reading pages for the phone.
 
-Die Seiten landen im öffentlichen Pages-Repo: reines HTML ohne JavaScript, alle Texte
-maskiert, nur http(s)-Links, von Suchmaschinen ausgeschlossen.
-Aufruf: python3 render_site.py <pfad zum pages-repo>
+The pages go to the public pages repo: plain HTML without JavaScript, all text escaped,
+http(s) links only, excluded from search engines. The pages are in German, like the digest.
+Usage: python3 render_site.py <path to the pages repo>
 """
 import json
 import sys
@@ -114,7 +114,7 @@ def main():
             (site / 'index.html').write_text(html)
     (site / 'robots.txt').write_text('User-agent: *\nDisallow: /\n')
     (site / '.nojekyll').write_text('')
-    print(f'{len(dates)} Seiten → {site}')
+    print(f'{len(dates)} pages → {site}')
 
 
 if __name__ == '__main__':

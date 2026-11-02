@@ -1,17 +1,20 @@
 #!/usr/bin/env python3
-"""Baut aus work/draft.json (Entwurf mit Kandidaten-Nummern) den fertigen Digest.
+"""Build the finished digest from work/draft.json (a draft referring to candidate numbers).
 
-Setzt die echten Links aus work/candidates.json ein, prüft den Entwurf und schreibt
-digests/<datum>.json + .md sowie latest.json + latest.md.
+Fills in the real links from work/candidates.json, validates the draft and writes
+digests/<date>.json + .md as well as latest.json + latest.md.
+The digest content (topics, title, dates) is German, since that is the language it is read in.
 """
 import json
 import sys
+from urllib.parse import urlsplit
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 DIR = Path(__file__).resolve().parent
 TZ = ZoneInfo('Europe/Vienna')
+# Topic names as shown in the (German) digest
 TOPICS = ['Innenpolitik', 'EU', 'Welt', 'Wirtschaft', 'Klima', 'Tech/KI', 'IT-Security', 'Wissenschaft', 'Nahost', 'USA']
 WEEKDAYS = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag', 'Sonntag']
 MONTHS = ['Jänner', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August',
@@ -19,7 +22,7 @@ MONTHS = ['Jänner', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August
 
 
 def fail(msg):
-    sys.exit(f'FEHLER im Entwurf: {msg}')
+    sys.exit(f'ERROR in draft: {msg}')
 
 
 def long_date(d):
@@ -30,9 +33,9 @@ def build(draft, candidates, now):
     by_n = {c['n']: c for c in candidates}
     names = [t.get('name') for t in draft.get('topics', [])]
     if unknown := [n for n in names if n not in TOPICS]:
-        fail(f'unbekannte Themen {unknown}, erlaubt sind {TOPICS}')
+        fail(f'unknown topics {unknown}, allowed are {TOPICS}')
     if not isinstance(draft.get('intro'), str) or not draft['intro'].strip():
-        fail('"intro" fehlt')
+        fail('"intro" is missing')
 
     date = now.date().isoformat()
     topics, count = [], 0
@@ -40,22 +43,26 @@ def build(draft, candidates, now):
         items = []
         for it in topic.get('items', []):
             if not it.get('title') or not it.get('summary'):
-                fail(f'Meldung ohne title/summary in {topic["name"]}')
+                fail(f'item without title/summary in {topic["name"]}')
             missing = [n for n in it.get('sources', []) if n not in by_n]
             if missing or not it.get('sources'):
-                fail(f'"{it["title"]}": ungültige Quellen-Nummern {missing or "(keine)"}')
+                fail(f'"{it["title"]}": invalid source numbers {missing or "(none)"}')
             count += 1
             sources = []
             for n in it['sources']:
                 c = by_n[n]
+                if urlsplit(c['url']).scheme not in ('http', 'https'):
+                    continue  # links come from third-party feeds: keep web links only
                 sources.append({'name': c['source'], 'url': c['url'],
                                 **({'paywall': True} if c.get('paywall') else {})})
+            if not sources:
+                fail(f'"{it["title"]}": no source with a valid web link')
             items.append({'id': f'{date}-{count:02d}', 'title': it['title'].strip(),
                           'summary': it['summary'].strip(), 'sources': sources})
         if items:
             topics.append({'name': topic['name'], 'items': items})
     if not count:
-        fail('keine Meldungen')
+        fail('no items')
     return {'date': date, 'title': f'Morgen-Digest · {long_date(now)}',
             'generated': now.isoformat(timespec='minutes'), 'intro': draft['intro'].strip(),
             'topics': topics}
@@ -77,7 +84,7 @@ def main():
     try:
         draft = json.loads((work / 'draft.json').read_text())
     except (OSError, json.JSONDecodeError) as e:
-        fail(f'work/draft.json nicht lesbar: {e}')
+        fail(f'cannot read work/draft.json: {e}')
     candidates = json.loads((work / 'candidates.json').read_text())['items']
     digest = build(draft, candidates, datetime.now(TZ))
 
@@ -89,7 +96,7 @@ def main():
     (DIR / 'latest.json').write_text(text)
     (DIR / 'latest.md').write_text(md)
     total = sum(len(t['items']) for t in digest['topics'])
-    print(f'OK: {total} Meldungen in {len(digest["topics"])} Themen → digests/{digest["date"]}.md')
+    print(f'OK: {total} items in {len(digest["topics"])} topics → digests/{digest["date"]}.md')
 
 
 if __name__ == '__main__':

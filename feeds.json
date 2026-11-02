@@ -1,5 +1,5 @@
 {
-  "_hinweis": "Nur diese Quellen dürfen im Digest vorkommen. paywall_marker: Text in url oder title, an dem gesperrte Artikel erkennbar sind. paywall=teilweise ohne Marker: jeder Artikel gilt als möglicherweise gesperrt.",
+  "_note": "Only these sources may appear in the digest. paywall_marker: text in url or title that identifies paywalled articles. paywall without a marker: every article counts as possibly paywalled.",
   "feeds": [
     {"name": "ORF",               "region": "AT",   "url": "https://rss.orf.at/news.xml"},
     {"name": "Der Standard",      "region": "AT",   "url": "https://www.derstandard.at/rss/inland"},

@@ -15,6 +15,7 @@ const CACHE_DIR = GLib.build_filenamev([GLib.get_user_cache_dir(), 'news-digest'
 const DIGEST_FILE = GLib.build_filenamev([CACHE_DIR, 'latest.json']);
 const STATE_DIR = GLib.build_filenamev([GLib.get_user_state_dir(), 'news-digest']);
 const STATE_FILE = GLib.build_filenamev([STATE_DIR, 'state.json']);
+const CONFIG_FILE = GLib.build_filenamev([GLib.get_user_config_dir(), 'news-digest', 'config.json']);
 const SYNC = GLib.build_filenamev([GLib.get_home_dir(), 'Programs', 'news-digest', 'sync.sh']);
 const PAGES_URL = 'https://koalmoik.github.io/news-digest-pages';
 const KEEP_DAYS = 14;
@@ -37,7 +38,42 @@ function readJson(path, fallback) {
     }
 }
 
-// Tage in Folge mit gelesenem Digest; ein noch offener heutiger Digest unterbricht die Serie nicht
+// UI language: "language" in ~/.config/news-digest/config.json, otherwise the system locale.
+// The digest itself is always written in German.
+const LANG = (() => {
+    const lang = readJson(CONFIG_FILE, {})?.language;
+    if (lang === 'en' || lang === 'de')
+        return lang;
+    return GLib.get_language_names()[0].toLowerCase().startsWith('de') ? 'de' : 'en';
+})();
+
+const DE = {
+    'Morning digest': 'Morgen-Digest',
+    'Done for today ✓': 'Fertig für heute ✓',
+    '🔥 {n} days in a row informed': '🔥 {n} Tage in Folge informiert',
+    'Well done!': 'Gut gemacht!',
+    '🔥 Streak: 1 day': '🔥 Serie: 1 Tag',
+    '🔥 Streak: {n} days': '🔥 Serie: {n} Tage',
+    'Read all items to start a streak': 'Lies alle Meldungen, um eine Serie zu starten',
+    'No digest yet – it arrives around 6:30': 'Noch kein Digest – kommt um 6:30',
+    'Today’s digest isn’t here yet – this is the latest one available.':
+        'Der heutige Digest ist noch nicht da – das ist der letzte verfügbare.',
+    'Mark all as read': 'Alle als gelesen markieren',
+    'Read in browser': 'Im Browser lesen',
+    'Refresh now': 'Jetzt aktualisieren',
+};
+
+function _(text, n) {
+    const out = LANG === 'de' ? DE[text] ?? text : text;
+    return n === undefined ? out : out.replace('{n}', n);
+}
+
+// Links come from third-party RSS feeds: only ever open plain web links
+function isWebUrl(url) {
+    return typeof url === 'string' && /^https?:\/\//i.test(url);
+}
+
+// Consecutive days with a fully read digest; today's digest still being open does not break the streak
 function streakOf(done) {
     const days = new Set(done);
     let offset = days.has(isoDay()) ? 0 : -1;
@@ -50,6 +86,10 @@ function streakOf(done) {
 }
 
 function openUri(uri) {
+    if (!isWebUrl(uri)) {
+        log(`news-digest: refusing to open non-web link ${uri}`);
+        return;
+    }
     try {
         Gio.AppInfo.launch_default_for_uri(uri, global.create_app_launch_context(0, -1));
     } catch (e) {
@@ -57,7 +97,7 @@ function openUri(uri) {
     }
 }
 
-// Mehrzeiliger Text mit fester Breite
+// Multi-line text with a fixed width
 function wrappedLabel(text, style = '') {
     const label = new St.Label({text, style: `width: ${TEXT_WIDTH}; ${style}`});
     label.clutter_text.line_wrap = true;
@@ -75,7 +115,7 @@ function textItem(label) {
 const DigestIndicator = GObject.registerClass(
 class DigestIndicator extends PanelMenu.Button {
     _init() {
-        super._init(0.5, 'Morgen-Digest');
+        super._init(0.5, _('Morning digest'));
         const box = new St.BoxLayout({style_class: 'panel-status-menu-box'});
         box.add_child(new St.Icon({icon_name: 'emblem-documents-symbolic', style_class: 'system-status-icon'}));
         this._label = new St.Label({text: '…', y_align: Clutter.ActorAlign.CENTER});
@@ -94,7 +134,7 @@ class DigestIndicator extends PanelMenu.Button {
             if ([file, other].some(f => f?.get_basename() === 'latest.json'))
                 this._reload();
         });
-        // Alle 5 Minuten prüfen, ob der Digest von gestern ist (Tageswechsel)
+        // Check every 5 minutes whether the digest is from yesterday (day change)
         this._timer = GLib.timeout_add_seconds(GLib.PRIORITY_DEFAULT, 300, () => {
             this._reload();
             return GLib.SOURCE_CONTINUE;
@@ -159,7 +199,7 @@ class DigestIndicator extends PanelMenu.Button {
         if (allRead && this._digest.date === isoDay() && !this._state.done.includes(isoDay())) {
             this._state.done.push(isoDay());
             const n = streakOf(this._state.done);
-            Main.notify('Fertig für heute ✓', n > 1 ? `🔥 ${n} Tage in Folge informiert` : 'Gut gemacht!');
+            Main.notify(_('Done for today ✓'), n > 1 ? _('🔥 {n} days in a row informed', n) : _('Well done!'));
             this._streakLabel.text = this._streakText();
         }
         this._saveState();
@@ -168,7 +208,9 @@ class DigestIndicator extends PanelMenu.Button {
 
     _streakText() {
         const n = streakOf(this._state.done);
-        return n ? `🔥 Serie: ${n} ${n === 1 ? 'Tag' : 'Tage'}` : 'Lies alle Meldungen, um eine Serie zu starten';
+        if (!n)
+            return _('Read all items to start a streak');
+        return n === 1 ? _('🔥 Streak: 1 day') : _('🔥 Streak: {n} days', n);
     }
 
     _buildMenu() {
@@ -176,18 +218,19 @@ class DigestIndicator extends PanelMenu.Button {
         this.menu.removeAll();
         const d = this._digest;
         if (!d) {
-            this.menu.addMenuItem(new PopupMenu.PopupMenuItem('Noch kein Digest – kommt um 6:30', {reactive: false}));
+            this.menu.addMenuItem(new PopupMenu.PopupMenuItem(_('No digest yet – it arrives around 6:30'), {reactive: false}));
         } else {
             this.menu.addMenuItem(textItem(wrappedLabel(d.title, 'font-weight: bold;')));
             if (d.date !== isoDay()) {
-                this.menu.addMenuItem(textItem(wrappedLabel('Der heutige Digest ist noch nicht da – ' +
-                    'das ist der letzte verfügbare.', 'color: #e5a50a;')));
+                this.menu.addMenuItem(textItem(wrappedLabel(
+                    _('Today’s digest isn’t here yet – this is the latest one available.'),
+                    'color: #e5a50a;')));
             }
             this.menu.addMenuItem(textItem(wrappedLabel(d.intro, 'font-style: italic;')));
             this._streakLabel = wrappedLabel(this._streakText(), 'color: #ff7800;');
             this.menu.addMenuItem(textItem(this._streakLabel));
 
-            // Die Meldungen scrollen, damit das Menü nicht über den Bildschirm hinausragt
+            // Scroll the items so the menu does not run off the screen
             const holder = new PopupMenu.PopupMenuSection();
             const section = new PopupMenu.PopupMenuSection();
             this.menu.addMenuItem(holder);
@@ -204,14 +247,14 @@ class DigestIndicator extends PanelMenu.Button {
                 section.addMenuItem(new PopupMenu.PopupSeparatorMenuItem(topic.name));
                 for (const it of topic.items) {
                     const sub = new PopupMenu.PopupSubMenuMenuItem(it.title);
-                    // Lange Titel umbrechen statt abschneiden
+                    // Wrap long titles instead of cutting them off
                     sub.label.set_style(`width: ${TEXT_WIDTH};`);
                     sub.label.clutter_text.line_wrap = true;
                     sub.label.clutter_text.line_wrap_mode = Pango.WrapMode.WORD_CHAR;
                     sub.label.clutter_text.ellipsize = Pango.EllipsizeMode.NONE;
                     sub.setOrnament(readIds.includes(it.id) ? PopupMenu.Ornament.CHECK : PopupMenu.Ornament.DOT);
                     sub.menu.addMenuItem(textItem(wrappedLabel(it.summary)));
-                    for (const s of it.sources) {
+                    for (const s of it.sources.filter(src => isWebUrl(src.url))) {
                         sub.menu.addAction(`${s.name}${s.paywall ? ' 🔒' : ''}  ↗`,
                             () => openUri(s.url), 'web-browser-symbolic');
                     }
@@ -227,15 +270,15 @@ class DigestIndicator extends PanelMenu.Button {
         }
         this.menu.addMenuItem(new PopupMenu.PopupSeparatorMenuItem());
         if (d) {
-            this.menu.addAction('Alle als gelesen markieren', () => {
+            this.menu.addAction(_('Mark all as read'), () => {
                 for (const it of this._allItems())
                     this._markRead(it, {setOrnament: () => {}});
                 this._buildMenu();
             }, 'object-select-symbolic');
-            this.menu.addAction('Im Browser lesen', () =>
+            this.menu.addAction(_('Read in browser'), () =>
                 openUri(`${PAGES_URL}/${d.date}.html`), 'web-browser-symbolic');
         }
-        this.menu.addAction('Jetzt aktualisieren', () => {
+        this.menu.addAction(_('Refresh now'), () => {
             try {
                 Gio.Subprocess.new([SYNC], Gio.SubprocessFlags.NONE);
             } catch (e) {
@@ -244,14 +287,14 @@ class DigestIndicator extends PanelMenu.Button {
         }, 'view-refresh-symbolic');
     }
 
-    // Aufgeklappte Meldung ganz sichtbar machen, sobald die Aufklapp-Animation fertig ist
+    // Scroll an expanded item fully into view once the expand animation has finished
     _scrollIntoView(scroll, sub) {
         if (this._scrollTimer)
             GLib.source_remove(this._scrollTimer);
         this._scrollTimer = GLib.timeout_add(GLib.PRIORITY_DEFAULT, 300, () => {
             this._scrollTimer = 0;
             ensureActorVisibleInScrollView(scroll, sub.menu.actor);
-            // danach den Titel, falls die Zusammenfassung höher als der sichtbare Bereich ist
+            // then the title, in case the summary is taller than the visible area
             ensureActorVisibleInScrollView(scroll, sub);
             return GLib.SOURCE_REMOVE;
         });
@@ -271,7 +314,7 @@ class DigestIndicator extends PanelMenu.Button {
 export default class NewsDigestExtension extends Extension {
     enable() {
         this._indicator = new DigestIndicator();
-        // Links in der Leiste, gleich nach „Aktivitäten“
+        // Left side of the panel, right after “Activities”
         Main.panel.addToStatusArea(this.uuid, this._indicator, 1, 'left');
     }
 
