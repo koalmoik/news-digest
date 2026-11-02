@@ -5,12 +5,12 @@ Ein Tipp auf die Benachrichtigung öffnet die Leseseite.
 Aufruf: python3 notify.py [branch]   (Standard: aktueller Git-Branch)
 
 ntfy.sh begrenzt anonyme Nachrichten pro IP. Die Cloud-Sandbox teilt sich IPs mit
-anderen, daher kommt öfter HTTP 429. Das Skript versucht es dann über ~8 Minuten erneut.
+anderen, daher kommt öfter HTTP 429. Das Skript versucht es dann mehrmals erneut.
+Normalerweise ruft es die GitHub Action .github/workflows/notify.yml auf.
 """
 
-# Pausen zwischen den Versuchen in Sekunden (Summe 480 s)
-RETRY_WAITS = [30, 60, 90, 120, 180]
 import json
+import os
 import subprocess
 import sys
 import time
@@ -19,6 +19,10 @@ import urllib.request
 from pathlib import Path
 
 DIR = Path(__file__).resolve().parent
+
+# Pausen zwischen den Versuchen in Sekunden (Summe 480 s), per NTFY_RETRY_WAITS="30,60,…" änderbar
+RETRY_WAITS = [int(x) for x in
+               os.environ.get('NTFY_RETRY_WAITS', '30,60,90,120,180').split(',') if x.strip()]
 
 
 def main():

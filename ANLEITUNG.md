@@ -95,16 +95,11 @@ python3 render_site.py ../news-digest-pages
 cd ../news-digest-pages && git add -A && git commit -m "Digest $(TZ=Europe/Vienna date +%F)" && git push origin HEAD:main; cd -
 ```
 
-Lässt sich `../news-digest-pages` nicht finden oder nicht pushen, mach trotzdem mit Schritt 6 weiter
-und erwähne das in deiner Schlusszeile.
+Lässt sich `../news-digest-pages` nicht finden oder nicht pushen, erwähne das in deiner Schlusszeile.
 
-## 6. Handy benachrichtigen
+## 6. Handy-Benachrichtigung
 
-```bash
-python3 notify.py <branch aus Schritt 5>
-```
-
-Das Skript wiederholt bei HTTP 429 selbst bis zu ca. 8 Minuten lang. Führe es deshalb mit
-Bash-Timeout 600000 ms aus und brich es nicht ab. Starte es nicht selbst erneut.
+Nichts zu tun: Die schickt eine GitHub Action automatisch, sobald der neue Digest gepusht ist.
+Führe `notify.py` **nicht** selbst aus, sonst kommt die Nachricht doppelt.
 
 Ändere nichts anderes im Repo. Antworte am Ende mit einer Zeile: Anzahl Meldungen und Branch.

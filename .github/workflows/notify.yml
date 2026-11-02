@@ -1,0 +1,41 @@
+# Schickt die ntfy-Benachrichtigung, sobald die Routine einen neuen Digest pusht.
+# Läuft auf GitHub statt in der Cloud-Sandbox, weil ntfy.sh dort oft HTTP 429 liefert
+# (Limit pro IP, Sandbox-IPs werden geteilt).
+name: Handy benachrichtigen
+
+on:
+  push:
+    branches: [main, claude/digest]
+    paths: ['digests/*.json']
+  workflow_dispatch:
+
+concurrency:
+  group: notify
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Neuer Digest in diesem Push?
+        id: check
+        run: |
+          # Nur bei neu angelegtem Digest senden, nicht bei nachträglichen Korrekturen
+          if [ "${{ github.event_name }}" = workflow_dispatch ] || \
+             git diff --name-only --diff-filter=A HEAD^ HEAD -- 'digests/*.json' | grep -q .; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Kein neuer Digest, nichts zu tun."
+          fi
+
+      - name: ntfy senden
+        if: steps.check.outputs.send == 'true'
+        env:
+          # ca. 38 Minuten Wiederholungen bei HTTP 429
+          NTFY_RETRY_WAITS: '30,60,120,180,300,300,600,700'
+        run: python3 notify.py "${{ github.ref_name }}"
