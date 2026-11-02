@@ -3,10 +3,18 @@
 
 Ein Tipp auf die Benachrichtigung öffnet die Leseseite.
 Aufruf: python3 notify.py [branch]   (Standard: aktueller Git-Branch)
+
+ntfy.sh begrenzt anonyme Nachrichten pro IP. Die Cloud-Sandbox teilt sich IPs mit
+anderen, daher kommt öfter HTTP 429. Das Skript versucht es dann über ~8 Minuten erneut.
 """
+
+# Pausen zwischen den Versuchen in Sekunden (Summe 480 s)
+RETRY_WAITS = [30, 60, 90, 120, 180]
 import json
 import subprocess
 import sys
+import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -36,8 +44,21 @@ def main():
     req = urllib.request.Request(config.get('ntfy_server', 'https://ntfy.sh'),
                                  data=json.dumps(body).encode(),
                                  headers={'Content-Type': 'application/json'})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        print(f'ntfy: HTTP {r.status}')
+    for attempt, wait in enumerate([0] + RETRY_WAITS, 1):
+        if wait:
+            print(f'ntfy: warte {wait} s …', flush=True)
+            time.sleep(wait)
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                print(f'ntfy: HTTP {r.status} (Versuch {attempt})')
+                return
+        except urllib.error.HTTPError as e:
+            if e.code != 429 and e.code < 500:
+                raise
+            print(f'ntfy: HTTP {e.code} (Versuch {attempt})', flush=True)
+        except urllib.error.URLError as e:
+            print(f'ntfy: {e.reason} (Versuch {attempt})', flush=True)
+    sys.exit('ntfy: aufgegeben, alle Versuche gescheitert')
 
 
 if __name__ == '__main__':

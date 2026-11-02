@@ -104,4 +104,7 @@ und erwähne das in deiner Schlusszeile.
 python3 notify.py <branch aus Schritt 5>
 ```
 
+Das Skript wiederholt bei HTTP 429 selbst bis zu ca. 8 Minuten lang. Führe es deshalb mit
+Bash-Timeout 600000 ms aus und brich es nicht ab. Starte es nicht selbst erneut.
+
 Ändere nichts anderes im Repo. Antworte am Ende mit einer Zeile: Anzahl Meldungen und Branch.
