@@ -1,137 +1,143 @@
-# Morgen-Digest · Montag, 2. November 2026
+# Morgen-Digest · Dienstag, 3. November 2026
 
-_Wenige Tage vor den US-Zwischenwahlen dominieren der Streit der Demokraten in Michigan und Trumps Iran-Kurs die Nachrichten; in Europa beschäftigen Jugendproteste, Polens Verfassungskrise und der Wahlsieg von Jotowa in Bulgarien. In Österreich wird die neue EU-Paketgebühr wirksam, der AMS muss Nachzahlungen selbst finanzieren._
+_Am Dienstag wählen die USA ihren Kongress, während Washington im Iran-Konflikt erneut Ziele in der Straße von Hormus angreift. Hierzulande steigt die Arbeitslosigkeit weiter, und in Europa legen Cyberangriffe auf Supermarkt-Kühlsysteme den Handel lahm._
 
 ## Innenpolitik
 
-### AMS muss Nachzahlungen von 135 Mio. Euro selbst aufbringen
+### Stocker besucht China zu mehrtägigem Arbeitsbesuch
 
-Rund 250.000 Menschen sollen Nachzahlungen erhalten, im Schnitt etwa 400 Euro pro Person. Laut Medienberichten gibt es dafür kein zusätzliches Budget, der AMS muss die 135 Millionen Euro aus eigenen Mitteln stemmen.
+Bundeskanzler Christian Stocker ist zu einem mehrtägigen Arbeitsbesuch in China aufgebrochen. Ziel sind eine Vertiefung der diplomatischen Beziehungen, die Vertretung europäischer Interessen und Chancen für heimische Unternehmen.
 
-→ [ORF](https://orf.at/stories/3446763/) · [Der Standard](https://www.derstandard.at/story/3000000346915/ams-muss-millionen-nachzahlungen-an-250000-menschen-selbst-stemmen?ref=rss)
+→ [Die Presse](https://www.diepresse.com/41413699/bundeskanzler-stocker-beginnt-mehrtaegigen-arbeitsbesuch-in-china)
 
-### Bures legt gegen Babler nach
+### Grüne: Verteidigungsministerium hält Akten zurück
 
-Die SPÖ-Politikerin Doris Bures sagt, dem Noch-SPÖ-Chef Andreas Babler habe es an Selbstkritik und Nachdenklichkeit gefehlt. Das Kapitel Babler sei für sie beendet. Der Machtkampf in der SPÖ-Spitze geht damit weiter.
+Die Grünen werfen dem Verteidigungsministerium vor, einer Kommission bei der Prüfung von Rüstungsbeschaffungen Akten vorzuenthalten. Wehrsprecher David Stögmüller kritisiert dies unter anderem im Zusammenhang mit Sky Shield.
 
-→ [Die Presse 🔒](https://www.diepresse.com/41409514/bures-legt-erneut-gegen-babler-nach)
+→ [ORF](https://orf.at/stories/3446891/) · [Der Standard](https://www.derstandard.at/story/3000000347155/bundesheer-gr252ne-bem228ngeln-vorenthaltene-akten?ref=rss) · [Die Presse](https://www.diepresse.com/41413729/bundesheer-gruene-bemaengeln-vorenthaltene-akten-zu-sky-shield)
+
+### AMS schuldet 250.000 Menschen 135 Millionen Euro
+
+Das AMS muss rund 250.000 Betroffenen insgesamt 135 Millionen Euro nachzahlen; das Geld wird automatisch ausgezahlt. AMS-Chef Johannes Kopf rechnet damit, dass die Zahl der Betroffenen noch steigt.
+
+→ [ORF](https://orf.at/stories/3446871/) · [Der Standard](https://www.derstandard.at/story/3000000347114/ams-chefin-draxl-zu-nachzahlungen-geld-kommt-vom-staat?ref=rss)
 
 ## EU
 
-### Neue EU-Gebühr auf Pakete aus Drittstaaten gilt seit Sonntag
+### Belgiens Premier De Wever bietet Rücktritt an
 
-Für Sendungen von Händlern wie Shein oder Temu außerhalb der EU fallen nun mindestens zwei Euro pro Warenposition an. Die EU will damit die Flut an Billigpaketen eindämmen, die jährlich in Milliardenzahl ankommen.
+Nach festgefahrenen Budgetverhandlungen hat Premier Bart De Wever König Philippe seinen Rücktritt angeboten. Der König prüft das Gesuch und beginnt Konsultationen mit den Parteichefs der Mehrheit.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346955/neue-eu-gebuehr-fuer-pakete-von-shein-temu-und-co-in-kraft?ref=rss) · [ORF](https://orf.at/stories/3446587/) · [Tagesschau](https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html)
+→ [Deutsche Welle](https://www.dw.com/de/belgiens-premier-de-wever-bietet-rücktritt-an/a-79830776?maca=de-rss-de-all-1119-rdf) · [SRF](https://www.srf.ch/news/international/belgien-premierminister-de-wever-bietet-koenig-philippe-ruecktritt-an) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/belgian-pm-offers-resignation-after-budget-talks-collapse/)
 
-### Brüssel stellt sich im Streit um Polens Verfassungsgericht hinter Tusk
+### Machtkampf um Polens Verfassungsgericht eskaliert
 
-Die EU-Kommission sieht die Ernennung neuer Richter in der Kompetenz des Sejm und drängt Präsident Nawrocki, diese anzuerkennen. Der Konflikt eskalierte am Wochenende; Tusk spricht von einem Angriff auf Demokratie und Rechtsstaat.
+Am Wochenende kam es vor dem Verfassungsgericht zu Tumulten, Staatschef Nawrocki brach eine Auslandsreise ab. Das Lager von Premier Tusk will das Gericht übernehmen, PiS und der Präsident sprechen von einem Staatsstreich.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346935/der-machtkampf-um-polens-verfassungsgericht-ist-noch-nicht-entschieden?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html) · [Politico Europe](https://www.politico.eu/article/european-commission-backs-donald-tusk-over-poland-constitutional-court-judges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+→ [Tagesschau](https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html) · [Deutsche Welle](https://www.dw.com/de/polens-verfassungsgericht-im-machtkampf-tusk-lager-übernimmt-tribunal-pis-und-präsident-nawrocki-sprechen-von-staatsstreich/a-79830839?maca=de-rss-de-all-1119-rdf)
 
 ## Welt
 
-### Ukraine: Feuerpause in Oleschky ausgelaufen, Angriffe auf Energieversorgung
+### Russischer Luftangriff in Saporischschja tötet mindestens 26 Menschen
 
-Nach Auslaufen der lokalen Waffenruhe in der Region Cherson, die Evakuierungen ermöglichte, lehnte Russland eine Verlängerung ab. Bei russischen Angriffen waren am Sonntag Hunderttausende Haushalte ohne Strom.
+Bei einem Angriff auf eine Verteilstelle für humanitäre Hilfe in einer Schule in der Region Saporischschja starben nach ukrainischen Angaben mindestens 26 Menschen. Präsident Selenskyj sprach von gezieltem Beschuss; die Kämpfe in Cherson sind nach der längsten Waffenruhe des Krieges zurückgekehrt.
 
-→ [ORF](https://orf.at/stories/3446806/) · [ORF](https://orf.at/stories/3446761/) · [BBC](https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss)
+→ [Die Presse](https://www.diepresse.com/41413893/mindestens-24-tote-bei-russischem-luftangriff-in-saporischschja) · [Tagesschau](https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss)
 
-### Russlandfreundliche Jotowa gewinnt Präsidentenwahl in Bulgarien
+### Neue Dreiergespräche USA–Ukraine–Russland in Abu Dhabi
 
-Die Interimspräsidentin Ilijana Jotowa setzte sich in der Stichwahl klar gegen den liberalen Andrej Gjurow durch. Sie ist die erste gewählte Frau an der Staatsspitze, die Wahl galt als Richtungsentscheidung zwischen Kiew und Moskau.
+Der US-Vermittler Witkoff kündigte für nächsten Dienstag und Mittwoch ein Treffen auf Arbeitsebene in Abu Dhabi an. Kiew warnt zugleich vor einem russischen Großangriff auf die Energieinfrastruktur während der US-Wahl.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346949/russlandfreundliche-praesidentin-jotowa-liegt-laut-prognosen-in-bulgarien-vorn?ref=rss) · [Die Presse](https://www.diepresse.com/41410084/bulgarien-hat-gewaehlt-praesidentin-jotowa-laut-prognosen-vorne) · [ZDFheute](https://www.zdfheute.de/politik/ausland/bulgarien-wahl-jotowa-100.html)
+→ [SRF](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-witkoff-naechste-woche-verhandlungen-mit-ukraine-und-russland) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347182/russland-greift-ziele-in-region-odessa-an?ref=rss)
 
 ## Wirtschaft
 
-### Österreichs Industrie produziert trotz hoher Gaspreise wieder mehr
+### Arbeitslosigkeit im Oktober weiter gestiegen: 390.000 ohne Job
 
-Trotz hoher Energiekosten und Lieferkettenproblemen wächst die heimische Industrieproduktion wieder. Offen ist, ob daraus ein dauerhafter Aufschwung wird.
+Die Zahl der Arbeitslosen liegt um 0,5 Prozent über dem Wert von Oktober 2025. Während die Arbeitslosigkeit bei Frauen steigt, sinkt sie bei Männern.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346473/robuster-als-gedacht-heimische-industrie-waechst-wieder?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347001/arbeitslosigkeit-im-oktober-weiter-gestiegen-390000-ohne-job?ref=rss)
 
-### Deutsche Gasspeicher verfehlen Füllstandsziel vor dem Winter
+### Ryanair droht mit höheren Preisen und Nullrunden
 
-Die Speicher sollten am 1. November zu 70 Prozent gefüllt sein, das Ziel wurde verfehlt. Das Wirtschaftsministerium beteuert dennoch, die Versorgung sei gesichert; die Speicher sind so leer wie lange nicht vor einem Winter.
+Wegen teuren Kerosins im Zuge des Irankriegs kündigt Ryanair höhere Ticketpreise an und erwägt ein Einfrieren der Gehälter. Laut Airline könnten die Treibstoffkosten 2028 um 2 Mrd. Euro steigen; Konflikte mit den Gewerkschaften zeichnen sich ab.
 
-→ [Deutsche Welle](https://www.dw.com/de/vorgaben-für-gasspeicher-füllstand-in-deutschland-verfehlt/a-79822308?maca=de-rss-de-all-1119-rdf) · [ZDFheute](https://www.zdfheute.de/wirtschaft/gasspeicher-fuellstand-winter-gaspreis-100.html)
+→ [ORF](https://orf.at/stories/3446866/) · [BBC](https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai)
 
 ## Klima
 
-### Bericht: Eisschmelze großteils unumkehrbar, bei Überschreiten von 1,5 Grad drohen bleibende Schäden
+### Oktober war extrem warm und trocken
 
-Ein UN-gestützter Bericht warnt kurz vor der COP31, dass Gletscher, Permafrost und Polareisschilde auch bei nur zeitweiser Überschreitung der 1,5-Grad-Marke dauerhaft geschädigt werden. Ein Teil der Schäden sei schon irreversibel, lasse sich aber noch bremsen.
+Der Oktober 2026 war laut Messdaten wärmer als 90 Prozent aller Oktober in Österreichs 260-jähriger Messgeschichte, rund ein Grad über dem Klimamittel. In vielen Regionen blieb es zudem deutlich zu trocken, die Dürre hält an.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346788/die-globale-eisschmelze-ist-unumkehrbar-sie-laesst-sich-aber-noch-bremsen?ref=rss) · [The Guardian](https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/climate-scientists-paint-devastating-picture-of-ice-loss-worldwide/)
+→ [ORF](https://orf.at/stories/3446840/) · [Der Standard](https://www.derstandard.at/story/3000000347096/oktober-verl228ngerte-in-214sterreich-die-enorme-trockenheit?ref=rss)
 
 ## Tech/KI
 
-### Digitalgipfel in Berlin: Wie kann Europa bei KI aufholen?
+### Anthropic meldet vor Börsengang 17 Mrd. Dollar Quartalsumsatz
 
-Die deutsche Bundesregierung berät zwei Tage lang über digitale Souveränität und KI-Sicherheit. Diskutiert wird auch ein einfacheres Regelwerk für KI und die Frage, ob Europa den Anschluss schon verloren hat.
+Aus bei der SEC eingereichten Unterlagen geht hervor, dass der Umsatz im dritten Quartal von 1,4 auf 17 Mrd. Dollar gestiegen ist. Der operative Verlust schrumpfte trotz hoher Infrastrukturkosten.
 
-→ [Tagesschau](https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html) · [ZDFheute](https://www.zdfheute.de/politik/deutschland/digitalgipfel-bundesregierung-merz-ki-sicherheit-souveraenitaet-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000347173/anthropic-meldet-kurz-vor-b246rsengang-umsatzplus-von-1100-prozent?ref=rss) · [Die Presse](https://www.diepresse.com/41413804/anthropic-meldet-kurz-vor-boersengang-1100-prozent-umsatzplus)
+
+### Digitalgipfel in Berlin: Merz will mehr Tempo bei KI
+
+Kanzler Merz fordert einen schnellen Ausbau der KI-Fähigkeiten, nachdem eine Taskforce vor dem Verlust des Anschlusses warnte. Er hält Google-Cloud-Dienste für Nachrichtendienste für ausreichend souverän, was Kritik an der Abhängigkeit von US-Anbietern auslöst.
+
+→ [Tagesschau](https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html) · [ZDFheute](https://www.zdfheute.de/politik/deutschland/ki-kuenstliche-intelligenz-bundesregierung-gipfel-100.html) · [heise online](https://www.heise.de/news/Merz-Google-Cloud-ausreichend-souveraen-fuer-Nachrichtendienste-11508517.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
 ## IT-Security
 
-### Warn-Apps in der Ukraine und Russland gehackt
+### Cyberangriffe stören Kühlsysteme von Supermärkten in ganz Europa
 
-Die ukrainische Luftalarm-App zeigte kurzzeitig für Kiew und andere Gebiete einen Atomalarm bzw. Strahlenwarnung an. Wenig später meldete auch Russland einen Hack seiner Warn-App mit falschen Meldungen.
+In mindestens sieben Ländern, darunter Belgien, Schweden und Luxemburg, wurden Kühl- und Gefrieranlagen manipuliert; Temperaturen stiegen teils auf 50 °C und große Mengen Lebensmittel mussten entsorgt werden. Es ist die zweite Welle nach den Angriffen auf französische Märkte im Oktober, die EU-Kommission leitet Untersuchungen ein.
 
-→ [ORF](https://orf.at/stories/3446807/) · [ZDFheute](https://www.zdfheute.de/politik/ausland/hack-notfall-app-ukraine-krieg-russland-100.html) · [BBC](https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3446846/) · [Der Standard](https://www.derstandard.at/story/3000000347066/cyberangriff-vermutet-k252hlsysteme-europ228ischer-superm228rkte-gest246rt?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
 
-### FBI: Nordkoreas TraderTraitor stahl 6,3 Mrd. Dollar von Binance
+### Binance-Hack: Kunden ziehen 3,6 Mrd. Dollar ab
 
-Das FBI macht die staatlich gestützte Gruppe TraderTraitor für den bisher größten Hack einer Kryptobörse verantwortlich. Binance hat die Auszahlungen wieder aufgenommen und nach eigenen Angaben 90 Prozent der Verluste ersetzt; ein kompromittierter Laptop eines IT-Mitarbeiters könnte das Einfallstor gewesen sein.
+Nach dem Diebstahl von Werten über 6,3 Mrd. Dollar, dem größten Krypto-Hack aller Zeiten, haben Kunden 3,6 Mrd. Dollar abgezogen. US-Behörden machen Nordkorea verantwortlich, Pjöngjang weist die Vorwürfe zurück.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346881/fbi-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/hack-binance-100.html) · [BBC](https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000346985/binance-kunden-ziehen-nach-milliarden-diebstahl-36-milliarden-dollar-ab?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html)
 
-### Apple warnt vor Spyware-Kompromittierung, Hinweis betrifft Bundespolitik
+### Angriffe auf Lücken in Drupal, Ivanti Connect Secure und Synology
 
-Apple meldete die Kompromittierung von Geräten durch Spyware; der deutsche Digitalminister bestätigte einen amtlichen Hinweis. Nach ARD-Informationen gab es möglicherweise einen Hackerangriff auf Bundestagsabgeordnete und Regierungsmitglieder.
+Angreifer nutzen aktiv Schwachstellen in Drupal, Ivanti Connect Secure und Synology aus, teils als Zero-Day-Lücken oder in veralteten Betriebssystemen. Admins sollten verfügbare Updates sofort einspielen.
 
-→ [heise Security](https://www.heise.de/news/BSI-Warnung-vor-Spaehsoftware-auf-Politiker-Handys-11507404.html) · [Tagesschau](https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html)
+→ [heise online](https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
 ## Wissenschaft
 
-### KI widerlegt binnen Wochen drei Vermutungen der Komplexitätstheorie
+### Häm in 115 Millionen Jahre altem Dinosaurierknochen entdeckt
 
-Seit Anfang Oktober wurden gleich drei wichtige Vermutungen der theoretischen Informatik durch KI-Methoden widerlegt. Damit verlieren viele darauf aufbauende Ergebnisse ihre Grundlage.
+In einem Raubsaurier aus Brasilien (Aratasaurus) fanden Forschende Häm, den Bestandteil des roten Blutfarbstoffs, in versteinerten roten Blutkörperchen. Bakterien am Grund eines Gewässers haben das Molekül offenbar konserviert.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346714/ki-stellt-innerhalb-von-wochen-eine-mathematische-teildisziplin-auf-den-kopf?ref=rss)
-
-### NASA-Mars-Simulation nach einem Jahr beendet
-
-Vier Freiwillige lebten zwölf Monate lang auf rund 160 Quadratmetern, ohne das Gelände zu verlassen. Es war bereits die zweite derartige Langzeitmission; sie soll Erkenntnisse für künftige Marsflüge liefern.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000346891/ein-jahr-mars-freiwillige-beenden-extremes-nasa-experiment?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/nasa-mars-108.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000347067/versteinertes-blut-in-115-millionen-jahre-altem-dinosaurierknochen-entdeckt?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41413151/erstmals-spuren-von-dinosaurier-blut-in-115-millionen-jahre-alten-knochen) · [The Guardian](https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone)
 
 ## Nahost
 
-### Indirekte US-Iran-Gespräche über Öffnung der Straße von Hormus
+### Israel: Netanjahu will trotz verfehlter Mehrheit regieren
 
-Am dritten Tag verhandelt Katar über die Freigabe iranischer Vermögen von 6 Mrd. Dollar, was die Wasserstraße wieder öffnen könnte. Gleichzeitig wurde erneut ein Tanker im Golf angegriffen, und Trump spekuliert über neue Angriffe auf iranische Atomanlagen.
+Netanjahus rechtsreligiöser Block hat bei der Wahl keine Mehrheit erreicht, er strebt aber eine breite Koalition ohne arabische Parteien an. Am Mittwoch beginnen die Konsultationen von Präsident Herzog über die Regierungsbildung.
 
-→ [The Guardian](https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/erneut-tanker-im-persischen-golf-attackiert-art-681584) · [Der Standard](https://www.derstandard.at/story/3000000346908/israels-opposition-warnt-vor-neuem-krieg-mit-iran-unter-netanyahu?ref=rss)
+→ [ORF](https://orf.at/stories/3446905/) · [Der Standard](https://www.derstandard.at/story/3000000347197/netanyahu-will-breite-koalitionsregierung-unter-seiner-f252hrung?ref=rss) · [ORF](https://orf.at/stories/3446864/)
 
-### Tote bei israelischen Angriffen in Gaza trotz Waffenruhe
+### USA greifen Ziele im Iran an, Ölpreis fällt
 
-Berichten zufolge wurden bis zu zehn Palästinenser getötet, darunter mehrere Polizisten in Khan Younis. Die israelische Armee spricht von Angriffen auf Mitglieder bewaffneter Gruppen.
+Das US-Militär hat laut Regierungsvertretern begrenzte Angriffe auf iranische Ziele in der Straße von Hormus und auf der Insel Qeschm geflogen. Zugleich laufen indirekte Gespräche, und Brent fiel um mehr als 6 Prozent auf 105,55 Dollar.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346918/nahost-zehn-pal228stinenser-bei-angriffen-israels-in-gaza-get246tet?ref=rss) · [ORF](https://orf.at/stories/3446766/) · [BBC](https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347203/berichte-us-militaer-greift-ziel-auf-iranischer-insel-qeschm-an?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html) · [The Guardian](https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war)
 
 ## USA
 
-### Michigan: Demokratin Stevens unterstützt republikanischen Senatskandidaten
+### Midterms: Demokraten gelten als Favoriten im Repräsentantenhaus
 
-Haley Stevens, bei der Nominierung gegen Abdul El-Sayed unterlegen, stellt sich hinter den Republikaner Mike Rogers. Parteifreunde sprechen von Verrat; Trump lobte Stevens und griff El-Sayed bei einer Kundgebung an.
+Umfragen deuten auf eine Rückeroberung des Repräsentantenhauses durch die Demokraten hin, der Senat bleibt umkämpft. Trumps Zustimmung liegt laut Reuters/Ipsos bei nur 32 Prozent, belastet von 3,7 Prozent Inflation.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346971/unterlegene-demokratin-in-michigan-unterstuetzt-nun-republikaner?ref=rss) · [ORF](https://orf.at/stories/3446799/) · [BBC](https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347035/wahltag-in-den-usa-die-drei-wichtigsten-szenarien-fuer-den-ausgang-der-midterms?ref=rss) · [SRF](https://www.srf.ch/news/international/midterms-in-den-usa-wo-das-rennen-um-den-senat-entschieden-wird) · [ZDFheute](https://www.zdfheute.de/politik/ausland/midterms-usa-inflation-benzinpreise-100.html)
 
-### Gericht weist Trump-nahe Klage zur Senatswahl in Alaska ab
+### Supreme Court weist Trumps Eilantrag zur Briefwahl in Kalifornien ab
 
-Ein Richter wies den Versuch ab, Ergebnisse der Senatswahl bei einer Niederlage des Republikaners zu blockieren. Amtsinhaber Dan Sullivan erklärte, er werde das Ergebnis akzeptieren. Wahlleiter fürchten vor den Midterms am Dienstag mögliche Eingriffe.
+Das Gericht lehnte den Antrag ab, 20.000 Stimmzettel mutmaßlicher Nichtstaatsbürger gesondert zu behandeln. Damit ist der Versuch der Regierung, diese Stimmen auszuschließen, im Wesentlichen gescheitert.
 
-→ [ORF](https://orf.at/stories/3446800/) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan) · [ZDFheute](https://www.zdfheute.de/video/politik-wahlsicherheit-usa-midterms-video-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000347196/wahlstreit-in-kalifornien-trump-schaltet-supreme-court-ein?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/gericht-weist-trumps-antrag-zur-briefwahl-in-kalifornien-ab-art-681770) · [BBC](https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss)

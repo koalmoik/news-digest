@@ -1,0 +1,400 @@
+{
+ "date": "2026-11-03",
+ "title": "Morgen-Digest · Dienstag, 3. November 2026",
+ "generated": "2026-11-03T06:07+01:00",
+ "intro": "Am Dienstag wählen die USA ihren Kongress, während Washington im Iran-Konflikt erneut Ziele in der Straße von Hormus angreift. Hierzulande steigt die Arbeitslosigkeit weiter, und in Europa legen Cyberangriffe auf Supermarkt-Kühlsysteme den Handel lahm.",
+ "topics": [
+  {
+   "name": "Innenpolitik",
+   "items": [
+    {
+     "id": "2026-11-03-01",
+     "title": "Stocker besucht China zu mehrtägigem Arbeitsbesuch",
+     "summary": "Bundeskanzler Christian Stocker ist zu einem mehrtägigen Arbeitsbesuch in China aufgebrochen. Ziel sind eine Vertiefung der diplomatischen Beziehungen, die Vertretung europäischer Interessen und Chancen für heimische Unternehmen.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41413699/bundeskanzler-stocker-beginnt-mehrtaegigen-arbeitsbesuch-in-china"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-02",
+     "title": "Grüne: Verteidigungsministerium hält Akten zurück",
+     "summary": "Die Grünen werfen dem Verteidigungsministerium vor, einer Kommission bei der Prüfung von Rüstungsbeschaffungen Akten vorzuenthalten. Wehrsprecher David Stögmüller kritisiert dies unter anderem im Zusammenhang mit Sky Shield.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446891/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347155/bundesheer-gr252ne-bem228ngeln-vorenthaltene-akten?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41413729/bundesheer-gruene-bemaengeln-vorenthaltene-akten-zu-sky-shield"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-03",
+     "title": "AMS schuldet 250.000 Menschen 135 Millionen Euro",
+     "summary": "Das AMS muss rund 250.000 Betroffenen insgesamt 135 Millionen Euro nachzahlen; das Geld wird automatisch ausgezahlt. AMS-Chef Johannes Kopf rechnet damit, dass die Zahl der Betroffenen noch steigt.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446871/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347114/ams-chefin-draxl-zu-nachzahlungen-geld-kommt-vom-staat?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "EU",
+   "items": [
+    {
+     "id": "2026-11-03-04",
+     "title": "Belgiens Premier De Wever bietet Rücktritt an",
+     "summary": "Nach festgefahrenen Budgetverhandlungen hat Premier Bart De Wever König Philippe seinen Rücktritt angeboten. Der König prüft das Gesuch und beginnt Konsultationen mit den Parteichefs der Mehrheit.",
+     "sources": [
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/belgiens-premier-de-wever-bietet-rücktritt-an/a-79830776?maca=de-rss-de-all-1119-rdf"
+      },
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/international/belgien-premierminister-de-wever-bietet-koenig-philippe-ruecktritt-an"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/belgian-pm-offers-resignation-after-budget-talks-collapse/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-05",
+     "title": "Machtkampf um Polens Verfassungsgericht eskaliert",
+     "summary": "Am Wochenende kam es vor dem Verfassungsgericht zu Tumulten, Staatschef Nawrocki brach eine Auslandsreise ab. Das Lager von Premier Tusk will das Gericht übernehmen, PiS und der Präsident sprechen von einem Staatsstreich.",
+     "sources": [
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html"
+      },
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/polens-verfassungsgericht-im-machtkampf-tusk-lager-übernimmt-tribunal-pis-und-präsident-nawrocki-sprechen-von-staatsstreich/a-79830839?maca=de-rss-de-all-1119-rdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welt",
+   "items": [
+    {
+     "id": "2026-11-03-06",
+     "title": "Russischer Luftangriff in Saporischschja tötet mindestens 26 Menschen",
+     "summary": "Bei einem Angriff auf eine Verteilstelle für humanitäre Hilfe in einer Schule in der Region Saporischschja starben nach ukrainischen Angaben mindestens 26 Menschen. Präsident Selenskyj sprach von gezieltem Beschuss; die Kämpfe in Cherson sind nach der längsten Waffenruhe des Krieges zurückgekehrt.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41413893/mindestens-24-tote-bei-russischem-luftangriff-in-saporischschja"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-07",
+     "title": "Neue Dreiergespräche USA–Ukraine–Russland in Abu Dhabi",
+     "summary": "Der US-Vermittler Witkoff kündigte für nächsten Dienstag und Mittwoch ein Treffen auf Arbeitsebene in Abu Dhabi an. Kiew warnt zugleich vor einem russischen Großangriff auf die Energieinfrastruktur während der US-Wahl.",
+     "sources": [
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-witkoff-naechste-woche-verhandlungen-mit-ukraine-und-russland"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000347182/russland-greift-ziele-in-region-odessa-an?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wirtschaft",
+   "items": [
+    {
+     "id": "2026-11-03-08",
+     "title": "Arbeitslosigkeit im Oktober weiter gestiegen: 390.000 ohne Job",
+     "summary": "Die Zahl der Arbeitslosen liegt um 0,5 Prozent über dem Wert von Oktober 2025. Während die Arbeitslosigkeit bei Frauen steigt, sinkt sie bei Männern.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347001/arbeitslosigkeit-im-oktober-weiter-gestiegen-390000-ohne-job?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-09",
+     "title": "Ryanair droht mit höheren Preisen und Nullrunden",
+     "summary": "Wegen teuren Kerosins im Zuge des Irankriegs kündigt Ryanair höhere Ticketpreise an und erwägt ein Einfrieren der Gehälter. Laut Airline könnten die Treibstoffkosten 2028 um 2 Mrd. Euro steigen; Konflikte mit den Gewerkschaften zeichnen sich ab.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446866/"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Klima",
+   "items": [
+    {
+     "id": "2026-11-03-10",
+     "title": "Oktober war extrem warm und trocken",
+     "summary": "Der Oktober 2026 war laut Messdaten wärmer als 90 Prozent aller Oktober in Österreichs 260-jähriger Messgeschichte, rund ein Grad über dem Klimamittel. In vielen Regionen blieb es zudem deutlich zu trocken, die Dürre hält an.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446840/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347096/oktober-verl228ngerte-in-214sterreich-die-enorme-trockenheit?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech/KI",
+   "items": [
+    {
+     "id": "2026-11-03-11",
+     "title": "Anthropic meldet vor Börsengang 17 Mrd. Dollar Quartalsumsatz",
+     "summary": "Aus bei der SEC eingereichten Unterlagen geht hervor, dass der Umsatz im dritten Quartal von 1,4 auf 17 Mrd. Dollar gestiegen ist. Der operative Verlust schrumpfte trotz hoher Infrastrukturkosten.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347173/anthropic-meldet-kurz-vor-b246rsengang-umsatzplus-von-1100-prozent?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41413804/anthropic-meldet-kurz-vor-boersengang-1100-prozent-umsatzplus"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-12",
+     "title": "Digitalgipfel in Berlin: Merz will mehr Tempo bei KI",
+     "summary": "Kanzler Merz fordert einen schnellen Ausbau der KI-Fähigkeiten, nachdem eine Taskforce vor dem Verlust des Anschlusses warnte. Er hält Google-Cloud-Dienste für Nachrichtendienste für ausreichend souverän, was Kritik an der Abhängigkeit von US-Anbietern auslöst.",
+     "sources": [
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html"
+      },
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/politik/deutschland/ki-kuenstliche-intelligenz-bundesregierung-gipfel-100.html"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Merz-Google-Cloud-ausreichend-souveraen-fuer-Nachrichtendienste-11508517.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IT-Security",
+   "items": [
+    {
+     "id": "2026-11-03-13",
+     "title": "Cyberangriffe stören Kühlsysteme von Supermärkten in ganz Europa",
+     "summary": "In mindestens sieben Ländern, darunter Belgien, Schweden und Luxemburg, wurden Kühl- und Gefrieranlagen manipuliert; Temperaturen stiegen teils auf 50 °C und große Mengen Lebensmittel mussten entsorgt werden. Es ist die zweite Welle nach den Angriffen auf französische Märkte im Oktober, die EU-Kommission leitet Untersuchungen ein.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446846/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347066/cyberangriff-vermutet-k252hlsysteme-europ228ischer-superm228rkte-gest246rt?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-14",
+     "title": "Binance-Hack: Kunden ziehen 3,6 Mrd. Dollar ab",
+     "summary": "Nach dem Diebstahl von Werten über 6,3 Mrd. Dollar, dem größten Krypto-Hack aller Zeiten, haben Kunden 3,6 Mrd. Dollar abgezogen. US-Behörden machen Nordkorea verantwortlich, Pjöngjang weist die Vorwürfe zurück.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346985/binance-kunden-ziehen-nach-milliarden-diebstahl-36-milliarden-dollar-ab?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-15",
+     "title": "Angriffe auf Lücken in Drupal, Ivanti Connect Secure und Synology",
+     "summary": "Angreifer nutzen aktiv Schwachstellen in Drupal, Ivanti Connect Secure und Synology aus, teils als Zero-Day-Lücken oder in veralteten Betriebssystemen. Admins sollten verfügbare Updates sofort einspielen.",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wissenschaft",
+   "items": [
+    {
+     "id": "2026-11-03-16",
+     "title": "Häm in 115 Millionen Jahre altem Dinosaurierknochen entdeckt",
+     "summary": "In einem Raubsaurier aus Brasilien (Aratasaurus) fanden Forschende Häm, den Bestandteil des roten Blutfarbstoffs, in versteinerten roten Blutkörperchen. Bakterien am Grund eines Gewässers haben das Molekül offenbar konserviert.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347067/versteinertes-blut-in-115-millionen-jahre-altem-dinosaurierknochen-entdeckt?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41413151/erstmals-spuren-von-dinosaurier-blut-in-115-millionen-jahre-alten-knochen",
+       "paywall": true
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nahost",
+   "items": [
+    {
+     "id": "2026-11-03-17",
+     "title": "Israel: Netanjahu will trotz verfehlter Mehrheit regieren",
+     "summary": "Netanjahus rechtsreligiöser Block hat bei der Wahl keine Mehrheit erreicht, er strebt aber eine breite Koalition ohne arabische Parteien an. Am Mittwoch beginnen die Konsultationen von Präsident Herzog über die Regierungsbildung.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446905/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347197/netanyahu-will-breite-koalitionsregierung-unter-seiner-f252hrung?ref=rss"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446864/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-18",
+     "title": "USA greifen Ziele im Iran an, Ölpreis fällt",
+     "summary": "Das US-Militär hat laut Regierungsvertretern begrenzte Angriffe auf iranische Ziele in der Straße von Hormus und auf der Insel Qeschm geflogen. Zugleich laufen indirekte Gespräche, und Brent fiel um mehr als 6 Prozent auf 105,55 Dollar.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347203/berichte-us-militaer-greift-ziel-auf-iranischer-insel-qeschm-an?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "USA",
+   "items": [
+    {
+     "id": "2026-11-03-19",
+     "title": "Midterms: Demokraten gelten als Favoriten im Repräsentantenhaus",
+     "summary": "Umfragen deuten auf eine Rückeroberung des Repräsentantenhauses durch die Demokraten hin, der Senat bleibt umkämpft. Trumps Zustimmung liegt laut Reuters/Ipsos bei nur 32 Prozent, belastet von 3,7 Prozent Inflation.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347035/wahltag-in-den-usa-die-drei-wichtigsten-szenarien-fuer-den-ausgang-der-midterms?ref=rss"
+      },
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/international/midterms-in-den-usa-wo-das-rennen-um-den-senat-entschieden-wird"
+      },
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/politik/ausland/midterms-usa-inflation-benzinpreise-100.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-03-20",
+     "title": "Supreme Court weist Trumps Eilantrag zur Briefwahl in Kalifornien ab",
+     "summary": "Das Gericht lehnte den Antrag ab, 20.000 Stimmzettel mutmaßlicher Nichtstaatsbürger gesondert zu behandeln. Damit ist der Versuch der Regierung, diese Stimmen auszuschließen, im Wesentlichen gescheitert.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347196/wahlstreit-in-kalifornien-trump-schaltet-supreme-court-ein?ref=rss"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/weltpolitik/gericht-weist-trumps-antrag-zur-briefwahl-in-kalifornien-ab-art-681770",
+       "paywall": true
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
