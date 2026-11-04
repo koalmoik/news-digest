@@ -1,143 +1,143 @@
-# Morgen-Digest · Dienstag, 3. November 2026
+# Morgen-Digest · Mittwoch, 4. November 2026
 
-_Am Dienstag wählen die USA ihren Kongress, während Washington im Iran-Konflikt erneut Ziele in der Straße von Hormus angreift. Hierzulande steigt die Arbeitslosigkeit weiter, und in Europa legen Cyberangriffe auf Supermarkt-Kühlsysteme den Handel lahm._
+_Die Demokraten haben bei den US-Zwischenwahlen den Senat erobert und das Repräsentantenhaus gewonnen – eine klare Absage an Donald Trump. Zudem: Spaniens Verkehrsminister tritt zurück, vor neuen Ukraine-Gesprächen wächst der Druck, und Cyberangriffe legen Supermarkt-Kühlungen in ganz Europa lahm._
 
 ## Innenpolitik
 
-### Stocker besucht China zu mehrtägigem Arbeitsbesuch
+### Pilnacek-U-Ausschuss: Vier weitere Termine geplant
 
-Bundeskanzler Christian Stocker ist zu einem mehrtägigen Arbeitsbesuch in China aufgebrochen. Ziel sind eine Vertiefung der diplomatischen Beziehungen, die Vertretung europäischer Interessen und Chancen für heimische Unternehmen.
+Im November und Dezember sollen jeweils zwei weitere Sitzungstage des Pilnacek-Untersuchungsausschusses stattfinden. Befragt werden sollen Sebastian Kurz, Karl Nehammer, Wolfgang Sobotka und Karoline Edtstadler.
 
-→ [Die Presse](https://www.diepresse.com/41413699/bundeskanzler-stocker-beginnt-mehrtaegigen-arbeitsbesuch-in-china)
+→ [ORF](https://orf.at/stories/3446986/) · [Der Standard](https://www.derstandard.at/story/3000000347354/pilnacek-u-ausschuss-voraussichtlich-vier-weitere-termine?ref=rss)
 
-### Grüne: Verteidigungsministerium hält Akten zurück
+### Stocker stellt Senkung der Flugabgabe in Aussicht
 
-Die Grünen werfen dem Verteidigungsministerium vor, einer Kommission bei der Prüfung von Rüstungsbeschaffungen Akten vorzuenthalten. Wehrsprecher David Stögmüller kritisiert dies unter anderem im Zusammenhang mit Sky Shield.
+Bundeskanzler Christian Stocker hat eine Senkung der Flugabgabe in Aussicht gestellt. Die AUA hatte zuletzt die hohen Standortkosten in Österreich kritisiert und bestätigt, vorerst keine neuen Langstreckenflieger zu erhalten.
 
-→ [ORF](https://orf.at/stories/3446891/) · [Der Standard](https://www.derstandard.at/story/3000000347155/bundesheer-gr252ne-bem228ngeln-vorenthaltene-akten?ref=rss) · [Die Presse](https://www.diepresse.com/41413729/bundesheer-gruene-bemaengeln-vorenthaltene-akten-zu-sky-shield)
-
-### AMS schuldet 250.000 Menschen 135 Millionen Euro
-
-Das AMS muss rund 250.000 Betroffenen insgesamt 135 Millionen Euro nachzahlen; das Geld wird automatisch ausgezahlt. AMS-Chef Johannes Kopf rechnet damit, dass die Zahl der Betroffenen noch steigt.
-
-→ [ORF](https://orf.at/stories/3446871/) · [Der Standard](https://www.derstandard.at/story/3000000347114/ams-chefin-draxl-zu-nachzahlungen-geld-kommt-vom-staat?ref=rss)
+→ [ORF](https://orf.at/stories/3446998/) · [Der Standard](https://www.derstandard.at/story/3000000347237/aua-erhaelt-vorerst-keine-neuen-langstreckenflugzeuge?ref=rss)
 
 ## EU
 
-### Belgiens Premier De Wever bietet Rücktritt an
+### EU und Großbritannien vor Einigung auf Handelserleichterungen
 
-Nach festgefahrenen Budgetverhandlungen hat Premier Bart De Wever König Philippe seinen Rücktritt angeboten. Der König prüft das Gesuch und beginnt Konsultationen mit den Parteichefs der Mehrheit.
+Laut „Handelsblatt“ stehen die EU und Großbritannien vor einem Abkommen, das Grenzkontrollen für Lebensmittel weitgehend abschaffen soll. Junge Menschen könnten demnach bis zu drei Jahre im jeweils anderen Land leben und arbeiten.
 
-→ [Deutsche Welle](https://www.dw.com/de/belgiens-premier-de-wever-bietet-rücktritt-an/a-79830776?maca=de-rss-de-all-1119-rdf) · [SRF](https://www.srf.ch/news/international/belgien-premierminister-de-wever-bietet-koenig-philippe-ruecktritt-an) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/belgian-pm-offers-resignation-after-budget-talks-collapse/)
+→ [Der Standard](https://www.derstandard.at/story/3000000347381/eu-und-gro223britannien-vor-einigung-auf-handelserleichterungen?ref=rss) · [Die Presse](https://www.diepresse.com/41417074/eu-und-grossbritannien-stehen-vor-neuem-handelsdeal)
 
-### Machtkampf um Polens Verfassungsgericht eskaliert
+### Kommission setzt 2027 auf Deregulierung und schlankere Agenda
 
-Am Wochenende kam es vor dem Verfassungsgericht zu Tumulten, Staatschef Nawrocki brach eine Auslandsreise ab. Das Lager von Premier Tusk will das Gericht übernehmen, PiS und der Präsident sprechen von einem Staatsstreich.
+Laut Entwurf des Arbeitsprogramms 2027 will die EU-Kommission ihre Gesetzesvorhaben verringern, stockende Vorschläge zurückziehen und auf Wettbewerbsfähigkeit sowie Umsetzung setzen. Auch eine Lockerung der Naturschutzgesetze bleibt demnach im Raum.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html) · [Deutsche Welle](https://www.dw.com/de/polens-verfassungsgericht-im-machtkampf-tusk-lager-übernimmt-tribunal-pis-und-präsident-nawrocki-sprechen-von-staatsstreich/a-79830839?maca=de-rss-de-all-1119-rdf)
+→ [Politico Europe](https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/exclusive-commission-narrows-legislative-focus-in-2027/)
 
 ## Welt
 
-### Russischer Luftangriff in Saporischschja tötet mindestens 26 Menschen
+### Vor neuen Ukraine-Gesprächen sucht Selenskyj Rückhalt in Berlin
 
-Bei einem Angriff auf eine Verteilstelle für humanitäre Hilfe in einer Schule in der Region Saporischschja starben nach ukrainischen Angaben mindestens 26 Menschen. Präsident Selenskyj sprach von gezieltem Beschuss; die Kämpfe in Cherson sind nach der längsten Waffenruhe des Krieges zurückgekehrt.
+Bundeskanzler Merz sagte Selenskyj weitere Hilfe für den Winter zu und pochte auf eine EU-Beteiligung an den Friedensgesprächen. Kommende Woche sollen die USA, Russland und die Ukraine erstmals seit Februar wieder direkt verhandeln.
 
-→ [Die Presse](https://www.diepresse.com/41413893/mindestens-24-tote-bei-russischem-luftangriff-in-saporischschja) · [Tagesschau](https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347182/russland-greift-ziele-in-region-odessa-an?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html)
 
-### Neue Dreiergespräche USA–Ukraine–Russland in Abu Dhabi
+### Spaniens Verkehrsminister Puente tritt zurück
 
-Der US-Vermittler Witkoff kündigte für nächsten Dienstag und Mittwoch ein Treffen auf Arbeitsebene in Abu Dhabi an. Kiew warnt zugleich vor einem russischen Großangriff auf die Energieinfrastruktur während der US-Wahl.
+Óscar Puente zieht die Konsequenzen aus dem Zugunglück vom 28. Oktober mit 69 Toten, dem zweiten schweren Bahnunglück in Spanien binnen eines Jahres. Bei der vorgezogenen Wahl am 29. November will er nicht mehr kandidieren.
 
-→ [SRF](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-witkoff-naechste-woche-verhandlungen-mit-ukraine-und-russland) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347182/russland-greift-ziele-in-region-odessa-an?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347386/zugsungl252ck-in-spanien-verkehrsminister-tritt-zur252ck?ref=rss) · [Die Presse](https://www.diepresse.com/41417111/nach-zwei-toedlichen-zugungluecken-spaniens-verkehrsminister-tritt-zurueck) · [ORF](https://orf.at/stories/3447022/)
+
+### Grönlands Parlament stimmt Abkommen mit den USA zu
+
+Das Abkommen ergänzt das seit 1951 bestehende Verteidigungsabkommen und ermöglicht eine stärkere US-Militärpräsenz auf der Insel, darunter zusätzliche Stützpunkte. Die Zustimmung des dänischen Parlaments steht noch aus.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000347378/gr246nl228nds-parlament-gibt-gr252nes-licht-f252r-abkommen-mit-den-usa?ref=rss) · [Die Presse](https://www.diepresse.com/41416961/groenlands-parlament-stimmt-abkommen-mit-den-usa-zu)
 
 ## Wirtschaft
 
-### Arbeitslosigkeit im Oktober weiter gestiegen: 390.000 ohne Job
+### Handels-KV: Arbeitgeber bieten 2,1 Prozent und Einmalzahlung
 
-Die Zahl der Arbeitslosen liegt um 0,5 Prozent über dem Wert von Oktober 2025. Während die Arbeitslosigkeit bei Frauen steigt, sinkt sie bei Männern.
+In den Kollektivvertragsverhandlungen für rund 420.000 Handelsangestellte liegt ein Arbeitgeberangebot von 2,1 Prozent plus Einmalzahlung auf dem Tisch. Der Druck auf beiden Seiten ist groß, der Spielraum gering.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347001/arbeitslosigkeit-im-oktober-weiter-gestiegen-390000-ohne-job?ref=rss)
+→ [ORF](https://orf.at/stories/3447000/) · [Der Standard](https://www.derstandard.at/story/3000000347314/niedrige-loehne-hohe-huerden-hartes-ringen-im-handel?ref=rss)
 
-### Ryanair droht mit höheren Preisen und Nullrunden
+### Gaspreis steigt, Speicher in Deutschland weniger gefüllt
 
-Wegen teuren Kerosins im Zuge des Irankriegs kündigt Ryanair höhere Ticketpreise an und erwägt ein Einfrieren der Gehälter. Laut Airline könnten die Treibstoffkosten 2028 um 2 Mrd. Euro steigen; Konflikte mit den Gewerkschaften zeichnen sich ab.
+Die geopolitischen Spannungen um den Iran treiben die europäischen Erdgaspreise deutlich nach oben. Deutschland hat weniger Gas eingespeichert als geplant; Experten warnen vor Preisdruck in ganz Europa, die IEA sieht den Markt bis weit in 2027 angespannt.
 
-→ [ORF](https://orf.at/stories/3446866/) · [BBC](https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai)
+→ [Der Standard](https://www.derstandard.at/story/3000000347285/europ228ischer-gaspreis-steigt-deutlich?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000346931/hoher-gaspreis-leere-speicher-steht-uns-eine-preisrallye-im-winter-bevor?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-stockpile-shortfall-could-inflate-global-gas-prices-iea-warns/)
 
 ## Klima
 
-### Oktober war extrem warm und trocken
+### Brasilien legt globalen Fahrplan für Ausstieg aus fossilen Energien vor
 
-Der Oktober 2026 war laut Messdaten wärmer als 90 Prozent aller Oktober in Österreichs 260-jähriger Messgeschichte, rund ein Grad über dem Klimamittel. In vielen Regionen blieb es zudem deutlich zu trocken, die Dürre hält an.
+Das Cop30-Gastgeberland veröffentlicht eine freiwillige „Roadmap“ für die Abkehr von Kohle, Öl und Gas. Der Fokus soll vom Verhandeln aufs Umsetzen rücken.
 
-→ [ORF](https://orf.at/stories/3446840/) · [Der Standard](https://www.derstandard.at/story/3000000347096/oktober-verl228ngerte-in-214sterreich-die-enorme-trockenheit?ref=rss)
+→ [The Guardian](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/brazil-sketches-global-path-to-clean-energy/)
 
 ## Tech/KI
 
-### Anthropic meldet vor Börsengang 17 Mrd. Dollar Quartalsumsatz
+### EuGH-Generalanwalt: KI-Chatbots können Urheberrecht verletzen
 
-Aus bei der SEC eingereichten Unterlagen geht hervor, dass der Umsatz im dritten Quartal von 1,4 auf 17 Mrd. Dollar gestiegen ist. Der operative Verlust schrumpfte trotz hoher Infrastrukturkosten.
+Im ersten EuGH-Verfahren zu generativer KI sieht der Generalanwalt in der Nutzung geschützter Artikel ohne Genehmigung einen möglichen Verstoß. Das Training mit urheberrechtlich geschützten Daten hält er laut Bericht dagegen für zulässig. Das Gutachten ist nicht bindend, oft folgt der Gerichtshof ihm aber.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347173/anthropic-meldet-kurz-vor-b246rsengang-umsatzplus-von-1100-prozent?ref=rss) · [Die Presse](https://www.diepresse.com/41413804/anthropic-meldet-kurz-vor-boersengang-1100-prozent-umsatzplus)
-
-### Digitalgipfel in Berlin: Merz will mehr Tempo bei KI
-
-Kanzler Merz fordert einen schnellen Ausbau der KI-Fähigkeiten, nachdem eine Taskforce vor dem Verlust des Anschlusses warnte. Er hält Google-Cloud-Dienste für Nachrichtendienste für ausreichend souverän, was Kritik an der Abhängigkeit von US-Anbietern auslöst.
-
-→ [Tagesschau](https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html) · [ZDFheute](https://www.zdfheute.de/politik/deutschland/ki-kuenstliche-intelligenz-bundesregierung-gipfel-100.html) · [heise online](https://www.heise.de/news/Merz-Google-Cloud-ausreichend-souveraen-fuer-Nachrichtendienste-11508517.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [Der Standard](https://www.derstandard.at/story/3000000347330/eugh-gutachten-ki-chatbots-k246nnen-urheberrecht-verletzen?ref=rss) · [Die Presse](https://www.diepresse.com/41415349/eugh-gutachten-ki-chatbots-koennen-urheberrecht-verletzen) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/)
 
 ## IT-Security
 
-### Cyberangriffe stören Kühlsysteme von Supermärkten in ganz Europa
+### Hackerangriffe auf Supermarkt-Kühlungen in über zehn Ländern
 
-In mindestens sieben Ländern, darunter Belgien, Schweden und Luxemburg, wurden Kühl- und Gefrieranlagen manipuliert; Temperaturen stiegen teils auf 50 °C und große Mengen Lebensmittel mussten entsorgt werden. Es ist die zweite Welle nach den Angriffen auf französische Märkte im Oktober, die EU-Kommission leitet Untersuchungen ein.
+Manipulierte Kühlanlagen ließen in Supermärkten von Estland bis Portugal Lebensmittel verderben; nun sind auch Fälle in Deutschland und Italien bekannt. Als Einfallstor gilt veraltete Software. Die EU spricht von nicht isolierten Vorfällen, Spekulationen über Russland sind unbestätigt.
 
-→ [ORF](https://orf.at/stories/3446846/) · [Der Standard](https://www.derstandard.at/story/3000000347066/cyberangriff-vermutet-k252hlsysteme-europ228ischer-superm228rkte-gest246rt?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347240/kuehlregale-heizen-auf-mutmassliche-cyberangriffe-erreichen-deutschland-und-italien?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss) · [Politico Europe](https://www.politico.eu/article/supermarket-chain-thaw-massacre-ii-russia-suspected-in-europe-fridge-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-### Binance-Hack: Kunden ziehen 3,6 Mrd. Dollar ab
+### Google legt Botnetz auf 1,3 Millionen Android-TV-Boxen lahm
 
-Nach dem Diebstahl von Werten über 6,3 Mrd. Dollar, dem größten Krypto-Hack aller Zeiten, haben Kunden 3,6 Mrd. Dollar abgezogen. US-Behörden machen Nordkorea verantwortlich, Pjöngjang weist die Vorwürfe zurück.
+Das X.CPE-Botnetz bestand überwiegend aus Android-Set-Top-Boxen, die laut Google ab Werk mit Malware verseucht waren. Google macht den chinesischen Hersteller Videostrong dafür verantwortlich.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000346985/binance-kunden-ziehen-nach-milliarden-diebstahl-36-milliarden-dollar-ab?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000347305/android-tv-hersteller-unterwandert-mehr-als-eine-million-geraete-mit-hintertuer-und-botnetz?ref=rss) · [heise Security](https://www.heise.de/news/Google-legt-Botnetz-lahm-beschuldigt-Hersteller-von-Android-Set-Top-Boxen-11510056.html) · [Ars Technica](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/)
 
-### Angriffe auf Lücken in Drupal, Ivanti Connect Secure und Synology
+### Binance-Hack über 6,3 Mrd. Dollar: Fake-Vorstellungsgespräche als Einfallstor
 
-Angreifer nutzen aktiv Schwachstellen in Drupal, Ivanti Connect Secure und Synology aus, teils als Zero-Day-Lücken oder in veralteten Betriebssystemen. Admins sollten verfügbare Updates sofort einspielen.
+Ein Binance-Ingenieur wurde über eine reguläre Jobplattform zu fingierten Interviews eingeladen – so gelangten die Angreifer an den Rekord-Diebstahl. US-Behörden machen Nordkorea verantwortlich, Pjöngjang streitet das ab.
 
-→ [heise online](https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [ORF](https://orf.at/stories/3446995/) · [BBC](https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss) · [The Record](https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea)
 
 ## Wissenschaft
 
-### Häm in 115 Millionen Jahre altem Dinosaurierknochen entdeckt
+### KI-designtes Virus erstmals einem Menschen verabreicht
 
-In einem Raubsaurier aus Brasilien (Aratasaurus) fanden Forschende Häm, den Bestandteil des roten Blutfarbstoffs, in versteinerten roten Blutkörperchen. Bakterien am Grund eines Gewässers haben das Molekül offenbar konserviert.
+Ein US-Unternehmen hat mit einem KI-Modell Bakteriophagen entworfen und sie einem Mann mit einer resistenten Infektion verabreicht. Ob die Behandlung wirkte, ist noch unklar.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347067/versteinertes-blut-in-115-millionen-jahre-altem-dinosaurierknochen-entdeckt?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41413151/erstmals-spuren-von-dinosaurier-blut-in-115-millionen-jahre-alten-knochen) · [The Guardian](https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone)
+→ [Der Standard](https://www.derstandard.at/story/3000000347251/ki-designtes-virus-wurde-erstmals-einem-menschen-injiziert?ref=rss)
+
+### Rätsel um „Herzschlag“ im Stromnetz gelöst
+
+Die Netzfrequenz sinkt seit Jahren zu Beginn jeder Minute kurz ab. Schuld sind offenbar automatische Selbsttests von Notstrombatterien, die sich nach der Uhrzeit richten.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000347124/raetsel-um-geheimnisvollen-herzschlag-im-stromnetz-geloest?ref=rss)
 
 ## Nahost
 
-### Israel: Netanjahu will trotz verfehlter Mehrheit regieren
+### Trump kündigt Ende der US-Militärhilfe für Israel an
 
-Netanjahus rechtsreligiöser Block hat bei der Wahl keine Mehrheit erreicht, er strebt aber eine breite Koalition ohne arabische Parteien an. Am Mittwoch beginnen die Konsultationen von Präsident Herzog über die Regierungsbildung.
+Trump will die jährliche Militärhilfe von rund 3,8 Milliarden Dollar bis Jahresende einstellen, Israel brauche sie nicht. Beobachter zeigen sich skeptisch, ob und wie das umgesetzt wird.
 
-→ [ORF](https://orf.at/stories/3446905/) · [Der Standard](https://www.derstandard.at/story/3000000347197/netanyahu-will-breite-koalitionsregierung-unter-seiner-f252hrung?ref=rss) · [ORF](https://orf.at/stories/3446864/)
+→ [ORF](https://orf.at/stories/3446987/) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms)
 
-### USA greifen Ziele im Iran an, Ölpreis fällt
+### USA greifen iranische Insel Qeschm an
 
-Das US-Militär hat laut Regierungsvertretern begrenzte Angriffe auf iranische Ziele in der Straße von Hormus und auf der Insel Qeschm geflogen. Zugleich laufen indirekte Gespräche, und Brent fiel um mehr als 6 Prozent auf 105,55 Dollar.
+Die USA griffen laut Berichten eine iranische Flugabwehrstellung auf der Insel Qeschm an der Straße von Hormus an, Washington spricht von begrenzten, defensiven Schlägen. Der Iran nennt die US-Antwort auf seinen Hormus-Plan „unüberzeugend“, indirekte Gespräche laufen weiter.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347203/berichte-us-militaer-greift-ziel-auf-iranischer-insel-qeschm-an?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html) · [The Guardian](https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war)
+→ [Der Standard](https://www.derstandard.at/story/3000000347203/berichte-us-militaer-greift-ziel-auf-iranischer-insel-qeschm-an?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss)
 
 ## USA
 
-### Midterms: Demokraten gelten als Favoriten im Repräsentantenhaus
+### Midterms: Demokraten erobern Senat und Repräsentantenhaus
 
-Umfragen deuten auf eine Rückeroberung des Repräsentantenhauses durch die Demokraten hin, der Senat bleibt umkämpft. Trumps Zustimmung liegt laut Reuters/Ipsos bei nur 32 Prozent, belastet von 3,7 Prozent Inflation.
+Die Demokraten gewannen Senatssitze unter anderem in Texas (Talarico), Ohio, North Carolina, South Carolina, Iowa und Kansas und holten auch das Repräsentantenhaus. Trump sagte, er werde das Ergebnis akzeptieren. Für die letzten zwei Amtsjahre bedeutet das deutlich mehr Gegenwind im Kongress.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347035/wahltag-in-den-usa-die-drei-wichtigsten-szenarien-fuer-den-ausgang-der-midterms?ref=rss) · [SRF](https://www.srf.ch/news/international/midterms-in-den-usa-wo-das-rennen-um-den-senat-entschieden-wird) · [ZDFheute](https://www.zdfheute.de/politik/ausland/midterms-usa-inflation-benzinpreise-100.html)
+→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347052/us-midterms-kommt-die-blaue-welle-oder-gelingt-trump-doch-noch-die-ueberraschung?ref=rss) · [ORF](https://orf.at/stories/3447069/) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump)
 
-### Supreme Court weist Trumps Eilantrag zur Briefwahl in Kalifornien ab
+### Jeffries wird wohl erster schwarzer Sprecher des Repräsentantenhauses
 
-Das Gericht lehnte den Antrag ab, 20.000 Stimmzettel mutmaßlicher Nichtstaatsbürger gesondert zu behandeln. Damit ist der Versuch der Regierung, diese Stimmen auszuschließen, im Wesentlichen gescheitert.
+Der 56-jährige New Yorker Demokrat Hakeem Jeffries soll den Vorsitz im Repräsentantenhaus übernehmen. Die Demokraten bereiten bereits Untersuchungen gegen die Trump-Regierung vor.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347196/wahlstreit-in-kalifornien-trump-schaltet-supreme-court-ein?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/gericht-weist-trumps-antrag-zur-briefwahl-in-kalifornien-ab-art-681770) · [BBC](https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347319/hakeem-jeffries-soll-nun-donald-trumps-machtrausch-brechen?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41414337/machtwechsel-im-kongress-der-demokrat-hakeem-jeffries-wird-erster-afroamerikanischer-speaker) · [France 24](https://www.france24.com/en/americas/20261103-trump-family-wealth-epstein-vanity-projects-democrats-plan-to-investigate-after-midterms)

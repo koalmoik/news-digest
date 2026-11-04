@@ -1,0 +1,391 @@
+{
+ "date": "2026-11-04",
+ "title": "Morgen-Digest · Mittwoch, 4. November 2026",
+ "generated": "2026-11-04T06:07+01:00",
+ "intro": "Die Demokraten haben bei den US-Zwischenwahlen den Senat erobert und das Repräsentantenhaus gewonnen – eine klare Absage an Donald Trump. Zudem: Spaniens Verkehrsminister tritt zurück, vor neuen Ukraine-Gesprächen wächst der Druck, und Cyberangriffe legen Supermarkt-Kühlungen in ganz Europa lahm.",
+ "topics": [
+  {
+   "name": "Innenpolitik",
+   "items": [
+    {
+     "id": "2026-11-04-01",
+     "title": "Pilnacek-U-Ausschuss: Vier weitere Termine geplant",
+     "summary": "Im November und Dezember sollen jeweils zwei weitere Sitzungstage des Pilnacek-Untersuchungsausschusses stattfinden. Befragt werden sollen Sebastian Kurz, Karl Nehammer, Wolfgang Sobotka und Karoline Edtstadler.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446986/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347354/pilnacek-u-ausschuss-voraussichtlich-vier-weitere-termine?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-02",
+     "title": "Stocker stellt Senkung der Flugabgabe in Aussicht",
+     "summary": "Bundeskanzler Christian Stocker hat eine Senkung der Flugabgabe in Aussicht gestellt. Die AUA hatte zuletzt die hohen Standortkosten in Österreich kritisiert und bestätigt, vorerst keine neuen Langstreckenflieger zu erhalten.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446998/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347237/aua-erhaelt-vorerst-keine-neuen-langstreckenflugzeuge?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "EU",
+   "items": [
+    {
+     "id": "2026-11-04-03",
+     "title": "EU und Großbritannien vor Einigung auf Handelserleichterungen",
+     "summary": "Laut „Handelsblatt“ stehen die EU und Großbritannien vor einem Abkommen, das Grenzkontrollen für Lebensmittel weitgehend abschaffen soll. Junge Menschen könnten demnach bis zu drei Jahre im jeweils anderen Land leben und arbeiten.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347381/eu-und-gro223britannien-vor-einigung-auf-handelserleichterungen?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41417074/eu-und-grossbritannien-stehen-vor-neuem-handelsdeal"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-04",
+     "title": "Kommission setzt 2027 auf Deregulierung und schlankere Agenda",
+     "summary": "Laut Entwurf des Arbeitsprogramms 2027 will die EU-Kommission ihre Gesetzesvorhaben verringern, stockende Vorschläge zurückziehen und auf Wettbewerbsfähigkeit sowie Umsetzung setzen. Auch eine Lockerung der Naturschutzgesetze bleibt demnach im Raum.",
+     "sources": [
+      {
+       "name": "Politico Europe",
+       "url": "https://www.politico.eu/article/brussels-sets-slimline-legislative-agenda-for-2027/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/exclusive-commission-narrows-legislative-focus-in-2027/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welt",
+   "items": [
+    {
+     "id": "2026-11-04-05",
+     "title": "Vor neuen Ukraine-Gesprächen sucht Selenskyj Rückhalt in Berlin",
+     "summary": "Bundeskanzler Merz sagte Selenskyj weitere Hilfe für den Winter zu und pochte auf eine EU-Beteiligung an den Friedensgesprächen. Kommende Woche sollen die USA, Russland und die Ukraine erstmals seit Februar wieder direkt verhandeln.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000347182/russland-greift-ziele-in-region-odessa-an?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-06",
+     "title": "Spaniens Verkehrsminister Puente tritt zurück",
+     "summary": "Óscar Puente zieht die Konsequenzen aus dem Zugunglück vom 28. Oktober mit 69 Toten, dem zweiten schweren Bahnunglück in Spanien binnen eines Jahres. Bei der vorgezogenen Wahl am 29. November will er nicht mehr kandidieren.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347386/zugsungl252ck-in-spanien-verkehrsminister-tritt-zur252ck?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41417111/nach-zwei-toedlichen-zugungluecken-spaniens-verkehrsminister-tritt-zurueck"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447022/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-07",
+     "title": "Grönlands Parlament stimmt Abkommen mit den USA zu",
+     "summary": "Das Abkommen ergänzt das seit 1951 bestehende Verteidigungsabkommen und ermöglicht eine stärkere US-Militärpräsenz auf der Insel, darunter zusätzliche Stützpunkte. Die Zustimmung des dänischen Parlaments steht noch aus.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347378/gr246nl228nds-parlament-gibt-gr252nes-licht-f252r-abkommen-mit-den-usa?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41416961/groenlands-parlament-stimmt-abkommen-mit-den-usa-zu"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wirtschaft",
+   "items": [
+    {
+     "id": "2026-11-04-08",
+     "title": "Handels-KV: Arbeitgeber bieten 2,1 Prozent und Einmalzahlung",
+     "summary": "In den Kollektivvertragsverhandlungen für rund 420.000 Handelsangestellte liegt ein Arbeitgeberangebot von 2,1 Prozent plus Einmalzahlung auf dem Tisch. Der Druck auf beiden Seiten ist groß, der Spielraum gering.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447000/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347314/niedrige-loehne-hohe-huerden-hartes-ringen-im-handel?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-09",
+     "title": "Gaspreis steigt, Speicher in Deutschland weniger gefüllt",
+     "summary": "Die geopolitischen Spannungen um den Iran treiben die europäischen Erdgaspreise deutlich nach oben. Deutschland hat weniger Gas eingespeichert als geplant; Experten warnen vor Preisdruck in ganz Europa, die IEA sieht den Markt bis weit in 2027 angespannt.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347285/europ228ischer-gaspreis-steigt-deutlich?ref=rss"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000346931/hoher-gaspreis-leere-speicher-steht-uns-eine-preisrallye-im-winter-bevor?ref=rss"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/eu-stockpile-shortfall-could-inflate-global-gas-prices-iea-warns/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Klima",
+   "items": [
+    {
+     "id": "2026-11-04-10",
+     "title": "Brasilien legt globalen Fahrplan für Ausstieg aus fossilen Energien vor",
+     "summary": "Das Cop30-Gastgeberland veröffentlicht eine freiwillige „Roadmap“ für die Abkehr von Kohle, Öl und Gas. Der Fokus soll vom Verhandeln aufs Umsetzen rücken.",
+     "sources": [
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/brazil-sketches-global-path-to-clean-energy/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech/KI",
+   "items": [
+    {
+     "id": "2026-11-04-11",
+     "title": "EuGH-Generalanwalt: KI-Chatbots können Urheberrecht verletzen",
+     "summary": "Im ersten EuGH-Verfahren zu generativer KI sieht der Generalanwalt in der Nutzung geschützter Artikel ohne Genehmigung einen möglichen Verstoß. Das Training mit urheberrechtlich geschützten Daten hält er laut Bericht dagegen für zulässig. Das Gutachten ist nicht bindend, oft folgt der Gerichtshof ihm aber.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347330/eugh-gutachten-ki-chatbots-k246nnen-urheberrecht-verletzen?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41415349/eugh-gutachten-ki-chatbots-koennen-urheberrecht-verletzen"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/ai-faces-limits-in-reusing-news-articles-says-top-eu-court-advisor/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IT-Security",
+   "items": [
+    {
+     "id": "2026-11-04-12",
+     "title": "Hackerangriffe auf Supermarkt-Kühlungen in über zehn Ländern",
+     "summary": "Manipulierte Kühlanlagen ließen in Supermärkten von Estland bis Portugal Lebensmittel verderben; nun sind auch Fälle in Deutschland und Italien bekannt. Als Einfallstor gilt veraltete Software. Die EU spricht von nicht isolierten Vorfällen, Spekulationen über Russland sind unbestätigt.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347240/kuehlregale-heizen-auf-mutmassliche-cyberangriffe-erreichen-deutschland-und-italien?ref=rss"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks?traffic_source=rss"
+      },
+      {
+       "name": "Politico Europe",
+       "url": "https://www.politico.eu/article/supermarket-chain-thaw-massacre-ii-russia-suspected-in-europe-fridge-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-13",
+     "title": "Google legt Botnetz auf 1,3 Millionen Android-TV-Boxen lahm",
+     "summary": "Das X.CPE-Botnetz bestand überwiegend aus Android-Set-Top-Boxen, die laut Google ab Werk mit Malware verseucht waren. Google macht den chinesischen Hersteller Videostrong dafür verantwortlich.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347305/android-tv-hersteller-unterwandert-mehr-als-eine-million-geraete-mit-hintertuer-und-botnetz?ref=rss"
+      },
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Google-legt-Botnetz-lahm-beschuldigt-Hersteller-von-Android-Set-Top-Boxen-11510056.html"
+      },
+      {
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-14",
+     "title": "Binance-Hack über 6,3 Mrd. Dollar: Fake-Vorstellungsgespräche als Einfallstor",
+     "summary": "Ein Binance-Ingenieur wurde über eine reguläre Jobplattform zu fingierten Interviews eingeladen – so gelangten die Angreifer an den Rekord-Diebstahl. US-Behörden machen Nordkorea verantwortlich, Pjöngjang streitet das ab.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446995/"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "The Record",
+       "url": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wissenschaft",
+   "items": [
+    {
+     "id": "2026-11-04-15",
+     "title": "KI-designtes Virus erstmals einem Menschen verabreicht",
+     "summary": "Ein US-Unternehmen hat mit einem KI-Modell Bakteriophagen entworfen und sie einem Mann mit einer resistenten Infektion verabreicht. Ob die Behandlung wirkte, ist noch unklar.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347251/ki-designtes-virus-wurde-erstmals-einem-menschen-injiziert?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-16",
+     "title": "Rätsel um „Herzschlag“ im Stromnetz gelöst",
+     "summary": "Die Netzfrequenz sinkt seit Jahren zu Beginn jeder Minute kurz ab. Schuld sind offenbar automatische Selbsttests von Notstrombatterien, die sich nach der Uhrzeit richten.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347124/raetsel-um-geheimnisvollen-herzschlag-im-stromnetz-geloest?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nahost",
+   "items": [
+    {
+     "id": "2026-11-04-17",
+     "title": "Trump kündigt Ende der US-Militärhilfe für Israel an",
+     "summary": "Trump will die jährliche Militärhilfe von rund 3,8 Milliarden Dollar bis Jahresende einstellen, Israel brauche sie nicht. Beobachter zeigen sich skeptisch, ob und wie das umgesetzt wird.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3446987/"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/03/donald-trump-usa-end-military-aid-to-israel-end-year-midterms"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-18",
+     "title": "USA greifen iranische Insel Qeschm an",
+     "summary": "Die USA griffen laut Berichten eine iranische Flugabwehrstellung auf der Insel Qeschm an der Straße von Hormus an, Washington spricht von begrenzten, defensiven Schlägen. Der Iran nennt die US-Antwort auf seinen Hormus-Plan „unüberzeugend“, indirekte Gespräche laufen weiter.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347203/berichte-us-militaer-greift-ziel-auf-iranischer-insel-qeschm-an?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "USA",
+   "items": [
+    {
+     "id": "2026-11-04-19",
+     "title": "Midterms: Demokraten erobern Senat und Repräsentantenhaus",
+     "summary": "Die Demokraten gewannen Senatssitze unter anderem in Texas (Talarico), Ohio, North Carolina, South Carolina, Iowa und Kansas und holten auch das Repräsentantenhaus. Trump sagte, er werde das Ergebnis akzeptieren. Für die letzten zwei Amtsjahre bedeutet das deutlich mehr Gegenwind im Kongress.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000347052/us-midterms-kommt-die-blaue-welle-oder-gelingt-trump-doch-noch-die-ueberraschung?ref=rss"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447069/"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-republicans-midterms-trump"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-04-20",
+     "title": "Jeffries wird wohl erster schwarzer Sprecher des Repräsentantenhauses",
+     "summary": "Der 56-jährige New Yorker Demokrat Hakeem Jeffries soll den Vorsitz im Repräsentantenhaus übernehmen. Die Demokraten bereiten bereits Untersuchungen gegen die Trump-Regierung vor.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347319/hakeem-jeffries-soll-nun-donald-trumps-machtrausch-brechen?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41414337/machtwechsel-im-kongress-der-demokrat-hakeem-jeffries-wird-erster-afroamerikanischer-speaker",
+       "paywall": true
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/americas/20261103-trump-family-wealth-epstein-vanity-projects-democrats-plan-to-investigate-after-midterms"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
