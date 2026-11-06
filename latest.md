@@ -1,143 +1,143 @@
-# Morgen-Digest · Donnerstag, 5. November 2026
+# Morgen-Digest · Freitag, 6. November 2026
 
-_Die Demokraten haben bei den US-Midterms beide Kongresskammern erobert; JD Vance und Trump streiten über die Rolle des Iran-Kriegs. In Österreich kippt der VfGH eine Social-Media-Regel, und ein Hackerangriff auf Kühlsysteme trifft französische Blutbanken._
+_Der Sieg der Demokraten bei den US-Midterms erschüttert die Märkte – die Nasdaq erlebt ihren schwächsten Tag seit eineinhalb Jahren – und in Europa sorgen Bombendrohungen gegen Flüge sowie Cyberangriffe auf Kühlanlagen für Unruhe. In Österreich wird René Benko erneut verurteilt._
 
 ## Innenpolitik
 
-### VfGH kippt Regel zu Social-Media-Accounts von Regierungsmitgliedern
+### Benko erneut wegen schweren Betrugs verurteilt
 
-Der Verfassungsgerichtshof hat eine 2025 beschlossene Regelung aufgehoben, die es Kabinettsmitarbeitern erlaubte, Inhalte für persönliche Social-Media-Accounts von Regierungsmitgliedern zu erstellen. Die Regelung diskriminiere laut Gericht andere Parteien. Die FPÖ wertet das als Erfolg.
+Der Signa-Gründer René Benko wurde am Landesgericht Innsbruck wegen Betrugs an der Haselsteiner-Stiftung (fünf Millionen Euro) zu zwei Jahren Zusatzstrafe verurteilt. Vom Vorwurf der betrügerischen Krida wurde er freigesprochen. Das Urteil ist nicht rechtskräftig.
 
-→ [ORF](https://orf.at/stories/3447232/) · [Der Standard](https://www.derstandard.at/story/3000000347460/erfolg-fuer-fpoe-am-vfgh-social-media-regeln-fuer-parteien-verstossen-gegen-die-verfassung?ref=rss)
+→ [ORF](https://orf.at/stories/3447315/) · [Der Standard](https://www.derstandard.at/story/3000000347670/zwei-jahre-zusatzstrafe-warum-rene-benko-erneut-verurteilt-wurde?ref=rss) · [Die Presse](https://www.diepresse.com/41421448/zwei-jahre-zusatzstrafe-schuldspruch-fuer-rene-benko)
 
-### Impfen in Apotheken soll ab Frühjahr 2027 möglich werden
+### Regierung weitet Befugnisse gegen ausländische Spione aus
 
-Die Bundesregierung ermöglicht, dass Apotheken künftig Impfungen gegen FSME, Keuchhusten-Tetanus-Diphtherie und Hepatitis anbieten dürfen. Der Start ist möglichst ab dem Frühjahr 2027 geplant. Ziel ist ein kürzerer Weg zum Impfschutz.
+Auf den letzten Metern des Gesetzgebungsprozesses hat die ÖVP ihren Widerstand aufgegeben: Die Heeresdienste sollen mehr Befugnisse gegen ausländische Spionage erhalten. Voraussetzung ist, dass auch die Gefährderüberwachung kommt.
 
-→ [ORF](https://orf.at/stories/3447189/) · [Der Standard](https://www.derstandard.at/story/3000000347475/regierung-erm246glicht-impfen-in-apotheken?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347236/regierung-nimmt-jetzt-doch-auslaendische-spione-ins-visier?ref=rss)
 
 ## EU
 
-### EU-Umweltausschuss stimmt für Aufweichung des Verbrenner-Aus
+### EU streitet über gemeinsame Stimme in Ukraine-Gesprächen
 
-Der Umweltausschuss des Europaparlaments unterstützt eine Lockerung der Null-CO2-Vorgabe für Neuwagen ab 2035. Auch nach 2035 sollen neue Verbrenner und Hybride verkauft werden können. Die Grünen warnen vor Investitionsrisiken durch politisches Hin und Her.
+Bei den Brüsseler Gesprächen über Sicherheitsgarantien für die Ukraine beklagt Italiens Premierministerin Meloni das Fehlen einer einheitlichen EU-Stimme als „inakzeptabel“. Polen bringt unterdessen Costa, Kallas und den Briten Burnham als mögliche Verhandler mit Putin ins Spiel.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347574/umweltausschuss-eu-abgeordnete-stimmen-fuer-aufweichung-von-verbrenner-aus?ref=rss) · [ZDFheute](https://www.zdfheute.de/wirtschaft/eu-parlament-abstimmung-aufweichung-verbrenner-aus-100.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/centrist-meps-agree-on-reversal-of-petrol-diesel-car-ban/)
+→ [ORF](https://orf.at/stories/3447327/) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-tears-itself-apart-over-who-talks-to-putin/) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/meloni-protests-eu-disarray-as-brussels-hosts-ukraine-talks/)
 
-### Montenegro könnte 2028 EU-Mitglied werden
+### Bombendrohungen stören Europas Flugverkehr erneut
 
-Die EU-Kommission hält Montenegro für beitrittsbereit; der Beitrittsvertrag könnte 2027 unterzeichnet werden. Ob 2028 tatsächlich Mitglied, liegt nun bei den Mitgliedstaaten. Auch Albanien, Moldau und die Ukraine kommen laut Kommission voran.
+Zum zweiten Mal in dieser Woche wurden mindestens 27 Flüge wegen Bombendrohungen umgeleitet oder zur Notlandung gezwungen; die Drohungen gelten als Falschalarme. Die EU hat einen Informationsaustausch zur Luftfahrtsicherheit aktiviert. Beweise für eine Täterschaft gibt es bisher nicht, manche Experten sehen einen Zusammenhang mit den Angriffen auf Kühlanlagen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347513/eu-westbalkanerweiterung-montenegro-soll-2027-beitrittsvertrag-unterzeichnen?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41412875/montenegros-zukunft-liegt-in-den-haenden-der-eu-staaten) · [Tagesschau](https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html)
+→ [Tagesschau](https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html) · [Deutsche Welle](https://www.dw.com/de/serie-von-bombendrohungen-gegen-flugzeuge-reißt-nicht-ab/a-79866218?maca=de-rss-de-all-1119-rdf) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-closely-monitoring-aircraft-bomb-hoaxes/)
 
 ## Welt
 
-### Ukraine, USA und Russland: Treffen in Abu Dhabi geplant
+### Trump kündigt nach Treffen mit Putin-Gesandtem „großen Deal“ an
 
-Selenskyj kündigt Gespräche auf Teamebene mit den USA und Russland an, die laut Standard am kommenden Dienstag und Mittwoch in Abu Dhabi stattfinden sollen. In Kyjiw hofft man nach dem Wahlerfolg der Demokraten auf einen Kurswechsel der USA. Ob sich daran tatsächlich etwas ändert, ist offen.
+Nach einem Treffen mit dem Kreml-Unterhändler Dmitrijew sagt Trump ein baldiges Abkommen im Ukraine-Krieg voraus, nannte aber keine Details. First Lady Melania Trump empfing russische und ukrainische Vertreter und rief zu einer dauerhaften Waffenruhe auf.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347581/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss) · [SRF](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-kuendigt-trilaterale-gespraeche-mit-usa-und-russland-an) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html)
+→ [ORF](https://orf.at/stories/3447368/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347581/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-traf-kreml-unterhaendler-und-sagt-grossen-deal-voraus-art-682414)
 
-### Russischer Angriff auf Schule bei Saporischschja: 40 Tote bestätigt
+### Hunderttausende protestieren in Frankreich
 
-Bei einem russischen Angriff am Montag auf das Dorf Komyschuwacha in der Region Saporischschja wurden nach Angaben Selenskyjs 40 Menschen getötet, weitere 30 könnten noch unter den Trümmern liegen. Kyjiw spricht von einem gezielten Doppelschlag. Der Angriff traf eine Schule.
+Laut Innenministerium gingen rund 600.000 Menschen für höhere Löhne, einen höheren Mindestlohn und bessere öffentliche Dienste auf die Straße, die Gewerkschaften sprechen von bis zu 1,6 Millionen. Es gab 448 Festnahmen und vereinzelte Ausschreitungen.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347373/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news)
+→ [Der Standard](https://www.derstandard.at/story/3000000347675/protesttag-in-frankreich-schulblockaden-und-gest246rter-bahnverkehr?ref=rss) · [ORF](https://orf.at/stories/3447358/) · [BBC](https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss)
 
-### Hongkonger Aktivist Joshua Wong zu zehn Jahren Haft verurteilt
+### Paraguays Präsident Peña nach Bankenkollaps zurückgetreten
 
-Der 30-jährige Joshua Wong wurde nach dem Sicherheitsgesetz wegen Zusammenarbeit mit ausländischen Mächten zu zehn weiteren Jahren Haft verurteilt. Er sitzt seit 2020 in Haft und ist der einzige Aktivist, der in Hongkong zweimal nach dem Gesetz verfolgt wurde.
+Nach dem Zusammenbruch der Digitalbank Ueno, bei dem Millionen Menschen ihre Ersparnisse nicht mehr erreichen, trat Santiago Peña zurück. Der Kongress eröffnete zugleich ein Amtsenthebungsverfahren, die Staatsanwaltschaft ermittelt.
 
-→ [BBC](https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case) · [France 24](https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion)
-
-### Spanien: Verkehrsminister Puente tritt nach Zugunglück zurück
-
-Nach der Zugkatastrophe mit 69 Toten ist Verkehrsminister Óscar Puente zurückgetreten, zuvor hatte er den Schritt ausgeschlossen. Auch der Chef der Bahninfrastruktur ging. Premier Sánchez ernannte Wirtschaftsminister Carlos Cuerpo, um die Krise zu managen, vor einer anstehenden Wahl.
-
-→ [Deutsche Welle](https://www.dw.com/de/spaniens-verkehrsminister-tritt-nach-zugunglück-zurück/a-79852421?maca=de-rss-de-all-1119-rdf) · [Die Presse 🔒](https://www.diepresse.com/41419237/nach-zugunglueck-in-spanien-premier-sanchez-hofft-mit-ruecktritt-seines-ministers-zu-punkten) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/sanchez-appoints-economy-minister-to-manage-rail-crisis/)
+→ [Der Standard](https://www.derstandard.at/story/3000000347785/paraguays-pr228sident-pe241a-tritt-nach-bankenkollaps-zur252ck?ref=rss) · [ORF](https://orf.at/stories/3447346/) · [Tagesschau](https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html)
 
 ## Wirtschaft
 
-### Teuerung steigt: Eurozone 4,0 %, Österreich 3,6 %
+### Nasdaq schwächster Tag seit 18 Monaten nach Midterms
 
-Die Inflation im Euroraum lag im Oktober bei 4,0 Prozent, der höchste Wert seit September 2023. In Österreich beträgt sie 3,6 Prozent; laut Analyse geht rund ein Drittel auf die Folgen des Iran-Kriegs zurück. Die Arbeiterkammer fordert weitere Preiseingriffe.
+Die Aussicht auf strengere Regulierung der KI-Branche und von Rechenzentren nach dem Wahlsieg der Demokraten ließ die US-Tech-Werte einbrechen. Fast zwei Billionen Dollar Börsenwert wurden vernichtet. Der DAX erreichte dagegen ein Rekordhoch.
 
-→ [Tagesschau](https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html) · [Der Standard](https://www.derstandard.at/story/3000000347315/inflation-bei-36-prozent-ein-drittel-der-teuerung-in-oesterreich-geht-auf-trumps-kappe?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347792/us-b246rsen-bleiben-unter-druck-nasdaq-100-verliert-571-prozent?ref=rss) · [ORF](https://orf.at/stories/3447365/) · [The Guardian](https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses)
 
-### Neuer Benko-Prozess in Innsbruck gestartet
+### AT&S profitiert mit Rekordumsatz vom KI-Boom
 
-Der WKStA wirft Signa-Gründer René Benko unter anderem schweren Betrug vor; es geht um fünf Millionen Euro aus der Haselsteiner-Stiftung. Haselsteiner belastete Benko vor Gericht, ein Ex-Mitarbeiter nannte ihn den führenden Kopf der Signa.
+Der steirische Leiterplattenkonzern steigerte den Umsatz im 2. Quartal um die Hälfte auf 682 Millionen Euro, den höchsten Quartalswert der Firmengeschichte. Konzernchef Mertin sieht keine KI-Blase.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347427/haselsteiner-wollte-sich-von-bua-benko-nichts-anschaffen-lassen-und-belastet-ihn-vor-gericht?ref=rss) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000346977/benko-steht-wieder-vor-gericht-hat-er-die-haselsteiner-stiftung-betrogen?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347599/ats-meldet-rekordumsatz-und-profitiert-stark-vom-ki-boom?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347580/ats-chef-mertin-ursrueckgang-um-20-prozent-gefaehrdet-uns-nicht?ref=rss)
 
 ## Klima
 
-### UN: Welt nicht auf Klimafolgen vorbereitet, Anpassungsgelder stocken
+### Neusiedler See erreicht neuen Tiefststand
 
-Ein UN-Bericht zeigt, dass die Finanzierung für Klimaanpassung ärmerer Länder weit hinter dem Bedarf zurückbleibt und verzehnfacht werden müsste. Generalsekretär Guterres kritisiert fehlenden politischen Willen.
+Der Wasserstand liegt rund 40 Zentimeter unter dem Vorjahreswert und unterschreitet auch den bisherigen Tiefstwert von 2022. Die anhaltende Trockenheit belastet auch die Stromerzeugung: Der Verbund meldet einen Gewinneinbruch von über 40 Prozent.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347565/uno-bericht-hilfsgelder-f252r-klimaanpassung-m252ssen-steigen?ref=rss) · [The Guardian](https://www.theguardian.com/global-development/2026/nov/04/funding-poorer-countries-climate-crisis-adaptation-un-report)
+→ [Der Standard](https://www.derstandard.at/story/3000000347640/wasserstand-im-neusiedler-see-nun-auf-neuem-tiefstwert?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347639/historische-trockenheit-laesst-verbund-gewinn-einbrechen?ref=rss)
 
 ## Tech/KI
 
-### US-Wähler lehnen Rechenzentren ab
+### Widerstand gegen Rechenzentren wird politisch
 
-Bei den Wahlen wurden nahezu alle Moratorien gegen Datacenter, dutzende insgesamt, von den Wählern angenommen. Für die Tech-Branche ist das ein deutliches Signal gegen den KI-Ausbau; Branchenvertreter deuten das Ergebnis dagegen als reines Anti-Trump-Votum.
+In Hotspots wie Texas und Ohio gewannen Kandidatinnen mit scharfer Kritik an Rechenzentren die Gouverneurswahlen. OpenAI kündigte daraufhin anwohnerfreundlichere Rechenzentren an, in 15 europäischen Ländern sind Proteste geplant.
 
-→ [heise online](https://www.heise.de/news/US-Zwischenwahlen-Rechenzentren-noch-groessere-Verlierer-als-die-Republikaner-11510882.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections) · [Ars Technica](https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/)
+→ [Der Standard](https://www.derstandard.at/story/3000000347671/der-bau-von-rechenzentren-in-den-usa-wird-schwieriger-der-politische-kampf-gegen-sie-auch?ref=rss) · [heise online](https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Guardian](https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres)
+
+### Anthropic führt „Smart Reports“ für Firmenkunden ein
+
+Die Berichte sollen offiziell der Kostenkontrolle bei der KI-Nutzung dienen, ermöglichen laut Der Standard aber auch Einblicke in die Arbeitsweise einzelner Mitarbeiter. Die Grenze zur Leistungskontrolle verschwimmt damit.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000347666/ki-ueberwachung-wie-claude-die-arbeitsweise-von-mitarbeitern-durchleuchten-will?ref=rss)
 
 ## IT-Security
 
-### Hacker manipulieren Kühlsysteme: Französische Blutbanken betroffen
+### Zweite Welle von Angriffen auf Kühlanlagen quer durch Europa
 
-Angreifer griffen die Kühlsteuerung dreier Lager des französischen Blutspendedienstes an und setzten Temperatur- und Auftauschwellen auf sehr hohe Werte. Die Blutprodukte blieben laut Behörden unversehrt. Auch in Deutschland und anderen EU-Ländern wurden Kühlanlagen, etwa in Supermärkten, manipuliert; das heimische CERT warnt vor veralteter Technik.
+Nach Frankreich wurden Kühlsysteme von Supermärkten in mindestens neun europäischen Ländern manipuliert, nun auch in der Schweiz und bei Blutkonserven. Die Lebensmittelverluste gehen in die Hunderte Millionen. Der Kreml weist eine Beteiligung zurück, US-Behörden fordern Betreiber kritischer Infrastruktur zur Absicherung auf.
 
-→ [ORF](https://orf.at/stories/3447201/) · [Der Standard](https://www.derstandard.at/story/3000000347552/mehrere-blutbanken-in-frankreich-von-hackerangriff-betroffen?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347276/wir-monitoren-die-lage-wie-gefaehrdet-oesterreichs-supermaerkte-durch-kuehlregal-hacks-sind?ref=rss) · [heise online](https://www.heise.de/news/Nach-Gefriertruhen-Attacken-Jetzt-Blutbank-Kuehlung-im-Visier-11511444.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [CERT.at](https://www.cert.at/de/blog/2026/11/kuhlanlagenmanipulationen-zweite-runde) · [Der Standard](https://www.derstandard.at/story/3000000347731/erster-bekannter-cyberangriff-auf-k252hlanlage-in-der-schweiz?ref=rss) · [The Record](https://therecord.media/cyberattacks-refrigeration-cisa-fbi)
 
-### Binance: 6,3 Milliarden Dollar monatelang vorbereitet gestohlen
+### OpenSSH 10.6p2 umgeht schweren Bug, Alpine Linux betroffen
 
-Die Angreifer nutzten laut Berichten infizierte Laptops, kompromittierte interne Werkzeuge und gefälschte Bewerbungsgespräche. Der Diebstahl wurde über Monate geplant.
+Die als „*sshole“ bezeichnete Schwachstelle erlaubt Angreifern bei bestimmten Konfigurationen den SSH-Zugang zu Linux-Geräten, betroffen sind vor allem Alpine-Setups, andere Distributionen womöglich ebenfalls. Der Fehler liegt wohl nicht in OpenSSH selbst.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347529/binance-wie-63-milliarden-dollar-bei-der-kryptoboerse-gestohlen-wurden?ref=rss) · [heise online](https://www.heise.de/news/Google-Schulen-die-KI-Tools-deaktivieren-verlieren-auch-Zugang-zur-Suche-11510788.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [Ars Technica](https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/)
+→ [heise Security](https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html) · [Ars Technica](https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/)
 
-### Crédit Mutuel Arkéa: Cyberangriff über Zulieferer kostet über 100 Mio. Euro
+### Cyberangriff auf Crédit Mutuel Arkéa: rund 100 Mio. Euro gestohlen
 
-Angreifer nutzten nach der Kompromittierung eines Zulieferers das bankeigene Konto, um Überweisungen auszuführen. Die Verluste werden auf rund 133 Millionen Dollar geschätzt.
+Die französische Regionalbank meldete betrügerische Überweisungen von etwa 100 Millionen Euro. Die Pariser Staatsanwaltschaft hat Ermittlungen eingeleitet.
 
-→ [Die Presse](https://www.diepresse.com/41420500/franzoesische-bank-verlor-durch-cyberangriff-mehr-als-100-mio-euro) · [The Record](https://therecord.media/french-bank-confirms-cyber-heist) · [ORF](https://orf.at/stories/3447228/)
+→ [France 24](https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/french-bank-says-cyberattack-stole-around-e100-million/)
 
 ## Wissenschaft
 
-### CERN: Hinweise auf extrem seltenen Teilchenzerfall
+### NASA-Observatorium Swift nach gescheiterter Rettung verglüht
 
-Das LHCb-Experiment fand Evidenz für den Zerfall von B-Mesonen in zwei Myonen, den nur eines von zehn Milliarden Teilchen zeigt. Für eine Entdeckung reicht die Datenlage noch nicht.
+Ein Roboter sollte den Gammastrahlen-Satelliten in eine höhere Umlaufbahn schieben, geriet jedoch kurz nach dem Start in Schwierigkeiten. Swift ist nach 21 Jahren über Südostasien in der Atmosphäre verglüht.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347367/nach-40-jahren-suche-hinweise-auf-extrem-seltenen-teilchenzerfall?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347665/nach-rettungsversuch-nasa-observatorium-swift-vergluehte-ueber-suedostasien?ref=rss) · [Tagesschau](https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html)
 
 ## Nahost
 
-### Israel: Herzog beginnt Gespräche zur Regierungsbildung
+### Eisenkot gilt als Favorit für Regierungsbildung in Israel
 
-Präsident Herzog empfängt die Parteien, nachdem Netanjahu und seine Verbündeten ihre Mehrheit verloren haben. Die Wahlkommission bestätigte das Ergebnis und wies Netanjahus Betrugsvorwürfe zurück. Herzog will eine Neuwahl vermeiden.
+Die Vereinte Liste unterstützt den Netanjahu-Rivalen Gadi Eisenkot, insgesamt haben ihn 67 Abgeordnete empfohlen. Präsident Herzog will am Sonntag über den Regierungsbildungsauftrag entscheiden.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347583/israels-pr228sident-nahm-konsultationen-zur-regierungsbildung-auf?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss)
+→ [ORF](https://orf.at/stories/3447361/) · [Der Standard](https://www.derstandard.at/story/3000000347803/herzog-will-am-sonntag-regierungsbildungsauftrag-in-israel-erteilen?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision)
 
-### Straße von Hormus: Minenexplosionen, vier Öltanker in Flammen
+### Trump droht mit Zerstörung des „Rests von Iran“
 
-Die iranischen Revolutionsgarden berichten von Minenexplosionen, bei denen vier Tanker Feuer fingen; zwei weitere Schiffe wurden gestoppt. Südkorea will seine Marineeinsätze näher an die Meerenge ausweiten.
+Im anhaltenden Iran-Krieg erklärte Trump, die USA müssten womöglich den Rest des Landes „zerstören“. In der Straße von Hormus gerieten zwei Öltanker offenbar in Brand, Irans Sicherheitschef traf Putin in Moskau.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347412/minenexplosionen-in-der-strasse-von-hormus-vier-oeltanker-in-flammen?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz)
+→ [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html) · [Der Standard](https://www.derstandard.at/story/3000000347804/putin-und-irans-sicherheitschef-f252hren-gespr228che-in-moskau?ref=rss)
 
 ## USA
 
-### Midterms: Demokraten erobern Repräsentantenhaus und Senat
+### Demokraten gewinnen Kongress, Vance geht auf Distanz zu Trump
 
-Die Republikaner haben bei den Zwischenwahlen beide Kammern verloren, auch in Hochburgen wie Texas. Es gab historische Premieren, etwa den ersten muslimischen Senator und die erste indigene Gouverneurin. Trump erkannte das Ergebnis an, behält aber sein Vetorecht.
+Die Demokraten erobern beide Kammern und liegen im Repräsentantenhaus bei über 250 Sitzen. Vizepräsident Vance macht den Iran-Krieg für die Niederlage verantwortlich, Trump sieht keinen Grund für einen Kurswechsel. Mit Harmeet Dhillon verlässt die erste hochrangige Beamtin die Regierung.
 
-→ [ORF](https://orf.at/stories/3447152/) · [ORF](https://orf.at/stories/3447167/) · [ORF](https://orf.at/stories/3447173/) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/machtwechsel-bei-den-us-kongresswahlen-indigene-schwarze-und-homosexuelle-kandidaten-sind-unter-den-siegern-art-682153)
+→ [Der Standard](https://www.derstandard.at/story/3000000347598/trump-nach-wahldebakel-unter-druck-von-republikanern?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347615/blame-game-nach-niederlage-der-republikaner-loyal-zu-trump-im-ton-aber-nicht-in-der-sache?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race)
 
-### Vance macht Iran-Krieg für Wahlniederlage verantwortlich
+### Newsom wandelt alle 548 Todesurteile in Kalifornien um
 
-Vizepräsident JD Vance schrieb auf X, der Krieg sei der Grund für die Niederlage. Trump verteidigt den Krieg, räumt aber ein, dass hohe Spritpreise eine Rolle spielten. Parteiintern wächst der Druck.
+Kaliforniens Gouverneur ersetzt sämtliche Todesurteile durch lebenslange Haft ohne Bewährung, die größte Massenbegnadigung dieser Art in den USA. Hingerichtet wurde in Kalifornien seit 2006 nicht mehr.
 
-→ [ORF](https://orf.at/stories/3447218/) · [Der Standard](https://www.derstandard.at/story/3000000347588/nach-wahlniederlage-vance-gibt-irankrieg-schuld-trump-verteidigt-ihn?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-verteidigt-iran-krieg-trotz-wahlniederlage-art-682206)
+→ [Der Standard](https://www.derstandard.at/story/3000000347797/kaliforniens-gouverneur-newsom-begnadigt-alle-548-in-kalifornien-zum-tod-verurteilen?ref=rss) · [ORF](https://orf.at/stories/3447362/) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss)

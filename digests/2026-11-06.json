@@ -1,0 +1,403 @@
+{
+ "date": "2026-11-06",
+ "title": "Morgen-Digest · Freitag, 6. November 2026",
+ "generated": "2026-11-06T06:07+01:00",
+ "intro": "Der Sieg der Demokraten bei den US-Midterms erschüttert die Märkte – die Nasdaq erlebt ihren schwächsten Tag seit eineinhalb Jahren – und in Europa sorgen Bombendrohungen gegen Flüge sowie Cyberangriffe auf Kühlanlagen für Unruhe. In Österreich wird René Benko erneut verurteilt.",
+ "topics": [
+  {
+   "name": "Innenpolitik",
+   "items": [
+    {
+     "id": "2026-11-06-01",
+     "title": "Benko erneut wegen schweren Betrugs verurteilt",
+     "summary": "Der Signa-Gründer René Benko wurde am Landesgericht Innsbruck wegen Betrugs an der Haselsteiner-Stiftung (fünf Millionen Euro) zu zwei Jahren Zusatzstrafe verurteilt. Vom Vorwurf der betrügerischen Krida wurde er freigesprochen. Das Urteil ist nicht rechtskräftig.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447315/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347670/zwei-jahre-zusatzstrafe-warum-rene-benko-erneut-verurteilt-wurde?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41421448/zwei-jahre-zusatzstrafe-schuldspruch-fuer-rene-benko"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-02",
+     "title": "Regierung weitet Befugnisse gegen ausländische Spione aus",
+     "summary": "Auf den letzten Metern des Gesetzgebungsprozesses hat die ÖVP ihren Widerstand aufgegeben: Die Heeresdienste sollen mehr Befugnisse gegen ausländische Spionage erhalten. Voraussetzung ist, dass auch die Gefährderüberwachung kommt.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347236/regierung-nimmt-jetzt-doch-auslaendische-spione-ins-visier?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "EU",
+   "items": [
+    {
+     "id": "2026-11-06-03",
+     "title": "EU streitet über gemeinsame Stimme in Ukraine-Gesprächen",
+     "summary": "Bei den Brüsseler Gesprächen über Sicherheitsgarantien für die Ukraine beklagt Italiens Premierministerin Meloni das Fehlen einer einheitlichen EU-Stimme als „inakzeptabel“. Polen bringt unterdessen Costa, Kallas und den Briten Burnham als mögliche Verhandler mit Putin ins Spiel.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447327/"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/eu-tears-itself-apart-over-who-talks-to-putin/"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/meloni-protests-eu-disarray-as-brussels-hosts-ukraine-talks/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-04",
+     "title": "Bombendrohungen stören Europas Flugverkehr erneut",
+     "summary": "Zum zweiten Mal in dieser Woche wurden mindestens 27 Flüge wegen Bombendrohungen umgeleitet oder zur Notlandung gezwungen; die Drohungen gelten als Falschalarme. Die EU hat einen Informationsaustausch zur Luftfahrtsicherheit aktiviert. Beweise für eine Täterschaft gibt es bisher nicht, manche Experten sehen einen Zusammenhang mit den Angriffen auf Kühlanlagen.",
+     "sources": [
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html"
+      },
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/serie-von-bombendrohungen-gegen-flugzeuge-reißt-nicht-ab/a-79866218?maca=de-rss-de-all-1119-rdf"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/eu-closely-monitoring-aircraft-bomb-hoaxes/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welt",
+   "items": [
+    {
+     "id": "2026-11-06-05",
+     "title": "Trump kündigt nach Treffen mit Putin-Gesandtem „großen Deal“ an",
+     "summary": "Nach einem Treffen mit dem Kreml-Unterhändler Dmitrijew sagt Trump ein baldiges Abkommen im Ukraine-Krieg voraus, nannte aber keine Details. First Lady Melania Trump empfing russische und ukrainische Vertreter und rief zu einer dauerhaften Waffenruhe auf.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447368/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000347581/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/weltpolitik/trump-traf-kreml-unterhaendler-und-sagt-grossen-deal-voraus-art-682414",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-06",
+     "title": "Hunderttausende protestieren in Frankreich",
+     "summary": "Laut Innenministerium gingen rund 600.000 Menschen für höhere Löhne, einen höheren Mindestlohn und bessere öffentliche Dienste auf die Straße, die Gewerkschaften sprechen von bis zu 1,6 Millionen. Es gab 448 Festnahmen und vereinzelte Ausschreitungen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347675/protesttag-in-frankreich-schulblockaden-und-gest246rter-bahnverkehr?ref=rss"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447358/"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-07",
+     "title": "Paraguays Präsident Peña nach Bankenkollaps zurückgetreten",
+     "summary": "Nach dem Zusammenbruch der Digitalbank Ueno, bei dem Millionen Menschen ihre Ersparnisse nicht mehr erreichen, trat Santiago Peña zurück. Der Kongress eröffnete zugleich ein Amtsenthebungsverfahren, die Staatsanwaltschaft ermittelt.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347785/paraguays-pr228sident-pe241a-tritt-nach-bankenkollaps-zur252ck?ref=rss"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447346/"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wirtschaft",
+   "items": [
+    {
+     "id": "2026-11-06-08",
+     "title": "Nasdaq schwächster Tag seit 18 Monaten nach Midterms",
+     "summary": "Die Aussicht auf strengere Regulierung der KI-Branche und von Rechenzentren nach dem Wahlsieg der Demokraten ließ die US-Tech-Werte einbrechen. Fast zwei Billionen Dollar Börsenwert wurden vernichtet. Der DAX erreichte dagegen ein Rekordhoch.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347792/us-b246rsen-bleiben-unter-druck-nasdaq-100-verliert-571-prozent?ref=rss"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447365/"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-09",
+     "title": "AT&S profitiert mit Rekordumsatz vom KI-Boom",
+     "summary": "Der steirische Leiterplattenkonzern steigerte den Umsatz im 2. Quartal um die Hälfte auf 682 Millionen Euro, den höchsten Quartalswert der Firmengeschichte. Konzernchef Mertin sieht keine KI-Blase.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347599/ats-meldet-rekordumsatz-und-profitiert-stark-vom-ki-boom?ref=rss"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347580/ats-chef-mertin-ursrueckgang-um-20-prozent-gefaehrdet-uns-nicht?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Klima",
+   "items": [
+    {
+     "id": "2026-11-06-10",
+     "title": "Neusiedler See erreicht neuen Tiefststand",
+     "summary": "Der Wasserstand liegt rund 40 Zentimeter unter dem Vorjahreswert und unterschreitet auch den bisherigen Tiefstwert von 2022. Die anhaltende Trockenheit belastet auch die Stromerzeugung: Der Verbund meldet einen Gewinneinbruch von über 40 Prozent.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347640/wasserstand-im-neusiedler-see-nun-auf-neuem-tiefstwert?ref=rss"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347639/historische-trockenheit-laesst-verbund-gewinn-einbrechen?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech/KI",
+   "items": [
+    {
+     "id": "2026-11-06-11",
+     "title": "Widerstand gegen Rechenzentren wird politisch",
+     "summary": "In Hotspots wie Texas und Ohio gewannen Kandidatinnen mit scharfer Kritik an Rechenzentren die Gouverneurswahlen. OpenAI kündigte daraufhin anwohnerfreundlichere Rechenzentren an, in 15 europäischen Ländern sind Proteste geplant.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347671/der-bau-von-rechenzentren-in-den-usa-wird-schwieriger-der-politische-kampf-gegen-sie-auch?ref=rss"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-12",
+     "title": "Anthropic führt „Smart Reports“ für Firmenkunden ein",
+     "summary": "Die Berichte sollen offiziell der Kostenkontrolle bei der KI-Nutzung dienen, ermöglichen laut Der Standard aber auch Einblicke in die Arbeitsweise einzelner Mitarbeiter. Die Grenze zur Leistungskontrolle verschwimmt damit.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347666/ki-ueberwachung-wie-claude-die-arbeitsweise-von-mitarbeitern-durchleuchten-will?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IT-Security",
+   "items": [
+    {
+     "id": "2026-11-06-13",
+     "title": "Zweite Welle von Angriffen auf Kühlanlagen quer durch Europa",
+     "summary": "Nach Frankreich wurden Kühlsysteme von Supermärkten in mindestens neun europäischen Ländern manipuliert, nun auch in der Schweiz und bei Blutkonserven. Die Lebensmittelverluste gehen in die Hunderte Millionen. Der Kreml weist eine Beteiligung zurück, US-Behörden fordern Betreiber kritischer Infrastruktur zur Absicherung auf.",
+     "sources": [
+      {
+       "name": "CERT.at",
+       "url": "https://www.cert.at/de/blog/2026/11/kuhlanlagenmanipulationen-zweite-runde"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347731/erster-bekannter-cyberangriff-auf-k252hlanlage-in-der-schweiz?ref=rss"
+      },
+      {
+       "name": "The Record",
+       "url": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-14",
+     "title": "OpenSSH 10.6p2 umgeht schweren Bug, Alpine Linux betroffen",
+     "summary": "Die als „*sshole“ bezeichnete Schwachstelle erlaubt Angreifern bei bestimmten Konfigurationen den SSH-Zugang zu Linux-Geräten, betroffen sind vor allem Alpine-Setups, andere Distributionen womöglich ebenfalls. Der Fehler liegt wohl nicht in OpenSSH selbst.",
+     "sources": [
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html"
+      },
+      {
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-15",
+     "title": "Cyberangriff auf Crédit Mutuel Arkéa: rund 100 Mio. Euro gestohlen",
+     "summary": "Die französische Regionalbank meldete betrügerische Überweisungen von etwa 100 Millionen Euro. Die Pariser Staatsanwaltschaft hat Ermittlungen eingeleitet.",
+     "sources": [
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/french-bank-says-cyberattack-stole-around-e100-million/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wissenschaft",
+   "items": [
+    {
+     "id": "2026-11-06-16",
+     "title": "NASA-Observatorium Swift nach gescheiterter Rettung verglüht",
+     "summary": "Ein Roboter sollte den Gammastrahlen-Satelliten in eine höhere Umlaufbahn schieben, geriet jedoch kurz nach dem Start in Schwierigkeiten. Swift ist nach 21 Jahren über Südostasien in der Atmosphäre verglüht.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347665/nach-rettungsversuch-nasa-observatorium-swift-vergluehte-ueber-suedostasien?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nahost",
+   "items": [
+    {
+     "id": "2026-11-06-17",
+     "title": "Eisenkot gilt als Favorit für Regierungsbildung in Israel",
+     "summary": "Die Vereinte Liste unterstützt den Netanjahu-Rivalen Gadi Eisenkot, insgesamt haben ihn 67 Abgeordnete empfohlen. Präsident Herzog will am Sonntag über den Regierungsbildungsauftrag entscheiden.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447361/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347803/herzog-will-am-sonntag-regierungsbildungsauftrag-in-israel-erteilen?ref=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-18",
+     "title": "Trump droht mit Zerstörung des „Rests von Iran“",
+     "summary": "Im anhaltenden Iran-Krieg erklärte Trump, die USA müssten womöglich den Rest des Landes „zerstören“. In der Straße von Hormus gerieten zwei Öltanker offenbar in Brand, Irans Sicherheitschef traf Putin in Moskau.",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347804/putin-und-irans-sicherheitschef-f252hren-gespr228che-in-moskau?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "USA",
+   "items": [
+    {
+     "id": "2026-11-06-19",
+     "title": "Demokraten gewinnen Kongress, Vance geht auf Distanz zu Trump",
+     "summary": "Die Demokraten erobern beide Kammern und liegen im Repräsentantenhaus bei über 250 Sitzen. Vizepräsident Vance macht den Iran-Krieg für die Niederlage verantwortlich, Trump sieht keinen Grund für einen Kurswechsel. Mit Harmeet Dhillon verlässt die erste hochrangige Beamtin die Regierung.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347598/trump-nach-wahldebakel-unter-druck-von-republikanern?ref=rss"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347615/blame-game-nach-niederlage-der-republikaner-loyal-zu-trump-im-ton-aber-nicht-in-der-sache?ref=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-06-20",
+     "title": "Newsom wandelt alle 548 Todesurteile in Kalifornien um",
+     "summary": "Kaliforniens Gouverneur ersetzt sämtliche Todesurteile durch lebenslange Haft ohne Bewährung, die größte Massenbegnadigung dieser Art in den USA. Hingerichtet wurde in Kalifornien seit 2006 nicht mehr.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000347797/kaliforniens-gouverneur-newsom-begnadigt-alle-548-in-kalifornien-zum-tod-verurteilen?ref=rss"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3447362/"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
