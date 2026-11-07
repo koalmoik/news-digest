@@ -1,143 +1,137 @@
-# Morgen-Digest · Freitag, 6. November 2026
+# Morgen-Digest · Samstag, 7. November 2026
 
-_Der Sieg der Demokraten bei den US-Midterms erschüttert die Märkte – die Nasdaq erlebt ihren schwächsten Tag seit eineinhalb Jahren – und in Europa sorgen Bombendrohungen gegen Flüge sowie Cyberangriffe auf Kühlanlagen für Unruhe. In Österreich wird René Benko erneut verurteilt._
+_Nach dem Wahlsieg der Demokraten bei den US-Midterms ersetzt Trump seine Stabschefin durch Hardliner Stephen Miller, und ein KI-getriebener Börsenabsturz erfasst die Märkte weltweit. In Österreich reist Kanzler Stocker aus Peking zurück, in Europa sorgt eine Serie von Bombendrohungen für Chaos im Flugverkehr._
 
 ## Innenpolitik
 
-### Benko erneut wegen schweren Betrugs verurteilt
+### Stocker trifft Xi Jinping: Österreich und China beschwören Partnerschaft
 
-Der Signa-Gründer René Benko wurde am Landesgericht Innsbruck wegen Betrugs an der Haselsteiner-Stiftung (fünf Millionen Euro) zu zwei Jahren Zusatzstrafe verurteilt. Vom Vorwurf der betrügerischen Krida wurde er freigesprochen. Das Urteil ist nicht rechtskräftig.
+Bundeskanzler Christian Stocker (ÖVP) hat in Peking Staatspräsident Xi Jinping und Premier Li Qiang getroffen. Beide Seiten sprachen von "offener Freundschaft", mehrere Dokumente wurden unterzeichnet. Xi appellierte an Österreich, seine Rolle im Verhältnis zu China zu nutzen.
 
-→ [ORF](https://orf.at/stories/3447315/) · [Der Standard](https://www.derstandard.at/story/3000000347670/zwei-jahre-zusatzstrafe-warum-rene-benko-erneut-verurteilt-wurde?ref=rss) · [Die Presse](https://www.diepresse.com/41421448/zwei-jahre-zusatzstrafe-schuldspruch-fuer-rene-benko)
+→ [ORF](https://orf.at/stories/3447411/) · [Der Standard](https://www.derstandard.at/story/3000000347911/oesterreich-und-china-beschwoeren-ihre-offene-freundschaft?ref=rss)
 
-### Regierung weitet Befugnisse gegen ausländische Spione aus
+### Landeshauptleute drängen Bund bei Reformpartnerschaft zur Eile
 
-Auf den letzten Metern des Gesetzgebungsprozesses hat die ÖVP ihren Widerstand aufgegeben: Die Heeresdienste sollen mehr Befugnisse gegen ausländische Spionage erhalten. Voraussetzung ist, dass auch die Gefährderüberwachung kommt.
+Nach ihrer zweitägigen Konferenz in Mellau im Bregenzerwald haben die Landeshauptleute den Bund zu rascherem Handeln bei der Reformpartnerschaft aufgefordert. Hintergrund sind auch die hohen Neuverschuldungen der Länder für 2027, die die Defizitvorgaben des Stabilitätspakts überschreiten.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347236/regierung-nimmt-jetzt-doch-auslaendische-spione-ins-visier?ref=rss)
+→ [ORF](https://orf.at/stories/3447404/) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/innenpolitik/die-hohen-schulden-der-bundeslaender-sind-eine-gefahr-fuer-die-budgetsanierung-art-682610)
 
 ## EU
 
-### EU streitet über gemeinsame Stimme in Ukraine-Gesprächen
+### EU-Kommission wirft TikTok Gefährdung der mentalen Gesundheit vor
 
-Bei den Brüsseler Gesprächen über Sicherheitsgarantien für die Ukraine beklagt Italiens Premierministerin Meloni das Fehlen einer einheitlichen EU-Stimme als „inakzeptabel“. Polen bringt unterdessen Costa, Kallas und den Briten Burnham als mögliche Verhandler mit Putin ins Spiel.
+In vorläufigen Ergebnissen kritisiert die Kommission, dass TikToks personalisierte Feeds junge und verletzliche Nutzer in "Kaninchenbauten" lenken, aus denen sie schwer entkommen. Es ist die erste eingehende Prüfung von Empfehlungssystemen unter dem Digital Services Act. Dem Unternehmen droht eine Millionenstrafe, falls es nicht gegensteuert.
 
-→ [ORF](https://orf.at/stories/3447327/) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-tears-itself-apart-over-who-talks-to-putin/) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/meloni-protests-eu-disarray-as-brussels-hosts-ukraine-talks/)
+→ [Der Standard](https://www.derstandard.at/story/3000000347902/eu-tiktok-gef228hrdet-mentale-gesundheit-strafe-droht?ref=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health) · [Deutsche Welle](https://www.dw.com/de/eu-tiktok-gefährdet-mentale-gesundheit-strafe-droht/a-79876791?maca=de-rss-de-all-1119-rdf)
 
-### Bombendrohungen stören Europas Flugverkehr erneut
+### Zwei Kandidaten für Lagarde-Nachfolge an der EZB-Spitze
 
-Zum zweiten Mal in dieser Woche wurden mindestens 27 Flüge wegen Bombendrohungen umgeleitet oder zur Notlandung gezwungen; die Drohungen gelten als Falschalarme. Die EU hat einen Informationsaustausch zur Luftfahrtsicherheit aktiviert. Beweise für eine Täterschaft gibt es bisher nicht, manche Experten sehen einen Zusammenhang mit den Angriffen auf Kühlanlagen.
+Bis Fristende wurden nur zwei Bewerber nominiert: der Niederländer Klaas Knot und der Spanier Pablo Hernández de Cos. Christine Lagarde legt ihr Amt Anfang Februar nieder. Die EU-Staats- und Regierungschefs wollen sich bis Dezember einigen.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html) · [Deutsche Welle](https://www.dw.com/de/serie-von-bombendrohungen-gegen-flugzeuge-reißt-nicht-ab/a-79866218?maca=de-rss-de-all-1119-rdf) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-closely-monitoring-aircraft-bomb-hoaxes/)
+→ [ORF](https://orf.at/stories/3447456/) · [Der Standard](https://www.derstandard.at/story/3000000347915/hernandez-de-cos-fuer-lagarde-nachfolge-bei-europaeischer-zentralbank-nominiert?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/dutch-spanish-candidates-will-vie-to-succeed-ecbs-lagarde/)
 
 ## Welt
 
-### Trump kündigt nach Treffen mit Putin-Gesandtem „großen Deal“ an
+### Paraguays Präsident Peña abgesetzt und unter Hausarrest
 
-Nach einem Treffen mit dem Kreml-Unterhändler Dmitrijew sagt Trump ein baldiges Abkommen im Ukraine-Krieg voraus, nannte aber keine Details. First Lady Melania Trump empfing russische und ukrainische Vertreter und rief zu einer dauerhaften Waffenruhe auf.
+Nach dem Zusammenbruch der Ueno Bank, durch die Millionen Menschen nicht mehr an ihre Ersparnisse kamen, hat der Senat Präsident Santiago Peña des Amtes enthoben. Er steht unter Hausarrest, Pedro Alliana wurde als neuer Präsident vereidigt.
 
-→ [ORF](https://orf.at/stories/3447368/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347581/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-traf-kreml-unterhaendler-und-sagt-grossen-deal-voraus-art-682414)
+→ [ORF](https://orf.at/stories/3447479/) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/paraguays-praesident-nach-absetzung-unter-hausarrest-art-682638) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss)
 
-### Hunderttausende protestieren in Frankreich
+### Trump kündigt "großes Abkommen" mit Russland an – Europa skeptisch
 
-Laut Innenministerium gingen rund 600.000 Menschen für höhere Löhne, einen höheren Mindestlohn und bessere öffentliche Dienste auf die Straße, die Gewerkschaften sprechen von bis zu 1,6 Millionen. Es gab 448 Festnahmen und vereinzelte Ausschreitungen.
+Nach einem Treffen mit Putins Gesandtem Dmitrijew sprach Trump von einem Abkommen, das ganz Europa betreffen könnte. Der Kreml gibt sich zurückhaltend, Europa fürchtet eine Neuordnung der Sicherheitsarchitektur ohne seine Beteiligung. Laut Selenskyj wird am 10. und 11. November in den USA verhandelt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347675/protesttag-in-frankreich-schulblockaden-und-gest246rter-bahnverkehr?ref=rss) · [ORF](https://orf.at/stories/3447358/) · [BBC](https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347888/warum-nicht-nur-kyjiw-angst-vor-trumps-beautiful-agreement-haben-sollte-sondern-auch-europa?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347793/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss)
 
-### Paraguays Präsident Peña nach Bankenkollaps zurückgetreten
+### Bombendrohungen gegen Flüge und irische Medien – Hinweise auf koordinierte Kampagne
 
-Nach dem Zusammenbruch der Digitalbank Ueno, bei dem Millionen Menschen ihre Ersparnisse nicht mehr erreichen, trat Santiago Peña zurück. Der Kongress eröffnete zugleich ein Amtsenthebungsverfahren, die Staatsanwaltschaft ermittelt.
+Die Serie falscher Bombendrohungen legt weiter Flüge in Europa lahm, am Freitag trafen auch Drohmails irische Medienhäuser. Irland und Spanien sehen Anzeichen für eine koordinierte Aktion, bislang wurde kein Sprengstoff gefunden. Eine russische Extremistengruppe bestreitet die Urheberschaft.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347785/paraguays-pr228sident-pe241a-tritt-nach-bankenkollaps-zur252ck?ref=rss) · [ORF](https://orf.at/stories/3447346/) · [Tagesschau](https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html)
+→ [ORF](https://orf.at/stories/3447426/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss)
 
 ## Wirtschaft
 
-### Nasdaq schwächster Tag seit 18 Monaten nach Midterms
+### Weltweiter Ausverkauf bei KI- und Chipwerten nach US-Midterms
 
-Die Aussicht auf strengere Regulierung der KI-Branche und von Rechenzentren nach dem Wahlsieg der Demokraten ließ die US-Tech-Werte einbrechen. Fast zwei Billionen Dollar Börsenwert wurden vernichtet. Der DAX erreichte dagegen ein Rekordhoch.
+Die Angst vor mehr KI-Regulierung und Gegenwind für Rechenzentren unter einer demokratischen Kongressmehrheit hat die Börsen belastet; Billionen an Börsenwert gingen verloren. In Südkorea brach der Kospi um fast neun Prozent ein und der Handel wurde kurz gestoppt. Der DAX rutschte vom Rekordhoch ab.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347792/us-b246rsen-bleiben-unter-druck-nasdaq-100-verliert-571-prozent?ref=rss) · [ORF](https://orf.at/stories/3447365/) · [The Guardian](https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses)
+→ [Der Standard](https://www.derstandard.at/story/3000000347822/kusa-in-der-zwickmuehle-ki-investitionen-befeuern-wachstum-werden-aber-zur-gefahr?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html) · [ZDFheute](https://www.zdfheute.de/wirtschaft/suedkorea-boerse-kursrutsch-ki-rechenzentren-oelpreis-100.html)
 
-### AT&S profitiert mit Rekordumsatz vom KI-Boom
+### Betten Reiter bekommt neuen Eigentümer
 
-Der steirische Leiterplattenkonzern steigerte den Umsatz im 2. Quartal um die Hälfte auf 682 Millionen Euro, den höchsten Quartalswert der Firmengeschichte. Konzernchef Mertin sieht keine KI-Blase.
+Die Loxone Lighthouse GmbH übernimmt die Handelskette aus Leonding mit 385 Beschäftigten und 18 Standorten. Die Fortführung des Unternehmens sei beabsichtigt. Der langjährige Eigentümer Peter Hildebrand übergibt an langfristige Investoren.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347599/ats-meldet-rekordumsatz-und-profitiert-stark-vom-ki-boom?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347580/ats-chef-mertin-ursrueckgang-um-20-prozent-gefaehrdet-uns-nicht?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347883/betten-reiter-aus-leonding-bekommt-neuen-eigentuemer?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347892/zwischen-haien-und-heimtextilien-betten-reiter-erhaelt-neue-eigentuemer?ref=rss)
 
 ## Klima
 
-### Neusiedler See erreicht neuen Tiefststand
+### Copernicus: 2026 wird die 1,5-Grad-Marke wohl überschreiten
 
-Der Wasserstand liegt rund 40 Zentimeter unter dem Vorjahreswert und unterschreitet auch den bisherigen Tiefstwert von 2022. Die anhaltende Trockenheit belastet auch die Stromerzeugung: Der Verbund meldet einen Gewinneinbruch von über 40 Prozent.
+Laut dem EU-Klimadienst war der Oktober der wärmste seit Messbeginn, auch die Meerestemperaturen erreichten Rekordwerte. Kurz vor Beginn der UN-Klimakonferenz COP31 in Antalya am Montag trübt das die Stimmung; die EU will dort ihre bestehenden Klimaziele halten und setzt auf Elektrifizierung.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347640/wasserstand-im-neusiedler-see-nun-auf-neuem-tiefstwert?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347639/historische-trockenheit-laesst-verbund-gewinn-einbrechen?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347854/2026-ist-auf-dem-weg-zum-rekordjahr-2027-koennte-18-grad-erwaermung-bringen?ref=rss) · [Tagesschau](https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/no-revolutions-eu-aims-to-hold-line-at-cop31/)
 
 ## Tech/KI
 
-### Widerstand gegen Rechenzentren wird politisch
+### Tesla beendet Cybertruck-Produktion in Texas zugunsten des Cybercab
 
-In Hotspots wie Texas und Ohio gewannen Kandidatinnen mit scharfer Kritik an Rechenzentren die Gouverneurswahlen. OpenAI kündigte daraufhin anwohnerfreundlichere Rechenzentren an, in 15 europäischen Ländern sind Proteste geplant.
+Elon Musk kündigte an, die Cybertruck-Fertigung auslaufen zu lassen; das Werk in Texas soll Platz für das selbstfahrende Robotaxi Cybercab machen. Der Elektro-Pick-up blieb deutlich hinter den Erwartungen zurück.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347671/der-bau-von-rechenzentren-in-den-usa-wird-schwieriger-der-politische-kampf-gegen-sie-auch?ref=rss) · [heise online](https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Guardian](https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres)
-
-### Anthropic führt „Smart Reports“ für Firmenkunden ein
-
-Die Berichte sollen offiziell der Kostenkontrolle bei der KI-Nutzung dienen, ermöglichen laut Der Standard aber auch Einblicke in die Arbeitsweise einzelner Mitarbeiter. Die Grenze zur Leistungskontrolle verschwimmt damit.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000347666/ki-ueberwachung-wie-claude-die-arbeitsweise-von-mitarbeitern-durchleuchten-will?ref=rss)
+→ [ORF](https://orf.at/stories/3447446/) · [Der Standard](https://www.derstandard.at/story/3000000347825/musk-kuendigt-an-der-cybertruck-muss-gehen-ein-nachruf-auf-den-autoflop?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html)
 
 ## IT-Security
 
-### Zweite Welle von Angriffen auf Kühlanlagen quer durch Europa
+### Cyberangriffe auf Mindfactory und Technische Universität München
 
-Nach Frankreich wurden Kühlsysteme von Supermärkten in mindestens neun europäischen Ländern manipuliert, nun auch in der Schweiz und bei Blutkonserven. Die Lebensmittelverluste gehen in die Hunderte Millionen. Der Kreml weist eine Beteiligung zurück, US-Behörden fordern Betreiber kritischer Infrastruktur zur Absicherung auf.
+Der Hardwarehändler Mindfactory hat Kunden und Datenschutzbehörde über einen Cyberangriff informiert, die Ermittlungen laufen. An der TU München verschafften sich Angreifer unberechtigten Zugriff und entwendeten Daten, das zentrale Campus-Management-System wurde abgeschaltet. Für die TUM ist es bereits der zweite Vorfall.
 
-→ [CERT.at](https://www.cert.at/de/blog/2026/11/kuhlanlagenmanipulationen-zweite-runde) · [Der Standard](https://www.derstandard.at/story/3000000347731/erster-bekannter-cyberangriff-auf-k252hlanlage-in-der-schweiz?ref=rss) · [The Record](https://therecord.media/cyberattacks-refrigeration-cisa-fbi)
+→ [heise online](https://www.heise.de/news/Mindfactory-informiert-Kunden-ueber-Cyberangriff-11515963.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [heise online](https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [Tagesschau](https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html)
 
-### OpenSSH 10.6p2 umgeht schweren Bug, Alpine Linux betroffen
+### Chainalysis: Angreifer erbeuten Zugangsdaten und Tokens aller Kunden
 
-Die als „*sshole“ bezeichnete Schwachstelle erlaubt Angreifern bei bestimmten Konfigurationen den SSH-Zugang zu Linux-Geräten, betroffen sind vor allem Alpine-Setups, andere Distributionen womöglich ebenfalls. Der Fehler liegt wohl nicht in OpenSSH selbst.
+Das Blockchain-Analyseunternehmen berichtet von einem "multifront cyberattack", bei dem KI-Agenten und ein Abgriff von Daten auf dem Übertragungsweg zum Einsatz kamen. Dabei sollen Credentials und Tokens sämtlicher Kunden abgeflossen sein. Betroffene sollten Zugangsdaten und API-Tokens rotieren.
 
-→ [heise Security](https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html) · [Ars Technica](https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/)
+→ [Ars Technica](https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/)
 
-### Cyberangriff auf Crédit Mutuel Arkéa: rund 100 Mio. Euro gestohlen
+### DigiCert meldet Datenleck mit Geschäftskundendaten
 
-Die französische Regionalbank meldete betrügerische Überweisungen von etwa 100 Millionen Euro. Die Pariser Staatsanwaltschaft hat Ermittlungen eingeleitet.
+Laut DigiCert war im Sommer ein internes Geschäftssystem unbeabsichtigt von außen erreichbar, wodurch Informationen von Geschäftskunden betroffen waren. Für eine Zertifizierungsstelle ist das ein sensibler Vorfall.
 
-→ [France 24](https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/french-bank-says-cyberattack-stole-around-e100-million/)
+→ [The Record](https://therecord.media/digicert-certificate-authority-reports-data-breach)
 
 ## Wissenschaft
 
-### NASA-Observatorium Swift nach gescheiterter Rettung verglüht
+### Hunderte Eiszeit-Gravuren in katalanischer Touristenhöhle entdeckt
 
-Ein Roboter sollte den Gammastrahlen-Satelliten in eine höhere Umlaufbahn schieben, geriet jedoch kurz nach dem Start in Schwierigkeiten. Swift ist nach 21 Jahren über Südostasien in der Atmosphäre verglüht.
+Vermeintliche "Kratzbilder" in einer Höhle in Katalonien erwiesen sich als rund 280 Gravuren, die bis in die Altsteinzeit zurückreichen dürften. Ihre Bedeutung war lange unerkannt geblieben.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347665/nach-rettungsversuch-nasa-observatorium-swift-vergluehte-ueber-suedostasien?ref=rss) · [Tagesschau](https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000347680/kratzbilder-aus-touristischer-hoehle-entpuppen-sich-als-spektakulaere-eiszeitkunst?ref=rss)
 
 ## Nahost
 
-### Eisenkot gilt als Favorit für Regierungsbildung in Israel
+### USA greifen erneut Iran an – Trump spricht von Fortschritten bei Verhandlungen
 
-Die Vereinte Liste unterstützt den Netanjahu-Rivalen Gadi Eisenkot, insgesamt haben ihn 67 Abgeordnete empfohlen. Präsident Herzog will am Sonntag über den Regierungsbildungsauftrag entscheiden.
+Trump bestätigte neue US-Angriffe auf die iranische Insel Qeshm und sprach zugleich von "viel Fortschritt" in den Gesprächen mit Teheran. Katars Emir sprach mit Trump über eine Vermittlungsinitiative, Katar mahnt beide Seiten, nicht auf einen perfekten Moment zu warten.
 
-→ [ORF](https://orf.at/stories/3447361/) · [Der Standard](https://www.derstandard.at/story/3000000347803/herzog-will-am-sonntag-regierungsbildungsauftrag-in-israel-erteilen?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision)
+→ [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss) · [Der Standard](https://www.derstandard.at/story/3000000347885/gespraeche-ueber-irankrieg-trump-telefonierte-mit-emir-von-katar?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says)
 
-### Trump droht mit Zerstörung des „Rests von Iran“
+### Israel: Eisenkot will nationale Notstandsregierung bilden
 
-Im anhaltenden Iran-Krieg erklärte Trump, die USA müssten womöglich den Rest des Landes „zerstören“. In der Straße von Hormus gerieten zwei Öltanker offenbar in Brand, Irans Sicherheitschef traf Putin in Moskau.
+Nach der Wahl gilt Oppositionspolitiker Gadi Eisenkot als Favorit auf den Regierungsauftrag; Präsident Herzog entscheidet am Sonntag. Die arabischen Parteien bleiben der Knackpunkt für eine Mehrheit, die Konsultationen verliefen bislang wenig konstruktiv.
 
-→ [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html) · [Der Standard](https://www.derstandard.at/story/3000000347804/putin-und-irans-sicherheitschef-f252hren-gespr228che-in-moskau?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347948/nach-israel-wahl-eisenkot-bekr228ftigt-willen-zur-regierungsbildung?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html) · [Die Presse 🔒](https://www.diepresse.com/41424368/israel-nach-der-wahl-eisenkot-hat-nur-eine-kleine-chance-fuer-eine-regierungsmehrheit)
 
 ## USA
 
-### Demokraten gewinnen Kongress, Vance geht auf Distanz zu Trump
+### Trump ersetzt Stabschefin Wiles durch Hardliner Stephen Miller
 
-Die Demokraten erobern beide Kammern und liegen im Repräsentantenhaus bei über 250 Sitzen. Vizepräsident Vance macht den Iran-Krieg für die Niederlage verantwortlich, Trump sieht keinen Grund für einen Kurswechsel. Mit Harmeet Dhillon verlässt die erste hochrangige Beamtin die Regierung.
+Nach der Wahlniederlage der Republikaner bei den Midterms muss Susie Wiles gehen, Stephen Miller, Architekt der harten Einwanderungspolitik, übernimmt ab Montag. Im Justizministerium traten zwei weitere Spitzenbeamte zurück. Demokraten und Teile der Republikaner kritisieren den Schritt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347598/trump-nach-wahldebakel-unter-druck-von-republikanern?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347615/blame-game-nach-niederlage-der-republikaner-loyal-zu-trump-im-ton-aber-nicht-in-der-sache?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race)
+→ [Der Standard](https://www.derstandard.at/story/3000000347957/trump-feuert-stabschefin-stephn-miller-folgt-nach?ref=rss) · [ORF](https://orf.at/stories/3447464/) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump)
 
-### Newsom wandelt alle 548 Todesurteile in Kalifornien um
+### Kaliforniens Gouverneur Newsom begnadigt alle Todeskandidaten
 
-Kaliforniens Gouverneur ersetzt sämtliche Todesurteile durch lebenslange Haft ohne Bewährung, die größte Massenbegnadigung dieser Art in den USA. Hingerichtet wurde in Kalifornien seit 2006 nicht mehr.
+Gavin Newsom will alle 548 Todesurteile in Kalifornien in lebenslange Haft ohne Bewährung umwandeln. Staatlich sanktionierte Tötungen seien nicht mit kalifornischen Werten vereinbar, erklärte er.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347797/kaliforniens-gouverneur-newsom-begnadigt-alle-548-in-kalifornien-zum-tod-verurteilen?ref=rss) · [ORF](https://orf.at/stories/3447362/) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss)
+→ [France 24](https://www.france24.com/en/video/20261106-california-governor-to-grant-clemency-to-all-548-death-row-inmates-in-state) · [Deutsche Welle](https://www.dw.com/de/kaliforniens-gouverneur-setzt-zeichen-gegen-todesstrafe-news-kompakt-das-wichtigste-kurz-gefasst/a-79871179?maca=de-rss-de-all-1119-rdf)
