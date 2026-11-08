@@ -1,137 +1,143 @@
-# Morgen-Digest · Samstag, 7. November 2026
+# Morgen-Digest · Sonntag, 8. November 2026
 
-_Nach dem Wahlsieg der Demokraten bei den US-Midterms ersetzt Trump seine Stabschefin durch Hardliner Stephen Miller, und ein KI-getriebener Börsenabsturz erfasst die Märkte weltweit. In Österreich reist Kanzler Stocker aus Peking zurück, in Europa sorgt eine Serie von Bombendrohungen für Chaos im Flugverkehr._
+_Nach dem tödlichen Schussangriff in Krakau steht Polen unter Schock, in den USA reagiert Trump mit der Berufung von Hardliner Stephen Miller zum Stabschef auf das Midterms-Debakel. In Israel soll Gadi Eisenkot eine Regierung bilden; in Österreich sorgt die E-Card-Gebühr für Pensionisten für Kritik._
 
 ## Innenpolitik
 
-### Stocker trifft Xi Jinping: Österreich und China beschwören Partnerschaft
+### E-Card-Servicegebühr soll auch Pensionisten treffen
 
-Bundeskanzler Christian Stocker (ÖVP) hat in Peking Staatspräsident Xi Jinping und Premier Li Qiang getroffen. Beide Seiten sprachen von "offener Freundschaft", mehrere Dokumente wurden unterzeichnet. Xi appellierte an Österreich, seine Rolle im Verhältnis zu China zu nutzen.
+Die ÖGK verrechnet jährlich eine Servicegebühr für die E-Card, für 2027 sind es knapp 27 Euro. Künftig sollen sie auch Pensionisten zahlen, rund 1,5 Millionen Menschen wären betroffen. Seniorenvertretung und Opposition üben scharfe Kritik.
 
-→ [ORF](https://orf.at/stories/3447411/) · [Der Standard](https://www.derstandard.at/story/3000000347911/oesterreich-und-china-beschwoeren-ihre-offene-freundschaft?ref=rss)
+→ [ORF](https://orf.at/stories/3447518/) · [Der Standard](https://www.derstandard.at/story/3000000347998/kritik-an-e-card-geb252hr-auch-f252r-pensionisten?ref=rss) · [Die Presse](https://www.diepresse.com/41428764/e-card-gebuehr-trifft-jetzt-auch-pensionisten-27-euro-sorgen-fuer-empoerung)
 
-### Landeshauptleute drängen Bund bei Reformpartnerschaft zur Eile
+### Marsalek brüstete sich laut Bericht mit Sturz von Kurz
 
-Nach ihrer zweitägigen Konferenz in Mellau im Bregenzerwald haben die Landeshauptleute den Bund zu rascherem Handeln bei der Reformpartnerschaft aufgefordert. Hintergrund sind auch die hohen Neuverschuldungen der Länder für 2027, die die Defizitvorgaben des Stabilitätspakts überschreiten.
+Laut dem britischen „Telegraph“ prahlte der Ex-Wirecard-Manager Jan Marsalek in Chats mit seinem Agentenführer Orlin Roussev, zum Sturz von Sebastian Kurz 2021 beigetragen zu haben. Konkret ging es demnach um die Beschlagnahmung des Handys von Thomas Schmid. Die Aussagen stammen von mutmaßlich russischen Akteuren und sind nicht unabhängig bestätigt.
 
-→ [ORF](https://orf.at/stories/3447404/) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/innenpolitik/die-hohen-schulden-der-bundeslaender-sind-eine-gefahr-fuer-die-budgetsanierung-art-682610)
+→ [Der Standard](https://www.derstandard.at/story/3000000348031/marsalek-soll-in-chats-behauptet-haben-kurz-gestuerzt-zu-haben?ref=rss) · [Die Presse](https://www.diepresse.com/41429715/telegraph-recherche-wurde-sebastian-kurz-von-russland-gestuerzt)
 
 ## EU
 
-### EU-Kommission wirft TikTok Gefährdung der mentalen Gesundheit vor
+### Europa droht Gaspreis von bis zu 180 Euro pro Megawattstunde
 
-In vorläufigen Ergebnissen kritisiert die Kommission, dass TikToks personalisierte Feeds junge und verletzliche Nutzer in "Kaninchenbauten" lenken, aus denen sie schwer entkommen. Es ist die erste eingehende Prüfung von Empfehlungssystemen unter dem Digital Services Act. Dem Unternehmen droht eine Millionenstrafe, falls es nicht gegensteuert.
+Die EU kämpft mit einer Gaskrise und deutlich höheren Energiepreisen als die USA. Washington schlägt vor, wieder russisches Gas zu beziehen, Experten bezweifeln jedoch, dass das die Lage entspannt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347902/eu-tiktok-gef228hrdet-mentale-gesundheit-strafe-droht?ref=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health) · [Deutsche Welle](https://www.dw.com/de/eu-tiktok-gefährdet-mentale-gesundheit-strafe-droht/a-79876791?maca=de-rss-de-all-1119-rdf)
+→ [Der Standard](https://www.derstandard.at/story/3000000347542/wie-kommt-die-eu-aus-der-gaskrise-mit-gas-aus-russland-meinen-die-usa?ref=rss) · [Die Presse](https://www.diepresse.com/41428854/betreibt-die-eu-wirtschaftlichen-selbstmord-meine-herrn)
 
-### Zwei Kandidaten für Lagarde-Nachfolge an der EZB-Spitze
+### Serie von Bombendrohungen gegen Flugzeuge in Europa
 
-Bis Fristende wurden nur zwei Bewerber nominiert: der Niederländer Klaas Knot und der Spanier Pablo Hernández de Cos. Christine Lagarde legt ihr Amt Anfang Februar nieder. Die EU-Staats- und Regierungschefs wollen sich bis Dezember einigen.
+Seit Tagen häufen sich falsche Bombendrohungen gegen Passagierflugzeuge in Europa. Frankreich prüft, ob ausländische Mächte dahinterstecken; Experten vermuten eine europaweite Koordination.
 
-→ [ORF](https://orf.at/stories/3447456/) · [Der Standard](https://www.derstandard.at/story/3000000347915/hernandez-de-cos-fuer-lagarde-nachfolge-bei-europaeischer-zentralbank-nominiert?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/dutch-spanish-candidates-will-vie-to-succeed-ecbs-lagarde/)
+→ [Der Standard](https://www.derstandard.at/story/3000000347981/bombendrohungen-gegen-fl252ge-ermittlungen-in-italien?ref=rss) · [France 24](https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers) · [Tagesschau](https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html)
 
 ## Welt
 
-### Paraguays Präsident Peña abgesetzt und unter Hausarrest
+### Schüsse in Krakau: Sechs Tote, Tusk spricht von Terrorismus
 
-Nach dem Zusammenbruch der Ueno Bank, durch die Millionen Menschen nicht mehr an ihre Ersparnisse kamen, hat der Senat Präsident Santiago Peña des Amtes enthoben. Er steht unter Hausarrest, Pedro Alliana wurde als neuer Präsident vereidigt.
+Ein Mann schoss am Marktplatz von Krakau aus einem Auto wahllos auf Passanten und tötete sechs Menschen, rund 16 wurden verletzt, darunter eine Person aus Österreich. In seinem Haus wurden drei weitere Leichen gefunden. Premier Tusk nannte die Tat Terrorismus, der Innenminister verwies auf rechtsextreme Gesinnung des Täters.
 
-→ [ORF](https://orf.at/stories/3447479/) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/paraguays-praesident-nach-absetzung-unter-hausarrest-art-682638) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss)
+→ [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/international/eine-verletzte-person-beim-anschlag-in-krakau-aus-oesterreich-art-682707) · [Der Standard](https://www.derstandard.at/story/3000000348021/mindestens-zwei-tote-nach-schuessen-auf-hauptplatz-in-krakau?ref=rss) · [ORF](https://orf.at/stories/3447538/)
 
-### Trump kündigt "großes Abkommen" mit Russland an – Europa skeptisch
+### Russland trifft Kyjiws Strom- und Wasserversorgung
 
-Nach einem Treffen mit Putins Gesandtem Dmitrijew sprach Trump von einem Abkommen, das ganz Europa betreffen könnte. Der Kreml gibt sich zurückhaltend, Europa fürchtet eine Neuordnung der Sicherheitsarchitektur ohne seine Beteiligung. Laut Selenskyj wird am 10. und 11. November in den USA verhandelt.
+Russland griff mit 172 Drohnen und 36 ballistischen Raketen die Energieinfrastruktur der Ukraine an. In Kyjiw gibt es Stromausfälle und Wassermangel. Selenskyj nennt Trumps Friedensplan gefährlich; kommende Woche sind Gespräche in Abu Dhabi geplant.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347888/warum-nicht-nur-kyjiw-angst-vor-trumps-beautiful-agreement-haben-sollte-sondern-auch-europa?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347793/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss)
+→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347952/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html) · [BBC](https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss)
 
-### Bombendrohungen gegen Flüge und irische Medien – Hinweise auf koordinierte Kampagne
+### Frankreich: Erneut Proteste gegen hohe Preise
 
-Die Serie falscher Bombendrohungen legt weiter Flüge in Europa lahm, am Freitag trafen auch Drohmails irische Medienhäuser. Irland und Spanien sehen Anzeichen für eine koordinierte Aktion, bislang wurde kein Sprengstoff gefunden. Eine russische Extremistengruppe bestreitet die Urheberschaft.
+Am vierten Samstag in Folge gingen in Frankreich laut Innenministerium 146.000 Menschen gegen steigende Lebenskosten auf die Straße, deutlich weniger als zuvor. In Paris und Lyon kam es zu Ausschreitungen. Für Dienstag sind weitere Proteste angekündigt.
 
-→ [ORF](https://orf.at/stories/3447426/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000348034/146000-demonstrieren-in-frankreich-teilnahme-geht-zur252ck?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/nur-mehr-146000-bei-demonstrationen-in-frankreich-art-682630) · [Tagesschau](https://www.tagesschau.de/ausland/frankreich-proteste-246.html)
 
 ## Wirtschaft
 
-### Weltweiter Ausverkauf bei KI- und Chipwerten nach US-Midterms
+### Casinos Austria: Kundendaten von 150.000 Personen gestohlen
 
-Die Angst vor mehr KI-Regulierung und Gegenwind für Rechenzentren unter einer demokratischen Kongressmehrheit hat die Börsen belastet; Billionen an Börsenwert gingen verloren. In Südkorea brach der Kospi um fast neun Prozent ein und der Handel wurde kurz gestoppt. Der DAX rutschte vom Rekordhoch ab.
+Hacker verschafften sich über einen externen Dienstleister Zugang zum Webshop des Glücksspielkonzerns. Betroffen sind Daten von rund 150.000 Kunden, Bankdaten laut Bericht nicht.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347822/kusa-in-der-zwickmuehle-ki-investitionen-befeuern-wachstum-werden-aber-zur-gefahr?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html) · [ZDFheute](https://www.zdfheute.de/wirtschaft/suedkorea-boerse-kursrutsch-ki-rechenzentren-oelpreis-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000348017/cyberangriff-auf-casinos-austria-kundendaten-weg-bankdaten-nicht?ref=rss) · [Die Presse](https://www.diepresse.com/41428996/cyberangriff-auf-casinos-austria-daten-von-150000-kunden-gestohlen)
 
-### Betten Reiter bekommt neuen Eigentümer
+### Größter Batteriespeicher Österreichs in Molln geplant
 
-Die Loxone Lighthouse GmbH übernimmt die Handelskette aus Leonding mit 385 Beschäftigten und 18 Standorten. Die Fortführung des Unternehmens sei beabsichtigt. Der langjährige Eigentümer Peter Hildebrand übergibt an langfristige Investoren.
+Der US-Konzern ContourGlobal will in Molln einen Energiespeicher mit 300 Megawatt Leistung errichten. Der Standort soll ein Grundstück eines örtlichen Bauunternehmers sein.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347883/betten-reiter-aus-leonding-bekommt-neuen-eigentuemer?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000347892/zwischen-haien-und-heimtextilien-betten-reiter-erhaelt-neue-eigentuemer?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347988/us-konzern-will-in-molln-gr246223ten-batteriespeicher-214sterreichs-bauen?ref=rss)
 
 ## Klima
 
-### Copernicus: 2026 wird die 1,5-Grad-Marke wohl überschreiten
+### COP31 in Antalya startet mit geteilter Präsidentschaft
 
-Laut dem EU-Klimadienst war der Oktober der wärmste seit Messbeginn, auch die Meerestemperaturen erreichten Rekordwerte. Kurz vor Beginn der UN-Klimakonferenz COP31 in Antalya am Montag trübt das die Stimmung; die EU will dort ihre bestehenden Klimaziele halten und setzt auf Elektrifizierung.
+Am 9. November beginnt die 31. UN-Klimakonferenz im türkischen Antalya, erstmals mit zwei Präsidenten. Australiens Klimaminister Bowen steht vor der Aufgabe, als Vermittler zu agieren, obwohl sein Land ein großer Kohle- und Gasexporteur ist. Kanzler Merz nimmt nicht teil.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347854/2026-ist-auf-dem-weg-zum-rekordjahr-2027-koennte-18-grad-erwaermung-bringen?ref=rss) · [Tagesschau](https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/no-revolutions-eu-aims-to-hold-line-at-cop31/)
+→ [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/international/cop31-in-antalya-zwei-praesidenten-und-massnahmen-als-ziel-art-682736) · [The Guardian](https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals) · [ZDFheute](https://www.zdfheute.de/politik/deutschland/merz-geburtstag-pizzeria-statt-umwelt-100.html)
 
 ## Tech/KI
 
-### Tesla beendet Cybertruck-Produktion in Texas zugunsten des Cybercab
+### OpenAI sammelt elf Milliarden Dollar ein
 
-Elon Musk kündigte an, die Cybertruck-Fertigung auslaufen zu lassen; das Werk in Texas soll Platz für das selbstfahrende Robotaxi Cybercab machen. Der Elektro-Pick-up blieb deutlich hinter den Erwartungen zurück.
+Laut Bericht hat OpenAI elf Milliarden Dollar bei Investoren eingesammelt und wird mit mehr als einer Billion Dollar bewertet. Das Unternehmen musste seine Erwartungen dennoch zurückschrauben. Nach den US-Midterms geraten KI-Firmen zudem an der Börse und politisch unter Druck.
 
-→ [ORF](https://orf.at/stories/3447446/) · [Der Standard](https://www.derstandard.at/story/3000000347825/musk-kuendigt-an-der-cybertruck-muss-gehen-ein-nachruf-auf-den-autoflop?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000347967/openai-sammelte-laut-bericht-elf-milliarden-dollar-bei-investoren-ein?ref=rss) · [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-midterms-demokraten-ki-branche-boerse-einsturz-100.html)
 
 ## IT-Security
 
-### Cyberangriffe auf Mindfactory und Technische Universität München
+### Hackerangriff auf Brenner-Basistunnel
 
-Der Hardwarehändler Mindfactory hat Kunden und Datenschutzbehörde über einen Cyberangriff informiert, die Ermittlungen laufen. An der TU München verschafften sich Angreifer unberechtigten Zugriff und entwendeten Daten, das zentrale Campus-Management-System wurde abgeschaltet. Für die TUM ist es bereits der zweite Vorfall.
+Die Betreibergesellschaft BBT SE bestätigte einen Cyberangriff, bei dem auch Daten abgegriffen worden sein sollen. Vermutet wird die russischsprachige Gruppe „Everest“.
 
-→ [heise online](https://www.heise.de/news/Mindfactory-informiert-Kunden-ueber-Cyberangriff-11515963.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [heise online](https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [Tagesschau](https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000347969/hackerangriff-auf-brenner-basistunnel-gemeldet?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/oesterreich/hackerangriff-gegen-brenner-basistunnel-art-682664)
 
-### Chainalysis: Angreifer erbeuten Zugangsdaten und Tokens aller Kunden
+### Sabotage an Kühlsystemen: Geheimdienste ermitteln
 
-Das Blockchain-Analyseunternehmen berichtet von einem "multifront cyberattack", bei dem KI-Agenten und ein Abgriff von Daten auf dem Übertragungsweg zum Einsatz kamen. Dabei sollen Credentials und Tokens sämtlicher Kunden abgeflossen sein. Betroffene sollten Zugangsdaten und API-Tokens rotieren.
+Nach Angriffen auf Kühlsysteme in Supermärkten in ganz Europa ermitteln auch Verfassungsschutz und BND. Die Täter nutzen laut heise Schwachstellen in Fernwartungszugängen.
 
-→ [Ars Technica](https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/)
+→ [heise Security](https://www.heise.de/news/Supermarkt-Kuehlsysteme-Deutsche-Geheimdienste-ermitteln-nach-Sabotageakten-11516390.html) · [Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss)
 
-### DigiCert meldet Datenleck mit Geschäftskundendaten
+### Daten des italienischen Außenministers veröffentlicht
 
-Laut DigiCert war im Sommer ein internes Geschäftssystem unbeabsichtigt von außen erreichbar, wodurch Informationen von Geschäftskunden betroffen waren. Für eine Zertifizierungsstelle ist das ein sensibler Vorfall.
+Hacker haben persönliche Daten von Außenminister Tajani und seinen Angehörigen online gestellt. Premierministerin Meloni macht prorussische Hacker verantwortlich.
 
-→ [The Record](https://therecord.media/digicert-certificate-authority-reports-data-breach)
+→ [Der Standard](https://www.derstandard.at/story/3000000347973/nach-hackerangriffen-auf-kuehlschraenke-italien-warnt-vor-hybridem-krieg?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss)
 
 ## Wissenschaft
 
-### Hunderte Eiszeit-Gravuren in katalanischer Touristenhöhle entdeckt
+### Novartis: Tumorfälle bei Kindern nach Gentherapie Zolgensma
 
-Vermeintliche "Kratzbilder" in einer Höhle in Katalonien erwiesen sich als rund 280 Gravuren, die bis in die Altsteinzeit zurückreichen dürften. Ihre Bedeutung war lange unerkannt geblieben.
+Novartis erhielt seit 2019 neun Meldungen über Tumore bei mit Zolgensma behandelten Patienten, zwei Fälle bei Kindern deuten auf einen Zusammenhang hin. Die US-Arzneimittelbehörde untersucht, ob das Medikament bösartige Tumore verursacht.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347680/kratzbilder-aus-touristischer-hoehle-entpuppen-sich-als-spektakulaere-eiszeitkunst?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000347989/novartis-zwei-tumorf228lle-bei-kindern-deuten-auf-bezug-zu-gentherapie-hin?ref=rss) · [SRF](https://www.srf.ch/news/international/teure-spitzenmedizin-krebserkrankungen-durch-das-medikament-zolgensma)
 
 ## Nahost
 
-### USA greifen erneut Iran an – Trump spricht von Fortschritten bei Verhandlungen
+### Eisenkot soll in Israel Regierung bilden
 
-Trump bestätigte neue US-Angriffe auf die iranische Insel Qeshm und sprach zugleich von "viel Fortschritt" in den Gesprächen mit Teheran. Katars Emir sprach mit Trump über eine Vermittlungsinitiative, Katar mahnt beide Seiten, nicht auf einen perfekten Moment zu warten.
+Präsident Herzog beauftragt Oppositionspolitiker Gadi Eisenkot mit der Regierungsbildung. Er hat 28 Tage, um 61 Knesset-Sitze zu sichern, obwohl weder Netanjahus noch sein Block eine klare Mehrheit hat.
 
-→ [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss) · [Der Standard](https://www.derstandard.at/story/3000000347885/gespraeche-ueber-irankrieg-trump-telefonierte-mit-emir-von-katar?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says)
+→ [Der Standard](https://www.derstandard.at/story/3000000348036/netanjahu-rivale-einsenkot-mit-regierungsbildung-in-israel-beauftragt?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss)
 
-### Israel: Eisenkot will nationale Notstandsregierung bilden
+### Iran: Explosionen an der Straße von Hormus, USA bilden Sondereinheit
 
-Nach der Wahl gilt Oppositionspolitiker Gadi Eisenkot als Favorit auf den Regierungsauftrag; Präsident Herzog entscheidet am Sonntag. Die arabischen Parteien bleiben der Knackpunkt für eine Mehrheit, die Konsultationen verliefen bislang wenig konstruktiv.
+Iranische Medien berichten von Explosionen auf der Insel Qeshm und in Jask. Das US-Militär legte ein Frachtschiff lahm und startete eine Task Force gegen iranische Waffentransporte auf dem Landweg. Katar sieht Fortschritte bei der Vermittlung, die USA bieten 20 Millionen Dollar für Hinweise zum Atomprogramm.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347948/nach-israel-wahl-eisenkot-bekr228ftigt-willen-zur-regierungsbildung?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html) · [Die Presse 🔒](https://www.diepresse.com/41424368/israel-nach-der-wahl-eisenkot-hat-nur-eine-kleine-chance-fuer-eine-regierungsmehrheit)
+→ [Der Standard](https://www.derstandard.at/story/3000000348043/explosionen-bei-strasse-von-hormus-usa-bestaetigt-angriff-auf-schiff?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss) · [BBC](https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss)
 
 ## USA
 
-### Trump ersetzt Stabschefin Wiles durch Hardliner Stephen Miller
+### Trump macht Hardliner Stephen Miller zum Stabschef
 
-Nach der Wahlniederlage der Republikaner bei den Midterms muss Susie Wiles gehen, Stephen Miller, Architekt der harten Einwanderungspolitik, übernimmt ab Montag. Im Justizministerium traten zwei weitere Spitzenbeamte zurück. Demokraten und Teile der Republikaner kritisieren den Schritt.
+Nach dem Wahldebakel bei den Midterms entließ Trump Stabschefin Susie Wiles und beförderte Stephen Miller, den Architekten der strikten Einwanderungspolitik. Beobachter sehen eine Konfrontation mit dem nun demokratisch kontrollierten Kongress.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347957/trump-feuert-stabschefin-stephn-miller-folgt-nach?ref=rss) · [ORF](https://orf.at/stories/3447464/) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump)
+→ [Der Standard](https://www.derstandard.at/story/3000000347968/eskalation-statt-maessigung-trump-macht-hardliner-miller-zum-stabschef?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html) · [Die Presse 🔒](https://www.diepresse.com/41428793/kampfansage-aus-dem-weissen-haus-mit-stephen-miller-geht-trump-auf-konfrontationskurs-zu-den-demokraten)
 
-### Kaliforniens Gouverneur Newsom begnadigt alle Todeskandidaten
+### Trump stellt Wahlergebnis infrage und droht Demokraten
 
-Gavin Newsom will alle 548 Todesurteile in Kalifornien in lebenslange Haft ohne Bewährung umwandeln. Staatlich sanktionierte Tötungen seien nicht mit kalifornischen Werten vereinbar, erklärte er.
+Trump schürt Zweifel am Ausgang der Kongresswahl und ordnete Ermittlungen des Justizministeriums gegen Demokraten an. Die Demokraten wollen ihrerseits mögliche Korruption in seinem Umfeld untersuchen.
 
-→ [France 24](https://www.france24.com/en/video/20261106-california-governor-to-grant-clemency-to-all-548-death-row-inmates-in-state) · [Deutsche Welle](https://www.dw.com/de/kaliforniens-gouverneur-setzt-zeichen-gegen-todesstrafe-news-kompakt-das-wichtigste-kurz-gefasst/a-79871179?maca=de-rss-de-all-1119-rdf)
+→ [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-schuert-zweifel-an-kongresswahl-und-droht-demokraten-art-682734) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss) · [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-trump-zweifel-midterms-demokraten-drohung-untersuchung-100.html)
+
+### Größter Masernausbruch in den USA seit 35 Jahren
+
+Laut CDC wurden heuer bereits 5.182 Fälle bestätigt, ein Säugling ist gestorben. Als Ursache gilt unter anderem die wachsende Impfskepsis.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000348015/gr246223ter-masernausbruch-in-den-usa-seit-35-jahren-s228ugling-verstorben?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-masern-100.html) · [Die Presse](https://www.diepresse.com/41428986/groesster-masernausbruch-in-den-usa-seit-35-jahren-saeugling-verstorben)
