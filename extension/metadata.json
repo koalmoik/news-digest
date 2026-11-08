@@ -1,5 +1,5 @@
 {
-  "uuid": "news-digest@peter",
+  "uuid": "news-digest@koalmoik.github.io",
   "name": "Morning Digest",
   "description": "Shows the daily news digest (Austria & international) in the top bar.",
   "shell-version": ["50", "51"],

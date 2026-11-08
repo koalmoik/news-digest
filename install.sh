@@ -2,7 +2,7 @@
 # Sets up the sync timer and the GNOME extension.
 set -euo pipefail
 DIR="$(cd "$(dirname "$0")" && pwd)"
-EXT=news-digest@peter
+EXT=news-digest@koalmoik.github.io
 
 mkdir -p ~/.config/systemd/user ~/.local/share/gnome-shell/extensions
 

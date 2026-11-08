@@ -11,12 +11,24 @@ import * as PanelMenu from 'resource:///org/gnome/shell/ui/panelMenu.js';
 import * as PopupMenu from 'resource:///org/gnome/shell/ui/popupMenu.js';
 import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
 
+// The extension dir is symlinked from the repo; resolve the link so the
+// scripts are found next to it, wherever the repo was cloned.
+function repoFile(name) {
+    const extDir = Gio.File.new_for_uri(import.meta.url).get_parent();
+    const info = extDir.query_info('standard::is-symlink,standard::symlink-target',
+        Gio.FileQueryInfoFlags.NOFOLLOW_SYMLINKS, null);
+    const realDir = info.get_is_symlink()
+        ? extDir.get_parent().resolve_relative_path(info.get_symlink_target())
+        : extDir;
+    return realDir.get_parent().get_child(name).get_path();
+}
+
 const CACHE_DIR = GLib.build_filenamev([GLib.get_user_cache_dir(), 'news-digest']);
 const DIGEST_FILE = GLib.build_filenamev([CACHE_DIR, 'latest.json']);
 const STATE_DIR = GLib.build_filenamev([GLib.get_user_state_dir(), 'news-digest']);
 const STATE_FILE = GLib.build_filenamev([STATE_DIR, 'state.json']);
 const CONFIG_FILE = GLib.build_filenamev([GLib.get_user_config_dir(), 'news-digest', 'config.json']);
-const SYNC = GLib.build_filenamev([GLib.get_home_dir(), 'Programs', 'news-digest', 'sync.sh']);
+const SYNC = repoFile('sync.sh');
 const PAGES_URL = 'https://koalmoik.github.io/news-digest-pages';
 const KEEP_DAYS = 14;
 const ACCENT = '#62a0ea';

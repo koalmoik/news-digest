@@ -34,7 +34,7 @@ It is therefore only stored as a repository secret, never in the repo.
 
 ### Desktop
 
-Clone the repo to `~/Programs/news-digest` (the extension expects `sync.sh` there), log in with
+Clone the repo anywhere (the extension finds `sync.sh` through its symlink), log in with
 `gh auth login` and run:
 
 ```bash
