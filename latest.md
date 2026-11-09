@@ -1,143 +1,143 @@
-# Morgen-Digest · Sonntag, 8. November 2026
+# Morgen-Digest · Montag, 9. November 2026
 
-_Nach dem tödlichen Schussangriff in Krakau steht Polen unter Schock, in den USA reagiert Trump mit der Berufung von Hardliner Stephen Miller zum Stabschef auf das Midterms-Debakel. In Israel soll Gadi Eisenkot eine Regierung bilden; in Österreich sorgt die E-Card-Gebühr für Pensionisten für Kritik._
+_Nach dem Anschlag von Krakau mit sechs Toten, darunter eine Niederösterreicherin, ermittelt Polen wegen Terrorverdachts. Zudem beginnt in Antalya die UN-Klimakonferenz COP31, und nach den US-Zwischenwahlen kündigen die Demokraten Untersuchungen gegen Trumps Umfeld an._
 
 ## Innenpolitik
 
-### E-Card-Servicegebühr soll auch Pensionisten treffen
+### SPÖ baut Regierungsteam um – Staatssekretariat wackelt
 
-Die ÖGK verrechnet jährlich eine Servicegebühr für die E-Card, für 2027 sind es knapp 27 Euro. Künftig sollen sie auch Pensionisten zahlen, rund 1,5 Millionen Menschen wären betroffen. Seniorenvertretung und Opposition üben scharfe Kritik.
+Die SPÖ will ihre Regierungsmannschaft umbauen. Sollte sie dabei aus Spargründen ein Staatssekretariat auflösen, könnte die ÖVP nachziehen und ihrerseits Posten streichen.
 
-→ [ORF](https://orf.at/stories/3447518/) · [Der Standard](https://www.derstandard.at/story/3000000347998/kritik-an-e-card-geb252hr-auch-f252r-pensionisten?ref=rss) · [Die Presse](https://www.diepresse.com/41428764/e-card-gebuehr-trifft-jetzt-auch-pensionisten-27-euro-sorgen-fuer-empoerung)
+→ [Der Standard](https://www.derstandard.at/story/3000000347631/verkleinert-sich-die-koalitionsregierung?ref=rss)
 
-### Marsalek brüstete sich laut Bericht mit Sturz von Kurz
+### Gemeindebund-Präsident Pressl zuversichtlich bei Reformpartnerschaft
 
-Laut dem britischen „Telegraph“ prahlte der Ex-Wirecard-Manager Jan Marsalek in Chats mit seinem Agentenführer Orlin Roussev, zum Sturz von Sebastian Kurz 2021 beigetragen zu haben. Konkret ging es demnach um die Beschlagnahmung des Handys von Thomas Schmid. Die Aussagen stammen von mutmaßlich russischen Akteuren und sind nicht unabhängig bestätigt.
+Johannes Pressl (ÖVP) zeigte sich in der ORF-„Pressestunde“ zuversichtlich, dass Bund, Länder und Gemeinden bei der Reformpartnerschaft zueinanderfinden. Er mahnte zugleich zu „Realismus“ bei den Erwartungen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348031/marsalek-soll-in-chats-behauptet-haben-kurz-gestuerzt-zu-haben?ref=rss) · [Die Presse](https://www.diepresse.com/41429715/telegraph-recherche-wurde-sebastian-kurz-von-russland-gestuerzt)
+→ [ORF](https://orf.at/stories/3447597/) · [ORF](https://orf.at/stories/3447598/)
 
 ## EU
 
-### Europa droht Gaspreis von bis zu 180 Euro pro Megawattstunde
+### Österreich droht EU-Strafe von zehn Millionen Euro wegen Sanktionsregeln
 
-Die EU kämpft mit einer Gaskrise und deutlich höheren Energiepreisen als die USA. Washington schlägt vor, wieder russisches Gas zu beziehen, Experten bezweifeln jedoch, dass das die Lage entspannt.
+Weil sich die Koalition über die Höhe der Sanktionsstrafen für Unternehmen nicht einigt und die ÖVP die neuen Regeln verzögert, drohen Österreich Strafzahlungen von rund zehn Millionen Euro an die EU. In den kommenden Tagen muss eine Lösung gefunden werden.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347542/wie-kommt-die-eu-aus-der-gaskrise-mit-gas-aus-russland-meinen-die-usa?ref=rss) · [Die Presse](https://www.diepresse.com/41428854/betreibt-die-eu-wirtschaftlichen-selbstmord-meine-herrn)
+→ [Die Presse 🔒](https://www.diepresse.com/41429996/oevp-verzoegert-neue-sanktionsregeln-jetzt-droht-oesterreich-dafuer-eine-millionenstrafe-an-die-eu)
 
-### Serie von Bombendrohungen gegen Flugzeuge in Europa
+### Litauens Präsident: Frist für EU-Budgetdeal läuft erst nächstes Jahr ab
 
-Seit Tagen häufen sich falsche Bombendrohungen gegen Passagierflugzeuge in Europa. Frankreich prüft, ob ausländische Mächte dahinterstecken; Experten vermuten eine europaweite Koordination.
+Gitanas Nausėda sagte gegenüber Rapporteur, der tatsächliche Stichtag für eine Einigung auf den nächsten mehrjährigen EU-Finanzrahmen (MFF) liege im kommenden Jahr. Der Zeitdruck in den Verhandlungen ist damit geringer als oft dargestellt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347981/bombendrohungen-gegen-fl252ge-ermittlungen-in-italien?ref=rss) · [France 24](https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers) · [Tagesschau](https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html)
+→ [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/interview-eus-real-budget-deadline-revealed/)
 
 ## Welt
 
-### Schüsse in Krakau: Sechs Tote, Tusk spricht von Terrorismus
+### Terroranschlag in Krakau: Sechs Tote, Österreicherin unter den Opfern
 
-Ein Mann schoss am Marktplatz von Krakau aus einem Auto wahllos auf Passanten und tötete sechs Menschen, rund 16 wurden verletzt, darunter eine Person aus Österreich. In seinem Haus wurden drei weitere Leichen gefunden. Premier Tusk nannte die Tat Terrorismus, der Innenminister verwies auf rechtsextreme Gesinnung des Täters.
+In der Krakauer Innenstadt wurden am Samstag sechs Menschen erschossen, unter ihnen eine 51-jährige Niederösterreicherin; der mutmaßlich rechtsextrem motivierte 24-jährige Täter wurde schwer verletzt festgenommen. Die Staatsanwaltschaft ermittelt wegen Terrorismus, Eltern und Schwester des Schützen wurden tot in seinem Haus gefunden. In Polen gilt Staatstrauer.
 
-→ [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/international/eine-verletzte-person-beim-anschlag-in-krakau-aus-oesterreich-art-682707) · [Der Standard](https://www.derstandard.at/story/3000000348021/mindestens-zwei-tote-nach-schuessen-auf-hauptplatz-in-krakau?ref=rss) · [ORF](https://orf.at/stories/3447538/)
+→ [ORF](https://orf.at/stories/3447628/) · [Der Standard](https://www.derstandard.at/story/3000000348045/anschlag-in-krakau-eine-verletzte-person-aus-214sterreich?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-100.html)
 
-### Russland trifft Kyjiws Strom- und Wasserversorgung
+### Ukraine: Neue Gespräche in Abu Dhabi, Hunderttausende ohne Strom
 
-Russland griff mit 172 Drohnen und 36 ballistischen Raketen die Energieinfrastruktur der Ukraine an. In Kyjiw gibt es Stromausfälle und Wassermangel. Selenskyj nennt Trumps Friedensplan gefährlich; kommende Woche sind Gespräche in Abu Dhabi geplant.
+Am Dienstag und Mittwoch verhandeln Russland, die Ukraine und die USA erneut in Abu Dhabi; laut Frankreichs Außenminister Barrot sind auch die Europäer vertreten. Gleichzeitig trafen russische Luftangriffe die Energieversorgung, allein in der Region Dnipropetrowsk sind 600.000 Menschen ohne Strom.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000347952/russischer-onlinehaendler-ozon-meldet-drohnenangriff-auf-warenhaus?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html) · [BBC](https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000348050/friedensverhandlungen-in-abu-dhabi-naechste-runde-altes-spiel?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html) · [France 24](https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says)
 
-### Frankreich: Erneut Proteste gegen hohe Preise
+### Südafrika: ANC erleidet historische Niederlage bei Kommunalwahlen
 
-Am vierten Samstag in Folge gingen in Frankreich laut Innenministerium 146.000 Menschen gegen steigende Lebenskosten auf die Straße, deutlich weniger als zuvor. In Paris und Lyon kam es zu Ausschreitungen. Für Dienstag sind weitere Proteste angekündigt.
+Der Afrikanische Nationalkongress erzielte mit rund 30 Prozent sein schlechtestes Ergebnis bei Kommunalwahlen überhaupt. Die Wahl galt als Stimmungstest vor der Parlamentswahl 2029; viele Wähler sind über Kriminalität und Versorgungsprobleme frustriert.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348034/146000-demonstrieren-in-frankreich-teilnahme-geht-zur252ck?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/nur-mehr-146000-bei-demonstrationen-in-frankreich-art-682630) · [Tagesschau](https://www.tagesschau.de/ausland/frankreich-proteste-246.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000348110/anc-f228hrt-bei-kommunalwahlen-in-s252dafrika-historische-niederlage-ein?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss)
 
 ## Wirtschaft
 
-### Casinos Austria: Kundendaten von 150.000 Personen gestohlen
+### Chinas Erzeugerpreise steigen so stark wie seit viereinhalb Jahren nicht
 
-Hacker verschafften sich über einen externen Dienstleister Zugang zum Webshop des Glücksspielkonzerns. Betroffen sind Daten von rund 150.000 Kunden, Bankdaten laut Bericht nicht.
+Hohe Ölpreise treiben die Produktionskosten in der zweitgrößten Volkswirtschaft der Welt nach oben. Die Erzeugerpreise legten im Oktober im Jahresvergleich so stark zu wie seit fast viereinhalb Jahren nicht mehr.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348017/cyberangriff-auf-casinos-austria-kundendaten-weg-bankdaten-nicht?ref=rss) · [Die Presse](https://www.diepresse.com/41428996/cyberangriff-auf-casinos-austria-daten-von-150000-kunden-gestohlen)
+→ [Die Presse](https://www.diepresse.com/41433255/chinas-erzeugerpreise-steigen-so-stark-wie-seit-fast-viereinhalb-jahren-nicht)
 
-### Größter Batteriespeicher Österreichs in Molln geplant
+### Börsen nach US-Wahl: Tech-Ausverkauf, danach Erholung in Asien
 
-Der US-Konzern ContourGlobal will in Molln einen Energiespeicher mit 300 Megawatt Leistung errichten. Der Standort soll ein Grundstück eines örtlichen Bauunternehmers sein.
+Der Sieg der Demokraten bei den Midterms löste einen Ausverkauf bei Technologiewerten aus, Asiens Börsen erholten sich zu Wochenbeginn. Während die US-Märkte unter Druck stehen, halten sich europäische Aktien bislang gut.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347988/us-konzern-will-in-molln-gr246223ten-batteriespeicher-214sterreichs-bauen?ref=rss)
+→ [Al Jazeera](https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss) · [Die Presse 🔒](https://www.diepresse.com/41425218/die-reaktion-der-boersen-auf-die-us-wahlen-ist-extrem-so-orientieren-sich-anleger-nun-neu)
 
 ## Klima
 
-### COP31 in Antalya startet mit geteilter Präsidentschaft
+### UN-Klimakonferenz COP31 in Antalya beginnt
 
-Am 9. November beginnt die 31. UN-Klimakonferenz im türkischen Antalya, erstmals mit zwei Präsidenten. Australiens Klimaminister Bowen steht vor der Aufgabe, als Vermittler zu agieren, obwohl sein Land ein großer Kohle- und Gasexporteur ist. Kanzler Merz nimmt nicht teil.
+Rund 190 Staaten verhandeln zwei Wochen lang in der Türkei; erstmals gibt es eine geteilte Präsidentschaft zwischen Australien und der Türkei. Die USA sind erneut nicht dabei, Kanzler Merz sagte seine Teilnahme ab, und bei der Klimafinanzierung wird erneut ein Streit erwartet.
 
-→ [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/international/cop31-in-antalya-zwei-praesidenten-und-massnahmen-als-ziel-art-682736) · [The Guardian](https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals) · [ZDFheute](https://www.zdfheute.de/politik/deutschland/merz-geburtstag-pizzeria-statt-umwelt-100.html)
+→ [ORF](https://orf.at/stories/3447635/) · [Tagesschau](https://www.tagesschau.de/wissen/klima/cop-in-antalya-beginnt-100.html) · [Die Presse](https://www.diepresse.com/41430828/klimakonferenz-cop31-konkrete-massnahmen-sind-das-ziel-doch-die-usa-sind-erneut-nicht-dabei)
+
+### Erstmals mehr als 1000 Hitzetote in einem Sommer in Österreich
+
+Laut AGES-Schätzung forderte der Sommer 2026 zwischen Juni und September 1008 hitzebedingte Todesfälle – so viele wie noch nie seit Beginn der Erhebungen.
+
+→ [Die Presse](https://www.diepresse.com/41433289/erstmals-mehr-als-1000-hitzetote-in-einem-sommer-in-oesterreich) · [Salzburger Nachrichten 🔒](https://www.sn.at/salzburg/politik/rekordhoch-bei-hitzetoten-die-dramatische-bilanz-des-salzburger-sommers-art-682781)
 
 ## Tech/KI
 
-### OpenAI sammelt elf Milliarden Dollar ein
+### Nvidia untersucht Spionageverdacht rund um Konzernchef Huang
 
-Laut Bericht hat OpenAI elf Milliarden Dollar bei Investoren eingesammelt und wird mit mehr als einer Billion Dollar bewertet. Das Unternehmen musste seine Erwartungen dennoch zurückschrauben. Nach den US-Midterms geraten KI-Firmen zudem an der Börse und politisch unter Druck.
+Nvidias Board hat extern unterstützte Untersuchungen eingeleitet, nachdem Berichte (u. a. der New York Times) von einer Affäre Jensen Huangs mit einer mutmaßlich für China spionierenden Frau berichteten. Huang räumte die Affäre ein; Donald Trump verteidigte ihn.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347967/openai-sammelte-laut-bericht-elf-milliarden-dollar-bei-investoren-ein?ref=rss) · [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-midterms-demokraten-ki-branche-boerse-einsturz-100.html)
+→ [ORF](https://orf.at/stories/3447639/) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation)
+
+### Anthropic kauft Stromgeneratoren für 3,4 Milliarden Dollar
+
+Die erworbenen Hochleistungsgeneratoren sollen eine Kapazität von 1,7 Gigawatt erreichen und die Rechenzentren des KI-Unternehmens versorgen. Der Energiehunger der KI-Branche wird damit zunehmend zum eigenen Infrastrukturthema.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000348109/ki-firma-anthropic-schafft-stromgeneratoren-fuer-34-milliarden-dollar-an?ref=rss)
 
 ## IT-Security
 
-### Hackerangriff auf Brenner-Basistunnel
+### Cyber-Sabotage in Europa: Geheimdienste ermitteln nach Angriffen auf Infrastruktur
 
-Die Betreibergesellschaft BBT SE bestätigte einen Cyberangriff, bei dem auch Daten abgegriffen worden sein sollen. Vermutet wird die russischsprachige Gruppe „Everest“.
+Gehäufte IT-Attacken zeigen gravierende Schwachstellen in vernetzter Gebäude- und Betriebstechnik (OT). In mehreren Ländern haben sich Geheimdienste in die Ermittlungen eingeschaltet.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347969/hackerangriff-auf-brenner-basistunnel-gemeldet?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/oesterreich/hackerangriff-gegen-brenner-basistunnel-art-682664)
+→ [Der Standard](https://www.derstandard.at/story/3000000348054/cyber-sabotage-in-europa-geheimdienste-ermitteln-nach-attacken-auf-kritische-infrastruktur?ref=rss)
 
-### Sabotage an Kühlsystemen: Geheimdienste ermitteln
+### Prorussische Hacker bieten Daten des italienischen Außenministers an
 
-Nach Angriffen auf Kühlsysteme in Supermärkten in ganz Europa ermitteln auch Verfassungsschutz und BND. Die Täter nutzen laut heise Schwachstellen in Fernwartungszugängen.
+Die Gruppe „Noname057(16)“ bietet laut Bericht vertrauliche Daten des italienischen Außenministers im Darknet an. Die G7-Außenminister beraten diese Woche über Cyberangriffe prorussischer Gruppen.
 
-→ [heise Security](https://www.heise.de/news/Supermarkt-Kuehlsysteme-Deutsche-Geheimdienste-ermitteln-nach-Sabotageakten-11516390.html) · [Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss)
-
-### Daten des italienischen Außenministers veröffentlicht
-
-Hacker haben persönliche Daten von Außenminister Tajani und seinen Angehörigen online gestellt. Premierministerin Meloni macht prorussische Hacker verantwortlich.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000347973/nach-hackerangriffen-auf-kuehlschraenke-italien-warnt-vor-hybridem-krieg?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000348053/hacker-veroeffentlichen-vertrauliche-daten-des-italienischen-aussenministers?ref=rss) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000348042/600000-menschen-in-der-ostukraine-nach-russischen-angriffen-ohne-strom?ref=rss)
 
 ## Wissenschaft
 
-### Novartis: Tumorfälle bei Kindern nach Gentherapie Zolgensma
+### Neues Medikament Baxdrostat gegen Bluthochdruck wirkt offenbar lange nach
 
-Novartis erhielt seit 2019 neun Meldungen über Tumore bei mit Zolgensma behandelten Patienten, zwei Fälle bei Kindern deuten auf einen Zusammenhang hin. Die US-Arzneimittelbehörde untersucht, ob das Medikament bösartige Tumore verursacht.
+Bei Patienten blieb der Nutzen des Wirkstoffs Baxdrostat unerwartet bis zu zwei Jahre nach Therapieende bestehen. Für Millionen Menschen mit einer häufigen Ursache von Bluthochdruck könnte das neue Behandlungsansätze eröffnen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347989/novartis-zwei-tumorf228lle-bei-kindern-deuten-auf-bezug-zu-gentherapie-hin?ref=rss) · [SRF](https://www.srf.ch/news/international/teure-spitzenmedizin-krebserkrankungen-durch-das-medikament-zolgensma)
+→ [The Guardian](https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat)
 
 ## Nahost
 
-### Eisenkot soll in Israel Regierung bilden
+### Israel: Eisenkot soll Regierung bilden – Netanjahu verliert Mehrheit
 
-Präsident Herzog beauftragt Oppositionspolitiker Gadi Eisenkot mit der Regierungsbildung. Er hat 28 Tage, um 61 Knesset-Sitze zu sichern, obwohl weder Netanjahus noch sein Block eine klare Mehrheit hat.
+Präsident Herzog hat Oppositionsführer Gadi Eisenkot offiziell mit der Regierungsbildung beauftragt; er hat vier Wochen Zeit. Seinem Bündnis fehlen 13 Mandate zur eigenen Mehrheit, er muss daher Araber oder Ultraorthodoxe oder Netanjahu-Verbündete gewinnen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348036/netanjahu-rivale-einsenkot-mit-regierungsbildung-in-israel-beauftragt?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000348077/offiziell-eisenkots-huerdenlauf-einer-regierungsbildung-in-israel-beginnt?ref=rss) · [ORF](https://orf.at/stories/3447617/) · [Deutsche Welle](https://www.dw.com/de/israel-netanjahu-rivale-gadi-eisenkot-soll-regierung-bilden/a-79889744?maca=de-rss-de-all-1119-rdf)
 
-### Iran: Explosionen an der Straße von Hormus, USA bilden Sondereinheit
+### Iran: USA verschärfen Blockade, Gespräche ohne Fortschritt
 
-Iranische Medien berichten von Explosionen auf der Insel Qeshm und in Jask. Das US-Militär legte ein Frachtschiff lahm und startete eine Task Force gegen iranische Waffentransporte auf dem Landweg. Katar sieht Fortschritte bei der Vermittlung, die USA bieten 20 Millionen Dollar für Hinweise zum Atomprogramm.
+Das US-Militär legte im Golf von Oman einen Frachter lahm, der die Seeblockade verletzt haben soll, und will mit der Einheit „Iron Gate“ auch Lieferwege an Land kappen. Trump hält neue Angriffe bei guten Gesprächen für „sehr unwahrscheinlich“, Außenminister Rubio sieht jedoch keine Fortschritte.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348043/explosionen-bei-strasse-von-hormus-usa-bestaetigt-angriff-auf-schiff?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss) · [BBC](https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000348078/us-milit228r-frachter-im-golf-von-oman-untauglich-gemacht?ref=rss) · [SRF](https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-rubio-sieht-keine-fortschritte-in-iran-gespraechen) · [Die Presse](https://www.diepresse.com/41433260/usa-verschaerfen-iran-blockade-trump-will-auch-lieferwege-an-land-kappen)
 
 ## USA
 
-### Trump macht Hardliner Stephen Miller zum Stabschef
+### Nach Midterms: Demokraten planen Untersuchungen, Trump droht
 
-Nach dem Wahldebakel bei den Midterms entließ Trump Stabschefin Susie Wiles und beförderte Stephen Miller, den Architekten der strikten Einwanderungspolitik. Beobachter sehen eine Konfrontation mit dem nun demokratisch kontrollierten Kongress.
+Die Demokraten kündigten nach ihrem deutlichen Wahlsieg weitreichende parlamentarische Untersuchungen im Umfeld Trumps an; Fraktionschef Jeffries unterstützt zudem ein Impeachment gegen Verteidigungsminister Hegseth. Trump stellt das Wahlergebnis infrage und wies seinen Justizminister an, gegen Demokraten zu ermitteln.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347968/eskalation-statt-maessigung-trump-macht-hardliner-miller-zum-stabschef?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html) · [Die Presse 🔒](https://www.diepresse.com/41428793/kampfansage-aus-dem-weissen-haus-mit-stephen-miller-geht-trump-auf-konfrontationskurs-zu-den-demokraten)
+→ [ORF](https://orf.at/stories/3447636/) · [Der Standard](https://www.derstandard.at/story/3000000348046/trump-sch252rt-zweifel-an-kongresswahl-und-droht-demokraten?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss)
 
-### Trump stellt Wahlergebnis infrage und droht Demokraten
+### Trump: Abschiebepolitik war „vielleicht zu hart“
 
-Trump schürt Zweifel am Ausgang der Kongresswahl und ordnete Ermittlungen des Justizministeriums gegen Demokraten an. Die Demokraten wollen ihrerseits mögliche Korruption in seinem Umfeld untersuchen.
+In einem CBS-Interview räumte der Präsident nach der Wahlniederlage der Republikaner erstmals ein, bei Abschiebungen sei man womöglich zu hart vorgegangen. Ob dies eine Kursänderung bedeutet, ließ er offen.
 
-→ [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-schuert-zweifel-an-kongresswahl-und-droht-demokraten-art-682734) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss) · [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-trump-zweifel-midterms-demokraten-drohung-untersuchung-100.html)
-
-### Größter Masernausbruch in den USA seit 35 Jahren
-
-Laut CDC wurden heuer bereits 5.182 Fälle bestätigt, ein Säugling ist gestorben. Als Ursache gilt unter anderem die wachsende Impfskepsis.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000348015/gr246223ter-masernausbruch-in-den-usa-seit-35-jahren-s228ugling-verstorben?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-masern-100.html) · [Die Presse](https://www.diepresse.com/41428986/groesster-masernausbruch-in-den-usa-seit-35-jahren-saeugling-verstorben)
+→ [SRF](https://www.srf.ch/news/international/midterms-2026-trump-bei-cbs-abschiebepolitik-war-zu-hart) · [Die Presse](https://www.diepresse.com/41433261/trump-ueber-abschiebungen-vielleicht-waren-wir-zu-hart) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration)
