@@ -1,149 +1,143 @@
-# Morgen-Digest · Dienstag, 10. November 2026
+# Morgen-Digest · Mittwoch, 11. November 2026
 
-_In Abu Dhabi beginnen neue Ukraine-Gespräche zwischen Russland, der Ukraine und den USA, während in Antalya die Weltklimakonferenz COP31 startet. Dazu erschüttert die Spionageaffäre um Nvidia-Chef Jensen Huang die Märkte, und in den USA droht Verteidigungsminister Hegseth ein Amtsenthebungsverfahren._
+_In Abu Dhabi verhandeln Russland und die Ukraine erstmals seit Monaten direkt unter US-Vermittlung, während die Nvidia-Affäre um Konzernchef Jensen Huang größer wird. In Österreich sorgen schwache Ergebnisse bei den Kompetenztests und Marterbauers Vorstoß zu EU-Konzernabgaben für Debatten._
 
 ## Innenpolitik
 
-### Breite Kritik am Zukunftsdepot der Regierung
+### Kompetenztests: Nur ein Viertel erreicht Lernziele in Deutsch und Mathematik
 
-Die Begutachtungsfrist für das steuerlich begünstigte „Zukunftsdepot“ ist ausgelaufen. Arbeiterkammer, Nationalbank und Grüne kritisieren unter anderem, dass per Gesetz nur gewisse Gebühren und Steuern entfallen und die Versprechen nicht eingehalten würden.
+Bei der Kompetenzüberprüfung in der Sekundarstufe I erreicht nur etwa ein Viertel der Jugendlichen die Lernziele in Deutsch und Mathematik, in Englisch schneiden sie besser ab. Bildungsminister Wiederkehr nahm zu den Ergebnissen Stellung. Die Zahlen zeigen einen deutlichen Leistungsrückgang und setzen das Bildungssystem unter Druck.
 
-→ [ORF](https://orf.at/stories/3447701/) · [Der Standard](https://www.derstandard.at/story/3000000348292/keine-gebuehren-keine-steuern-beim-zukunftsdepot-was-vom-versprechen-blieb?ref=rss) · [Die Presse](https://www.diepresse.com/41433584/kritik-am-zukunftsdepot-gruene-kritisieren-gebrochene-versprechen-des-kanzlers)
+→ [Der Standard](https://www.derstandard.at/story/3000000348349/deutsch-und-mathematikleistungen-von-oesterreichs-jugendlichen-sinken?ref=rss) · [ORF](https://orf.at/stories/3447830/) · [Die Presse 🔒](https://www.diepresse.com/41437946/leistungen-in-schulen-sacken-ab-nur-ein-viertel-erreicht-standards-in-deutsch-und-mathematik)
 
-### Streit in der ÖVP über Jobs für Asylwerber ab Tag eins
+### Marterbauer offen für EU-Konzernabgaben und Digitalsteuer
 
-Tirols Landeshauptmann Mattle will Asylwerbern das Arbeiten ab dem ersten Tag erlauben. Innenminister Karner lehnt das als „Pull-Faktor“ ab, Migrationsexperten und die Neos unterstützen den Vorstoß hingegen.
+Finanzminister Marterbauer hat sich im Zusammenhang mit dem EU-Budget offen für eine EU-weite Abgabe auf Großunternehmen und eine Digitalsteuer gezeigt. WKÖ-Präsidentin Schultz sprach von einem völlig falschen Signal, laut Presse wurde er von der ÖVP zurückgepfiffen. Mit den Koalitionspartnern war der Vorstoß offenbar nicht abgestimmt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348177/karner-lehnt-sofortige-arbeitsmoeglichkeit-fuer-asylwerber-ab?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41435732/oevp-streitet-ueber-arbeitsmoeglichkeit-fuer-asylwerber)
+→ [ORF](https://orf.at/stories/3447803/) · [Der Standard](https://www.derstandard.at/story/3000000348564/eu-budget-marterbauer-offen-fuer-eu-konzernabgaben-und-digitalsteuer?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41439299/oevp-pfeift-marterbauer-bei-neuen-eu-abgaben-zurueck)
 
 ## EU
 
-### Merz koppelt EU-Budgetdeal an neue Ukraine-Kredite
+### EU-Rechnungshof kritisiert löchrige Durchsetzung der Russland-Sanktionen
 
-Der deutsche Kanzler will eine Budgeteinigung nur mit langfristiger Finanzierung für Kiew. Irland sieht als wahrscheinlichste Lösung die Ausgabe zusätzlicher gemeinsamer Schulden.
+Der Europäische Rechnungshof bemängelt, dass die Sanktionen gegen Russland durch schwache Durchsetzung an Wirkung verlieren. Kritisiert wird unter anderem das sogenannte Forum-Shopping, bei dem Unternehmen die Behörde mit dem laxesten Vollzug nutzen. Das schwächt die Möglichkeit der EU, den Druck auf Moskau zu erhöhen.
 
-→ [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/merz-ties-eu-budget-deal-to-new-ukraine-loans/) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/ireland-ukraine-and-eu-budget-debates-are-linked/)
+→ [ORF](https://orf.at/stories/3447825/) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-auditor-russia-sanctions-undermined-by-weak-enforcement/)
 
-### EU-Staaten wollen Zigaretten-Einfuhr auf eine Stange beschränken
+### Merz und Magyar streiten über Ukraine-Hilfe im EU-Budget
 
-Statt bisher vier Stangen soll privat nur noch eine Stange Zigaretten aus anderen EU-Ländern mitgebracht werden dürfen. Österreich unterstützt das; eine Einigung auf höhere Mindeststeuern scheiterte laut Diplomaten zuletzt am Widerstand Maltas.
+Bundeskanzler Merz besteht darauf, dass Unterstützung für die Ukraine Teil des mehrjährigen EU-Finanzrahmens ist, ohne diese Hilfen gebe es keinen Haushalt. Ungarns Ministerpräsident Magyar sieht das anders, auch die Slowakei und Tschechien lehnen den Kurs ab. Der Konflikt belastet die Budgetverhandlungen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348130/zigaretten-freimenge-aus-eu-ausland-koennte-deutlich-sinken?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/thrilling-battle-for-unanimity-on-tobacco-tax-ends-without-deal/) · [Die Presse 🔒](https://www.diepresse.com/41433588/angst-um-steuerentgang-nur-noch-eine-stange-zigaretten-aus-dem-eu-ausland-wird-erlaubt)
+→ [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/merz-and-magyar-clash-over-ukraine-and-eu-budget/) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/rapporteur-am-merz-says-no-mff-without-ukraine/) · [ZDFheute](https://www.zdfheute.de/politik/ausland/eu-ukraine-finanzierung-streit-fico-merz-100.html)
 
 ## Welt
 
-### Neue Ukraine-Gespräche in Abu Dhabi mit gedämpften Erwartungen
+### Ukraine-Gespräche in Abu Dhabi: erster Tag ohne offizielles Ergebnis
 
-Am Dienstag und Mittwoch verhandeln Russland, die Ukraine und die USA erstmals seit Februar wieder trilateral. Laut US-Vertretern zeigen beide Seiten bei Gebietsfragen etwas Flexibilität; Moskau lehnt eine Beteiligung der Europäer ab.
+Erstmals seit rund neun Monaten verhandeln Vertreter Russlands und der Ukraine wieder, vermittelt von den USA. Der erste Tag endete ohne offizielles Ergebnis, Selenskyj nannte ihn konstruktiv und sprach von einem möglichen Austausch von mehr als tausend Kriegsgefangenen. Europa sitzt nicht mit am Tisch, die Gespräche gehen am Mittwoch weiter.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000348328/verhandlungen-in-abu-dhabi-zur-beendigung-des-ukraine-kriegs-beginnen?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html) · [Deutsche Welle](https://www.dw.com/de/russland-lehnt-europas-teilnahme-an-ukraine-gesprächen-ab/a-79897668?maca=de-rss-de-all-1119-rdf)
+→ [ORF](https://orf.at/stories/3447784/) · [Tagesschau](https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss) · [SRF](https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-selenski-wollen-ueber-tausend-kriegsgefangene-austauschen)
 
-### Anschlag in Krakau: Täter gestorben, Motiv weiter unklar
+### Krakau: Tausende gedenken der Opfer des Schützen
 
-Der Schütze, der auf dem Marktplatz sechs Menschen getötet hat, ist im Krankenhaus gestorben. Er trug rund 500 Schuss Munition bei sich; die Staatsanwaltschaft hält es für zu früh, ein politisches Motiv zu benennen.
+Nach dem Anschlag vom Samstag in der Krakauer Altstadt mit neun Todesopfern zogen Tausende in einem Schweigemarsch durch die Stadt, darunter Präsident Nawrocki und Ministerpräsident Tusk. Der 24-jährige Täter interessierte sich für den Massenmörder Breivik. In Polen ist ein Streit über die Motive und den Umgang mit dem Fall entbrannt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348240/fake-news-luegen-vorwuerfe-der-anschlag-von-krakau-wurde-rasch-zum-politikum?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-102.html) · [The Guardian](https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead)
-
-### Frankreich zieht Mindestlohnerhöhung nach Protesten vor
-
-Die Regierung hebt den Mindestlohn um 1,6 Prozent bereits im Dezember statt im Jänner an, um die anhaltenden Proteste zu beruhigen. Hintergrund sind Unmut über Lebenshaltungskosten und Sparkurs vor den Wahlen.
-
-→ [ORF](https://orf.at/stories/3447705/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html) · [France 24](https://www.france24.com/en/video/20261109-french-pm-brings-forward-hike-in-minimum-wage-to-calm-protesters)
+→ [ORF](https://orf.at/stories/3447766/) · [Der Standard](https://www.derstandard.at/story/3000000348544/krakau-anschlag-beh246rden-verletzter-nach-214sterreich-252berstellt?ref=rss) · [ZDFheute](https://www.zdfheute.de/video/schweigemarsch-in-krakau-100.html)
 
 ## Wirtschaft
 
-### Mayr-Melnhof verkauft Mehrheit an Packaging-Sparte
+### Mayr-Melnhof verkauft Verpackungssparte, Aktie springt
 
-Der Finanzinvestor KPS Capital Partners übernimmt 70 Prozent der Verpackungssparte des steirischen Kartonherstellers. Das Geschäft wird mit 2,4 Milliarden Euro bewertet.
+Der steirische Konzern Mayr-Melnhof verkauft 70 Prozent seines Verpackungsgeschäfts an den US-Investor KPS Capital Partners. Die Transaktion bewertet die Sparte mit 2,4 Milliarden Euro, die Aktie legte um rund 16 Prozent zu. Es gilt als eine der größten Deals der österreichischen Industriegeschichte.
 
-→ [ORF](https://orf.at/stories/3447741/) · [Der Standard](https://www.derstandard.at/story/3000000348340/mayr-melnhof-verkauft-mehrheit-an-packaging-geschaeft?ref=rss) · [Die Presse](https://www.diepresse.com/41437786/mayr-melnhof-karton-verkauft-mehrheit-an-packaging-geschaeft)
+→ [Der Standard](https://www.derstandard.at/story/3000000348424/mayr-melnhof-gruppe-verkauft-verpackungsgeschaeft-aktie-im-hoehenflug?ref=rss) · [Die Presse](https://www.diepresse.com/41437786/packaging-geschaeft-verkauft-mayr-melnhof-aktie-springt-16-prozent-in-die-hoehe)
 
-### Voestalpine baut wegen US-Zusatzzoll 150 Jobs in Kindberg ab
+### EZB-Chefvolkswirt stimmt auf weitere Zinserhöhung ein
 
-Beim Rohrproduzenten Voestalpine Tubulars werden laut Medienbericht erneut Stellen gestrichen. Das US-Handelsministerium wirft dem Konzern Preisdumping vor und verhängt einen Zusatzzoll.
+Hohe Energiepreise haben die Teuerung im Euroraum auf den höchsten Stand seit mehr als drei Jahren getrieben. Der EZB-Chefvolkswirt deutete deshalb eine weitere Zinserhöhung an. Parallel ist ein Streit um die Nachfolge auf dem Posten entbrannt, Frankreich hat Interesse angemeldet.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348306/-voestalpine-baut-150-jobs-in-kindberg-ab-zeitung?ref=rss) · [Die Presse](https://www.diepresse.com/41437365/us-zusatzzoll-voestalpine-baut-rund-150-jobs-in-kindberg-ab)
+→ [Der Standard](https://www.derstandard.at/story/3000000348416/ezb-chefvolkswirt-stimmt-finanzm228rkte-auf-weitere-zinserh246hung-ein?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000348392/frankreich-meldet-interesse-an-posten-des-ezb-chefvolkswirts-an?ref=rss)
 
 ## Klima
 
-### COP31 in Antalya gestartet: Appelle für mehr Tempo
+### COP31 in Antalya: Emissionen sinken minimal, Wende noch nicht in Sicht
 
-Die Weltklimakonferenz hat mit eindringlichen Appellen begonnen; UN-Klimachef Stiell warnte, hohe Preise für fossile Energie heizten die Inflation an. Die WMO sieht die Erde in einem „neuen Zeitalter der Klimaextreme“, die USA sind offiziell nicht vertreten.
+Zum Auftakt der UN-Klimakonferenz zeigt der Bericht des Global Carbon Project einen leichten Rückgang der fossilen CO₂-Emissionen von etwa 0,4 Prozent, getrieben von hohen Ölpreisen und dem Ausbau erneuerbarer Energien. Die Autoren warnen, von einer globalen Trendwende zu sprechen sei verfrüht. Gastgeber Türkei verkündete zugleich neue Ölförderung.
 
-→ [ORF](https://orf.at/stories/3447670/) · [Der Standard](https://www.derstandard.at/story/3000000348173/neues-zeitalter-der-klimaextreme-aufruf-zum-handeln-bei-klimagipfel?ref=rss) · [The Guardian](https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31)
+→ [Der Standard](https://www.derstandard.at/story/3000000347905/trumps-krieg-im-iran-bremst-2026-fossile-emissionen-trotzdem-gibt-es-keinen-grund-zum-feiern?ref=rss) · [Tagesschau](https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html) · [The Guardian](https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push) · [Die Presse](https://www.diepresse.com/41439042/fossile-ignoranz-zum-auftakt-der-klimakonferenz-verkuendet-gastgeber-erdogan-neue-oelfoerderung)
 
-### Fossile CO₂-Emissionen sinken 2026 leicht
+### Österreichs Wasser wird knapper, Hochwassergefahr steigt
 
-Laut Forschungsbericht gehen die Emissionen aus Öl, Gas und Kohle um 0,4 Prozent zurück, auch wegen der Ölkrise durch den Iran-Krieg und des Ausbaus der Erneuerbaren. Die Autoren warnen, von einer globalen Trendwende zu sprechen sei verfrüht.
+Eine neue Studie zeigt, dass in Österreich weniger Grundwasser gebildet wird, während kurze Starkregenereignisse zunehmen. Besonders der Osten und Südosten sind betroffen. 2026 dürfte laut Presse das trockenste Jahr seit Messbeginn werden.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347905/trumps-krieg-im-iran-bremst-2026-fossile-emissionen-trotzdem-gibt-es-keinen-grund-zum-feiern?ref=rss) · [Tagesschau](https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html) · [The Guardian](https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push)
+→ [Der Standard](https://www.derstandard.at/story/3000000348530/oesterreichs-wasser-wird-knapper-und-die-hochwassergefahr-steigt?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41437850/wird-in-oesterreich-das-wasser-knapp-bei-der-donau-schaut-es-nicht-gut-aus)
 
 ## Tech/KI
 
-### Nvidia-Chef Huang unter Druck: Affäre mit mutmaßlicher chinesischer Spionin
+### Anthropic-Börsengang soll bis zu 64 Milliarden Dollar einbringen
 
-Nvidia untersucht eine Beziehung von Konzernchef Jensen Huang zu einer Frau, die für Chinas Geheimdienst gearbeitet haben soll; Trump sagt, das FBI ermittle. Die Aktie fiel deutlich, eine Aktionärs-Sammelklage wurde eingebracht, Peking weist den Spionagevorwurf zurück.
+Anthropic hat Details zum geplanten Börsengang veröffentlicht: 825 Millionen Aktien zu 70 bis 78 Dollar, die Bewertung läge bei bis zu rund 1,4 Billionen Dollar. Große Tech-Konzerne wollen zusätzlich 26 Milliarden Dollar investieren. Die Preisspanne liegt unter früheren Erwartungen, nachdem Anleger bei KI vorsichtiger wurden.
 
-→ [ORF](https://orf.at/stories/3447708/) · [BBC](https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss) · [France 24](https://www.france24.com/en/tv-shows/a-propos/20261109-nvidia-honeypot-may-have-been-aimed-at-lobbying-jensen-huang-to-lobby-the-us-government)
+→ [ORF](https://orf.at/stories/3447801/) · [Der Standard](https://www.derstandard.at/story/3000000348570/anthropic-boersengang-soll-64-milliarden-dollar-bringen?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html) · [BBC](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
 
-### Vodafone und Qantas streichen Stellen auch wegen KI
+### Nvidia-Affäre: FBI ermittelt, Konzern beauftragt Kanzlei
 
-Vodafone baut in Deutschland rund 2.300 Stellen ab, fast jeden fünften Job, und nennt den verstärkten KI-Einsatz als Grund. Die australische Qantas verlagert 850 Jobs überwiegend nach Indien.
+Konzernchef Jensen Huang soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben, die laut Bericht Chips im Wert von 7,5 Milliarden Dollar nach China geschleust haben soll. Laut Präsident Trump ermittelt das FBI, Nvidia hat die Kanzlei Wachtell Lipton mit einer unabhängigen Untersuchung beauftragt. Der Fall belastet Aktie und Börsen und wirft Fragen zur Nachfolge auf.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348215/vodafone-baut-in-deutschland-rund-2300-stellen-ab?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html) · [BBC](https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3447811/) · [Der Standard](https://www.derstandard.at/story/3000000348560/exportbeschraenkungen-laut-bericht-umgangen-spionage-affaere-um-nvidia-chef-zieht-weite-kreise?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss) · [Politico Europe](https://www.politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
 ## IT-Security
 
-### Frankreich macht iranische Revolutionsgarden für Kühlanlagen-Hack verantwortlich
+### Frankreich macht Iran für Cyberangriff auf Supermarkt-Kühlsysteme verantwortlich
 
-Hinter den Cyberangriffen auf Kühlsysteme französischer Supermärkte im Oktober steht laut Paris die IRGC-Einheit Shahid Kaveh. Teils kam es zu Bränden; Frankreich kündigt EU-Sanktionen an und die Staatsanwaltschaft ermittelt.
+Frankreich bestellte den iranischen Botschafter ein, weil Ermittler Spuren zu den Angriffen auf Kühlanlagen hunderter Supermärkte im Oktober gefunden haben wollen, bei denen große Mengen Lebensmittel verdarben. Teheran weist die Vorwürfe zurück, Paris droht mit EU-Sanktionen und weiteren Maßnahmen. Deutsche Behörden haben sich noch nicht festgelegt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348330/paris-wirft-iran-cyberangriffe-auf-k252hlanlagen-vor?ref=rss) · [The Record](https://therecord.media/france-blames-iran-for-fridge-cyberattacks) · [heise online](https://www.heise.de/news/Frankreich-Iran-steckt-hinter-Cyberangriffen-auf-Kuehlsysteme-11517966.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [ORF](https://orf.at/stories/3447805/) · [Der Standard](https://www.derstandard.at/story/3000000348507/cyberangriffe-auf-kuehlsysteme-frankreich-bestellt-irans-botschafter-in-paris-ein?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
 
-### SonicWall: SSLVPN-Lücke in SonicOS wird aktiv ausgenutzt
+### Neue OpenSSH-Schwachstelle in Verbindung mit musl, seit rund zehn Jahren im Code
 
-Angreifer missbrauchen eine Sicherheitslücke im SSLVPN von SonicOS, auch die US-Behörde CISA warnt. Admins sollten rasch die bereitgestellten Updates einspielen.
+Schneier verweist auf eine neu bekannte Lücke in OpenSSH im Zusammenspiel mit musl, genannt „sshole“, die schon ein Jahrzehnt im Code steckt. Außerdem warnt die US-Behörde CISA vor laufenden Angriffen auf OpenSSH, GPUStack, FreeSwitch und IBM Aspera Faspex. Admins sollten verfügbare Updates prüfen.
 
-→ [heise online](https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [Schneier on Security](https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html) · [heise online](https://www.heise.de/news/Angriffswarnung-fuer-GPUStack-FreeSwitch-OpenSSH-und-IBM-Aspera-Faspex-11518710.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
-### Brenner Basistunnel: Lösegeldforderung für 812 GB gestohlene Daten
+### Chrome-Update schließt bereits ausgenutzte Lücke, Microsoft patcht über 1.000 Fehler
 
-Unbekannte griffen auf einen Server zu, über den die BBT SE Daten mit italienischen Auftragnehmern austauscht, und fordern Lösegeld. Der Baubetrieb ist laut Gesellschaft nicht beeinträchtigt.
+Google hat Chrome aktualisiert und warnt, dass eine der geschlossenen Lücken bereits aktiv angegriffen wird. Microsofts Patch Tuesday umfasste 1.093 Schwachstellen, die meiste Aufmerksamkeit galt einer ausgenutzten Outlook-Lücke. Auch Apple hat außer der Reihe Updates für fast alle Geräte veröffentlicht.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348239/brenner-basistunnel-loesegeldforderung-fuer-812-gb-gestohlene-daten?ref=rss)
+→ [heise online](https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Record](https://therecord.media/patch-tuesday-microsoft-1000-bugs-again) · [Krebs on Security](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/) · [heise online](https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
 ## Wissenschaft
 
-### Nasa sucht neue Astronauten für Mondmissionen und Mondbasis
+### FDA: Warnhinweis zu seltener Augenerkrankung bei GLP-1-Medikamenten
 
-Die Raumfahrtbehörde nimmt Bewerbungen für eine neue Astronautengeneration an, die künftige Mondlandungen und den Aufbau einer Mondbasis begleiten soll. Daneben dürfen sich acht Unternehmen um neue Mondflüge bewerben.
+Die US-Arzneimittelbehörde verlangt von Herstellern von Ozempic, Wegovy und ähnlichen Abnehmmitteln einen Hinweis auf die seltene Augenerkrankung NAION, die zur Erblindung führen kann. Das Risiko erscheint klein, die Datenlage ist gemischt. Patienten sollen dennoch informiert sein.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348231/nasa-sucht-astronautinnen-und-astronauten-die-auf-dem-mond-leben-wollen?ref=rss) · [ZDFheute](https://www.zdfheute.de/wirtschaft/unternehmen/nasa-astronaut-job-suche-100.html) · [heise online](https://www.heise.de/news/Die-NASA-sucht-Astronauten-fuer-kuenftige-Mondmissionen-11518006.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [BBC](https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss) · [Ars Technica](https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/)
 
 ## Nahost
 
-### Trump nennt Iran-Krieg militärisch „effektiv vorüber“
+### Israels neues Parlament konstituiert sich, Eisenkot soll Regierung bilden
 
-Nach einem Treffen mit Katars Premier sieht Trump „positive Dynamik“ und weitere US-Angriffe als „sehr unwahrscheinlich“. Teheran weist die Aussagen als „Fake News“ zurück; die Ölpreise gaben zuletzt deutlich nach.
+Die Knesset ist nach der Wahl erstmals zusammengetreten. Netanjahus Rivale Gadi Eisenkot hat den ersten Auftrag zur Regierungsbildung und kündigte eine offizielle Untersuchung zum 7. Oktober 2023 an. Im Plenum kam es zu Schlagabtäuschen, Netanjahu bleibt vorerst geschäftsführend im Amt.
 
-→ [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-iran-krieg-ist-militaerisch-effektiv-vorueber-art-683017) · [BBC](https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html)
+→ [ORF](https://orf.at/stories/3447806/) · [BBC](https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in) · [France 24](https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament)
 
-### UNO warnt vor Winterkrise im Gazastreifen
+### Trump erklärt Iran-Krieg militärisch für „praktisch beendet“, Ölpreis fällt
 
-Heftige Regenfälle überfluteten zehntausende Zelte, mindestens fünf Menschen starben. Zeugen berichten zudem von einem Erdrutsch über einem Lager Vertriebener.
+US-Präsident Trump sieht den Krieg gegen den Iran militärisch als vorüber, die Seeblockade bleibt aber bestehen und weitere Angriffe seien nicht geplant. Brent fiel unter 90 Dollar, den tiefsten Stand seit August. Irans Militärführung drohte Israel unterdessen erneut mit Vernichtung.
 
-→ [ORF](https://orf.at/stories/3447716/) · [Der Standard](https://www.derstandard.at/story/3000000348146/fuenf-tote-bei-heftigen-regenfaellen-im-gazastreifen-gemeldet?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide)
+→ [Der Standard](https://www.derstandard.at/story/3000000348350/trump-iran-krieg-ist-milit228risch-effektiv-vor252ber?ref=rss) · [ZDFheute](https://www.zdfheute.de/politik/ausland/trump-iran-seeblockade-strasse-von-hormus-100.html) · [The Guardian](https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets) · [ORF](https://orf.at/stories/3447808/)
 
 ## USA
 
-### Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth beantragt
+### Repräsentantenhaus stoppt Amtsenthebungsverfahren gegen Hegseth
 
-Der republikanische Abgeordnete Thomas Massie wirft Hegseth vor, den Krieg gegen den Iran ohne Zustimmung des Kongresses geführt zu haben. Das Repräsentantenhaus könnte schon Mittwoch abstimmen; Trump und Rubio stellen sich hinter Hegseth.
+Die Republikaner verwiesen die Vorwürfe gegen Verteidigungsminister Hegseth mit 211 zu 204 Stimmen an den Justizausschuss, damit ist der Vorstoß von Thomas Massie vorerst gestoppt. Hegseth nannte das Verfahren eine Farce, 11 Demokraten fehlten bei der Abstimmung. Der Anlass ist der unbeliebte Krieg gegen den Iran, Demokraten können es im nächsten Jahr erneut versuchen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348337/wamtsenthebungsverfahren-gegen-pentagonchef-hegseth-eingeleitet?ref=rss) · [Die Presse](https://www.diepresse.com/41437704/amtsenthebungsverfahren-gegen-trumps-kriegsminister-pete-hegseth-eingeleitet) · [BBC](https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3447855/) · [Der Standard](https://www.derstandard.at/story/3000000348619/us-repr228sentantenhaus-stoppt-amtsenthebungsverfahren-gegen-hegseth?ref=rss) · [Die Presse](https://www.diepresse.com/41440885/us-repraesentantenhaus-stoppt-amtsenthebungsverfahren-gegen-hegseth) · [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss)
 
-### Trump zweifelt Midterm-Ergebnis an, Miller wird Stabschef
+### Kalifornier lehnen Milliardärssteuer ab, Jordan führt Republikaner im Repräsentantenhaus
 
-Eine Woche nach der Wahlniederlage der Republikaner stellt Trump ohne Belege die Fairness der Wahl infrage. Zugleich löst der Hardliner Stephen Miller Susie Wiles als Stabschef im Weißen Haus ab.
+Bei einem Volksentscheid scheiterte die einmalige Sonderabgabe für rund 250 Milliardäre in Kalifornien mit 47,2 Prozent Zustimmung. Nach den Midterm-Niederlagen wählten die Republikaner zudem Jim Jordan zum Minderheitsführer im Repräsentantenhaus, John Thune bleibt Fraktionschef im Senat.
 
-→ [Die Presse](https://www.diepresse.com/41437476/donald-trump-glaubt-wirklich-jemand-dass-diese-wahl-fair-verlaufen-ist) · [BBC](https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff)
+→ [Der Standard](https://www.derstandard.at/story/3000000348352/referendumgkalifornier-lehnen-milliardaerssteuer-ab?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html) · [ORF](https://orf.at/stories/3447848/) · [Der Standard](https://www.derstandard.at/story/3000000348618/republikaner-jordan-wird-minderheitsf252hrer-im-us-repr228sentantenhaus?ref=rss)
