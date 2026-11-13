@@ -1,143 +1,137 @@
-# Morgen-Digest · Donnerstag, 12. November 2026
+# Morgen-Digest · Freitag, 13. November 2026
 
-_Die Ukraine-Gespräche in Abu Dhabi enden mit einem großen Gefangenenaustausch, aber ohne Durchbruch, und in den USA gewinnen die Demokraten nach den Midterms einen weiteren Senatssitz in Mississippi. In Österreich einigt sich die Regierung auf ein schärferes Spionagegesetz._
+_Nvidia-Chef Jensen Huang tritt nach einer Spionage- und Affärenaffäre zurück, während die USA in Moskau und Dublin über Europas Rolle in den Ukraine-Gesprächen verhandeln. In Österreich stehen Wehrdienstreform und Sozialhilfe in der Kritik, weltweit sorgt ein Microsoft-Ausfall für Störungen._
 
 ## Innenpolitik
 
-### Regierung einigt sich auf schärferes Spionagegesetz
+### Wehrdienstreform: Begutachtung endet unter harter Kritik
 
-Die Koalition beschließt einen intensiveren Kampf gegen ausländische Agenten in Österreich, auch zum Nachteil internationaler Organisationen. Experten erwarten laut Salzburger Nachrichten allerdings keine große Abschreckungswirkung auf allen Ebenen. Hintergrund ist der zunehmende Einsatz von „Wegwerfagenten“ vor allem russischer Dienste in Europa.
+Am Donnerstag endet die Begutachtungsfrist für das Wehrdienstreformgesetz. Der Wehrdienst soll inklusive Milizübungen auf insgesamt neun Monate verlängert werden, der Zivildienst auf elf Monate, allerdings nicht sofort. Die Fronten zwischen Befürwortern und Kritikern sind hart.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348649/regierung-einigt-sich-auf-schaerferes-spionagegesetz?ref=rss) · [ORF](https://orf.at/stories/3447934/) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/spionagegesetz-keine-grosse-abschreckwirkung-zu-erwarten-art-683509)
+→ [ORF](https://orf.at/stories/3447980/) · [Der Standard](https://www.derstandard.at/story/3000000348964/wehrpflicht-begutachtung-der-reform-geht-am-donnerstag-zu-ende?ref=rss)
 
-### Sporrer kündigt deutlich mehr Personal für Justiz an
+### Sozialhilfe NEU: Kritik aus Ländern und von der Volksanwaltschaft
 
-Staatsanwaltschaften und Gerichte sollen laut Justizministerin Sporrer deutlich mehr Ressourcen bekommen. Die Ankündigung folgt auf Proteste aus der Justiz.
+Mehrere Bundesländer üben Kritik am Gesetzesentwurf zur neuen Sozialhilfe. Die Volksanwaltschaft hält ihn für problematisch und zweifelt an der rechtlichen Zulässigkeit, auch der Verfassungsdienst ist skeptisch. Die Reform ist eng mit dem Integrationspflichtengesetz verzahnt, das ebenfalls überwiegend negative Stellungnahmen erhielt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348823/justiz-proteste-sporrer-k252ndigt-deutlich-mehr-ressourcen-an?ref=rss) · [ORF](https://orf.at/stories/3447945/)
+→ [ORF](https://orf.at/stories/3448025/) · [Die Presse 🔒](https://www.diepresse.com/41441004/volksanwaltschaft-kritisiert-sozialhilfe-reform-sollte-das-nochmals-pruefen)
 
 ## EU
 
-### EU-Kommission will Online-Tricks mit Digital Fairness Act stoppen
+### Dublin-Gipfel: Streit, wer für Europa mit Putin spricht
 
-Der Entwurf richtet sich gegen manipulative Werbung, intransparentes Influencermarketing, versteckte Gebühren und falsche Rabatte. Lootboxen und Pay-to-Win sollen für Minderjährige verboten werden. Bei Verstößen drohen Big Tech Strafen von bis zu 6 Prozent des Jahresumsatzes.
+Beim Treffen der Europäischen Politischen Gemeinschaft in Dublin dominieren die Ukraine-Verhandlungen. Die Europäer benennen vorerst keinen gemeinsamen Chefverhandler und wollen die Gespräche mit den USA weiterführen. Zusätzlich ringen die Staaten um das EU-Budget und die Ukraine-Hilfe.
 
-→ [ORF](https://orf.at/stories/3447880/) · [Der Standard](https://www.derstandard.at/story/3000000348642/schluss-mit-klickfallen-und-geister-abos-eu-will-zehn-online-unsitten-verbieten?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-unveils-new-rules-to-tackle-online-consumer-harms/)
+→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000348812/u?ref=rss) · [ZDFheute](https://www.zdfheute.de/politik/ausland/eu-ukraine-krieg-russland-verhandlungen-100.html) · [Politico Europe](https://www.politico.eu/article/eu-leaders-start-friday-summit-still-at-odds-over-who-should-lead-on-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-### Einigung auf EU-Budget für 2027
+### EuGH weist Polens Klagen gegen EU-Klimapaket ab
 
-Das Budget beläuft sich auf rund 199,7 Milliarden Euro. Der Fokus liegt auf Wettbewerbsfähigkeit, Verteidigung und der Unterstützung der Ukraine.
+Der Europäische Gerichtshof hat sieben Klagen Polens gegen das „Fit for 55“-Klimapaket aus 2023 zurückgewiesen. Das Paket soll Europa bis Mitte des Jahrhunderts klimaneutral machen. Die Klagen stammten von der früheren nationalistischen Regierung in Warschau.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348650/einigung-auf-eu-budget-f252r-2027?ref=rss)
+→ [Tagesschau](https://www.tagesschau.de/ausland/europa/eugh-polen-klage-eu-klimapaket-100.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/polish-bid-to-scrap-eu-climate-laws-thrown-out-of-court/)
 
 ## Welt
 
-### Ukraine-Gespräche in Abu Dhabi: Gefangenenaustausch, kein Durchbruch
+### Putin bleibt bei Gebietsforderungen, Europa soll an den Tisch
 
-Russland und die Ukraine haben sich auf einen großen Gefangenenaustausch geeinigt, im Kern der Verhandlungen gab es jedoch keine Ergebnisse. Die US-Gesandten Witkoff und Kushner treffen am Donnerstag Putin in Moskau. In der Nacht griffen beide Seiten gegenseitig ihre Hauptstädte an.
+Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat Russlands Präsident Putin seine Forderungen für ein Kriegsende bekräftigt. Die Unterhändler kündigten danach an, dass Europa bei der nächsten Gesprächsrunde mit Russland und der Ukraine beteiligt werden soll. Selenskyj begrüßt das, warnt aber vor US-russischen Absprachen über eine neue Sicherheitsarchitektur.
 
-→ [ORF](https://orf.at/stories/3447922/) · [Der Standard](https://www.derstandard.at/story/3000000348685/abu-dhabi?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/russland-und-die-ukraine-greifen-gegenseitig-hauptstaedte-an-art-683506)
+→ [ORF](https://orf.at/stories/3447982/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html) · [BBC](https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss)
 
-### Generalstreik in Spanien gegen Wohnungskrise
+### Erneut Bombendrohungen gegen hunderte Schulen in Italien
 
-Es war der erste ganztägige Generalstreik seit 2012; er legte Teile des öffentlichen Lebens und der Wirtschaft lahm. In Madrid gingen rund 120.000 Menschen auf die Straße, in Barcelona kam es abends zu Ausschreitungen. Spanien wählt in wenigen Wochen neu.
+Nach über 7.000 bedrohten Schulen am Mittwoch gingen am Donnerstag erneut Drohungen für rund 1.600 Einrichtungen ein. Italien will Schulen künftig nur noch bei konkret festgestellter Gefahr evakuieren. In Europa wächst die Sorge, dass solche Drohungen Teil hybrider Kriegsführung sein könnten.
 
-→ [ORF](https://orf.at/stories/3447888/) · [Der Standard](https://www.derstandard.at/story/3000000348821/massenproteste-gegen-wohnkrise-kurz-vor-neuwahl-in-spanien?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs)
-
-### Bombendrohungen an Schulen in Italien und Großbritannien
-
-Per E-Mail gingen laut BBC an mehr als 6.000 italienischen Schulen Drohungen ein, viele wurden evakuiert. Auch Schottland, Nordirland und Irland melden ähnliche Vorfälle. Die Behörden sehen keine konkrete Gefahr; wer dahintersteckt, ist unklar.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000348724/300-schulen-nach-bombendrohungen-evakuiert?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000348795/hunderte-von-italienischen-schulen-nach-bombendrohungen-evakuiert?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000348917/italien-will-schulen-nach-bombendrohungen-nicht-mehr-automatisch-evakuieren?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss)
 
 ## Wirtschaft
 
-### Voestalpine steigert Gewinn, senkt aber Prognose
+### Mercedes stoppt Investitionen in Deutschland und prüft Werkschließungen
 
-Das operative Ergebnis stieg von April bis September um 17,1 Prozent auf 846 Millionen Euro. Der Konzern kämpft jedoch mit Niedrigwasser und der Lage in den USA und senkt seine Prognose.
+Der Vorstand legt alle neuen Investitionen in Deutschland auf Eis, weil Verhandlungen über niedrigere Personalkosten stocken. Konzernchef und Vorstand verteidigen den Sparkurs und beklagen hohe Kosten. Auch Werksschließungen werden geprüft.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348636/voestalpine-steigert-gewinn-kappt-aber-prognosespanne?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000348767/voestalpine-kiefelt-an-niedrigwasser-und-den-usa?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000349022/mercedes-benz-pr252ft-werksschlie223ungen-in-deutschland-arbeit-zu-teuer?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html)
 
-### Wirtschaftsweise erwarten stärkstes Wachstum seit 2022
+### Post: Paketabgaben bremsen Sendungen aus Drittstaaten
 
-Das deutsche BIP soll laut Sachverständigenrat heuer um 1,3 Prozent steigen, trotz höherer Energiepreise. Gleichzeitig warnen die Ökonomen vor hohen Schulden und fordern Reformen und Sparmaßnahmen.
+Die Österreichische Post stellt deutlich weniger Pakete zu, weil Sendungen von außerhalb der EU nach den neuen Abgaben stark zurückgegangen sind. Der Post-Chef spricht von Verunsicherung, das Briefgeschäft schrumpft weiter. Das Unternehmen sucht 300 Paketzusteller und steigerte in den ersten neun Monaten dennoch Umsatz und Ergebnis.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348778/wirtschaftsweise-erwarten-dieses-jahr-st228rkstes-wachstum-in-deutschland-seit-2022?ref=rss) · [ORF](https://orf.at/stories/3447931/) · [Tagesschau](https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html)
+→ [ORF](https://orf.at/stories/3448007/) · [Der Standard](https://www.derstandard.at/story/3000000348942/post-klagt-ueber-paketgebuehren-und-sucht-300-paketzusteller?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000348838/oesterreichische-post-in-den-ersten-neun-monaten-mit-umsatz-und-ergebnisanstieg?ref=rss)
 
 ## Klima
 
-### COP31: Guterres attackiert Lobbying der Fossilbranche
+### COP31 in Antalya: Thunberg und Wissenschaft mahnen zu mehr Tempo
 
-Bei der Eröffnung des Gipfels der Staats- und Regierungschefs in Antalya warnte der UN-Generalsekretär vor dem Weg in die „garantierte Zerstörung“ und forderte eine Übergewinnsteuer für Öl- und Gaskonzerne. Viele große Verschmutzerstaaten sind laut Guardian nicht durch ihre Staatschefs vertreten.
+Bei der UN-Klimakonferenz in der Türkei sagte Greta Thunberg, der Planet sterbe nicht, er werde getötet. Ein neuer Bericht rechnet mit rund 2,7 Grad Erwärmung, Forschende warnen vor einem „irreversiblen Überschreiten“ der Grenzen. Kanzler Merz nimmt nicht teil, China lehnt es ab, die COP33 auszurichten.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348807/cop31-uno-chef-warnt-sind-auf-dem-weg-der-garantierten-zerst246rung?ref=rss) · [ORF](https://orf.at/stories/3447884/) · [The Guardian](https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates)
+→ [Tagesschau](https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html) · [The Guardian](https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/scientists-slam-eu-for-climate-action-backsliding/)
 
 ## Tech/KI
 
-### Nvidia berät über Entlassung von CEO Jensen Huang
+### Nvidia-Chef Huang tritt nach Spionage- und Affärenskandal zurück
 
-Nach Berichten über eine Affäre mit einer mutmaßlichen chinesischen Spionin und eine weitere Affäre tagt der Verwaltungsrat zur Zukunft des Konzernchefs. Die Aktie fiel um mehr als 8 Prozent, der Börsenwert sank von fünf auf vier Billionen Dollar. Anleger haben Nvidia und Huang bereits geklagt.
+Jensen Huang hat alle Ämter bei Nvidia niedergelegt, nachdem eine Affäre mit einer mutmaßlichen chinesischen Spionin und ein weiteres Verhältnis mit einer Mitarbeiterin bekannt wurden. Finanzchefin Colette Kress übernimmt interimistisch, die Aktie verlor rund vier Prozent. Der US-Senat will Huang und Handelsminister Lutnick vorladen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348825/berichte-ueber-weitere-affaere-nvidia-chef-huang-droht-noch-am-mittwoch-rauswurf?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000348674/nvidia-aktie-auf-tiefstem-stand-seit-m228rz?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000348695/nvidia-anleger-klagen-das-unternehmen-und-jensen-huang-nach-affaere-skandal?ref=rss)
+→ [ORF](https://orf.at/stories/3448018/) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
 
-### Anthropic bringt Office-Programme in Claude
+### Weltweiter Microsoft-365-Ausfall legt Outlook und Teams lahm
 
-Tabellenkalkulation, interaktive Whiteboards und eine Protokollfunktion sollen lästiges Copy-and-Paste überflüssig machen. Der Schritt gilt als Angriff auf Microsoft.
+Ein massiver Ausfall betraf Outlook, Teams und Copilot in 74 Ländern, auch Behörden und Schulen. Laut Microsoft wurden Server unerwartet unerreichbar, was andere Systeme überlastete. Einen Cyberangriff schließt der Konzern aus, die Behebung dauerte zunächst an.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348710/angriff-auf-microsoft-anthropic-veroeffentlicht-office-programme-in-claude?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000349041/ausfall-bei-microsoft-outlook-356-und-teams-tausende-nutzer-betroffen?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html) · [BBC](https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss)
 
 ## IT-Security
 
-### Microsoft-Patchday: Angriffe auf Outlook-Lücke beobachtet
+### Kritische Apache2-Lücke ermöglicht Codeeinschleusung
 
-Laut Security Update Guide wurden knapp 1.100 Sicherheitslücken in Office, Windows und weiteren Produkten geschlossen. Für Outlook werden bereits Angriffe beobachtet, die Updates sollten rasch eingespielt werden.
+In Apache2 gibt es eine kritische Sicherheitslücke, die das Einschleusen von Code erlaubt. Betroffen sind nur Server mit aktiviertem HTTP/2. Ein Exploit ist möglich, aber schwierig; Updates sollten rasch eingespielt werden.
 
-→ [heise online](https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [heise Security](https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html)
+→ [heise Security](https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache2-ermoeglicht-Codeeinschleusung-11523150.html)
 
-### Angriffe auf Cisco BroadWorks und Barracuda-Geräte
+### Angriff über MCP-Server: Webhoster Mittwald im Krisenmodus
 
-Derzeit werden Cisco BroadWorks, Barracuda ESG und weitere Barracuda-Netzwerkgeräte sowie andere Produkte aktiv angegriffen. Betreiber sollten Patches und Hinweise der Hersteller prüfen.
+Der deutsche Webhoster Mittwald läuft nach einem Angriff über einen MCP-Server im Notbetrieb. Die Webseite ist eingeschränkt, das Blog offline und Administrationsdienste für Kunden sind deaktiviert.
 
-→ [heise Security](https://www.heise.de/news/Angriffe-auf-Cisco-BroadWorks-Barracuda-ESG-und-weitere-Produkte-beobachtet-11520190.html)
+→ [heise Security](https://www.heise.de/news/Angriff-ueber-MCP-Server-Webhoster-Mittwald-im-Krisenmodus-11522728.html)
 
-### CERT-EU warnt vor Angriffen mit KI-Agenten-Frameworks
+### FBI: Nordkoreanische „FaceStealer“-Betrüger erbeuteten 400 Mio. Dollar
 
-Autonome KI-Agenten wie das Framework Artex übernehmen komplexe Angriffe weitgehend selbstständig, die Zahl solcher Attacken nimmt laut CERT-EU rapide zu. Experten warnen vor einer neuen Welle automatisierter Angriffe.
+Mit gefälschten Videocalls sollen nordkoreanische Hacker laut FBI in 18 Monaten über 900 Opfer um 400 Millionen Dollar an Kryptowährung gebracht haben. Das US-Justizministerium kündigte die Beschlagnahme von 1,2 Milliarden Dollar aus dem Binance-Diebstahl und die Zerschlagung der Tools an.
 
-→ [heise Security](https://www.heise.de/news/CERT-EU-warnt-Rapide-Zunahme-der-Angriffe-mit-Agenten-Frameworks-wie-Artex-11520602.html) · [CERT.at](https://www.cert.at/de/tagesberichte/2026/11/tagesberichte-11112026)
+→ [BBC](https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss) · [The Record](https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted)
 
 ## Wissenschaft
 
-### Studie: Alternative zum BMI soll Adipositas besser erfassen
+### Euclid liefert Daten zu über einer Milliarde Objekten
 
-Body-Mass-Index allein sagt zu wenig über die Gesundheit aus. Werden BMI mit weiteren Messungen und Tests kombiniert, könnten laut Experten Fehldiagnosen bei Millionen Menschen vermieden werden.
+Das Weltraumteleskop Euclid hat einen neuen Datensatz mit Bildern und Spektren von mehr als einer Milliarde Objekten veröffentlicht, darunter viele Fälle von Gravitationslinsen. Daraus soll die größte 3D-Karte des Universums entstehen, die erst in den kommenden Jahren fertig wird. Sie soll Hinweise auf das „dunkle Universum“ liefern.
 
-→ [Tagesschau](https://www.tagesschau.de/wissen/adipositas-definition-bmi-100.html) · [The Guardian](https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index)
+→ [Der Standard](https://www.derstandard.at/story/3000000348863/euclid-neues-material-fuer-die-groesste-3d-karte-des-universums?ref=rss) · [The Guardian](https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe)
 
 ## Nahost
 
-### Israelischer Angriff auf Nasser-Krankenhaus in Gaza
+### Israelischer Angriff auf Nasser-Krankenhaus in Gaza tötet sechs
 
-Bei dem Angriff auf die Chirurgie-Abteilung in Khan Yunis wurden laut Zivilschutz mindestens sechs Menschen getötet und mindestens 20 verletzt. Offiziell gilt im Gazastreifen eine Waffenruhe. Zugleich droht wegen Starkregens eine humanitäre Notlage in den Zeltlagern.
+Bei dem Angriff auf die größte Klinik im Süden Gazas starben nach Behördenangaben mindestens sechs Menschen, darunter ein Chirurg. Israel erklärt, die Hamas habe die Gebäude als Kommandozentrum genutzt. Ärzte ohne Grenzen kritisiert Israel scharf.
 
-→ [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/mehrere-tote-bei-angriff-auf-krankenhaus-in-gaza-art-683508) · [BBC](https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000348830/nahost-mehrere-tote-bei-angriff-auf-krankenhaus-in-gaza?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html) · [The Guardian](https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon)
 
-### Iran droht mit Angriffen auf US-Stützpunkte in Europa
+### Iran greift US-Radar in Bahrain an
 
-Sicherheitschef Rezaei kündigte an, Stützpunkte in Europa anzugreifen, falls sie für Angriffe auf den Iran genutzt werden. Laut Medienberichten hat Israel das Militär angewiesen, Vorbereitungen für einen möglichen Angriff zu verstärken.
+Die Revolutionsgarden nennen den Angriff eine Vergeltung für einen Luftschlag auf einen Telekommunikationsturm in Südiran. Laut Trump baten Golfstaaten darum, weitere Angriffe auf den Iran auszusetzen. Frankreich und nun auch Belgien machen den Iran für Angriffe auf Kühlanlagen verantwortlich.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348822/iran-teheran-droht-mit-angriffen-auf-us-st252tzpunkte-auch-in-europa?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss) · [France 24](https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says)
+→ [Die Presse](https://www.diepresse.com/41447034/us-fruehwarnradar-in-bahrain-an-revolutionsgarden-sprechen-von-vergeltung) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss) · [Der Standard](https://www.derstandard.at/story/3000000348950/k252hlanlagen-angriffe-auch-belgien-sieht-spuren-in-den-iran?ref=rss)
 
 ## USA
 
-### Demokrat Colom gewinnt Senatssitz in Mississippi
+### Colom gewinnt Senatssitz in Mississippi
 
-Scott Colom besiegte die Republikanerin Cindy Hyde-Smith knapp; erstmals seit 1982 gewinnt ein Demokrat dort eine Senatswahl. Er wird der erste schwarze Senator des Bundesstaats seit über 140 Jahren. Für die Demokraten ist es der 55. Senatssitz.
+Der Demokrat Scott Colom ist der erste schwarze Senator Mississippis seit 1881, in einem Staat, den Trump vor zwei Jahren mit 22 Punkten gewann. Der Erfolg ergänzt den Wahlerfolg der Demokraten bei den Midterms. In der Partei kündigt Chris Van Hollen nun eine Kampfkandidatur gegen Chuck Schumer um die Senatsführung an.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348824/demokrat-colom-gewinnt-senatssitz-fuer-mississippi-den-55-fuer-seine-partei?ref=rss) · [ORF](https://orf.at/stories/3447947/) · [BBC](https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000348904/scott-colom-schafft-in-mississippi-die-senats-sensation?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html)
 
-### Republikaner stoppen Amtsenthebung gegen Hegseth
+### Hauseinsturz in Brooklyn: acht Tote, darunter zwei Kinder
 
-Das Repräsentantenhaus verwies die Vorwürfe gegen den Verteidigungsminister an den Justizausschuss, damit ist das Verfahren vorerst gestoppt. Präsident Trump lobte Hegseth, die Demokraten können es im nächsten Jahr erneut versuchen.
+Ein mehrstöckiges Wohnhaus stürzte in New York auf eine angrenzende Baustelle. Mindestens acht Menschen starben, 18 wurden verletzt. Die Rettungskräfte arbeiten unter extrem gefährlichen Bedingungen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348619/us-repr228sentantenhaus-stoppt-amtsenthebungsverfahren-gegen-hegseth?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448038/) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc)
