@@ -1,137 +1,143 @@
-# Morgen-Digest · Freitag, 13. November 2026
+# Morgen-Digest · Samstag, 14. November 2026
 
-_Nvidia-Chef Jensen Huang tritt nach einer Spionage- und Affärenaffäre zurück, während die USA in Moskau und Dublin über Europas Rolle in den Ukraine-Gesprächen verhandeln. In Österreich stehen Wehrdienstreform und Sozialhilfe in der Kritik, weltweit sorgt ein Microsoft-Ausfall für Störungen._
+_Die EU hat sich auf ein Verhandlungsteam für Gespräche mit Russland geeinigt, während Trump laut Weißem Haus Putin und Xi in China treffen will. In Österreich stehen Migrationskonferenz mit Rückkehrzentrum-Plänen und Kritik an der „Sozialhilfe neu“ im Fokus, weltweit sorgten Microsoft-Ausfall und US-Flugstopp für Chaos._
 
 ## Innenpolitik
 
-### Wehrdienstreform: Begutachtung endet unter harter Kritik
+### Innenminister beraten in Wien über Rückkehrzentren in Ruanda
 
-Am Donnerstag endet die Begutachtungsfrist für das Wehrdienstreformgesetz. Der Wehrdienst soll inklusive Milizübungen auf insgesamt neun Monate verlängert werden, der Zivildienst auf elf Monate, allerdings nicht sofort. Die Fronten zwischen Befürwortern und Kritikern sind hart.
+Am Montag tagt in Wien die Migrationskonferenz, an der auch die Innenminister Deutschlands, Dänemarks, der Niederlande und Griechenlands teilnehmen. Nach Medienberichten dürfte dabei ein Abkommen über gemeinsame Rückkehrzentren in Ruanda bekannt gegeben werden, die ab nächstem Jahr betriebsbereit sein sollen.
 
-→ [ORF](https://orf.at/stories/3447980/) · [Der Standard](https://www.derstandard.at/story/3000000348964/wehrpflicht-begutachtung-der-reform-geht-am-donnerstag-zu-ende?ref=rss)
+→ [ORF](https://orf.at/stories/3448101/) · [Der Standard](https://www.derstandard.at/story/3000000348842/alles-deutet-auf-europaeische-abschiebezentren-in-ruanda-hin?ref=rss) · [Politico Europe](https://www.politico.eu/article/eu-countries-to-announce-deportation-hub-deal-with-rwanda/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-### Sozialhilfe NEU: Kritik aus Ländern und von der Volksanwaltschaft
+### Scharfe Kritik an Gesetzesentwurf „Sozialhilfe neu“
 
-Mehrere Bundesländer üben Kritik am Gesetzesentwurf zur neuen Sozialhilfe. Die Volksanwaltschaft hält ihn für problematisch und zweifelt an der rechtlichen Zulässigkeit, auch der Verfassungsdienst ist skeptisch. Die Reform ist eng mit dem Integrationspflichtengesetz verzahnt, das ebenfalls überwiegend negative Stellungnahmen erhielt.
+Der Entwurf der Bundesregierung zur „Sozialhilfe neu“ wird in der Begutachtung teils deutlich kritisiert. Die Stellungnahmen zeigen, wie umstritten die Reform noch ist, bevor sie ins Parlament geht.
 
-→ [ORF](https://orf.at/stories/3448025/) · [Die Presse 🔒](https://www.diepresse.com/41441004/volksanwaltschaft-kritisiert-sozialhilfe-reform-sollte-das-nochmals-pruefen)
+→ [ORF](https://orf.at/stories/3448078/)
+
+### Obergrenze beim Familiennachzug: Juristen zweifeln an Rechtmäßigkeit
+
+Die Koalition hat für Asylberechtigte eine Obergrenze von 314 Personen beim Familiennachzug eingeführt. Juristen halten das für rechtswidrig, auch die Berechnung der Zahl wirft Fragen auf. Innenminister Karner will zudem auf EU-Ebene restriktivere Regeln erreichen.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000348731/ab-314-personen-ist-beim-familiennachzug-schluss-sprengt-die-regierung-die-grenzen-des-rechtsstaats?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/karner-und-kollegen-wollen-von-eu-weniger-familiennachzug-art-683914)
 
 ## EU
 
-### Dublin-Gipfel: Streit, wer für Europa mit Putin spricht
+### EU einigt sich auf Verhandlungsteam für Gespräche mit Russland
 
-Beim Treffen der Europäischen Politischen Gemeinschaft in Dublin dominieren die Ukraine-Verhandlungen. Die Europäer benennen vorerst keinen gemeinsamen Chefverhandler und wollen die Gespräche mit den USA weiterführen. Zusätzlich ringen die Staaten um das EU-Budget und die Ukraine-Hilfe.
+Beim Gipfel in Dublin haben sich die EU-Staats- und Regierungschefs darauf geeinigt, wer Europa bei künftigen Ukraine-Gesprächen vertritt: Deutschland, Frankreich, Großbritannien, Italien und Polen sowie Vertreter von Kommission und Rat. Ratspräsident Costa soll in zwei Wochen Vorschläge zu Strategie und EU-Budget vorlegen.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000348812/u?ref=rss) · [ZDFheute](https://www.zdfheute.de/politik/ausland/eu-ukraine-krieg-russland-verhandlungen-100.html) · [Politico Europe](https://www.politico.eu/article/eu-leaders-start-friday-summit-still-at-odds-over-who-should-lead-on-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+→ [ORF](https://orf.at/stories/3448118/) · [Der Standard](https://www.derstandard.at/story/3000000349068/costa-und-gruppe-von-staaten-vertritt-europaeer-bei-ukraine-gespraechen?ref=rss) · [SRF](https://www.srf.ch/news/international/gipfeltreffen-in-dublin-eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht)
 
-### EuGH weist Polens Klagen gegen EU-Klimapaket ab
+### EU erleichtert Industrie beim Emissionshandel
 
-Der Europäische Gerichtshof hat sieben Klagen Polens gegen das „Fit for 55“-Klimapaket aus 2023 zurückgewiesen. Das Paket soll Europa bis Mitte des Jahrhunderts klimaneutral machen. Die Klagen stammten von der früheren nationalistischen Regierung in Warschau.
+Unterhändler von EU-Parlament und Mitgliedstaaten haben sich auf zusätzliche kostenlose Zertifikate bis 2030 geeinigt. Damit gehen sie über den Vorschlag der Kommission hinaus; die Industrie wird entlastet, Umweltverbände dürften das kritisch sehen.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/europa/eugh-polen-klage-eu-klimapaket-100.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/polish-bid-to-scrap-eu-climate-laws-thrown-out-of-court/)
+→ [Der Standard](https://www.derstandard.at/story/3000000349060/eu-einigung-erleichterung-f252r-industrie-im-emissionshandel?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html)
 
 ## Welt
 
-### Putin bleibt bei Gebietsforderungen, Europa soll an den Tisch
+### Russland und Ukraine greifen sich trotz Verhandlungen weiter an
 
-Bei einem Treffen mit den US-Unterhändlern Witkoff und Kushner hat Russlands Präsident Putin seine Forderungen für ein Kriegsende bekräftigt. Die Unterhändler kündigten danach an, dass Europa bei der nächsten Gesprächsrunde mit Russland und der Ukraine beteiligt werden soll. Selenskyj begrüßt das, warnt aber vor US-russischen Absprachen über eine neue Sicherheitsarchitektur.
+Bei russischen Angriffen auf Odessa wurden zwei Menschen getötet und fünf verletzt; Russland meldet seinerseits sieben Tote durch ukrainische Angriffe. Die Gewalt geht damit trotz intensiver Gespräche über ein Kriegsende unvermindert weiter.
 
-→ [ORF](https://orf.at/stories/3447982/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ukraine-russland-putin-witkoff-kushner-100.html) · [BBC](https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448138/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000349025/u?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html)
 
-### Erneut Bombendrohungen gegen hunderte Schulen in Italien
+### Weißes Haus kündigt Dreiertreffen von Trump, Putin und Xi an
 
-Nach über 7.000 bedrohten Schulen am Mittwoch gingen am Donnerstag erneut Drohungen für rund 1.600 Einrichtungen ein. Italien will Schulen künftig nur noch bei konkret festgestellter Gefahr evakuieren. In Europa wächst die Sorge, dass solche Drohungen Teil hybrider Kriegsführung sein könnten.
+Es wäre das erste Treffen der Staatschefs der USA, Russlands und Chinas, laut Weißem Haus in China. Dabei soll es auch um Atomwaffen gehen. Peking agiert vorsichtig und will nicht den Eindruck erwecken, an einer Aufteilung der Welt beteiligt zu sein.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348917/italien-will-schulen-nach-bombendrohungen-nicht-mehr-automatisch-evakuieren?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss)
+→ [Tagesschau](https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html) · [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html) · [Deutsche Welle](https://www.dw.com/de/xi-putin-trump-gipfel-in-china/a-79941737?maca=de-rss-de-all-1119-rdf)
 
 ## Wirtschaft
 
-### Mercedes stoppt Investitionen in Deutschland und prüft Werkschließungen
+### Deutscher Bundeshaushalt 2027 steht: 560 Milliarden Euro Ausgaben
 
-Der Vorstand legt alle neuen Investitionen in Deutschland auf Eis, weil Verhandlungen über niedrigere Personalkosten stocken. Konzernchef und Vorstand verteidigen den Sparkurs und beklagen hohe Kosten. Auch Werksschließungen werden geprüft.
+Nach über 15 Stunden Beratung hat der Haushaltsausschuss den Etat beschlossen; der Bund will rund 210 Milliarden Euro neue Schulden aufnehmen. Kanzler Merz konnte sich mit einer Senkung der Stromsteuer nicht durchsetzen, was auch in der Union auf Kritik stößt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349022/mercedes-benz-pr252ft-werksschlie223ungen-in-deutschland-arbeit-zu-teuer?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000349065/nach-mehr-als-15-stunden-beratung-deutscher-bundeshaushalt-fuer-2027-steht?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000349074/merz-scheitert-mit-seinem-wunsch-nach-senkung-der-stromsteuer-an-der-spd?ref=rss) · [Tagesschau](https://www.tagesschau.de/inland/bundeshaushalt-2027-100.html)
 
-### Post: Paketabgaben bremsen Sendungen aus Drittstaaten
+### Ardo-Aus im Marchfeld: Gewerkschaften wollen Schlichtungsstelle anrufen
 
-Die Österreichische Post stellt deutlich weniger Pakete zu, weil Sendungen von außerhalb der EU nach den neuen Abgaben stark zurückgegangen sind. Der Post-Chef spricht von Verunsicherung, das Briefgeschäft schrumpft weiter. Das Unternehmen sucht 300 Paketzusteller und steigerte in den ersten neun Monaten dennoch Umsatz und Ergebnis.
+Nach der angekündigten Schließung des Tiefkühlwerks in Groß-Enzersdorf will das Unternehmen weitere Sozialplan-Gespräche führen, die Gewerkschaften planen einen Antrag bei der Schlichtungsstelle. Die Schließung gilt als Warnsignal für den Lebensmittelstandort Österreich.
 
-→ [ORF](https://orf.at/stories/3448007/) · [Der Standard](https://www.derstandard.at/story/3000000348942/post-klagt-ueber-paketgebuehren-und-sucht-300-paketzusteller?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000348838/oesterreichische-post-in-den-ersten-neun-monaten-mit-umsatz-und-ergebnisanstieg?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000349151/aus-f252r-ardo-werk-unternehmen-will-weitere-sozialplan-gespr228che?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41439339/ardo-schliessung-im-marchfeld-als-warnsignal-die-produktion-von-lebensmitteln-in-oesterreich-ist-unter-druck)
 
 ## Klima
 
-### COP31 in Antalya: Thunberg und Wissenschaft mahnen zu mehr Tempo
+### COP31 in Antalya: Guterres mahnt, USA fehlen offiziell
 
-Bei der UN-Klimakonferenz in der Türkei sagte Greta Thunberg, der Planet sterbe nicht, er werde getötet. Ein neuer Bericht rechnet mit rund 2,7 Grad Erwärmung, Forschende warnen vor einem „irreversiblen Überschreiten“ der Grenzen. Kanzler Merz nimmt nicht teil, China lehnt es ab, die COP33 auszurichten.
+UN-Generalsekretär Guterres sagte zum Abschied vom Gipfel, man könne „keinen Frieden auf einem brennenden Planeten“ aufbauen. Die US-Regierung bleibt nach dem Ausstieg aus dem Pariser Abkommen fern, Kaliforniens Gouverneur Newsom unterstützt dort aber einen globalen Ausstieg aus fossilen Energien.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html) · [The Guardian](https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/scientists-slam-eu-for-climate-action-backsliding/)
+→ [Tagesschau](https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html) · [The Guardian](https://www.theguardian.com/environment/2026/nov/13/cop31-antonio-guterres-united-nations-climate-action) · [The Guardian](https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout)
 
 ## Tech/KI
 
-### Nvidia-Chef Huang tritt nach Spionage- und Affärenskandal zurück
+### Nvidia-Skandal: US-Senat lädt Ex-Chef Huang und Handelsminister vor
 
-Jensen Huang hat alle Ämter bei Nvidia niedergelegt, nachdem eine Affäre mit einer mutmaßlichen chinesischen Spionin und ein weiteres Verhältnis mit einer Mitarbeiterin bekannt wurden. Finanzchefin Colette Kress übernimmt interimistisch, die Aktie verlor rund vier Prozent. Der US-Senat will Huang und Handelsminister Lutnick vorladen.
+Nach dem Rücktritt von Jensen Huang, der wegen einer Affäre mit einer mutmaßlich chinesischen Spionin unter Druck stand, will der Senat Aufklärung. Handelsminister Lutnick steht in der Kritik, weil sein Ministerium Warnungen zur Firma Megaspeed ignoriert haben soll. Finanzchefin Colette Kress führt Nvidia kommissarisch.
 
-→ [ORF](https://orf.at/stories/3448018/) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000349052/fokus-1-us-senat-l228dt-ex-nvidia-chef-und-handelsminister-vor-ruf-nach-mehr-exportkontrollen?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html)
 
 ### Weltweiter Microsoft-365-Ausfall legt Outlook und Teams lahm
 
-Ein massiver Ausfall betraf Outlook, Teams und Copilot in 74 Ländern, auch Behörden und Schulen. Laut Microsoft wurden Server unerwartet unerreichbar, was andere Systeme überlastete. Einen Cyberangriff schließt der Konzern aus, die Behebung dauerte zunächst an.
+Seit Donnerstagabend waren Dienste wie Outlook, Teams und Copilot weltweit gestört, betroffen waren Unternehmen, Behörden und Gerichte. Microsoft meldet eine breite Erholung, bislang gibt es keinen Hinweis auf einen Cyberangriff. Der Vorfall verstärkt in Europa die Forderung nach digitaler Unabhängigkeit.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349041/ausfall-bei-microsoft-outlook-356-und-teams-tausende-nutzer-betroffen?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html) · [BBC](https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448080/) · [BBC](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss) · [Deutsche Welle](https://www.dw.com/de/microsoft-sieht-nach-panne-keinen-hinweis-auf-cyber-angriff/a-79940856?maca=de-rss-de-all-1119-rdf)
 
 ## IT-Security
 
-### Kritische Apache2-Lücke ermöglicht Codeeinschleusung
+### Cyberangriff auf Quantum Systems: Bundeswehr legt Drohnenflotte still
 
-In Apache2 gibt es eine kritische Sicherheitslücke, die das Einschleusen von Code erlaubt. Betroffen sind nur Server mit aktiviertem HTTP/2. Ein Exploit ist möglich, aber schwierig; Updates sollten rasch eingespielt werden.
+Angreifer platzierten eine manipulierte Update-Datei auf einem Server des Drohnenherstellers, die Bundeswehr lässt ihre Flotte des Unternehmens am Boden. Vieles deutet auf einen russischen Hintergrund; Quantum Systems beliefert auch die Ukraine.
 
-→ [heise Security](https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache2-ermoeglicht-Codeeinschleusung-11523150.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000349069/cyberangriff-auf-drohnenhersteller-bundeswehr-laesst-flotte-von-quantum-systems-am-boden?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/quantum-systems-cyberangriff-102.html)
 
-### Angriff über MCP-Server: Webhoster Mittwald im Krisenmodus
+### Hackerangriff auf Lern-App fintogo: Schülerdaten möglicherweise gestohlen
 
-Der deutsche Webhoster Mittwald läuft nach einem Angriff über einen MCP-Server im Notbetrieb. Die Webseite ist eingeschränkt, das Blog offline und Administrationsdienste für Kunden sind deaktiviert.
+Die App wird auch auf dem Marktplatz des Bildungsministeriums angeboten. Ob und welche Daten abgeflossen sind, ist noch nicht geklärt.
 
-→ [heise Security](https://www.heise.de/news/Angriff-ueber-MCP-Server-Webhoster-Mittwald-im-Krisenmodus-11522728.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000349156/hackerangriff-auf-lern-app-m246glicherweise-sch252lerdaten-gestohlen?ref=rss) · [ORF](https://orf.at/stories/3448085/)
 
-### FBI: Nordkoreanische „FaceStealer“-Betrüger erbeuteten 400 Mio. Dollar
+### Windows-0-Day „SignDrop“ verschafft lokalen Nutzern System-Rechte
 
-Mit gefälschten Videocalls sollen nordkoreanische Hacker laut FBI in 18 Monaten über 900 Opfer um 400 Millionen Dollar an Kryptowährung gebracht haben. Das US-Justizministerium kündigte die Beschlagnahme von 1,2 Milliarden Dollar aus dem Binance-Diebstahl und die Zerschlagung der Tools an.
+Ein verärgerter Sicherheitsforscher hat einen Exploit veröffentlicht, mit dem lokale Nutzer unter Windows volle System-Rechte erlangen können. Ein Patch ist laut Bericht noch nicht verfügbar; Admins sollten lokale Zugänge und Rechtevergabe besonders im Blick behalten.
 
-→ [BBC](https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss) · [The Record](https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted)
+→ [Ars Technica](https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/)
 
 ## Wissenschaft
 
-### Euclid liefert Daten zu über einer Milliarde Objekten
+### Starship-Flug 15 erreicht Orbit, Booster-Fang abgebrochen
 
-Das Weltraumteleskop Euclid hat einen neuen Datensatz mit Bildern und Spektren von mehr als einer Milliarde Objekten veröffentlicht, darunter viele Fälle von Gravitationslinsen. Daraus soll die größte 3D-Karte des Universums entstehen, die erst in den kommenden Jahren fertig wird. Sie soll Hinweise auf das „dunkle Universum“ liefern.
+SpaceX hat die Megarakete gestartet, der Versuch, den Booster mechanisch aufzufangen, wurde abgebrochen und er landete im Ozean. Am Samstag soll erstmals auch das Raumschiff selbst eingefangen werden.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348863/euclid-neues-material-fuer-die-groesste-3d-karte-des-universums?ref=rss) · [The Guardian](https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe)
+→ [BBC](https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss) · [Ars Technica](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) · [Der Standard](https://www.derstandard.at/story/3000000349125/starship-spacex-will-freitag-und-samstag-erstmals-booster-und-raumschiff-auffangen?ref=rss)
 
 ## Nahost
 
-### Israelischer Angriff auf Nasser-Krankenhaus in Gaza tötet sechs
+### Iran meldet Angriff auf US-Radar in Bahrain, Lage in Hormus verschärft
 
-Bei dem Angriff auf die größte Klinik im Süden Gazas starben nach Behördenangaben mindestens sechs Menschen, darunter ein Chirurg. Israel erklärt, die Hamas habe die Gebäude als Kommandozentrum genutzt. Ärzte ohne Grenzen kritisiert Israel scharf.
+Die Revolutionsgarde spricht von einem Vergeltungsschlag nach einem US-Luftangriff auf einen Kommunikationsturm; die USA dementieren. In der Straße von Hormus lief zudem ein LNG-Tanker auf eine Seemine. Laut ORF fehlt den USA trotz laufender Angriffe weiter eine Strategie.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348830/nahost-mehrere-tote-bei-angriff-auf-krankenhaus-in-gaza?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html) · [The Guardian](https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon)
+→ [Der Standard](https://www.derstandard.at/story/3000000349188/iran-meldet-angriff-auf-us-radar-in-bahrain?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz) · [ORF](https://orf.at/stories/3448087/)
 
-### Iran greift US-Radar in Bahrain an
+### IEA: Ölversorgung erholt sich erstmals seit Beginn des Iran-Kriegs
 
-Die Revolutionsgarden nennen den Angriff eine Vergeltung für einen Luftschlag auf einen Telekommunikationsturm in Südiran. Laut Trump baten Golfstaaten darum, weitere Angriffe auf den Iran auszusetzen. Frankreich und nun auch Belgien machen den Iran für Angriffe auf Kühlanlagen verantwortlich.
+Die Vorräte stiegen im Oktober um 52 Millionen Barrel. Die Internationale Energieagentur sieht erste vorsichtige Anzeichen einer Marktstabilisierung.
 
-→ [Die Presse](https://www.diepresse.com/41447034/us-fruehwarnradar-in-bahrain-an-revolutionsgarden-sprechen-von-vergeltung) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss) · [Der Standard](https://www.derstandard.at/story/3000000348950/k252hlanlagen-angriffe-auch-belgien-sieht-spuren-in-den-iran?ref=rss)
+→ [ORF](https://orf.at/stories/3448097/) · [Der Standard](https://www.derstandard.at/story/3000000349177/energieagentur-oelversorgung-erholt-sich-erstmals-seit-iran-krieg?ref=rss) · [SRF](https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-oelversorgung-erholt-sich-erstmals-seit-beginn-des-iran-kriegs)
 
 ## USA
 
-### Colom gewinnt Senatssitz in Mississippi
+### Landesweiter Flugstopp in den USA für mehrere Stunden
 
-Der Demokrat Scott Colom ist der erste schwarze Senator Mississippis seit 1881, in einem Staat, den Trump vor zwei Jahren mit 22 Punkten gewann. Der Erfolg ergänzt den Wahlerfolg der Demokraten bei den Midterms. In der Partei kündigt Chris Van Hollen nun eine Kampfkandidatur gegen Chuck Schumer um die Senatsführung an.
+Die Luftfahrtbehörde FAA stoppte alle Starts wegen schwerer Kommunikationsprobleme der Flugsicherung, die Ursache war laut Behörden keine Bedrohung. Verkehrsminister Duffy verwies auf veraltete Ausrüstung. Inzwischen läuft der Flugverkehr wieder, auch Reisende aus Europa waren betroffen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348904/scott-colom-schafft-in-mississippi-die-senats-sensation?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html)
+→ [Die Presse](https://www.diepresse.com/41450928/us-luftfahrtbehoerde-verhaengt-landesweiten-flugstopp) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html) · [SRF](https://www.srf.ch/news/international/kommunikationsprobleme-us-luftfahrtbehoerde-hebt-landesweiten-flugstopp-wieder-auf)
 
-### Hauseinsturz in Brooklyn: acht Tote, darunter zwei Kinder
+### Trump will Machtwechsel in Kuba vor Ende seiner Amtszeit
 
-Ein mehrstöckiges Wohnhaus stürzte in New York auf eine angrenzende Baustelle. Mindestens acht Menschen starben, 18 wurden verletzt. Die Rettungskräfte arbeiten unter extrem gefährlichen Bedingungen.
+Der US-Präsident sagte, er wolle Kuba „erledigt haben, bevor er gehe“, und schloss laut Bericht auch einen Militäreinsatz nicht aus. Ob es bei Drohungen bleibt oder ein neuer Konflikt droht, ist offen.
 
-→ [ORF](https://orf.at/stories/3448038/) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc)
+→ [Der Standard](https://www.derstandard.at/story/3000000349058/trump-bekr228ftigt-interesse-an-machtwechsel-auf-kuba?ref=rss) · [SRF](https://www.srf.ch/news/international/us-politik-in-lateinamerika-trump-will-kuba-erledigen-bevor-er-abtritt)
