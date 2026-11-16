@@ -1,143 +1,143 @@
-# Morgen-Digest · Sonntag, 15. November 2026
+# Morgen-Digest · Montag, 16. November 2026
 
-_Die USA haben der Ukraine laut Selenskyj einen NATO-Beitritt gegen Gebietsverzicht im Donbass nahegelegt, und das Weiße Haus kündigt ein Dreiertreffen von Trump, Xi und Putin an. In Österreich sinkt das Krankenkassendefizit deutlich, in den USA legte ein Flugsicherungsausfall den Flugverkehr lahm._
+_Estland schließt ab Dezember alle Grenzübergänge zu Russland, während China ein Gipfeltreffen von Trump, Putin und Xi für Donnerstag bestätigt. Im Nahen Osten verschärft sich die Lage: Iran greift erneut einen US-Stützpunkt an, die Huthis rücken auf Aden vor._
 
 ## Innenpolitik
 
-### Krankenkassendefizit 2026 deutlich geringer als erwartet
+### ÖGK-Obmann Huss fordert Deckelung bei Wahlarzthonoraren
 
-Das prognostizierte Defizit der Krankenkassen für 2026 ist gegenüber der Vorschau vom August von 111,2 auf 12,7 Millionen Euro gesunken. Für die kommenden Jahre sieht die Prognose laut Bericht allerdings wieder schlechter aus.
+ÖGK-Obmann Andreas Huss (SPÖ) bekräftigte in der ORF-„Pressestunde“ seine Forderung nach einer Obergrenze für Wahlarzthonorare. Er sieht in Österreich keine Zwei-Klassen-Medizin, sondern eine Zwei-Klassen-Wartezeit, und baut auf eine Gesundheitsreform.
 
-→ [ORF](https://orf.at/stories/3448167/) · [Der Standard](https://www.derstandard.at/story/3000000349214/krankenkassen-2026-weitere-defizit-reduktion-in-richtung-turnaround?ref=rss)
+→ [ORF](https://orf.at/stories/3448235/) · [Der Standard](https://www.derstandard.at/story/3000000349302/oegk-obmann-huss-weiter-fuer-honorarobergrenze-bei-privataerzten?ref=rss)
 
-### Familiennachzug: Obergrenze von 314 Personen umstritten
+### Grüne bremsen bei der Wehrdienst-Reform
 
-Die Koalition hat für Asylberechtigte eine Obergrenze beim Familiennachzug eingeführt, Juristen halten sie für rechtswidrig, auch die Berechnung der Zahl wirft Fragen auf. Heuer gibt es laut Bildungsminister Wiederkehr um 6.300 (13 Prozent) weniger außerordentliche Schüler, wohl wegen des Nachzugsstopps.
+Grünen-Wehrsprecher David Stögmüller glaubt nicht an eine unmittelbar bevorstehende Einigung. Die Regierung müsse sich noch bewegen, sagt er. Laut einem SN-Gastbeitrag des Kommandanten der Landstreitkräfte fehlen dem Bundesheer 3000 Rekruten.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348731/ab-314-personen-ist-beim-familiennachzug-schluss-sprengt-die-regierung-die-grenzen-des-rechtsstaats?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000349213/heuer-rund-13-prozent-weniger-au223erordentliche-sch252ler?ref=rss)
+→ [Die Presse 🔒](https://www.diepresse.com/41454554/fraglich-ob-wir-bei-dem-chaos-mitgehen-gruene-bremsen-bei-wehrdienst-reform) · [Salzburger Nachrichten 🔒](https://www.sn.at/kolumne/gastkommentar/kasernen-ohne-soldaten-warum-die-jugend-nicht-mehr-zum-heer-will-art-682980)
 
 ## EU
 
-### Neun EU-Staaten wollen restriktivere Regeln beim Familiennachzug
+### Fünf EU-Staaten wollen in Wien Return Hub in Ruanda präsentieren
 
-Die EU-Minister von neun Staaten, darunter Österreich, haben in einem gemeinsamen Brief an Kommissar Brunner strengere Regeln gefordert. Begründet wird das mit Herausforderungen für Schulen und Sozialsysteme.
+Mehrere EU-Länder wollen am Montag in Wien Pläne für ein Rückkehrzentrum in Ruanda bekanntgeben, wohin abgelehnte Asylwerber abgeschoben werden könnten. Der Schritt fällt in die Umsetzung der EU-Asylreform, die mehr Haft und weniger Schutz vorsieht und noch Probleme bereitet.
 
-→ [Die Presse](https://www.diepresse.com/41451125/familiennachzug-oesterreich-teil-einer-allianz-fuer-restriktivere-regeln)
+→ [Der Standard](https://www.derstandard.at/story/3000000349310/europas-neues-ruanda-experiment?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000348787/das-neue-asylsystem-der-eu-mehr-haft-weniger-schutz-und-bald-auch-ein-erster-return-hub?ref=rss)
 
-### Erstes europäisches Rückkehrzentrum soll in Ruanda entstehen
+### Hunderttausende protestieren in Prag gegen Medienreform
 
-Am Montag soll in Wien bekanntgegeben werden, dass Ruanda Partner für das erste europäische Rückkehrzentrum wird. Es ist für rund 100 Menschen gedacht und soll „offen“ geführt werden; weitere Einrichtungen in anderen Ländern könnten folgen.
+In Prag gingen laut Schätzungen bis zu 350.000 Menschen auf die Straße. Die Regierung will die Rundfunkgebühr abschaffen und die öffentlich-rechtlichen Sender aus dem Staatshaushalt finanzieren. Kritiker fürchten Eingriffe in die Medienfreiheit, die Regierung verweist auf Sparbedarf.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349199/offen-und-fuer-100-menschen-gedacht-so-soll-das-erste-europaeische-rueckkehrzentrum-in-ruanda-aussehen?ref=rss)
-
-### Ungarn: Fast 18 Millionen Euro Bargeld bei Ex-Minister gefunden
-
-Die neue ungarische Antikorruptionsbehörde hat bei Ermittlungen gegen den früheren Entwicklungsminister Seszták Bargeld im Wert von rund 17,7 Millionen Euro sichergestellt, teils vergraben und versteckt. Premier Magyar hatte nach dem Sturz Orbáns im April ein hartes Vorgehen gegen Korruption angekündigt.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000349222/orban-regime-korruptionsermittlungen-gegen-ungarischen-ex-minister?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html) · [BBC](https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448254/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html) · [The Guardian](https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom)
 
 ## Welt
 
-### USA brachten laut Selenskyj NATO-Beitritt gegen Donbass-Verzicht ins Spiel
+### Estland schließt ab 1. Dezember alle Grenzübergänge zu Russland
 
-Die US-Unterhändler haben laut Selenskyj erstmals einen NATO-Beitritt der Ukraine im Gegenzug für Gebietsabtretungen im Donbass aufgeworfen; Kiew lehnt das ab. Washington bestätigte dies nicht und sprach von „vielen Ideen“. Laut New York Times will Russland zudem die NATO auf den Stand von 1997 zurückführen.
+Nach einem versuchten Brandanschlag auf den Drohnenhersteller Threod Systems schließt Estland alle Übergänge nach Russland. Die Regierung spricht von einer Beteiligung des russischen Geheimdienstes und verweist auf Tallinns Unterstützung für die Ukraine.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000349196/starlink-in-der-ukraine-weiter-eingeschraenkt-us-senatoren-fordern-unterlagen-von-musk?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448258/) · [Die Presse](https://www.diepresse.com/41456238/estland-schliesst-alle-grenzuebergaenge-zu-russland) · [The Guardian](https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker)
 
-### Erstes Dreiertreffen von Trump, Xi und Putin in China geplant
+### China bestätigt Dreiergipfel von Trump, Putin und Xi am Donnerstag
 
-Laut Weißem Haus treffen sich die Präsidenten der USA, Chinas und Russlands am 19. November in Shenzhen am Rande des APEC-Gipfels. Im Mittelpunkt soll die Reduzierung von Atomwaffen stehen; ein solches Dreiertreffen gab es bisher nie.
+Nach den USA und Russland hat nun auch China das Treffen bestätigt. Es soll am Rande des APEC-Gipfels in Shenzhen stattfinden. Auf der Agenda stehen laut US-Angaben atomare Abrüstung und der Iran-Krieg.
 
-→ [Die Presse](https://www.diepresse.com/41453380/trump-trifft-xi-und-putin-naechste-woche-in-china) · [Der Standard](https://www.derstandard.at/story/3000000349218/wei223es-haus-k252ndigt-dreiertreffen-von-trump-mit-xi-und-putin-an?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448291/) · [Der Standard](https://www.derstandard.at/story/3000000349340/china-best228tigt-treffen-zwischen-trump-putin-und-xi-ebenfalls?ref=rss) · [Die Presse](https://www.diepresse.com/41456724/china-bestaetigt-dreiergipfel-trump-putin-und-xi-treffen-sich-am-donnerstag)
 
 ## Wirtschaft
 
-### Nvidia-Chef Huang tritt ab – Aktie unter Druck
+### Nvidia-Skandal: Druck für Rückkehr von Jensen Huang wächst
 
-Jensen Huang ist nach Affären als Nvidia-Chef zurückgetreten; Berichten zufolge ging es um eine Beziehung zu einer mutmaßlich für Peking spionierenden Frau. Trotz stark gestiegener Umsätze und Gewinne ist die Aktie nach einem Kursrutsch billiger als vor einem Jahr.
+Nach dem Rücktritt des Konzernchefs wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin haben mehr als 150.000 Menschen einen offenen Brief für Huangs Rückkehr unterzeichnet, darunter Elon Musk. US-Finanzminister Bessent fordert hingegen einen Außenstehenden an der Spitze und gibt dem Verwaltungsrat zehn Tage Zeit, die Einhaltung der Exportkontrollen nachzuweisen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349115/was-bedeutet-der-abgang-von-konzernchef-huang-fuer-die-nvidia-aktie?ref=rss) · [ZDFheute](https://www.zdfheute.de/panorama/kriminalitaet/spionage-nvidia-huang-liebesfalle-historisch-100.html)
-
-### VW will 2030 neun Millionen Autos verkaufen
-
-Der Volkswagen-Konzern bekräftigt seine Ziele für 2030. Konzernchef Blume bezeichnete China als „noch kein verlorener Markt“.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000349257/vw-konzernchef-wollen-2030-neun-millionen-autos-verkaufen?ref=rss)
+→ [Die Presse](https://www.diepresse.com/41456727/nvidia-chef-vor-comeback-musk-und-tausende-fordern-seine-rueckkehr) · [The Guardian](https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss)
 
 ## Klima
 
-### COP31 zur Halbzeit: Tausende protestieren in Antalya
+### COP31 in Antalya geht in die entscheidende Phase
 
-Zur Halbzeit der UNO-Klimakonferenz haben in Antalya tausende Menschen für mehr Klimagerechtigkeit und Menschenrechte demonstriert. Konkrete Ergebnisse gibt es bisher kaum, die Klimafinanzierung bleibt Streitthema; die US-Regierung fehlt, eine Delegation demokratischer Abgeordneter ist angereist.
+Mit der Ankunft der Ministerinnen und Minister beginnt die entscheidende Woche der Weltklimakonferenz. Streitpunkte sind die Klimafinanzierung, wo historische Mittelkürzungen einem neuen Finanzierungsziel gegenüberstehen, und das Festhalten am 1,5-Grad-Ziel.
 
-→ [ORF](https://orf.at/stories/3448187/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html) · [France 24](https://www.france24.com/en/environment/20261114-climate-action-is-alive-triumphant-democrats-take-on-cop31-shunned-by-trump)
+→ [Tagesschau](https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html) · [Der Standard](https://www.derstandard.at/story/3000000349263/cop31-das-allj228hrliche-konfliktthema-klimafinanzierung?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/nations-grapple-with-loss-of-1-5c-target-at-un-climate-summit/)
 
 ### Außergewöhnlich starker El Niño treibt die Erwärmung
 
-Der aktuelle El Niño könnte der stärkste seit 1000 Jahren sein; für 2027 erwarten Forschende 1,8 Grad über dem vorindustriellen Niveau. UNDP-Chef de Croo beziffert die nötige Unterstützung auf 36 Milliarden US-Dollar.
+Der aktuelle El Niño könnte der stärkste seit 1000 Jahren sein; für 2027 erwarten Forschende 1,8 Grad über dem vorindustriellen Niveau. Eine Korallenstudie vor Galapagos deutet zudem darauf hin, dass El Niños heute heftiger ausfallen als früher.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000347379/wie-ein-aussergewoehnlich-starker-el-nino-die-globale-erwaermung-antreibt?ref=rss) · [Die Presse](https://www.diepresse.com/41451753/chef-des-un-entwicklungsprogramms-el-nino-als-gigantischer-stresstest)
+→ [Der Standard](https://www.derstandard.at/story/3000000347379/wie-ein-aussergewoehnlich-starker-el-nino-die-globale-erwaermung-antreibt?ref=rss) · [ZDFheute](https://www.zdfheute.de/wissen/el-nino-korallen-klimawandel-erderwaermung-studie-100.html)
 
 ## Tech/KI
 
-### SpaceX fängt Starship erstmals nach Orbitalflug wieder auf
+### US-Flugchaos: Zwei Router legten den Flugverkehr lahm
 
-Nach 22 Stunden im Orbit wurde die obere Stufe von Starship am Startturm von Greifarmen aufgefangen. Der Booster hingegen stürzte kontrolliert ins Meer und explodierte, der geplante Doppelfang gelang nicht.
+Die dreitägigen Störungen im US-Flugverkehr gehen laut Behörden auf überlastete, veraltete Netzwerkgeräte zurück, nicht auf einen Cyberangriff. Zwei Router überlasteten das Netz mit enorm vielen Verbindungsversuchen; für Montag wird die Normalisierung erwartet.
 
-→ [ORF](https://orf.at/stories/3448204/) · [Der Standard](https://www.derstandard.at/story/3000000349258/spacex-f228ngt-riesen-rakete-starship-erstmals-wieder-auf?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000349295/normalisierung-des-us-flugbetriebs-am-sonntag-erwartet-router-verursachten-stoerung?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss) · [ORF](https://orf.at/stories/3448280/)
 
-### Italien verhängt 805 Millionen Euro Strafe gegen Meta
+### Rakete von Boeing/Lockheed stürzt kurz nach dem Start ab
 
-Meta soll über eine Funktion der Facebook-App ohne Zustimmung und Information auf Fotos und Videos von Android-Nutzern zugegriffen haben, betroffen sind rund 20 Millionen Nutzer. Es ist die höchste Strafe, die Italiens Datenschutzbehörde je verhängt hat.
+Beim Absturz der Vulcan-Rakete von United Launch Alliance gingen 40 Satelliten für Amazons Internet-Netzwerk Leo verloren. Es ist der erste komplette Missionsverlust in der 20-jährigen Firmengeschichte; die Ursache ist unklar.
 
-→ [ORF](https://orf.at/stories/3448189/) · [Die Presse](https://www.diepresse.com/41453333/meta-muss-in-italien-805-millionen-euro-strafe-zahlen) · [Politico Europe](https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+→ [Der Standard](https://www.derstandard.at/story/3000000349335/nutzlast-rakete-von-boeinglockheed-kurz-nach-start-abgest252rzt?ref=rss) · [ORF](https://orf.at/stories/3448284/) · [Ars Technica](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/)
 
 ## IT-Security
 
-### Weltweiter Microsoft-Ausfall behoben – Schaden in Milliardenhöhe
+### 22 Millionen Adressdaten bei französischer Post-Tochter gestohlen
 
-Outlook, Teams, Copilot und weitere Cloud-Dienste waren stundenlang weltweit gestört, betroffen waren auch Behörden und das Gesundheitswesen. Microsoft meldet alle Dienste wiederhergestellt; der Schaden wird auf mehrere Milliarden Dollar geschätzt. Experten raten zu weniger Abhängigkeit von einzelnen Anbietern.
+Hacker griffen Maileva, eine Tochterfirma der französischen Post, an und erbeuteten rund 22 Millionen Adressdaten. Damit ist knapp ein Drittel der französischen Bevölkerung betroffen; die Ermittlungen laufen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349217/-microsoft-dienste-f252r-verbraucher-arbeiten-nach-mega-panne-wieder?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html) · [Deutsche Welle](https://www.dw.com/de/nach-pannen-bei-microsoft-raten-experten-zu-mehr-vorsicht/a-79947639?maca=de-rss-de-all-1119-rdf)
+→ [ORF](https://orf.at/stories/3448246/) · [Der Standard](https://www.derstandard.at/story/3000000349311/bei-cyberangriff-in-frankreich-22-millionen-adressdaten-gestohlen?ref=rss) · [Die Presse](https://www.diepresse.com/41455715/hacker-erbeuten-bei-cyberangriff-in-frankreich-22-millionen-adressdaten)
+
+### Angreifer verketten Lücken auf Check-Point-Gateways
+
+Angreifer nutzten PHP2Shell in Kombination mit einer Root-Lücke auf Check-Point-Gateways für Hintertüren, in einem Fall wurden Daten auf einem ESXi-Host gelöscht. Patches sind verfügbar und sollten rasch eingespielt werden.
+
+→ [heise Security](https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html)
+
+### Aktive Angriffe auf UnrealIRCd und N-able N-central
+
+Eine ausgenutzte Lücke im IRC-Server UnrealIRCd erlaubt Befehle mit Serverrechten; ein Patch steht bereit. Bei der Fernwartungslösung N-central beobachtet man Krypto-Miner-Angriffe, für den neuen Angriffsweg gibt es bislang nur eine Übergangslösung.
+
+→ [heise Security](https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html) · [heise Security](https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html)
 
 ## Wissenschaft
 
-### USA verlieren Status als masernfreies Land
+### SpaceX fängt Starship-Oberstufe erstmals mit Greifarm auf
 
-Berichten zufolge wird derselbe Masernvirusstamm seit mindestens zwölf Monaten ununterbrochen im Land übertragen, damit gilt die Elimination als verloren.
+Erstmals kehrte die Oberstufe der Starship-Rakete nach einem Flug zur Startrampe in Texas zurück und wurde vom Greifarm aufgefangen. Das gilt als Meilenstein auf dem Weg zu einer vollständig wiederverwendbaren Superrakete.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349253/usa-verlieren-status-als-masernfreies-land?ref=rss) · [ORF](https://orf.at/stories/3448201/)
+→ [ZDFheute](https://www.zdfheute.de/video/spacex-landung-rakete-greifarm-starship-100.html) · [Deutsche Welle](https://www.dw.com/de/starship-rakete-kehrt-erstmals-nach-flug-zur-rampe-zurück/a-79951426?maca=de-rss-de-all-1119-rdf) · [The Guardian](https://www.theguardian.com/science/video/2026/nov/15/spacex-starship-returns-launch-pad-video)
 
-### Webb-Teleskop findet Eis, das älter ist als sein Stern
+### Rätsel um „Zyklopen“-Mädchen der Nazca-Kultur gelöst
 
-Das James-Webb-Teleskop hat Eis entdeckt, das älter ist als der Stern, den es umkreist. Strahlung und Kollisionen formen demnach die Baustoffe von Planeten um.
+In einem 1600 Jahre alten Grab in Peru wurden zwei Säuglinge bestattet, eines mit einer außergewöhnlichen Fehlbildung. Eine neue Studie hat nun die Ursache dafür geklärt.
 
-→ [Ars Technica](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/)
+→ [Der Standard](https://www.derstandard.at/story/3000000349147/raetsel-um-antikes-zyklopen-maedchen-aus-peru-geloest?ref=rss)
 
 ## Nahost
 
-### Drei Öltanker in der Straße von Hormus nach Minenkontakt in Brand
+### Iran greift erneut US-Stützpunkt in Bahrain an
 
-Laut iranischen Angaben sind drei Tanker auf eine Seemine gelaufen, nachdem sie die Meerenge heimlich auf einer nicht genehmigten Route queren wollten. Die Lage in der Region bleibt im Zuge des Iran-Kriegs angespannt.
+Die Revolutionsgarde griff nach eigenen Angaben eine Radaranlage an, Bahrain meldet die Abwehr mehrerer Drohnen. Zugleich ist ein dritter US-Flugzeugträger in der Region eingetroffen, erstmals seit April sind wieder drei gleichzeitig dort. Die Angriffe stellen die Friedensgespräche weiter infrage.
 
-→ [ORF](https://orf.at/stories/3448208/) · [Der Standard](https://www.derstandard.at/story/3000000349211/nahost-iran-zwei-214ltanker-in-stra223e-von-hormuz-in-brand-geraten?ref=rss)
+→ [ORF](https://orf.at/stories/3448241/) · [Tagesschau](https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html) · [The Guardian](https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain) · [Der Standard](https://www.derstandard.at/story/3000000349342/nahost-dritter-us-flugzeugtr228ger-in-der-region-eingetroffen?ref=rss)
 
-### Unwetter in Gaza: EU fordert sofortigen Zugang für Helfer
+### Huthis rücken im Jemen auf Aden vor
 
-Zehntausende Zelte von Vertriebenen wurden überflutet, nach palästinensischen Angaben starben fünf Menschen. Die EU verlangt von Israel, Hilfsgüter ungehindert durchzulassen und alle Übergänge zu öffnen.
+Die Huthi-Miliz steht laut Berichten rund 60 Kilometer vor Aden und hat die strategische Meerenge Bab al-Mandab übernommen, nachdem sich Regierungstruppen zur Verteidigung der Hauptstadt zurückzogen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349240/nach-unwettern-in-gaza-eu-fordert-von-israel-sofortzugang-f252r-helfer?ref=rss) · [Die Presse](https://www.diepresse.com/41452953/eu-fordert-von-israel-nach-unwettern-in-gaza-sofortzugang-fuer-helfer) · [SRF](https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-eu-fordert-ungehinderten-zugang-fuer-hilfsgueter-nach-gaza)
+→ [Der Standard](https://www.derstandard.at/story/3000000349312/rueckzug-bei-bab-al-mandab-regierungstruppen-ueberlassen-huthis-strategisches-kuestengebiet?ref=rss) · [ORF](https://orf.at/stories/3448279/) · [BBC](https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss)
+
+### Vier Staaten fordern Israel zur Zulassung von Gaza-Hilfe auf
+
+Großbritannien, Italien, Kanada und Australien nennen die humanitäre Lage katastrophal. Laut Erklärung werden derzeit 150.000 Zelte und andere Hilfsgüter zurückgehalten.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000349276/nahost-hamas-kommandant-bei-israelischem-angriff-in-gaza-get246tet?ref=rss) · [ORF](https://orf.at/stories/3448278/) · [SRF](https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-italien-australien-kanada-und-uk-fordern-mehr-gaza-hilfe-1)
 
 ## USA
 
-### Längster US-Flugstopp seit 9/11 durch veraltete Technik
+### Trump will gegen Stopp des Golfplatz-Umbaus in Berufung gehen
 
-Ein rund vierstündiges Startverbot legte den US-Luftverkehr lahm; die Folgen dürften noch Tage spürbar sein. Ursache war laut Regierung veraltete Technik der Flugsicherung (Kupferleitungs-Upgrade), kein Cyberangriff. Der Verkehrsminister bittet den Kongress um 30 Milliarden Dollar für Modernisierung.
+Bundesrichterin Ana Reyes hat den Umbau des historischen Golfplatzes in Washington gestoppt und damit einer Beschwerde von Umweltschützern stattgegeben. Der Präsident kündigte Berufung an.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349223/was-ueber-den-laengsten-flug-shutdown-in-den-usa-seit-911-bisher-bekannt-ist?ref=rss) · [Die Presse](https://www.diepresse.com/41453665/flugverkehr-in-den-usa-soll-sich-bis-sonntagabend-normalisieren) · [BBC](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)
-
-### Demokrat gewinnt Gouverneurswahl in Alaska
-
-Jonathan Kreiss-Tomkins wird als jüngster Gouverneur der Geschichte Alaskas Amtsinhaber; es ist der erste Sieg der Demokraten dort seit rund 30 Jahren. Die Partei stellt nach den Midterms nun 30 Gouverneure.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000349244/demokrat-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins)
+→ [ORF](https://orf.at/stories/3448274/) · [Der Standard](https://www.derstandard.at/story/3000000349265/us-richterin-blockiert-parkschlie223ung-f252r-trumps-golfplatz?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course)
