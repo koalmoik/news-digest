@@ -1,0 +1,425 @@
+{
+ "date": "2026-11-18",
+ "title": "Morgen-Digest · Mittwoch, 18. November 2026",
+ "generated": "2026-11-18T06:06+01:00",
+ "intro": "Die Ukraine hat die Krim-Brücke schwer beschädigt, kurz bevor Trump, Xi und Putin beim APEC-Gipfel zusammentreffen. In Österrefich einigt sich die Koalition auf die Bundesstaatsanwaltschaft, und das Deutsche-Bank-Leak sowie starke Nvidia-Zahlen prägen die Märkte.",
+ "topics": [
+  {
+   "name": "Innenpolitik",
+   "items": [
+    {
+     "id": "2026-11-18-01",
+     "title": "Koalition einigt sich auf Bundesstaatsanwaltschaft",
+     "summary": "Die Regierung kommt den Grünen mit einem neuen Entwurf entgegen: Die Funktionsperiode der Bundesstaatsanwaltschaft wird verlängert, bei der Bestellung gibt es noch offene Punkte. Das Projekt gilt als Prüfstein dafür, ob die Koalition angekündigte Reformen auch umsetzt.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349621/koalition-einigt-sich-auf-bundesstaatsanwaltschaft?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41463011/wenn-die-mitte-rechts-blinkt-warum-auch-nicht",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-02",
+     "title": "Doskozil fordert Bablers Rückzug auch als Minister",
+     "summary": "Der burgenländische Landeshauptmann Hans Peter Doskozil verlangt, dass Andreas Babler nicht nur als SPÖ-Chef, sondern auch als Minister abtritt. Das sei für einen glaubwürdigen Neustart der SPÖ notwendig. Der Konflikt verschärft die Führungsdebatte in der Partei.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448510/"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41464648/doskozil-fordert-den-rueckzug-bablers-auch-als-minister"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-03",
+     "title": "Handels-KV: Keine Einigung, Betriebsversammlungen geplant",
+     "summary": "Nach der dritten Verhandlungsrunde gibt es im Handel keinen Kollektivvertragsabschluss. Die Gewerkschaft GPA kündigt Betriebsversammlungen mit Streikbeschlüssen an, die nächste Runde ist für den 30. November angesetzt – mitten im Weihnachtsgeschäft.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448497/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349738/-kv-handel-3-runde-ergebnislos-gpa-k252ndigt-betriebsversammlungen-an?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41464536/handels-kv-betriebsversammlungen-und-streikbeschluesse-nach-dritter-runde"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "EU",
+   "items": [
+    {
+     "id": "2026-11-18-04",
+     "title": "Fünf EU-Staaten verhandeln mit Ruanda über Abschiebezentrum",
+     "summary": "Österreich und vier weitere EU-Staaten haben sich mit Ruanda auf Verhandlungen über ein Rückkehrzentrum für Menschen ohne Bleiberecht geeinigt. Details sind kaum bekannt, es gibt viel Kritik, unter anderem wegen der Kosten und der Frage, wer überhaupt dorthin gebracht werden soll.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448435/"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41462372/welche-fragen-beim-ruanda-deal-offen-bleiben"
+      },
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/eu-staaten-und-ruanda-beschließen-abschiebezentrum/a-79975193?maca=de-rss-de-all-1119-rdf"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-05",
+     "title": "EU will Ausbau der Stromnetze beschleunigen",
+     "summary": "Europas Stromnetze sollen besser verbunden und schneller ausgebaut werden. Ziel ist, regionale Preisunterschiede zu verringern und die Elektrifizierung voranzutreiben.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448518/"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/wirtschaft/welt/eu-will-ausbau-der-stromnetze-beschleunigen-art-684622",
+       "paywall": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welt",
+   "items": [
+    {
+     "id": "2026-11-18-06",
+     "title": "Ukraine zerstört Teile der Krim-Brücke",
+     "summary": "Nach einem wochenlang vorbereiteten Angriff mit Raketen und Drohnen ist die Kertsch-Brücke teilweise eingestürzt, Selenskyj bestätigte dies. Russland berief eine Krisensitzung ein; Nato-Generalsekretär Rutte hält den Angriff für legitim, während die USA Kiews Schläge auf frontferne Ziele kritisieren.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000349544/u-bahn-und-bruecken-in-kyjiw-von-raketen-getroffen?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-07",
+     "title": "Trump, Xi und Putin treffen sich beim APEC-Gipfel in Shenzhen",
+     "summary": "Am Rande des APEC-Gipfels in China kommt es zum ersten Dreiertreffen der Präsidenten der USA, Chinas und Russlands. Beobachter sehen Putin als möglichen Nutznießer; Xi plädiert für mehr Kooperation bei KI und Freihandel.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349583/vor-xi-trump-putin-treffen-beschwichtigt-trump-noch-seine-partner?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41461925/jalta-20-der-eigentliche-nutzniesser-des-dreiergipfels-mit-trump-in-china-ist-wladimir-putin",
+       "paywall": true
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wirtschaft",
+   "items": [
+    {
+     "id": "2026-11-18-08",
+     "title": "Nvidia verdoppelt Umsatz und Gewinn trotz Führungskrise",
+     "summary": "Der Chiphersteller übertraf im dritten Quartal die Erwartungen, der Ausblick liegt bei rund 130 Milliarden Dollar Umsatz im Folgequartal. Das Board schließt eine Rückkehr des zurückgetretenen Chefs Jensen Huang aus, der am 1. Dezember im US-Kongress aussagen soll.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448509/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349749/nvidia-verdoppelt-umsatz-und-gewinn?ref=rss"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-09",
+     "title": "Datenleck belastet Deutsche Bank",
+     "summary": "Ein Leak mit rund 15 Millionen internen Dokumenten zeigt laut internationalen Medien fragwürdige Geschäfte, darunter rund 580 Millionen Dollar im Zusammenhang mit Jeffrey Epstein und Geschäfte mit russischen Oligarchen. Die Aktie fiel deutlich, Trump nannte Teile des Vorgehens der Bank illegal.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448439/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000348866/geheime-dokumente-zeigen-deutsche-bank-bewegte-rund-580-millionen-dollar-fuer-epstein?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Klima",
+   "items": [
+    {
+     "id": "2026-11-18-10",
+     "title": "COP31: EU tritt Elektrifizierungsinitiative bei, Methan-Streit",
+     "summary": "Bei der Klimakonferenz in Antalya schließt sich die EU einer Elektrifizierungsinitiative an. Zugleich zeichnet sich ab, dass Brüssel das Methan-Gesetz nach US-Druck um mindestens ein Jahr verschieben könnte.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448471/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349554/lecks-lng-lobbydruck-in-antalya-wirbt-die-eu-fuer-methanreduktion-in-bruessel-rudert-sie-zurueck?ref=rss"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/europe-set-to-buckle-on-methane-rules-after-us-pushback/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech/KI",
+   "items": [
+    {
+     "id": "2026-11-18-11",
+     "title": "Anthropic geht am Donnerstag an die Börse",
+     "summary": "Der Börsengang des KI-Unternehmens gilt als einer der größten der Geschichte. Anleger achten zudem auf die Nvidia-Zahlen als Stimmungsindikator für den KI-Boom.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349370/was-vor-der-erstnotiz-des-ki-wunderkindes-anthropic-die-welt-mit-viel-geld-bewegt?ref=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41464797/nvidia-ueberrascht-mit-guten-zahlen-der-ki-boom-kann-weitergehen-vorerst",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-12",
+     "title": "Kalifornien verklagt OpenAI wegen Sicherheitsvorfällen",
+     "summary": "Laut Generalstaatsanwalt hat OpenAI 80 Vorfälle mit Kontrollverlust eingeräumt, gefährliche KI ohne ausreichende Aufsicht getestet und die Öffentlichkeit getäuscht.",
+     "sources": [
+      {
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IT-Security",
+   "items": [
+    {
+     "id": "2026-11-18-13",
+     "title": "Optimizely-Lieferkettenangriff: Malware auf 178 Websites",
+     "summary": "Über die Experimentierplattform Optimizely wurde Schadcode auf mindestens 178 stark besuchten Websites ausgeliefert, darunter Ikea und CNN. Die Angriffe zielten auf Kryptowährungen und Kreditkartendaten und nutzten teils iOS-Exploits.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41461960/angreifer-verbreiten-iphone-schadcode-ueber-bekannte-websites"
+      },
+      {
+       "name": "Krebs on Security",
+       "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+      },
+      {
+       "name": "The Record",
+       "url": "https://therecord.media/optimizely-malicious-code-customer-sites"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-14",
+     "title": "Java4Shell: Kritische RCE-Lücke im Oracle-Patchday",
+     "summary": "Oracle schließt elf Remote-Code-Execution-Lücken in Java, darunter die hochriskante Schwachstelle Java4Shell. Sie betrifft nur bestimmte Prozessoren, gilt aber auch für Java-Clients; Updates sollten rasch eingespielt werden.",
+     "sources": [
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html"
+      },
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-15",
+     "title": "Google beobachtet vollständig KI-automatisierte Cyberangriffe",
+     "summary": "Die Google Threat Intelligence Group berichtet über Angreifer, die von der Lückensuche über den Exploit bis zur Verbreitung im Netz alles ohne menschliches Zutun automatisieren, darunter eine chinesische Staatsgruppe.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349714/google-deckt-erste-komplett-mit-ki-automatisierte-cyberangriffe-auf?ref=rss"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Google-beobachtet-vollstaendig-automatisierte-Cyberangriffe-mit-KI-Technik-11527123.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Record",
+       "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wissenschaft",
+   "items": [
+    {
+     "id": "2026-11-18-16",
+     "title": "USA verlieren Status „masernfrei“",
+     "summary": "Nach 26 Jahren gelten die USA nicht mehr als masernfrei, auch Mexiko und Bolivien verlieren den Status. Heuer wurden über 5.400 Fälle und zehn Todesfälle registriert – der schlimmste Ausbruch seit 1991, begünstigt durch sinkende Impfquoten.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448491/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349649/usa-verlieren-status-masernfrei-nach-26-jahren?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nahost",
+   "items": [
+    {
+     "id": "2026-11-18-17",
+     "title": "Iran und USA tauschen Angriffe am Golf aus",
+     "summary": "Kuwait und Bahrain melden abgewehrte iranische Drohnen- und Raketenangriffe, nachdem die USA die iranische Insel Qeshm angegriffen hatten. Teheran spricht von einem Angriff auf eine US-Radaranlage in Bahrain und von Explosionen auf Schiffen in der Straße von Hormus.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448513/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349574/erneut-kollision-eines-tankers-mit-seemine-bei-strasse-von-hormus?ref=rss"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/weltpolitik/bahrain-und-kuwait-wehrten-wieder-iranische-angriffe-ab-art-684630",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-18",
+     "title": "Israels Opposition stellt neuen Parlamentspräsidenten",
+     "summary": "Die Knesset hat Matan Kahana, einen Verbündeten von Gadi Eisenkot, zum Sprecher gewählt – mit Unterstützung arabischer Parteien. Der Anti-Netanjahu-Block will damit Einfluss auf die Politik der scheidenden Regierung gewinnen.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448508/"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "USA",
+   "items": [
+    {
+     "id": "2026-11-18-19",
+     "title": "Demokratin Peltola gewinnt Senatssitz in Alaska",
+     "summary": "Mary Peltola setzte sich gegen den Republikaner Dan Sullivan durch. Damit sind alle Senatsrennen entschieden, die Demokraten haben künftig 56 von 100 Sitzen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349753/peltola-gewinnt-in-alaska-klare-mehrheit-f252r-demokraten-im-us-senat?ref=rss"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/weltpolitik/peltola-siegt-in-alaska-klare-demokraten-mehrheit-im-senat-art-684625",
+       "paywall": true
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-18-20",
+     "title": "Bericht: Iran erwägt Anschlag mit „schmutziger Bombe“ in Washington",
+     "summary": "Laut CNN prüfen die USA mögliche iranische Pläne für eine Dirty Bomb; wie belastbar die Informationen sind, ist umstritten. Trump sagt, man nehme es sehr ernst, Teheran weist die Vorwürfe als haltlos zurück.",
+     "sources": [
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41462716/bericht-iran-erwaegt-anschlag-mit-schmutziger-bombe-in-washington",
+       "paywall": true
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

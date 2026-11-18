@@ -1,143 +1,143 @@
-# Morgen-Digest · Dienstag, 17. November 2026
+# Morgen-Digest · Mittwoch, 18. November 2026
 
-_Österreich, Deutschland, Dänemark, die Niederlande und Griechenland wollen 2027 ein Abschiebezentrum in Ruanda eröffnen. International bestimmen die ersten gemeinsamen Ukraine-Beratungen der Europäer mit Kiew und den USA, schwere Angriffe auf Brücken und der Streit um Nvidia-Chef Huang den Tag._
+_Die Ukraine hat die Krim-Brücke schwer beschädigt, kurz bevor Trump, Xi und Putin beim APEC-Gipfel zusammentreffen. In Österrefich einigt sich die Koalition auf die Bundesstaatsanwaltschaft, und das Deutsche-Bank-Leak sowie starke Nvidia-Zahlen prägen die Märkte._
 
 ## Innenpolitik
 
-### Fünf EU-Staaten planen Abschiebezentrum in Ruanda
+### Koalition einigt sich auf Bundesstaatsanwaltschaft
 
-Österreich, Deutschland, Dänemark, die Niederlande und Griechenland wollen 2027 das erste gemeinsame Abschiebezentrum für abgelehnte Asylwerber in Ruanda eröffnen. Kanzler Stocker sprach von einem „historischen Paradigmenwechsel“, Kritiker sehen eine teure Alibiaktion.
+Die Regierung kommt den Grünen mit einem neuen Entwurf entgegen: Die Funktionsperiode der Bundesstaatsanwaltschaft wird verlängert, bei der Bestellung gibt es noch offene Punkte. Das Projekt gilt als Prüfstein dafür, ob die Koalition angekündigte Reformen auch umsetzt.
 
-→ [ORF](https://orf.at/stories/3448356/) · [Der Standard](https://www.derstandard.at/story/3000000349301/ruanda-als-partner-fuer-umstrittenen-return-hub-offiziell-bestaetigt-erste-ueberstellungen-2027-geplant?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000349621/koalition-einigt-sich-auf-bundesstaatsanwaltschaft?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41463011/wenn-die-mitte-rechts-blinkt-warum-auch-nicht)
 
-### Behörde prüft Entzug der Staatsbürgerschaft von Kneissl
+### Doskozil fordert Bablers Rückzug auch als Minister
 
-Die Wiener MA 35 prüft, ob der früheren Außenministerin Karin Kneissl die österreichische Staatsbürgerschaft entzogen wird. Kneissl lebt seit Jahren in Russland und befürchtet, dadurch staatenlos zu werden.
+Der burgenländische Landeshauptmann Hans Peter Doskozil verlangt, dass Andreas Babler nicht nur als SPÖ-Chef, sondern auch als Minister abtritt. Das sei für einen glaubwürdigen Neustart der SPÖ notwendig. Der Konflikt verschärft die Führungsdebatte in der Partei.
 
-→ [ORF](https://orf.at/stories/3448380/) · [Der Standard](https://www.derstandard.at/story/3000000349538/russische-agentur-214sterreich-will-ex-ministerin-kneissl-ausb252rgern?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41460405/karin-kneissl-behauptet-oesterreich-entziehe-ihr-die-staatsbuergerschaft)
+→ [ORF](https://orf.at/stories/3448510/) · [Die Presse](https://www.diepresse.com/41464648/doskozil-fordert-den-rueckzug-bablers-auch-als-minister)
 
-### Bundesstaatsanwaltschaft droht zu scheitern
+### Handels-KV: Keine Einigung, Betriebsversammlungen geplant
 
-Die Verhandlungen von SPÖ und ÖVP über die Bundesstaatsanwaltschaft stocken, ein Weg zueinander ist nicht in Sicht. Eines der wichtigsten Reformvorhaben der Regierung steht damit vor dem Aus.
+Nach der dritten Verhandlungsrunde gibt es im Handel keinen Kollektivvertragsabschluss. Die Gewerkschaft GPA kündigt Betriebsversammlungen mit Streikbeschlüssen an, die nächste Runde ist für den 30. November angesetzt – mitten im Weihnachtsgeschäft.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000348414/bundesstaatsanwaltschaft-droht-zu-scheitern?ref=rss)
+→ [ORF](https://orf.at/stories/3448497/) · [Der Standard](https://www.derstandard.at/story/3000000349738/-kv-handel-3-runde-ergebnislos-gpa-k252ndigt-betriebsversammlungen-an?ref=rss) · [Die Presse](https://www.diepresse.com/41464536/handels-kv-betriebsversammlungen-und-streikbeschluesse-nach-dritter-runde)
 
 ## EU
 
-### EU setzt 145 weitere Ziele auf die Russland-Sanktionsliste
+### Fünf EU-Staaten verhandeln mit Ruanda über Abschiebezentrum
 
-Die EU verhängt Sanktionen gegen 145 Personen und Organisationen, darunter Russlands reichste Unternehmerin, Propagandamedien, Hackergruppen und Banken. Das Paket trifft eine große Bandbreite von Akteuren des russischen Systems.
+Österreich und vier weitere EU-Staaten haben sich mit Ruanda auf Verhandlungen über ein Rückkehrzentrum für Menschen ohne Bleiberecht geeinigt. Details sind kaum bekannt, es gibt viel Kritik, unter anderem wegen der Kosten und der Frage, wer überhaupt dorthin gebracht werden soll.
 
-→ [ORF](https://orf.at/stories/3448353/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000349324/russland-meldet-verletzte-nach-angriff-prinz-harry-ueberrascht-mit-ukraine-besuch?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-propaganda-banken-100.html)
+→ [ORF](https://orf.at/stories/3448435/) · [Die Presse](https://www.diepresse.com/41462372/welche-fragen-beim-ruanda-deal-offen-bleiben) · [Deutsche Welle](https://www.dw.com/de/eu-staaten-und-ruanda-beschließen-abschiebezentrum/a-79975193?maca=de-rss-de-all-1119-rdf)
 
-### Premier Burnham: Brexit „hat nicht funktioniert“
+### EU will Ausbau der Stromnetze beschleunigen
 
-Der britische Premierminister Andy Burnham will in einer Grundsatzrede engere Beziehungen zur EU ankündigen und bezeichnet den Brexit als gescheitert. In dieser Woche sind Gespräche mit europäischen Spitzen geplant, ein neues Abkommen könnte das BIP laut Regierung um 0,4 Prozent steigern.
+Europas Stromnetze sollen besser verbunden und schneller ausgebaut werden. Ziel ist, regionale Preisunterschiede zu verringern und die Elektrifizierung voranzutreiben.
 
-→ [ORF](https://orf.at/stories/3448337/) · [The Guardian](https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu) · [Politico Europe](https://www.politico.eu/article/andy-burnham-brexit-diminished-britain-pushes-closer-eu-ties-lord-mayors-speech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+→ [ORF](https://orf.at/stories/3448518/) · [Salzburger Nachrichten 🔒](https://www.sn.at/wirtschaft/welt/eu-will-ausbau-der-stromnetze-beschleunigen-art-684622)
 
 ## Welt
 
-### Europäer beraten erstmals gemeinsam mit Kiew und den USA
+### Ukraine zerstört Teile der Krim-Brücke
 
-Frankreich, Großbritannien, Deutschland, Polen und Italien sowie Vertreter von EU und NATO haben mit der Ukraine und den USA über ein Kriegsende beraten. US-Verhandler Kushner berichtet von Fortschritten, Moskau erklärt jedoch, einer europäischen Beteiligung an den nächsten Gesprächen nicht zugestimmt zu haben.
+Nach einem wochenlang vorbereiteten Angriff mit Raketen und Drohnen ist die Kertsch-Brücke teilweise eingestürzt, Selenskyj bestätigte dies. Russland berief eine Krisensitzung ein; Nato-Generalsekretär Rutte hält den Angriff für legitim, während die USA Kiews Schläge auf frontferne Ziele kritisieren.
 
-→ [Die Presse](https://www.diepresse.com/41461702/verhandlungen-ueber-ein-ende-des-krieges-europaeer-beraten-gemeinsam-mit-kiew-und-den-usa) · [ORF](https://orf.at/stories/3448395/) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss)
+→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000349544/u-bahn-und-bruecken-in-kyjiw-von-raketen-getroffen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html)
 
-### Brückenangriffe: Krim-Brücke und Kiewer Brücken getroffen
+### Trump, Xi und Putin treffen sich beim APEC-Gipfel in Shenzhen
 
-Die Ukraine hat die Krim-Brücke mit Drohnen angegriffen; Russland spricht vom größten ukrainischen Drohnenangriff des Krieges. Russische Raketen trafen zwei Dnipro-Brücken in Kiew und beeinträchtigten Heizung und Wasserversorgung.
+Am Rande des APEC-Gipfels in China kommt es zum ersten Dreiertreffen der Präsidenten der USA, Chinas und Russlands. Beobachter sehen Putin als möglichen Nutznießer; Xi plädiert für mehr Kooperation bei KI und Freihandel.
 
-→ [BBC](https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss) · [France 24](https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/zwei-bruecken-und-u-bahn-in-kiew-von-raketen-getroffen-art-684325)
+→ [Der Standard](https://www.derstandard.at/story/3000000349583/vor-xi-trump-putin-treffen-beschwichtigt-trump-noch-seine-partner?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41461925/jalta-20-der-eigentliche-nutzniesser-des-dreiergipfels-mit-trump-in-china-ist-wladimir-putin) · [France 24](https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit)
 
 ## Wirtschaft
 
-### EU genehmigt UniCredit-Übernahme der Commerzbank
+### Nvidia verdoppelt Umsatz und Gewinn trotz Führungskrise
 
-Die EU-Kommission hat den Kauf der Commerzbank durch die italienische UniCredit ohne Auflagen genehmigt. Damit fällt eine wichtige Hürde für die umstrittene Übernahme.
+Der Chiphersteller übertraf im dritten Quartal die Erwartungen, der Ausblick liegt bei rund 130 Milliarden Dollar Umsatz im Folgequartal. Das Board schließt eine Rückkehr des zurückgetretenen Chefs Jensen Huang aus, der am 1. Dezember im US-Kongress aussagen soll.
 
-→ [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html) · [ZDFheute](https://www.zdfheute.de/wirtschaft/unternehmen/unicredit-commerzbank-uebernahme-eu-100.html) · [Deutsche Welle](https://www.dw.com/de/eu-genehmigt-übernahme-der-commerzbank-durch-unicredit/a-79960252?maca=de-rss-de-all-1119-rdf)
+→ [ORF](https://orf.at/stories/3448509/) · [Der Standard](https://www.derstandard.at/story/3000000349749/nvidia-verdoppelt-umsatz-und-gewinn?ref=rss) · [Al Jazeera](https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss)
 
-### Gold und Bitcoin fallen wegen Zinsängsten deutlich
+### Datenleck belastet Deutsche Bank
 
-Gold sank in London auf 3.832 Dollar je Unze, den tiefsten Stand seit Oktober 2025. Bitcoin fiel bis auf 62.500 Dollar und verlor binnen vier Tagen rund 15 Prozent; Hintergrund ist die Sorge vor höherer Inflation und höheren Zinsen.
+Ein Leak mit rund 15 Millionen internen Dokumenten zeigt laut internationalen Medien fragwürdige Geschäfte, darunter rund 580 Millionen Dollar im Zusammenhang mit Jeffrey Epstein und Geschäfte mit russischen Oligarchen. Die Aktie fiel deutlich, Trump nannte Teile des Vorgehens der Bank illegal.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349350/goldpreis-auf-tiefsten-stand-seit-oktober-2025-gefallen?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html) · [Der Standard](https://www.derstandard.at/story/3000000349351/bitcoin-setzt-talfahrt-am-wochenende-fort?ref=rss)
+→ [ORF](https://orf.at/stories/3448439/) · [Der Standard](https://www.derstandard.at/story/3000000348866/geheime-dokumente-zeigen-deutsche-bank-bewegte-rund-580-millionen-dollar-fuer-epstein?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html)
 
 ## Klima
 
-### COP31: Erster Entwurf ruft zum Ausstieg aus Öl und Gas auf
+### COP31: EU tritt Elektrifizierungsinitiative bei, Methan-Streit
 
-Bei der Weltklimakonferenz in Antalya liegt der erste Entwurf der Abschlusserklärung vor. Er verweist auf „tiefe Besorgnis“ über das voraussichtlich verfehlte 1,5-Grad-Ziel; bei Elektrifizierung und Klimafinanzierung zeichnen sich harte Verhandlungen ab.
+Bei der Klimakonferenz in Antalya schließt sich die EU einer Elektrifizierungsinitiative an. Zugleich zeichnet sich ab, dass Brüssel das Methan-Gesetz nach US-Druck um mindestens ein Jahr verschieben könnte.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349461/entwurf-bei-klimakonferenz-enth228lt-aufruf-zu-ausstieg-aus-214l-und-gas?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/klimakonferenz-abschlusserklaerung-100.html) · [The Guardian](https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates)
+→ [ORF](https://orf.at/stories/3448471/) · [Der Standard](https://www.derstandard.at/story/3000000349554/lecks-lng-lobbydruck-in-antalya-wirbt-die-eu-fuer-methanreduktion-in-bruessel-rudert-sie-zurueck?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/europe-set-to-buckle-on-methane-rules-after-us-pushback/)
 
 ## Tech/KI
 
-### Kalifornien verklagt OpenAI nach Cyberangriffen
+### Anthropic geht am Donnerstag an die Börse
 
-Generalstaatsanwalt Rob Bonta wirft OpenAI vor, ein gefährliches Produkt ohne angemessene Sicherheitsverfahren und Aufsicht betrieben zu haben. Anlass sind der Hugging-Face-Angriff und weitere Vorfälle, die er als vorhersehbare Folge des Wachstumsdrucks bezeichnet.
+Der Börsengang des KI-Unternehmens gilt als einer der größten der Geschichte. Anleger achten zudem auf die Nvidia-Zahlen als Stimmungsindikator für den KI-Boom.
 
-→ [ORF](https://orf.at/stories/3448396/) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000349370/was-vor-der-erstnotiz-des-ki-wunderkindes-anthropic-die-welt-mit-viel-geld-bewegt?ref=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai) · [Die Presse 🔒](https://www.diepresse.com/41464797/nvidia-ueberrascht-mit-guten-zahlen-der-ki-boom-kann-weitergehen-vorerst)
 
-### USA verschärfen Exportregeln für KI-Chips
+### Kalifornien verklagt OpenAI wegen Sicherheitsvorfällen
 
-Washington führt eine Lizenzpflicht für Exporte unter anderem nach Malaysia, Thailand, Indonesien, Singapur und Brasilien ein, um Chinas Fernzugriff auf KI-Chips zu unterbinden. Handelsminister Lutnick steht wegen früherer Ausnahmen unter Druck.
+Laut Generalstaatsanwalt hat OpenAI 80 Vorfälle mit Kontrollverlust eingeräumt, gefährliche KI ohne ausreichende Aufsicht getestet und die Öffentlichkeit getäuscht.
 
-→ [ORF](https://orf.at/stories/3448403/) · [Al Jazeera](https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss) · [Der Standard](https://www.derstandard.at/story/3000000349388/nutzten-ausnahmen-fuer-chip-exporte-den-eigenen-firmen-us-handelsminister-lutnick-massiv-unter-druck?ref=rss)
-
-### Streit um Rückkehr von Jensen Huang zu Nvidia
-
-Nach Huangs Rücktritt wegen Affären fordern Elon Musk und weitere Investoren seine Rückkehr, auch Präsident Trump hätte nichts dagegen. Nvidia weist die Kampagne zurück; Anleger warten gespannt auf die ersten Quartalszahlen ohne ihn.
-
-→ [BBC](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo) · [Der Standard](https://www.derstandard.at/story/3000000349370/was-vor-der-erstnotiz-des-ki-wunderkindes-anthropic-die-welt-mit-viel-geld-bewegt?ref=rss)
+→ [Ars Technica](https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/)
 
 ## IT-Security
 
-### Microsoft-365-Ausfall: Alter Fehler und drei Faktoren als Ursache
+### Optimizely-Lieferkettenangriff: Malware auf 178 Websites
 
-Laut Microsoft schlummerte seit Juli ein Fehler im System, der erst durch das Zusammentreffen dreier Faktoren eine weltweite Kettenreaktion auslöste. Folgen waren u. a. 15 Verletzte im Phantasialand, weil Warn-E-Mails nicht ankamen.
+Über die Experimentierplattform Optimizely wurde Schadcode auf mindestens 178 stark besuchten Websites ausgeliefert, darunter Ikea und CNN. Die Angriffe zielten auf Kryptowährungen und Kreditkartendaten und nutzten teils iOS-Exploits.
 
-→ [Ars Technica](https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/) · [SRF](https://www.srf.ch/news/wirtschaft/globale-panne-weltweiter-microsoft-ausfall-nun-ist-der-grund-bekannt) · [Der Standard](https://www.derstandard.at/story/3000000349408/microsoft-grossausfall-fuehrt-zu-15-verletzten-im-phantasialand?ref=rss)
+→ [Die Presse](https://www.diepresse.com/41461960/angreifer-verbreiten-iphone-schadcode-ueber-bekannte-websites) · [Krebs on Security](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/) · [The Record](https://therecord.media/optimizely-malicious-code-customer-sites)
 
-### ConnectWise ScreenConnect: Malware über RMM+-Erweiterung
+### Java4Shell: Kritische RCE-Lücke im Oracle-Patchday
 
-Forscher beobachten Angriffe auf eine Schwachstelle in ConnectWise ScreenConnect, über die Angreifer mittels der RMM+-Erweiterung Malware installieren. Administratoren sollten Patches und Hinweise des Herstellers prüfen.
+Oracle schließt elf Remote-Code-Execution-Lücken in Java, darunter die hochriskante Schwachstelle Java4Shell. Sie betrifft nur bestimmte Prozessoren, gilt aber auch für Java-Clients; Updates sollten rasch eingespielt werden.
 
-→ [heise Security](https://www.heise.de/news/ConnectWise-ScreenConnect-Angreifer-installieren-Malware-ueber-RMM-Erweiterung-11526055.html)
+→ [heise Security](https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html) · [heise Security](https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html) · [BBC](https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss)
+
+### Google beobachtet vollständig KI-automatisierte Cyberangriffe
+
+Die Google Threat Intelligence Group berichtet über Angreifer, die von der Lückensuche über den Exploit bis zur Verbreitung im Netz alles ohne menschliches Zutun automatisieren, darunter eine chinesische Staatsgruppe.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000349714/google-deckt-erste-komplett-mit-ki-automatisierte-cyberangriffe-auf?ref=rss) · [heise online](https://www.heise.de/news/Google-beobachtet-vollstaendig-automatisierte-Cyberangriffe-mit-KI-Technik-11527123.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Record](https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage)
 
 ## Wissenschaft
 
-### SpaceX fängt Starship-Oberstufe erstmals am Startturm
+### USA verlieren Status „masernfrei“
 
-SpaceX ist es erstmals gelungen, die obere Stufe der Starship-Rakete am Startturm aufzufangen. Das gilt als wichtiger Schritt zu vollständiger Wiederverwendbarkeit und günstigerer Raumfahrt.
+Nach 26 Jahren gelten die USA nicht mehr als masernfrei, auch Mexiko und Bolivien verlieren den Status. Heuer wurden über 5.400 Fälle und zehn Todesfälle registriert – der schlimmste Ausbruch seit 1991, begünstigt durch sinkende Impfquoten.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349365/erste-landung-des-starship-oeffnet-die-tuer-zu-guenstiger-raumfahrt?ref=rss)
+→ [ORF](https://orf.at/stories/3448491/) · [Der Standard](https://www.derstandard.at/story/3000000349649/usa-verlieren-status-masernfrei-nach-26-jahren?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss)
 
 ## Nahost
 
-### Tanker nahe der Straße von Hormus mit Seemine kollidiert
+### Iran und USA tauschen Angriffe am Golf aus
 
-Nahe der Straße von Hormus ist ein Tanker mit einer Seemine kollidiert, Iran meldet mehrere Minentreffer. Die Lage ist angespannt, ein dritter US-Flugzeugträger ist in der Region eingetroffen.
+Kuwait und Bahrain melden abgewehrte iranische Drohnen- und Raketenangriffe, nachdem die USA die iranische Insel Qeshm angegriffen hatten. Teheran spricht von einem Angriff auf eine US-Radaranlage in Bahrain und von Explosionen auf Schiffen in der Straße von Hormus.
 
-→ [ORF](https://orf.at/stories/3448401/) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss) · [Der Standard](https://www.derstandard.at/story/3000000349342/nahost-dritter-us-flugzeugtr228ger-in-der-region-eingetroffen?ref=rss)
+→ [ORF](https://orf.at/stories/3448513/) · [Der Standard](https://www.derstandard.at/story/3000000349574/erneut-kollision-eines-tankers-mit-seemine-bei-strasse-von-hormus?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/bahrain-und-kuwait-wehrten-wieder-iranische-angriffe-ab-art-684630)
 
-### Huthi rücken im Jemen auf Aden vor
+### Israels Opposition stellt neuen Parlamentspräsidenten
 
-Die iranisch unterstützten Huthi gewinnen im Jemen Boden und nähern sich dem Regierungssitz Aden. Saudi-Arabien entließ den Befehlshaber der Militärkoalition und steht wegen des Rückzugs verbündeter Truppen in der Kritik.
+Die Knesset hat Matan Kahana, einen Verbündeten von Gadi Eisenkot, zum Sprecher gewählt – mit Unterstützung arabischer Parteien. Der Anti-Netanjahu-Block will damit Einfluss auf die Politik der scheidenden Regierung gewinnen.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html) · [ORF](https://orf.at/stories/3448376/) · [BBC](https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss)
-
-### EU plant nach Supermarkt-Sabotage Sanktionen gegen Iran
-
-Frankreich macht den Iran für Sabotageangriffe auf Supermärkte verantwortlich, die EU bereitet zusätzliche Sanktionen vor. Sie sollen bestehende Maßnahmen ergänzen, sagte EU-Chefdiplomatin Kallas.
-
-→ [ORF](https://orf.at/stories/3448379/) · [Der Standard](https://www.derstandard.at/story/3000000349547/nach-supermarkt-sabotage-eu-plant-sanktionen-gegen-den-iran?ref=rss) · [Die Presse](https://www.diepresse.com/41461452/nach-supermarkt-sabotage-eu-plant-sanktionen-gegen-den-iran)
+→ [ORF](https://orf.at/stories/3448508/) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss)
 
 ## USA
 
-### Trump reist nach Asien – Treffen mit Xi und Putin bestätigt
+### Demokratin Peltola gewinnt Senatssitz in Alaska
 
-Präsident Trump ist zu Gipfeln in Südostasien aufgebrochen. China hat ein Treffen mit Trump und Putin am Donnerstag in Shenzhen bestätigt, zu Hause wirkt Trumps Einfluss nach den Midterms eingeschränkt.
+Mary Peltola setzte sich gegen den Republikaner Dan Sullivan durch. Damit sind alle Senatsrennen entschieden, die Demokraten haben künftig 56 von 100 Sitzen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349340/china-best228tigt-treffen-zwischen-trump-putin-und-xi-ebenfalls?ref=rss) · [France 24](https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy)
+→ [Der Standard](https://www.derstandard.at/story/3000000349753/peltola-gewinnt-in-alaska-klare-mehrheit-f252r-demokraten-im-us-senat?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/peltola-siegt-in-alaska-klare-demokraten-mehrheit-im-senat-art-684625) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race)
+
+### Bericht: Iran erwägt Anschlag mit „schmutziger Bombe“ in Washington
+
+Laut CNN prüfen die USA mögliche iranische Pläne für eine Dirty Bomb; wie belastbar die Informationen sind, ist umstritten. Trump sagt, man nehme es sehr ernst, Teheran weist die Vorwürfe als haltlos zurück.
+
+→ [Tagesschau](https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html) · [Die Presse 🔒](https://www.diepresse.com/41462716/bericht-iran-erwaegt-anschlag-mit-schmutziger-bombe-in-washington) · [BBC](https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss)
