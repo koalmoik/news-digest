@@ -1,143 +1,143 @@
-# Morgen-Digest · Mittwoch, 18. November 2026
+# Morgen-Digest · Donnerstag, 19. November 2026
 
-_Die Ukraine hat die Krim-Brücke schwer beschädigt, kurz bevor Trump, Xi und Putin beim APEC-Gipfel zusammentreffen. In Österrefich einigt sich die Koalition auf die Bundesstaatsanwaltschaft, und das Deutsche-Bank-Leak sowie starke Nvidia-Zahlen prägen die Märkte._
+_Xi, Trump und Putin treffen sich erstmals zu dritt in Shenzhen, während Anthropic mit dem größten Börsengang aller Zeiten an den Markt geht. In Österreich sorgt Doskozils Forderung nach Bablers Rückzug aus der Regierung für Debatten, und eine kritische Java-Sicherheitslücke hält Admins in Atem._
 
 ## Innenpolitik
 
-### Koalition einigt sich auf Bundesstaatsanwaltschaft
+### Doskozil fordert vollständigen Rückzug Bablers aus Regierungsämtern
 
-Die Regierung kommt den Grünen mit einem neuen Entwurf entgegen: Die Funktionsperiode der Bundesstaatsanwaltschaft wird verlängert, bei der Bestellung gibt es noch offene Punkte. Das Projekt gilt als Prüfstein dafür, ob die Koalition angekündigte Reformen auch umsetzt.
+Burgenlands Landeshauptmann Doskozil hält einen Verbleib von Andreas Babler als Minister für „undenkbar“ und verlangt dessen Rückzug aus allen Regierungsämtern. Das sei aus seiner Sicht für einen Neustart der SPÖ notwendig. Die Zukunft Bablers im roten Regierungsteam bleibt damit offen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349621/koalition-einigt-sich-auf-bundesstaatsanwaltschaft?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41463011/wenn-die-mitte-rechts-blinkt-warum-auch-nicht)
+→ [Der Standard](https://www.derstandard.at/story/3000000349767/sp214-doskozil-fordert-r252ckzug-bablers-auch-als-minister?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41465036/das-grosse-raetseln-um-die-zukunft-des-andreas-babler)
 
-### Doskozil fordert Bablers Rückzug auch als Minister
+### Nationalrat beschließt Zustellförderung für gedruckte Zeitungen
 
-Der burgenländische Landeshauptmann Hans Peter Doskozil verlangt, dass Andreas Babler nicht nur als SPÖ-Chef, sondern auch als Minister abtritt. Das sei für einen glaubwürdigen Neustart der SPÖ notwendig. Der Konflikt verschärft die Führungsdebatte in der Partei.
+Der Nationalrat hat am Mittwoch die neue Zustellförderung für gedruckte Zeitungen beschlossen. Neben den Regierungsparteien stimmten auch die Grünen zu. Ebenfalls im Plenum: Die FPÖ-Abgeordnete Sunitsch wurde wegen Amtsmissbrauchsvorwürfen ausgeliefert, der ÖVP-Abgeordnete Hanger nicht.
 
-→ [ORF](https://orf.at/stories/3448510/) · [Die Presse](https://www.diepresse.com/41464648/doskozil-fordert-den-rueckzug-bablers-auch-als-minister)
-
-### Handels-KV: Keine Einigung, Betriebsversammlungen geplant
-
-Nach der dritten Verhandlungsrunde gibt es im Handel keinen Kollektivvertragsabschluss. Die Gewerkschaft GPA kündigt Betriebsversammlungen mit Streikbeschlüssen an, die nächste Runde ist für den 30. November angesetzt – mitten im Weihnachtsgeschäft.
-
-→ [ORF](https://orf.at/stories/3448497/) · [Der Standard](https://www.derstandard.at/story/3000000349738/-kv-handel-3-runde-ergebnislos-gpa-k252ndigt-betriebsversammlungen-an?ref=rss) · [Die Presse](https://www.diepresse.com/41464536/handels-kv-betriebsversammlungen-und-streikbeschluesse-nach-dritter-runde)
+→ [ORF](https://orf.at/stories/3448570/) · [Der Standard](https://www.derstandard.at/story/3000000349812/nationalrat-fpoe-abgeordnete-sunitsch-wird-ausgeliefert-oevp-abgeordneter-hanger-nicht?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41466022/bablers-vermaechtnis-nationalrat-beschliesst-ausbau-der-medienfoerderung)
 
 ## EU
 
-### Fünf EU-Staaten verhandeln mit Ruanda über Abschiebezentrum
+### EU-Kommission schlägt 45-Milliarden-Kredit für die Ukraine vor
 
-Österreich und vier weitere EU-Staaten haben sich mit Ruanda auf Verhandlungen über ein Rückkehrzentrum für Menschen ohne Bleiberecht geeinigt. Details sind kaum bekannt, es gibt viel Kritik, unter anderem wegen der Kosten und der Frage, wer überhaupt dorthin gebracht werden soll.
+Die EU-Kommission will der Ukraine für 2027 ein Darlehen über 45 Milliarden Euro geben, um eine Finanzierungslücke zu schließen und Kiew in Verhandlungen zu stärken. Von der Leyen zeigt sich zuversichtlich, dass alle 27 Mitgliedstaaten zustimmen. Parallel trifft sich in Berlin die „Koalition der Willigen“ mit rund 30 Staats- und Regierungschefs.
 
-→ [ORF](https://orf.at/stories/3448435/) · [Die Presse](https://www.diepresse.com/41462372/welche-fragen-beim-ruanda-deal-offen-bleiben) · [Deutsche Welle](https://www.dw.com/de/eu-staaten-und-ruanda-beschließen-abschiebezentrum/a-79975193?maca=de-rss-de-all-1119-rdf)
+→ [Tagesschau](https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html) · [Deutsche Welle](https://www.dw.com/de/eu-kommission-schlägt-45-milliarden-kredit-für-ukraine-vor/a-79982843?maca=de-rss-de-all-1119-rdf) · [The Guardian](https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv)
 
-### EU will Ausbau der Stromnetze beschleunigen
+### EU einigt sich auf schnelleren Ausbau der Stromnetze
 
-Europas Stromnetze sollen besser verbunden und schneller ausgebaut werden. Ziel ist, regionale Preisunterschiede zu verringern und die Elektrifizierung voranzutreiben.
+Parlament und Mitgliedstaaten haben sich in der Nacht auf ein Paket geeinigt, das Genehmigungsverfahren für Stromnetze beschleunigen soll. Die Kommission erwartet Investitionen von rund einer Billion Euro. Ziel ist eine unabhängigere und widerstandsfähigere Energieversorgung.
 
-→ [ORF](https://orf.at/stories/3448518/) · [Salzburger Nachrichten 🔒](https://www.sn.at/wirtschaft/welt/eu-will-ausbau-der-stromnetze-beschleunigen-art-684622)
+→ [Der Standard](https://www.derstandard.at/story/3000000349754/eu-einigung-ausbau-von-europas-stromnetzen-soll-beschleunigt-werden?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/late-night-deal-to-accelerate-eu-electricity-grid-development/)
 
 ## Welt
 
-### Ukraine zerstört Teile der Krim-Brücke
+### Erstes Dreiertreffen von Xi, Trump und Putin in Shenzhen
 
-Nach einem wochenlang vorbereiteten Angriff mit Raketen und Drohnen ist die Kertsch-Brücke teilweise eingestürzt, Selenskyj bestätigte dies. Russland berief eine Krisensitzung ein; Nato-Generalsekretär Rutte hält den Angriff für legitim, während die USA Kiews Schläge auf frontferne Ziele kritisieren.
+Am Rande des APEC-Gipfels treffen sich erstmals die Präsidenten Chinas, der USA und Russlands zu einem Dreiergipfel. Trump will nukleare Abrüstung zum Thema machen, Xi und Putin demonstrierten vorab Einigkeit. Europa bleibt am Verhandlungstisch außen vor.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000349544/u-bahn-und-bruecken-in-kyjiw-von-raketen-getroffen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/selenskyj-teilzerstoerung-krim-bruecke-100.html)
+→ [ORF](https://orf.at/stories/3448567/) · [Der Standard](https://www.derstandard.at/story/3000000349842/tisch-fuer-drei-wollen-sich-xi-trump-und-putin-die-welt-aufteilen?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html)
 
-### Trump, Xi und Putin treffen sich beim APEC-Gipfel in Shenzhen
+### Krim-Brücke erneut angegriffen und gesperrt
 
-Am Rande des APEC-Gipfels in China kommt es zum ersten Dreiertreffen der Präsidenten der USA, Chinas und Russlands. Beobachter sehen Putin als möglichen Nutznießer; Xi plädiert für mehr Kooperation bei KI und Freihandel.
+Die Ukraine hat die Krim-Brücke nach russischen Angaben innerhalb einer Woche zum dritten Mal angegriffen, der Verkehr wurde vorübergehend eingestellt. Bei früheren Angriffen wurde bereits ein Teilstück der Straße zerstört. Die Brücke ist die wichtigste Verbindung zwischen Russland und der besetzten Halbinsel.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349583/vor-xi-trump-putin-treffen-beschwichtigt-trump-noch-seine-partner?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41461925/jalta-20-der-eigentliche-nutzniesser-des-dreiergipfels-mit-trump-in-china-ist-wladimir-putin) · [France 24](https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit)
+→ [ORF](https://orf.at/stories/3448615/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000349741/ukraine-laut-selenskyj-bei-waffenentwicklung-in-europa-ganz-vorne?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/krim-bruecke-zug-100.html)
 
 ## Wirtschaft
 
-### Nvidia verdoppelt Umsatz und Gewinn trotz Führungskrise
+### Anthropic: Rekord-Börsengang mit 81 Milliarden Dollar
 
-Der Chiphersteller übertraf im dritten Quartal die Erwartungen, der Ausblick liegt bei rund 130 Milliarden Dollar Umsatz im Folgequartal. Das Board schließt eine Rückkehr des zurückgetretenen Chefs Jensen Huang aus, der am 1. Dezember im US-Kongress aussagen soll.
+Der KI-Entwickler Anthropic setzt den Ausgabepreis bei 83 US-Dollar je Aktie fest, über der ursprünglichen Spanne von 70 bis 78 Dollar. Mit rund 81 Milliarden Dollar ist es der größte Börsengang der Geschichte. Der Handel startet am Donnerstag, Beobachter warnen zugleich vor einer KI-Blase.
 
-→ [ORF](https://orf.at/stories/3448509/) · [Der Standard](https://www.derstandard.at/story/3000000349749/nvidia-verdoppelt-umsatz-und-gewinn?ref=rss) · [Al Jazeera](https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss)
+→ [ORF](https://orf.at/stories/3448322/) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html) · [SRF](https://www.srf.ch/news/wirtschaft/ueber-81-milliarden-us-dollar-anthropic-gelingt-rekord-boersengang-1)
 
-### Datenleck belastet Deutsche Bank
+### Inflation in der Eurozone steigt auf 4 Prozent
 
-Ein Leak mit rund 15 Millionen internen Dokumenten zeigt laut internationalen Medien fragwürdige Geschäfte, darunter rund 580 Millionen Dollar im Zusammenhang mit Jeffrey Epstein und Geschäfte mit russischen Oligarchen. Die Aktie fiel deutlich, Trump nannte Teile des Vorgehens der Bank illegal.
+Die Teuerung im Euroraum erreichte im Oktober den höchsten Stand seit drei Jahren, nach 3,8 Prozent im Vormonat. Ursache sind vor allem hohe Energiepreise. In Österreich liegt die Inflation bei 3,6 Prozent, der Handel hofft trotzdem auf ein solides Weihnachtsgeschäft.
 
-→ [ORF](https://orf.at/stories/3448439/) · [Der Standard](https://www.derstandard.at/story/3000000348866/geheime-dokumente-zeigen-deutsche-bank-bewegte-rund-580-millionen-dollar-fuer-epstein?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000349837/hoechster-stand-seit-drei-jahren-inflationsrate-in-der-eurozone-steigt-auf-4-prozent?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000349673/inflation-bei-36-prozent-der-handel-glaubt-noch-an-das-christkind?ref=rss)
+
+### Eisenbahner erhalten ab 2027 die 38,5-Stunden-Woche
+
+Der Kollektivvertrag für 55.000 Beschäftigte in 98 Unternehmen steht. Die Wochenarbeitszeit sinkt für alle von 40 auf 38,5 Stunden, ab September 2027. Das Lohnplus bewegt sich auf Höhe der rollierenden Inflation von 3,3 Prozent.
+
+→ [ORF](https://orf.at/stories/3448597/) · [Der Standard](https://www.derstandard.at/story/3000000349922/eisenbahner-bekommen-ab-september-2027-alle-385-stunden-woche?ref=rss) · [Die Presse](https://www.diepresse.com/41467692/alle-eisenbahner-bekommen-eine-38-5-stunden-woche)
 
 ## Klima
 
-### COP31: EU tritt Elektrifizierungsinitiative bei, Methan-Streit
+### EU verschiebt Methan-Gesetz um zwei Jahre – trotz COP31-Forderungen
 
-Bei der Klimakonferenz in Antalya schließt sich die EU einer Elektrifizierungsinitiative an. Zugleich zeichnet sich ab, dass Brüssel das Methan-Gesetz nach US-Druck um mindestens ein Jahr verschieben könnte.
+Die EU hat sich auf eine zweijährige Verzögerung ihres Gesetzes gegen Methan-Lecks geeinigt. Gleichzeitig will sie bei der Weltklimakonferenz eine globale Methan-Einigung erreichen. Kritiker sehen darin einen Widerspruch, da Methan-Reduktion als schneller Hebel gegen die Erderhitzung gilt.
 
-→ [ORF](https://orf.at/stories/3448471/) · [Der Standard](https://www.derstandard.at/story/3000000349554/lecks-lng-lobbydruck-in-antalya-wirbt-die-eu-fuer-methanreduktion-in-bruessel-rudert-sie-zurueck?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/europe-set-to-buckle-on-methane-rules-after-us-pushback/)
+→ [Der Standard](https://www.derstandard.at/story/3000000349554/lecks-lng-lobbydruck-in-antalya-wirbt-die-eu-fuer-methanreduktion-in-bruessel-rudert-sie-zurueck?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/two-year-delay-for-eu-crackdown-on-methane-leakage/)
 
 ## Tech/KI
 
-### Anthropic geht am Donnerstag an die Börse
+### Nvidia meldet starke Zahlen nach Abgang von Jensen Huang
 
-Der Börsengang des KI-Unternehmens gilt als einer der größten der Geschichte. Anleger achten zudem auf die Nvidia-Zahlen als Stimmungsindikator für den KI-Boom.
+Nvidia hat unter neuer Führung Rekordzahlen mit knapp 116 Milliarden Dollar Umsatz vorgelegt, besser als erwartet. Zuvor war die Aktie nach dem Rücktritt von Gründer Jensen Huang stark eingebrochen. Huang selbst hat sich in die Debatte um seine Zukunft eingeschaltet und will zurückkehren.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349370/was-vor-der-erstnotiz-des-ki-wunderkindes-anthropic-die-welt-mit-viel-geld-bewegt?ref=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai) · [Die Presse 🔒](https://www.diepresse.com/41464797/nvidia-ueberrascht-mit-guten-zahlen-der-ki-boom-kann-weitergehen-vorerst)
+→ [Die Presse 🔒](https://www.diepresse.com/41464797/nvidia-ueberrascht-mit-guten-zahlen-der-ki-boom-kann-weitergehen-vorerst) · [heise online](https://www.heise.de/news/Nvidia-Fast-116-Milliarden-US-Dollar-Umsatz-Jensen-Huang-will-zurueckkommen-11528649.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [Tagesschau](https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html)
 
-### Kalifornien verklagt OpenAI wegen Sicherheitsvorfällen
+### Waymo stoppt Robotaxi-Fahrten auf allen US-Autobahnen
 
-Laut Generalstaatsanwalt hat OpenAI 80 Vorfälle mit Kontrollverlust eingeräumt, gefährliche KI ohne ausreichende Aufsicht getestet und die Öffentlichkeit getäuscht.
+Nach einem Verbot durch Kalifornien nach mehreren Zwischenfällen zieht Waymo seine fahrerlosen Taxis von allen Highways der USA ab. Das Unternehmen fährt in 15 Städten, Autobahnfahrten gab es nur in einigen. Waymo will die Technik nachbessern.
 
-→ [Ars Technica](https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/)
+→ [Der Standard](https://www.derstandard.at/story/3000000349779/waymo-stoppt-nach-bann-in-kalifornien-vorerst-alle-fahrten-auf-us-autobahnen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways)
 
 ## IT-Security
 
-### Optimizely-Lieferkettenangriff: Malware auf 178 Websites
+### Kritische Java-Lücke „Java4Shell“ (CVE-2026-114938) ermöglicht Remote-Code-Ausführung
 
-Über die Experimentierplattform Optimizely wurde Schadcode auf mindestens 178 stark besuchten Websites ausgeliefert, darunter Ikea und CNN. Die Angriffe zielten auf Kryptowährungen und Kreditkartendaten und nutzten teils iOS-Exploits.
+In Java existiert eine kritische Schwachstelle, über die nicht authentifizierte Angreifer aus der Ferne Schadcode ausführen können. CERT.at weist auf verfügbare Updates hin. Entdeckt wurde die Lücke laut BBC von einem Start-up, das zuvor bereits einen PHP-Fehler mit KI-Hilfe fand.
 
-→ [Die Presse](https://www.diepresse.com/41461960/angreifer-verbreiten-iphone-schadcode-ueber-bekannte-websites) · [Krebs on Security](https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/) · [The Record](https://therecord.media/optimizely-malicious-code-customer-sites)
+→ [CERT.at](https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucke-in-java-java4shell-updates-verfugbar-cve-2026-114938) · [BBC](https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss)
 
-### Java4Shell: Kritische RCE-Lücke im Oracle-Patchday
+### Kritische Lücken in nginx, WordPress und SharePoint – Updates einspielen
 
-Oracle schließt elf Remote-Code-Execution-Lücken in Java, darunter die hochriskante Schwachstelle Java4Shell. Sie betrifft nur bestimmte Prozessoren, gilt aber auch für Java-Clients; Updates sollten rasch eingespielt werden.
+Für den Webserver nginx (Plus und Open Source) gibt es Patches gegen schwere Lücken, unter anderem im HTTP/2-Modul. WordPress schließt mit einem Zwischenupdate zahlreiche Fehler, Microsoft behebt eine Codeausführungslücke in SharePoint Server Subscription Edition. Zusätzlich stehen am Donnerstag PHP-Sicherheitsupdates an.
 
-→ [heise Security](https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html) · [heise Security](https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html) · [BBC](https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss)
+→ [CERT.at](https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucken-in-nginx-plus-und-nginx-open-source-updates-verfugbar) · [heise Security](https://www.heise.de/news/Webserver-nginx-Update-schliesst-schwere-Luecken-11530216.html) · [heise Security](https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html) · [heise Security](https://www.heise.de/news/Sicherheitsfix-PHP-Admins-bekommen-Donnerstagnachmittag-zu-tun-11530253.html)
 
-### Google beobachtet vollständig KI-automatisierte Cyberangriffe
+### Cyber-Vorfall im österreichischen Bundesrechenzentrum
 
-Die Google Threat Intelligence Group berichtet über Angreifer, die von der Lückensuche über den Exploit bis zur Verbreitung im Netz alles ohne menschliches Zutun automatisieren, darunter eine chinesische Staatsgruppe.
+Im Bundesrechenzentrum gab es einen Vorfall rund um die Cybersicherheit, offenbar standen Benutzerkonten von Mitarbeitenden im Visier. Die Direktion Staatsschutz und Nachrichtendienst ermittelt. Zum Ausmaß machte das Innenministerium keine Angaben.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349714/google-deckt-erste-komplett-mit-ki-automatisierte-cyberangriffe-auf?ref=rss) · [heise online](https://www.heise.de/news/Google-beobachtet-vollstaendig-automatisierte-Cyberangriffe-mit-KI-Technik-11527123.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Record](https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage)
+→ [Der Standard](https://www.derstandard.at/story/3000000349883/cyber-vorfall-im-bundesrechenzentrum?ref=rss) · [Die Presse](https://www.diepresse.com/41466666/vorfall-rund-um-die-cybersicherheit-im-bundesrechenzentrum)
 
 ## Wissenschaft
 
-### USA verlieren Status „masernfrei“
+### Voyager 1 ist einen Lichttag von der Erde entfernt
 
-Nach 26 Jahren gelten die USA nicht mehr als masernfrei, auch Mexiko und Bolivien verlieren den Status. Heuer wurden über 5.400 Fälle und zehn Todesfälle registriert – der schlimmste Ausbruch seit 1991, begünstigt durch sinkende Impfquoten.
+Nach 49 Jahren Flug hat die Nasa-Sonde Voyager 1 rund 25,9 Milliarden Kilometer Abstand zur Erde erreicht. Kein anderes menschengemachtes Objekt ist je so weit ins All vorgedrungen. Funksignale brauchen nun einen ganzen Tag zur Erde.
 
-→ [ORF](https://orf.at/stories/3448491/) · [Der Standard](https://www.derstandard.at/story/3000000349649/usa-verlieren-status-masernfrei-nach-26-jahren?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000349709/voyager-1-ist-einen-ganzen-lichttag-von-der-erde-entfernt?ref=rss) · [Tagesschau](https://www.tagesschau.de/wissen/technologie/voyager-1-100.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss)
 
 ## Nahost
 
-### Iran und USA tauschen Angriffe am Golf aus
+### Israelische Panzer rücken im Gazastreifen über die „Gelbe Linie“ vor
 
-Kuwait und Bahrain melden abgewehrte iranische Drohnen- und Raketenangriffe, nachdem die USA die iranische Insel Qeshm angegriffen hatten. Teheran spricht von einem Angriff auf eine US-Radaranlage in Bahrain und von Explosionen auf Schiffen in der Straße von Hormus.
+Israels Armee hat die erste Bodenoperation seit der Waffenruhe in einem Hamas-kontrollierten Gebiet im Zentrum Gazas gestartet. Nach Armeeangaben soll ein Terrortunnel zerstört werden. Die Hamas spricht von einer gefährlichen Eskalation und einem klaren Bruch der Waffenruhe.
 
-→ [ORF](https://orf.at/stories/3448513/) · [Der Standard](https://www.derstandard.at/story/3000000349574/erneut-kollision-eines-tankers-mit-seemine-bei-strasse-von-hormus?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/bahrain-und-kuwait-wehrten-wieder-iranische-angriffe-ab-art-684630)
+→ [Der Standard](https://www.derstandard.at/story/3000000349917/israelische-panzer-r252cken-im-gazastreifen-vor-hamas-spricht-von-eskalation?ref=rss) · [ORF](https://orf.at/stories/3448590/) · [BBC](https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss)
 
-### Israels Opposition stellt neuen Parlamentspräsidenten
+### Iran meldet Explosionen auf drei Schiffen bei der Straße von Hormus
 
-Die Knesset hat Matan Kahana, einen Verbündeten von Gadi Eisenkot, zum Sprecher gewählt – mit Unterstützung arabischer Parteien. Der Anti-Netanjahu-Block will damit Einfluss auf die Politik der scheidenden Regierung gewinnen.
+Laut Iran wurden drei Tanker getroffen, deren Besatzungen Warnungen der Revolutionsgarden ignoriert hätten. Die Schiffe sind manövrierunfähig, über Opfer ist nichts bekannt. Kuwait und Bahrain melden zudem iranische Angriffe nach einem US-Luftschlag auf die Insel Qeshm.
 
-→ [ORF](https://orf.at/stories/3448508/) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss)
+→ [ORF](https://orf.at/stories/3448611/) · [Der Standard](https://www.derstandard.at/story/3000000349932/iran-meldet-explosionen-an-drei-schiffen-bei-stra223e-von-hormuz?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss)
 
 ## USA
 
-### Demokratin Peltola gewinnt Senatssitz in Alaska
+### Demokraten nominieren Jeffries als Speaker, Peltola gewinnt Alaska-Senatssitz
 
-Mary Peltola setzte sich gegen den Republikaner Dan Sullivan durch. Damit sind alle Senatsrennen entschieden, die Demokraten haben künftig 56 von 100 Sitzen.
+Die Demokraten haben Hakeem Jeffries für den Vorsitz des Repräsentantenhauses nominiert, er wäre der erste schwarze Speaker. Zudem gewann Mary Peltola den letzten offenen Senatssitz in Alaska, womit die Demokraten 56 der 100 Sitze halten. Damit ist das Ergebnis der Midterms komplett.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349753/peltola-gewinnt-in-alaska-klare-mehrheit-f252r-demokraten-im-us-senat?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/peltola-siegt-in-alaska-klare-demokraten-mehrheit-im-senat-art-684625) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race)
+→ [Der Standard](https://www.derstandard.at/story/3000000349911/letztlich-kein-konkurrent-demokraten-entscheiden-sich-fuer-hakeem-jeffries-als-naechsten-parlamentspraesidenten?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000349753/peltola-gewinnt-in-alaska-klare-mehrheit-f252r-demokraten-im-us-senat?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss)
 
-### Bericht: Iran erwägt Anschlag mit „schmutziger Bombe“ in Washington
+### Demokraten bereiten Untersuchungen zu Epstein-Akten und ICE vor
 
-Laut CNN prüfen die USA mögliche iranische Pläne für eine Dirty Bomb; wie belastbar die Informationen sind, ist umstritten. Trump sagt, man nehme es sehr ernst, Teheran weist die Vorwürfe als haltlos zurück.
+Die Demokraten haben Trumps Team, unter anderem Vizepräsident Vance, Justizminister Blanche und Trumps Söhne, zur Sicherung von Unterlagen aufgefordert. Geplant sind Untersuchungen zu Trump-Familienfinanzen, Vorgängen im Heimatschutz und dem Umgang mit den Epstein-Akten.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/amerika/trump-schmutzige-bombe-iran-100.html) · [Die Presse 🔒](https://www.diepresse.com/41462716/bericht-iran-erwaegt-anschlag-mit-schmutziger-bombe-in-washington) · [BBC](https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000349920/epstein-und-ice-demokraten-nehmen-trumps-team-ins-visier?ref=rss) · [Die Presse](https://www.diepresse.com/41467682/epstein-und-ice-demokraten-nehmen-trumps-team-ins-visier) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations)
