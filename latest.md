@@ -1,143 +1,143 @@
-# Morgen-Digest · Donnerstag, 19. November 2026
+# Morgen-Digest · Freitag, 20. November 2026
 
-_Xi, Trump und Putin treffen sich erstmals zu dritt in Shenzhen, während Anthropic mit dem größten Börsengang aller Zeiten an den Markt geht. In Österreich sorgt Doskozils Forderung nach Bablers Rückzug aus der Regierung für Debatten, und eine kritische Java-Sicherheitslücke hält Admins in Atem._
+_Der Anthropic-Rekordbörsengang, der Dreiergipfel von Trump, Xi und Putin in Shenzhen und das Berliner Treffen der „Koalition der Willigen“ prägen den Tag. Ein KI-gestützter Cyberangriff auf die EU-Kommission und das Urteil des Internationalen Gerichtshofs gegen Myanmar sind weitere Schwerpunkte._
 
 ## Innenpolitik
 
-### Doskozil fordert vollständigen Rückzug Bablers aus Regierungsämtern
+### Wehrdienst-Reform: Für Zweidrittelmehrheit bleiben nur die Grünen
 
-Burgenlands Landeshauptmann Doskozil hält einen Verbleib von Andreas Babler als Minister für „undenkbar“ und verlangt dessen Rückzug aus allen Regierungsämtern. Das sei aus seiner Sicht für einen Neustart der SPÖ notwendig. Die Zukunft Bablers im roten Regierungsteam bleibt damit offen.
+Für den Teil der Wehrdienstreform, der den Zivildienst betrifft, braucht die Regierung eine Zweidrittelmehrheit. Die FPÖ geht von einem Ende der Verhandlungen mit ihr aus, damit sind nur noch die Grünen als möglicher Partner im Rennen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349767/sp214-doskozil-fordert-r252ckzug-bablers-auch-als-minister?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41465036/das-grosse-raetseln-um-die-zukunft-des-andreas-babler)
+→ [ORF](https://orf.at/stories/3448721/) · [Der Standard](https://www.derstandard.at/story/3000000350159/wehrpflicht-f252r-zweidrittelmehrheit-nur-noch-die-gr252nen-im-rennen?ref=rss)
 
-### Nationalrat beschließt Zustellförderung für gedruckte Zeitungen
+### Steiermark droht ab 2029 über eine Milliarde Euro Defizit pro Jahr
 
-Der Nationalrat hat am Mittwoch die neue Zustellförderung für gedruckte Zeitungen beschlossen. Neben den Regierungsparteien stimmten auch die Grünen zu. Ebenfalls im Plenum: Die FPÖ-Abgeordnete Sunitsch wurde wegen Amtsmissbrauchsvorwürfen ausgeliefert, der ÖVP-Abgeordnete Hanger nicht.
+Die blau-schwarze Landesregierung hat den Finanzrahmen für 2027 bis 2030 beschlossen. Bis 2030 könnte der Schuldenstand auf fast zwölf Milliarden Euro wachsen; die SPÖ hat einen Misstrauensantrag angekündigt.
 
-→ [ORF](https://orf.at/stories/3448570/) · [Der Standard](https://www.derstandard.at/story/3000000349812/nationalrat-fpoe-abgeordnete-sunitsch-wird-ausgeliefert-oevp-abgeordneter-hanger-nicht?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41466022/bablers-vermaechtnis-nationalrat-beschliesst-ausbau-der-medienfoerderung)
+→ [Der Standard](https://www.derstandard.at/story/3000000350135/steiermark-droht-ueber-eine-milliarde-euro-schulden-jaehrlich-ab-2029?ref=rss) · [Die Presse](https://www.diepresse.com/41470306/steiermark-steuert-auf-einen-milliardenschweren-schuldenberg-zu)
 
 ## EU
 
-### EU-Kommission schlägt 45-Milliarden-Kredit für die Ukraine vor
+### EU-Großbritannien-Gipfel: Annäherung bei Jugendmobilität und Handel
 
-Die EU-Kommission will der Ukraine für 2027 ein Darlehen über 45 Milliarden Euro geben, um eine Finanzierungslücke zu schließen und Kiew in Verhandlungen zu stärken. Von der Leyen zeigt sich zuversichtlich, dass alle 27 Mitgliedstaaten zustimmen. Parallel trifft sich in Berlin die „Koalition der Willigen“ mit rund 30 Staats- und Regierungschefs.
+Beim Gipfel in Brüssel sollen laut BBC ein Jugendmobilitätsprogramm sowie Vereinbarungen zu Lebensmittelhandel und Emissionen beschlossen werden. Die Verhandlungen liefen bis zuletzt, auf beiden Seiten herrscht Skepsis, wie weit die Annäherung gehen soll.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html) · [Deutsche Welle](https://www.dw.com/de/eu-kommission-schlägt-45-milliarden-kredit-für-ukraine-vor/a-79982843?maca=de-rss-de-all-1119-rdf) · [The Guardian](https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv)
-
-### EU einigt sich auf schnelleren Ausbau der Stromnetze
-
-Parlament und Mitgliedstaaten haben sich in der Nacht auf ein Paket geeinigt, das Genehmigungsverfahren für Stromnetze beschleunigen soll. Die Kommission erwartet Investitionen von rund einer Billion Euro. Ziel ist eine unabhängigere und widerstandsfähigere Energieversorgung.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000349754/eu-einigung-ausbau-von-europas-stromnetzen-soll-beschleunigt-werden?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/late-night-deal-to-accelerate-eu-electricity-grid-development/)
+→ [Der Standard](https://www.derstandard.at/story/3000000350133/rangelei-bis-zuletzt-wie-nahe-will-grossbritannien-an-die-eu-ruecken?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels)
 
 ## Welt
 
-### Erstes Dreiertreffen von Xi, Trump und Putin in Shenzhen
+### Trump, Xi und Putin: „Friedenserklärung“ ohne konkrete Ergebnisse
 
-Am Rande des APEC-Gipfels treffen sich erstmals die Präsidenten Chinas, der USA und Russlands zu einem Dreiergipfel. Trump will nukleare Abrüstung zum Thema machen, Xi und Putin demonstrierten vorab Einigkeit. Europa bleibt am Verhandlungstisch außen vor.
+Beim ersten Dreiergipfel der drei Atommächte in Shenzhen verabredeten die Präsidenten einen Dialog über nukleare Risiken. Die Erklärung erwähnt weder den Ukraine- noch den Iran-Krieg; Beobachter sehen vor allem Symbolik und einen Gewinn für Xi und Putin.
 
-→ [ORF](https://orf.at/stories/3448567/) · [Der Standard](https://www.derstandard.at/story/3000000349842/tisch-fuer-drei-wollen-sich-xi-trump-und-putin-die-welt-aufteilen?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000349977/triumph-fuer-putin-mini-genugtuung-fuer-trump-xi-goennt-seinen-gaesten-beim-dreiergipfel-etwas-licht?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars)
 
-### Krim-Brücke erneut angegriffen und gesperrt
+### Koalition der Willigen sagt Ukraine Hilfe „so lange wie nötig“ zu
 
-Die Ukraine hat die Krim-Brücke nach russischen Angaben innerhalb einer Woche zum dritten Mal angegriffen, der Verkehr wurde vorübergehend eingestellt. Bei früheren Angriffen wurde bereits ein Teilstück der Straße zerstört. Die Brücke ist die wichtigste Verbindung zwischen Russland und der besetzten Halbinsel.
+In Berlin trafen sich Vertreter von rund 30 Staaten mit Selenskyj und US-Unterhändlern; Europa zeigt sich zu Gesprächen mit Russland bereit. Bei russischen Angriffen auf Kiew wurden die Botschaften Österreichs und der Niederlande beschädigt, eine Person starb.
 
-→ [ORF](https://orf.at/stories/3448615/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000349741/ukraine-laut-selenskyj-bei-waffenentwicklung-in-europa-ganz-vorne?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/krim-bruecke-zug-100.html)
+→ [ORF](https://orf.at/stories/3448674/) · [ORF](https://orf.at/stories/3448702/) · [BBC](https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss)
+
+### IGH: Myanmar ist für Völkermord an den Rohingya verantwortlich
+
+Der Internationale Gerichtshof sah die Vernichtungsabsicht gegenüber einem wesentlichen Teil der Rohingya erwiesen. Erstmals wurde damit ein Staat von einem internationalen Gericht wegen Völkermords verurteilt; Myanmar muss auch die sichere Rückkehr ermöglichen.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000350028/uno-weltgericht-stellt-genozid-an-rohingya-durch-myanmar-fest?ref=rss) · [Die Presse](https://www.diepresse.com/41469152/internationaler-gerichtshof-myanmar-verantwortlich-fuer-rohingya-voelkermord) · [BBC](https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss)
 
 ## Wirtschaft
 
-### Anthropic: Rekord-Börsengang mit 81 Milliarden Dollar
+### Anthropic gelingt größter Börsengang der Geschichte
 
-Der KI-Entwickler Anthropic setzt den Ausgabepreis bei 83 US-Dollar je Aktie fest, über der ursprünglichen Spanne von 70 bis 78 Dollar. Mit rund 81 Milliarden Dollar ist es der größte Börsengang der Geschichte. Der Handel startet am Donnerstag, Beobachter warnen zugleich vor einer KI-Blase.
+Anthropic nahm bei seinem Börsendebüt laut Berichten über 80 Milliarden Dollar ein (ORF: 107 Mrd.) und wurde mit über einer Billion Dollar bewertet. Die Aktie legte zum Start stark zu, der erhoffte Impuls für den gesamten KI-Sektor blieb aber aus, Börsen in Asien und der DAX gaben nach.
 
-→ [ORF](https://orf.at/stories/3448322/) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html) · [SRF](https://www.srf.ch/news/wirtschaft/ueber-81-milliarden-us-dollar-anthropic-gelingt-rekord-boersengang-1)
+→ [ORF](https://orf.at/stories/3448693/) · [Der Standard](https://www.derstandard.at/story/3000000350134/anthropic-ist-an-der-boerse-und-doppelt-so-viel-wert-wie-das-oesterreichische-bip?ref=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo)
 
-### Inflation in der Eurozone steigt auf 4 Prozent
+### Commerzbank-Übernahme durch Unicredit nimmt Hürde
 
-Die Teuerung im Euroraum erreichte im Oktober den höchsten Stand seit drei Jahren, nach 3,8 Prozent im Vormonat. Ursache sind vor allem hohe Energiepreise. In Österreich liegt die Inflation bei 3,6 Prozent, der Handel hofft trotzdem auf ein solides Weihnachtsgeschäft.
+Der Bund macht den Weg für die Übernahme frei, Unicredit-Chef Orcel sagte in einem Brief an Finanzminister Klingbeil Zusagen zu. Der Stellenabbau soll an der Spitze beginnen, Frankfurt und die Börsennotiz bleiben bestehen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349837/hoechster-stand-seit-drei-jahren-inflationsrate-in-der-eurozone-steigt-auf-4-prozent?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000349673/inflation-bei-36-prozent-der-handel-glaubt-noch-an-das-christkind?ref=rss)
-
-### Eisenbahner erhalten ab 2027 die 38,5-Stunden-Woche
-
-Der Kollektivvertrag für 55.000 Beschäftigte in 98 Unternehmen steht. Die Wochenarbeitszeit sinkt für alle von 40 auf 38,5 Stunden, ab September 2027. Das Lohnplus bewegt sich auf Höhe der rollierenden Inflation von 3,3 Prozent.
-
-→ [ORF](https://orf.at/stories/3448597/) · [Der Standard](https://www.derstandard.at/story/3000000349922/eisenbahner-bekommen-ab-september-2027-alle-385-stunden-woche?ref=rss) · [Die Presse](https://www.diepresse.com/41467692/alle-eisenbahner-bekommen-eine-38-5-stunden-woche)
+→ [Der Standard](https://www.derstandard.at/story/3000000349989/commerzbank-werden-gemeinsam-mit-unicredit-an-strategie-arbeiten?ref=rss) · [ZDFheute](https://www.zdfheute.de/wirtschaft/commerzbank-uebernahme-unicredit-bundesregierung-100.html)
 
 ## Klima
 
-### EU verschiebt Methan-Gesetz um zwei Jahre – trotz COP31-Forderungen
+### COP31: Entwurf streicht fossile Brennstoffe, Streit ums Geld
 
-Die EU hat sich auf eine zweijährige Verzögerung ihres Gesetzes gegen Methan-Lecks geeinigt. Gleichzeitig will sie bei der Weltklimakonferenz eine globale Methan-Einigung erreichen. Kritiker sehen darin einen Widerspruch, da Methan-Reduktion als schneller Hebel gegen die Erderhitzung gilt.
+Der neue Beschlussentwurf der Klimakonferenz in Antalya erwähnt fossile Brennstoffe nicht mehr. Ärmere Länder fordern mehr Klimafinanzierung, ohne dass der Entwurf klärt, woher das Geld kommt.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349554/lecks-lng-lobbydruck-in-antalya-wirbt-die-eu-fuer-methanreduktion-in-bruessel-rudert-sie-zurueck?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/two-year-delay-for-eu-crackdown-on-methane-leakage/)
+→ [ORF](https://orf.at/stories/3448676/) · [SRF](https://www.srf.ch/news/international/klimakonferenz-in-antalya-cop31-entwurf-streicht-alle-hinweise-auf-fossile-brennstoffe) · [The Guardian](https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text)
+
+### IEA: Erstmals mehr Energie zum Kühlen als zum Heizen
+
+Laut dem World Energy Outlook der Internationalen Energieagentur wird weltweit erstmals mehr Energie zum Kühlen verbraucht. Die Hormus-Krise löste zudem den größten Energieversorgungsschock der Geschichte aus; Rechenzentren treiben den Bedarf weiter.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000349915/energieagentur-report-atomkraft-comeback-und-weltweit-steigender-kuehlbedarf?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html) · [heise online](https://www.heise.de/news/Erstmals-braucht-die-Welt-mehr-Energie-zum-Kuehlen-als-zum-Heizen-11531700.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
 ## Tech/KI
 
-### Nvidia meldet starke Zahlen nach Abgang von Jensen Huang
+### Pröll legt KI-Agenda für Österreich vor
 
-Nvidia hat unter neuer Führung Rekordzahlen mit knapp 116 Milliarden Dollar Umsatz vorgelegt, besser als erwartet. Zuvor war die Aktie nach dem Rücktritt von Gründer Jensen Huang stark eingebrochen. Huang selbst hat sich in die Debatte um seine Zukunft eingeschaltet und will zurückkehren.
+Der Digitalisierungsstaatssekretär will Österreich mit Rechenzentren und Physical AI für das KI-Zeitalter aufstellen und den Umgang mit KI in der Verfassung verankern. Die Pläne stoßen teils auf Kritik wegen des hohen Strombedarfs der Rechenzentren.
 
-→ [Die Presse 🔒](https://www.diepresse.com/41464797/nvidia-ueberrascht-mit-guten-zahlen-der-ki-boom-kann-weitergehen-vorerst) · [heise online](https://www.heise.de/news/Nvidia-Fast-116-Milliarden-US-Dollar-Umsatz-Jensen-Huang-will-zurueckkommen-11528649.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [Tagesschau](https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html)
+→ [ORF](https://orf.at/stories/3448704/) · [Der Standard](https://www.derstandard.at/story/3000000349924/ki-strategie-soll-aus-oesterreich-ein-auenland-der-rechenzentren-machen?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41467182/papier-vorgelegt-so-will-proell-oesterreich-fuer-das-ki-zeitalter-neu-aufstellen)
 
-### Waymo stoppt Robotaxi-Fahrten auf allen US-Autobahnen
+### Kalifornien untersucht Nvidias China-Lieferungen
 
-Nach einem Verbot durch Kalifornien nach mehreren Zwischenfällen zieht Waymo seine fahrerlosen Taxis von allen Highways der USA ab. Das Unternehmen fährt in 15 Städten, Autobahnfahrten gab es nur in einigen. Waymo will die Technik nachbessern.
+Nach dem Abgang von Konzernchef Jensen Huang leitet Kalifornien eine Untersuchung zu KI-Chip-Lieferungen nach China ein. Laut einem Kongressausschuss genehmigten die USA in sechs Monaten den Verkauf von fast 900.000 KI-Chips dorthin.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349779/waymo-stoppt-nach-bann-in-kalifornien-vorerst-alle-fahrten-auf-us-autobahnen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways)
+→ [Der Standard](https://www.derstandard.at/story/3000000350163/kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss) · [Al Jazeera](https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss)
 
 ## IT-Security
 
-### Kritische Java-Lücke „Java4Shell“ (CVE-2026-114938) ermöglicht Remote-Code-Ausführung
+### KI-gestützter Cyberangriff legt EU-Kommission tagelang lahm
 
-In Java existiert eine kritische Schwachstelle, über die nicht authentifizierte Angreifer aus der Ferne Schadcode ausführen können. CERT.at weist auf verfügbare Updates hin. Entdeckt wurde die Lücke laut BBC von einem Start-up, das zuvor bereits einen PHP-Fehler mit KI-Hilfe fand.
+Die Kommission bestätigte einen Angriff, der Personalsysteme für Tage lahmlegte; ob Daten der über 33.000 Beschäftigten abflossen, ist unklar. Laut CERT-EU kam das Open-Source-KI-Hacking-Werkzeug ARTEX zum Einsatz, vor dem auch das FBI gewarnt hatte.
 
-→ [CERT.at](https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucke-in-java-java4shell-updates-verfugbar-cve-2026-114938) · [BBC](https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448677/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html) · [heise online](https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
-### Kritische Lücken in nginx, WordPress und SharePoint – Updates einspielen
+### PHP schließt 17 Sicherheitslücken, fünf erlauben Codeausführung
 
-Für den Webserver nginx (Plus und Open Source) gibt es Patches gegen schwere Lücken, unter anderem im HTTP/2-Modul. WordPress schließt mit einem Zwischenupdate zahlreiche Fehler, Microsoft behebt eine Codeausführungslücke in SharePoint Server Subscription Edition. Zusätzlich stehen am Donnerstag PHP-Sicherheitsupdates an.
+Die kritischen Lücken sind nur unter Vorbedingungen und nicht in Standardinstallationen ausnutzbar. Administratoren sollten dennoch zeitnah die verfügbaren Updates einspielen, empfiehlt auch CERT.at.
 
-→ [CERT.at](https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucken-in-nginx-plus-und-nginx-open-source-updates-verfugbar) · [heise Security](https://www.heise.de/news/Webserver-nginx-Update-schliesst-schwere-Luecken-11530216.html) · [heise Security](https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html) · [heise Security](https://www.heise.de/news/Sicherheitsfix-PHP-Admins-bekommen-Donnerstagnachmittag-zu-tun-11530253.html)
+→ [CERT.at](https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucken-in-php-updates-verfugbar2) · [heise online](https://www.heise.de/news/PHP-behebt-17-Sicherheitsluecken-vier-erlauben-Ausfuehrung-von-Schadcode-11531249.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
-### Cyber-Vorfall im österreichischen Bundesrechenzentrum
+### ruby2ßhell: Codeausführung in Ruby durch fehlerhafte ß-Verarbeitung
 
-Im Bundesrechenzentrum gab es einen Vorfall rund um die Cybersicherheit, offenbar standen Benutzerkonten von Mitarbeitenden im Visier. Die Direktion Staatsschutz und Nachrichtendienst ermittelt. Zum Ausmaß machte das Innenministerium keine Angaben.
+Eine Schwachstelle in Ruby erlaubt Remote Code Execution wegen falscher Behandlung des Zeichens ß. Betroffen sind Ruby-Projekte wie GitLab und Mastodon.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349883/cyber-vorfall-im-bundesrechenzentrum?ref=rss) · [Die Presse](https://www.diepresse.com/41466666/vorfall-rund-um-die-cybersicherheit-im-bundesrechenzentrum)
+→ [heise Security](https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html)
 
 ## Wissenschaft
 
-### Voyager 1 ist einen Lichttag von der Erde entfernt
+### BepiColombo erreicht den Merkur
 
-Nach 49 Jahren Flug hat die Nasa-Sonde Voyager 1 rund 25,9 Milliarden Kilometer Abstand zur Erde erreicht. Kein anderes menschengemachtes Objekt ist je so weit ins All vorgedrungen. Funksignale brauchen nun einen ganzen Tag zur Erde.
+Nach mehr als acht Jahren Flug ist die europäisch-japanische Doppelsonde in die Umlaufbahn des Planeten eingetreten. Sie soll die Oberfläche kartieren und das Innere samt des ungewöhnlich großen Kerns erforschen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349709/voyager-1-ist-einen-ganzen-lichttag-von-der-erde-entfernt?ref=rss) · [Tagesschau](https://www.tagesschau.de/wissen/technologie/voyager-1-100.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss)
+→ [The Guardian](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
 
 ## Nahost
 
-### Israelische Panzer rücken im Gazastreifen über die „Gelbe Linie“ vor
+### Israel beendet größten Bodeneinsatz seit Beginn der Waffenruhe in Gaza
 
-Israels Armee hat die erste Bodenoperation seit der Waffenruhe in einem Hamas-kontrollierten Gebiet im Zentrum Gazas gestartet. Nach Armeeangaben soll ein Terrortunnel zerstört werden. Die Hamas spricht von einer gefährlichen Eskalation und einem klaren Bruch der Waffenruhe.
+Israels Armee drang über die „Gelbe Linie“ vor, um einen mutmaßlichen Hamas-Tunnel zu zerstören, und hat den Einsatz nun abgeschlossen. Die Hamas spricht von einem klaren Bruch der Waffenruhe.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349917/israelische-panzer-r252cken-im-gazastreifen-vor-hamas-spricht-von-eskalation?ref=rss) · [ORF](https://orf.at/stories/3448590/) · [BBC](https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448708/) · [Der Standard](https://www.derstandard.at/story/3000000350156/israel-beendet-panzereinsatz-im-gazastreifen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss)
 
-### Iran meldet Explosionen auf drei Schiffen bei der Straße von Hormus
+### Huthis greifen Riad an, Saudi-Arabien wehrt Angriffe ab
 
-Laut Iran wurden drei Tanker getroffen, deren Besatzungen Warnungen der Revolutionsgarden ignoriert hätten. Die Schiffe sind manövrierunfähig, über Opfer ist nichts bekannt. Kuwait und Bahrain melden zudem iranische Angriffe nach einem US-Luftschlag auf die Insel Qeshm.
+Die Huthis nahmen laut Berichten Flughafen und Finanzzentrum der saudischen Hauptstadt ins Visier. Nach ersten Einschätzungen gingen nur Trümmer nieder.
 
-→ [ORF](https://orf.at/stories/3448611/) · [Der Standard](https://www.derstandard.at/story/3000000349932/iran-meldet-explosionen-an-drei-schiffen-bei-stra223e-von-hormuz?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000350012/saudi-arabien-wehrt-angriffe-auf-riad-ab?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss)
 
 ## USA
 
-### Demokraten nominieren Jeffries als Speaker, Peltola gewinnt Alaska-Senatssitz
+### US-Senat lehnt Resolution gegen Trumps Iran-Krieg ab
 
-Die Demokraten haben Hakeem Jeffries für den Vorsitz des Repräsentantenhauses nominiert, er wäre der erste schwarze Speaker. Zudem gewann Mary Peltola den letzten offenen Senatssitz in Alaska, womit die Demokraten 56 der 100 Sitze halten. Damit ist das Ergebnis der Midterms komplett.
+Die Resolution scheiterte mit 48 zu 51 Stimmen, die Republikaner stellten sich hinter den Präsidenten. Laut Pentagon kostete der Krieg bisher über 48 Milliarden Dollar; der neu gewählte Kongress tritt erst im Jänner zusammen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349911/letztlich-kein-konkurrent-demokraten-entscheiden-sich-fuer-hakeem-jeffries-als-naechsten-parlamentspraesidenten?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000349753/peltola-gewinnt-in-alaska-klare-mehrheit-f252r-demokraten-im-us-senat?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448720/) · [Der Standard](https://www.derstandard.at/story/3000000350157/us-senat-keine-mehrheit-fuer-resolution-gegen-trumps-iran-kurs?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected)
 
-### Demokraten bereiten Untersuchungen zu Epstein-Akten und ICE vor
+### Trump entlässt Cyberdirektor nach Serie von IT-Ausfällen
 
-Die Demokraten haben Trumps Team, unter anderem Vizepräsident Vance, Justizminister Blanche und Trumps Söhne, zur Sicherung von Unterlagen aufgefordert. Geplant sind Untersuchungen zu Trump-Familienfinanzen, Vorgängen im Heimatschutz und dem Umgang mit den Epstein-Akten.
+Nach Störungen bei Outlook, Flugaufsicht und Banken musste Sean Cairncross gehen, Kirsten Davies übernimmt. In den USA wachsen Sorgen vor Cyberangriffen, es gibt Berichte über Hamsterkäufe.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349920/epstein-und-ice-demokraten-nehmen-trumps-team-ins-visier?ref=rss) · [Die Presse](https://www.diepresse.com/41467682/epstein-und-ice-demokraten-nehmen-trumps-team-ins-visier) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations)
+→ [Der Standard](https://www.derstandard.at/story/3000000350161/nach-massiven-it-ausfaellen-trump-entlaesst-cyberdirektor-im-weissen-haus?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted) · [France 24](https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages)

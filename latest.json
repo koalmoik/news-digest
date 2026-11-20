@@ -1,45 +1,39 @@
 {
- "date": "2026-11-19",
- "title": "Morgen-Digest · Donnerstag, 19. November 2026",
- "generated": "2026-11-19T06:06+01:00",
- "intro": "Xi, Trump und Putin treffen sich erstmals zu dritt in Shenzhen, während Anthropic mit dem größten Börsengang aller Zeiten an den Markt geht. In Österreich sorgt Doskozils Forderung nach Bablers Rückzug aus der Regierung für Debatten, und eine kritische Java-Sicherheitslücke hält Admins in Atem.",
+ "date": "2026-11-20",
+ "title": "Morgen-Digest · Freitag, 20. November 2026",
+ "generated": "2026-11-20T06:07+01:00",
+ "intro": "Der Anthropic-Rekordbörsengang, der Dreiergipfel von Trump, Xi und Putin in Shenzhen und das Berliner Treffen der „Koalition der Willigen“ prägen den Tag. Ein KI-gestützter Cyberangriff auf die EU-Kommission und das Urteil des Internationalen Gerichtshofs gegen Myanmar sind weitere Schwerpunkte.",
  "topics": [
   {
    "name": "Innenpolitik",
    "items": [
     {
-     "id": "2026-11-19-01",
-     "title": "Doskozil fordert vollständigen Rückzug Bablers aus Regierungsämtern",
-     "summary": "Burgenlands Landeshauptmann Doskozil hält einen Verbleib von Andreas Babler als Minister für „undenkbar“ und verlangt dessen Rückzug aus allen Regierungsämtern. Das sei aus seiner Sicht für einen Neustart der SPÖ notwendig. Die Zukunft Bablers im roten Regierungsteam bleibt damit offen.",
+     "id": "2026-11-20-01",
+     "title": "Wehrdienst-Reform: Für Zweidrittelmehrheit bleiben nur die Grünen",
+     "summary": "Für den Teil der Wehrdienstreform, der den Zivildienst betrifft, braucht die Regierung eine Zweidrittelmehrheit. Die FPÖ geht von einem Ende der Verhandlungen mit ihr aus, damit sind nur noch die Grünen als möglicher Partner im Rennen.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349767/sp214-doskozil-fordert-r252ckzug-bablers-auch-als-minister?ref=rss"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448721/"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41465036/das-grosse-raetseln-um-die-zukunft-des-andreas-babler",
-       "paywall": true
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350159/wehrpflicht-f252r-zweidrittelmehrheit-nur-noch-die-gr252nen-im-rennen?ref=rss"
       }
      ]
     },
     {
-     "id": "2026-11-19-02",
-     "title": "Nationalrat beschließt Zustellförderung für gedruckte Zeitungen",
-     "summary": "Der Nationalrat hat am Mittwoch die neue Zustellförderung für gedruckte Zeitungen beschlossen. Neben den Regierungsparteien stimmten auch die Grünen zu. Ebenfalls im Plenum: Die FPÖ-Abgeordnete Sunitsch wurde wegen Amtsmissbrauchsvorwürfen ausgeliefert, der ÖVP-Abgeordnete Hanger nicht.",
+     "id": "2026-11-20-02",
+     "title": "Steiermark droht ab 2029 über eine Milliarde Euro Defizit pro Jahr",
+     "summary": "Die blau-schwarze Landesregierung hat den Finanzrahmen für 2027 bis 2030 beschlossen. Bis 2030 könnte der Schuldenstand auf fast zwölf Milliarden Euro wachsen; die SPÖ hat einen Misstrauensantrag angekündigt.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448570/"
-      },
-      {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349812/nationalrat-fpoe-abgeordnete-sunitsch-wird-ausgeliefert-oevp-abgeordneter-hanger-nicht?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350135/steiermark-droht-ueber-eine-milliarde-euro-schulden-jaehrlich-ab-2029?ref=rss"
       },
       {
        "name": "Die Presse",
-       "url": "https://www.diepresse.com/41466022/bablers-vermaechtnis-nationalrat-beschliesst-ausbau-der-medienfoerderung",
-       "paywall": true
+       "url": "https://www.diepresse.com/41470306/steiermark-steuert-auf-einen-milliardenschweren-schuldenberg-zu"
       }
      ]
     }
@@ -49,36 +43,21 @@
    "name": "EU",
    "items": [
     {
-     "id": "2026-11-19-03",
-     "title": "EU-Kommission schlägt 45-Milliarden-Kredit für die Ukraine vor",
-     "summary": "Die EU-Kommission will der Ukraine für 2027 ein Darlehen über 45 Milliarden Euro geben, um eine Finanzierungslücke zu schließen und Kiew in Verhandlungen zu stärken. Von der Leyen zeigt sich zuversichtlich, dass alle 27 Mitgliedstaaten zustimmen. Parallel trifft sich in Berlin die „Koalition der Willigen“ mit rund 30 Staats- und Regierungschefs.",
-     "sources": [
-      {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html"
-      },
-      {
-       "name": "Deutsche Welle",
-       "url": "https://www.dw.com/de/eu-kommission-schlägt-45-milliarden-kredit-für-ukraine-vor/a-79982843?maca=de-rss-de-all-1119-rdf"
-      },
-      {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-19-04",
-     "title": "EU einigt sich auf schnelleren Ausbau der Stromnetze",
-     "summary": "Parlament und Mitgliedstaaten haben sich in der Nacht auf ein Paket geeinigt, das Genehmigungsverfahren für Stromnetze beschleunigen soll. Die Kommission erwartet Investitionen von rund einer Billion Euro. Ziel ist eine unabhängigere und widerstandsfähigere Energieversorgung.",
+     "id": "2026-11-20-03",
+     "title": "EU-Großbritannien-Gipfel: Annäherung bei Jugendmobilität und Handel",
+     "summary": "Beim Gipfel in Brüssel sollen laut BBC ein Jugendmobilitätsprogramm sowie Vereinbarungen zu Lebensmittelhandel und Emissionen beschlossen werden. Die Verhandlungen liefen bis zuletzt, auf beiden Seiten herrscht Skepsis, wie weit die Annäherung gehen soll.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349754/eu-einigung-ausbau-von-europas-stromnetzen-soll-beschleunigt-werden?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350133/rangelei-bis-zuletzt-wie-nahe-will-grossbritannien-an-die-eu-ruecken?ref=rss"
       },
       {
-       "name": "Rapporteur (ex-Euractiv)",
-       "url": "https://www.rapporteur.com/news/late-night-deal-to-accelerate-eu-electricity-grid-development/"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels"
       }
      ]
     }
@@ -88,40 +67,59 @@
    "name": "Welt",
    "items": [
     {
-     "id": "2026-11-19-05",
-     "title": "Erstes Dreiertreffen von Xi, Trump und Putin in Shenzhen",
-     "summary": "Am Rande des APEC-Gipfels treffen sich erstmals die Präsidenten Chinas, der USA und Russlands zu einem Dreiergipfel. Trump will nukleare Abrüstung zum Thema machen, Xi und Putin demonstrierten vorab Einigkeit. Europa bleibt am Verhandlungstisch außen vor.",
+     "id": "2026-11-20-04",
+     "title": "Trump, Xi und Putin: „Friedenserklärung“ ohne konkrete Ergebnisse",
+     "summary": "Beim ersten Dreiergipfel der drei Atommächte in Shenzhen verabredeten die Präsidenten einen Dialog über nukleare Risiken. Die Erklärung erwähnt weder den Ukraine- noch den Iran-Krieg; Beobachter sehen vor allem Symbolik und einen Gewinn für Xi und Putin.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448567/"
-      },
-      {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349842/tisch-fuer-drei-wollen-sich-xi-trump-und-putin-die-welt-aufteilen?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000349977/triumph-fuer-putin-mini-genugtuung-fuer-trump-xi-goennt-seinen-gaesten-beim-dreiergipfel-etwas-licht?ref=rss"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
       }
      ]
     },
     {
-     "id": "2026-11-19-06",
-     "title": "Krim-Brücke erneut angegriffen und gesperrt",
-     "summary": "Die Ukraine hat die Krim-Brücke nach russischen Angaben innerhalb einer Woche zum dritten Mal angegriffen, der Verkehr wurde vorübergehend eingestellt. Bei früheren Angriffen wurde bereits ein Teilstück der Straße zerstört. Die Brücke ist die wichtigste Verbindung zwischen Russland und der besetzten Halbinsel.",
+     "id": "2026-11-20-05",
+     "title": "Koalition der Willigen sagt Ukraine Hilfe „so lange wie nötig“ zu",
+     "summary": "In Berlin trafen sich Vertreter von rund 30 Staaten mit Selenskyj und US-Unterhändlern; Europa zeigt sich zu Gesprächen mit Russland bereit. Bei russischen Angriffen auf Kiew wurden die Botschaften Österreichs und der Niederlande beschädigt, eine Person starb.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3448615/"
+       "url": "https://orf.at/stories/3448674/"
       },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448702/"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-20-06",
+     "title": "IGH: Myanmar ist für Völkermord an den Rohingya verantwortlich",
+     "summary": "Der Internationale Gerichtshof sah die Vernichtungsabsicht gegenüber einem wesentlichen Teil der Rohingya erwiesen. Erstmals wurde damit ein Staat von einem internationalen Gericht wegen Völkermords verurteilt; Myanmar muss auch die sichere Rückkehr ermöglichen.",
+     "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/jetzt/livebericht/3000000349741/ukraine-laut-selenskyj-bei-waffenentwicklung-in-europa-ganz-vorne?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350028/uno-weltgericht-stellt-genozid-an-rohingya-durch-myanmar-fest?ref=rss"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-zug-100.html"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41469152/internationaler-gerichtshof-myanmar-verantwortlich-fuer-rohingya-voelkermord"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -131,55 +129,36 @@
    "name": "Wirtschaft",
    "items": [
     {
-     "id": "2026-11-19-07",
-     "title": "Anthropic: Rekord-Börsengang mit 81 Milliarden Dollar",
-     "summary": "Der KI-Entwickler Anthropic setzt den Ausgabepreis bei 83 US-Dollar je Aktie fest, über der ursprünglichen Spanne von 70 bis 78 Dollar. Mit rund 81 Milliarden Dollar ist es der größte Börsengang der Geschichte. Der Handel startet am Donnerstag, Beobachter warnen zugleich vor einer KI-Blase.",
+     "id": "2026-11-20-07",
+     "title": "Anthropic gelingt größter Börsengang der Geschichte",
+     "summary": "Anthropic nahm bei seinem Börsendebüt laut Berichten über 80 Milliarden Dollar ein (ORF: 107 Mrd.) und wurde mit über einer Billion Dollar bewertet. Die Aktie legte zum Start stark zu, der erhoffte Impuls für den gesamten KI-Sektor blieb aber aus, Börsen in Asien und der DAX gaben nach.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3448322/"
+       "url": "https://orf.at/stories/3448693/"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350134/anthropic-ist-an-der-boerse-und-doppelt-so-viel-wert-wie-das-oesterreichische-bip?ref=rss"
       },
       {
-       "name": "SRF",
-       "url": "https://www.srf.ch/news/wirtschaft/ueber-81-milliarden-us-dollar-anthropic-gelingt-rekord-boersengang-1"
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
       }
      ]
     },
     {
-     "id": "2026-11-19-08",
-     "title": "Inflation in der Eurozone steigt auf 4 Prozent",
-     "summary": "Die Teuerung im Euroraum erreichte im Oktober den höchsten Stand seit drei Jahren, nach 3,8 Prozent im Vormonat. Ursache sind vor allem hohe Energiepreise. In Österreich liegt die Inflation bei 3,6 Prozent, der Handel hofft trotzdem auf ein solides Weihnachtsgeschäft.",
+     "id": "2026-11-20-08",
+     "title": "Commerzbank-Übernahme durch Unicredit nimmt Hürde",
+     "summary": "Der Bund macht den Weg für die Übernahme frei, Unicredit-Chef Orcel sagte in einem Brief an Finanzminister Klingbeil Zusagen zu. Der Stellenabbau soll an der Spitze beginnen, Frankfurt und die Börsennotiz bleiben bestehen.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349837/hoechster-stand-seit-drei-jahren-inflationsrate-in-der-eurozone-steigt-auf-4-prozent?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000349989/commerzbank-werden-gemeinsam-mit-unicredit-an-strategie-arbeiten?ref=rss"
       },
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349673/inflation-bei-36-prozent-der-handel-glaubt-noch-an-das-christkind?ref=rss"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-19-09",
-     "title": "Eisenbahner erhalten ab 2027 die 38,5-Stunden-Woche",
-     "summary": "Der Kollektivvertrag für 55.000 Beschäftigte in 98 Unternehmen steht. Die Wochenarbeitszeit sinkt für alle von 40 auf 38,5 Stunden, ab September 2027. Das Lohnplus bewegt sich auf Höhe der rollierenden Inflation von 3,3 Prozent.",
-     "sources": [
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448597/"
-      },
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349922/eisenbahner-bekommen-ab-september-2027-alle-385-stunden-woche?ref=rss"
-      },
-      {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41467692/alle-eisenbahner-bekommen-eine-38-5-stunden-woche"
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/wirtschaft/commerzbank-uebernahme-unicredit-bundesregierung-100.html"
       }
      ]
     }
@@ -189,17 +168,40 @@
    "name": "Klima",
    "items": [
     {
-     "id": "2026-11-19-10",
-     "title": "EU verschiebt Methan-Gesetz um zwei Jahre – trotz COP31-Forderungen",
-     "summary": "Die EU hat sich auf eine zweijährige Verzögerung ihres Gesetzes gegen Methan-Lecks geeinigt. Gleichzeitig will sie bei der Weltklimakonferenz eine globale Methan-Einigung erreichen. Kritiker sehen darin einen Widerspruch, da Methan-Reduktion als schneller Hebel gegen die Erderhitzung gilt.",
+     "id": "2026-11-20-09",
+     "title": "COP31: Entwurf streicht fossile Brennstoffe, Streit ums Geld",
+     "summary": "Der neue Beschlussentwurf der Klimakonferenz in Antalya erwähnt fossile Brennstoffe nicht mehr. Ärmere Länder fordern mehr Klimafinanzierung, ohne dass der Entwurf klärt, woher das Geld kommt.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448676/"
+      },
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/international/klimakonferenz-in-antalya-cop31-entwurf-streicht-alle-hinweise-auf-fossile-brennstoffe"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-20-10",
+     "title": "IEA: Erstmals mehr Energie zum Kühlen als zum Heizen",
+     "summary": "Laut dem World Energy Outlook der Internationalen Energieagentur wird weltweit erstmals mehr Energie zum Kühlen verbraucht. Die Hormus-Krise löste zudem den größten Energieversorgungsschock der Geschichte aus; Rechenzentren treiben den Bedarf weiter.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349554/lecks-lng-lobbydruck-in-antalya-wirbt-die-eu-fuer-methanreduktion-in-bruessel-rudert-sie-zurueck?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000349915/energieagentur-report-atomkraft-comeback-und-weltweit-steigender-kuehlbedarf?ref=rss"
       },
       {
-       "name": "Rapporteur (ex-Euractiv)",
-       "url": "https://www.rapporteur.com/news/two-year-delay-for-eu-crackdown-on-methane-leakage/"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Erstmals-braucht-die-Welt-mehr-Energie-zum-Kuehlen-als-zum-Heizen-11531700.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
       }
      ]
     }
@@ -209,41 +211,41 @@
    "name": "Tech/KI",
    "items": [
     {
-     "id": "2026-11-19-11",
-     "title": "Nvidia meldet starke Zahlen nach Abgang von Jensen Huang",
-     "summary": "Nvidia hat unter neuer Führung Rekordzahlen mit knapp 116 Milliarden Dollar Umsatz vorgelegt, besser als erwartet. Zuvor war die Aktie nach dem Rücktritt von Gründer Jensen Huang stark eingebrochen. Huang selbst hat sich in die Debatte um seine Zukunft eingeschaltet und will zurückkehren.",
+     "id": "2026-11-20-11",
+     "title": "Pröll legt KI-Agenda für Österreich vor",
+     "summary": "Der Digitalisierungsstaatssekretär will Österreich mit Rechenzentren und Physical AI für das KI-Zeitalter aufstellen und den Umgang mit KI in der Verfassung verankern. Die Pläne stoßen teils auf Kritik wegen des hohen Strombedarfs der Rechenzentren.",
      "sources": [
       {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448704/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000349924/ki-strategie-soll-aus-oesterreich-ein-auenland-der-rechenzentren-machen?ref=rss"
+      },
+      {
        "name": "Die Presse",
-       "url": "https://www.diepresse.com/41464797/nvidia-ueberrascht-mit-guten-zahlen-der-ki-boom-kann-weitergehen-vorerst",
+       "url": "https://www.diepresse.com/41467182/papier-vorgelegt-so-will-proell-oesterreich-fuer-das-ki-zeitalter-neu-aufstellen",
        "paywall": true
-      },
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Nvidia-Fast-116-Milliarden-US-Dollar-Umsatz-Jensen-Huang-will-zurueckkommen-11528649.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-      },
-      {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html"
       }
      ]
     },
     {
-     "id": "2026-11-19-12",
-     "title": "Waymo stoppt Robotaxi-Fahrten auf allen US-Autobahnen",
-     "summary": "Nach einem Verbot durch Kalifornien nach mehreren Zwischenfällen zieht Waymo seine fahrerlosen Taxis von allen Highways der USA ab. Das Unternehmen fährt in 15 Städten, Autobahnfahrten gab es nur in einigen. Waymo will die Technik nachbessern.",
+     "id": "2026-11-20-12",
+     "title": "Kalifornien untersucht Nvidias China-Lieferungen",
+     "summary": "Nach dem Abgang von Konzernchef Jensen Huang leitet Kalifornien eine Untersuchung zu KI-Chip-Lieferungen nach China ein. Laut einem Kongressausschuss genehmigten die USA in sechs Monaten den Verkauf von fast 900.000 KI-Chips dorthin.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349779/waymo-stoppt-nach-bann-in-kalifornien-vorerst-alle-fahrten-auf-us-autobahnen?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350163/kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen?ref=rss"
       },
       {
        "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
+       "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
       },
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss"
       }
      ]
     }
@@ -253,55 +255,47 @@
    "name": "IT-Security",
    "items": [
     {
-     "id": "2026-11-19-13",
-     "title": "Kritische Java-Lücke „Java4Shell“ (CVE-2026-114938) ermöglicht Remote-Code-Ausführung",
-     "summary": "In Java existiert eine kritische Schwachstelle, über die nicht authentifizierte Angreifer aus der Ferne Schadcode ausführen können. CERT.at weist auf verfügbare Updates hin. Entdeckt wurde die Lücke laut BBC von einem Start-up, das zuvor bereits einen PHP-Fehler mit KI-Hilfe fand.",
+     "id": "2026-11-20-13",
+     "title": "KI-gestützter Cyberangriff legt EU-Kommission tagelang lahm",
+     "summary": "Die Kommission bestätigte einen Angriff, der Personalsysteme für Tage lahmlegte; ob Daten der über 33.000 Beschäftigten abflossen, ist unklar. Laut CERT-EU kam das Open-Source-KI-Hacking-Werkzeug ARTEX zum Einsatz, vor dem auch das FBI gewarnt hatte.",
      "sources": [
       {
-       "name": "CERT.at",
-       "url": "https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucke-in-java-java4shell-updates-verfugbar-cve-2026-114938"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448677/"
       },
       {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "id": "2026-11-19-14",
-     "title": "Kritische Lücken in nginx, WordPress und SharePoint – Updates einspielen",
-     "summary": "Für den Webserver nginx (Plus und Open Source) gibt es Patches gegen schwere Lücken, unter anderem im HTTP/2-Modul. WordPress schließt mit einem Zwischenupdate zahlreiche Fehler, Microsoft behebt eine Codeausführungslücke in SharePoint Server Subscription Edition. Zusätzlich stehen am Donnerstag PHP-Sicherheitsupdates an.",
+     "id": "2026-11-20-14",
+     "title": "PHP schließt 17 Sicherheitslücken, fünf erlauben Codeausführung",
+     "summary": "Die kritischen Lücken sind nur unter Vorbedingungen und nicht in Standardinstallationen ausnutzbar. Administratoren sollten dennoch zeitnah die verfügbaren Updates einspielen, empfiehlt auch CERT.at.",
      "sources": [
       {
        "name": "CERT.at",
-       "url": "https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucken-in-nginx-plus-und-nginx-open-source-updates-verfugbar"
+       "url": "https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucken-in-php-updates-verfugbar2"
       },
       {
-       "name": "heise Security",
-       "url": "https://www.heise.de/news/Webserver-nginx-Update-schliesst-schwere-Luecken-11530216.html"
-      },
-      {
-       "name": "heise Security",
-       "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html"
-      },
-      {
-       "name": "heise Security",
-       "url": "https://www.heise.de/news/Sicherheitsfix-PHP-Admins-bekommen-Donnerstagnachmittag-zu-tun-11530253.html"
+       "name": "heise online",
+       "url": "https://www.heise.de/news/PHP-behebt-17-Sicherheitsluecken-vier-erlauben-Ausfuehrung-von-Schadcode-11531249.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
       }
      ]
     },
     {
-     "id": "2026-11-19-15",
-     "title": "Cyber-Vorfall im österreichischen Bundesrechenzentrum",
-     "summary": "Im Bundesrechenzentrum gab es einen Vorfall rund um die Cybersicherheit, offenbar standen Benutzerkonten von Mitarbeitenden im Visier. Die Direktion Staatsschutz und Nachrichtendienst ermittelt. Zum Ausmaß machte das Innenministerium keine Angaben.",
+     "id": "2026-11-20-15",
+     "title": "ruby2ßhell: Codeausführung in Ruby durch fehlerhafte ß-Verarbeitung",
+     "summary": "Eine Schwachstelle in Ruby erlaubt Remote Code Execution wegen falscher Behandlung des Zeichens ß. Betroffen sind Ruby-Projekte wie GitLab und Mastodon.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349883/cyber-vorfall-im-bundesrechenzentrum?ref=rss"
-      },
-      {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41466666/vorfall-rund-um-die-cybersicherheit-im-bundesrechenzentrum"
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html"
       }
      ]
     }
@@ -311,21 +305,13 @@
    "name": "Wissenschaft",
    "items": [
     {
-     "id": "2026-11-19-16",
-     "title": "Voyager 1 ist einen Lichttag von der Erde entfernt",
-     "summary": "Nach 49 Jahren Flug hat die Nasa-Sonde Voyager 1 rund 25,9 Milliarden Kilometer Abstand zur Erde erreicht. Kein anderes menschengemachtes Objekt ist je so weit ins All vorgedrungen. Funksignale brauchen nun einen ganzen Tag zur Erde.",
+     "id": "2026-11-20-16",
+     "title": "BepiColombo erreicht den Merkur",
+     "summary": "Nach mehr als acht Jahren Flug ist die europäisch-japanische Doppelsonde in die Umlaufbahn des Planeten eingetreten. Sie soll die Oberfläche kartieren und das Innere samt des ungewöhnlich großen Kerns erforschen.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349709/voyager-1-ist-einen-ganzen-lichttag-von-der-erde-entfernt?ref=rss"
-      },
-      {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/wissen/technologie/voyager-1-100.html"
-      },
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss"
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo"
       }
      ]
     }
@@ -335,17 +321,17 @@
    "name": "Nahost",
    "items": [
     {
-     "id": "2026-11-19-17",
-     "title": "Israelische Panzer rücken im Gazastreifen über die „Gelbe Linie“ vor",
-     "summary": "Israels Armee hat die erste Bodenoperation seit der Waffenruhe in einem Hamas-kontrollierten Gebiet im Zentrum Gazas gestartet. Nach Armeeangaben soll ein Terrortunnel zerstört werden. Die Hamas spricht von einer gefährlichen Eskalation und einem klaren Bruch der Waffenruhe.",
+     "id": "2026-11-20-17",
+     "title": "Israel beendet größten Bodeneinsatz seit Beginn der Waffenruhe in Gaza",
+     "summary": "Israels Armee drang über die „Gelbe Linie“ vor, um einen mutmaßlichen Hamas-Tunnel zu zerstören, und hat den Einsatz nun abgeschlossen. Die Hamas spricht von einem klaren Bruch der Waffenruhe.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349917/israelische-panzer-r252cken-im-gazastreifen-vor-hamas-spricht-von-eskalation?ref=rss"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448708/"
       },
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448590/"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350156/israel-beendet-panzereinsatz-im-gazastreifen?ref=rss"
       },
       {
        "name": "BBC",
@@ -354,21 +340,17 @@
      ]
     },
     {
-     "id": "2026-11-19-18",
-     "title": "Iran meldet Explosionen auf drei Schiffen bei der Straße von Hormus",
-     "summary": "Laut Iran wurden drei Tanker getroffen, deren Besatzungen Warnungen der Revolutionsgarden ignoriert hätten. Die Schiffe sind manövrierunfähig, über Opfer ist nichts bekannt. Kuwait und Bahrain melden zudem iranische Angriffe nach einem US-Luftschlag auf die Insel Qeshm.",
+     "id": "2026-11-20-18",
+     "title": "Huthis greifen Riad an, Saudi-Arabien wehrt Angriffe ab",
+     "summary": "Die Huthis nahmen laut Berichten Flughafen und Finanzzentrum der saudischen Hauptstadt ins Visier. Nach ersten Einschätzungen gingen nur Trümmer nieder.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448611/"
-      },
-      {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349932/iran-meldet-explosionen-an-drei-schiffen-bei-stra223e-von-hormuz?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350012/saudi-arabien-wehrt-angriffe-auf-riad-ab?ref=rss"
       },
       {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
       }
      ]
     }
@@ -378,40 +360,40 @@
    "name": "USA",
    "items": [
     {
-     "id": "2026-11-19-19",
-     "title": "Demokraten nominieren Jeffries als Speaker, Peltola gewinnt Alaska-Senatssitz",
-     "summary": "Die Demokraten haben Hakeem Jeffries für den Vorsitz des Repräsentantenhauses nominiert, er wäre der erste schwarze Speaker. Zudem gewann Mary Peltola den letzten offenen Senatssitz in Alaska, womit die Demokraten 56 der 100 Sitze halten. Damit ist das Ergebnis der Midterms komplett.",
+     "id": "2026-11-20-19",
+     "title": "US-Senat lehnt Resolution gegen Trumps Iran-Krieg ab",
+     "summary": "Die Resolution scheiterte mit 48 zu 51 Stimmen, die Republikaner stellten sich hinter den Präsidenten. Laut Pentagon kostete der Krieg bisher über 48 Milliarden Dollar; der neu gewählte Kongress tritt erst im Jänner zusammen.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349911/letztlich-kein-konkurrent-demokraten-entscheiden-sich-fuer-hakeem-jeffries-als-naechsten-parlamentspraesidenten?ref=rss"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448720/"
       },
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349753/peltola-gewinnt-in-alaska-klare-mehrheit-f252r-demokraten-im-us-senat?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350157/us-senat-keine-mehrheit-fuer-resolution-gegen-trumps-iran-kurs?ref=rss"
       },
       {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss"
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected"
       }
      ]
     },
     {
-     "id": "2026-11-19-20",
-     "title": "Demokraten bereiten Untersuchungen zu Epstein-Akten und ICE vor",
-     "summary": "Die Demokraten haben Trumps Team, unter anderem Vizepräsident Vance, Justizminister Blanche und Trumps Söhne, zur Sicherung von Unterlagen aufgefordert. Geplant sind Untersuchungen zu Trump-Familienfinanzen, Vorgängen im Heimatschutz und dem Umgang mit den Epstein-Akten.",
+     "id": "2026-11-20-20",
+     "title": "Trump entlässt Cyberdirektor nach Serie von IT-Ausfällen",
+     "summary": "Nach Störungen bei Outlook, Flugaufsicht und Banken musste Sean Cairncross gehen, Kirsten Davies übernimmt. In den USA wachsen Sorgen vor Cyberangriffen, es gibt Berichte über Hamsterkäufe.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349920/epstein-und-ice-demokraten-nehmen-trumps-team-ins-visier?ref=rss"
-      },
-      {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41467682/epstein-und-ice-demokraten-nehmen-trumps-team-ins-visier"
+       "url": "https://www.derstandard.at/story/3000000350161/nach-massiven-it-ausfaellen-trump-entlaesst-cyberdirektor-im-weissen-haus?ref=rss"
       },
       {
        "name": "The Guardian",
-       "url": "https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations"
+       "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted"
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages"
       }
      ]
     }
