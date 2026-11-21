@@ -1,143 +1,143 @@
-# Morgen-Digest · Freitag, 20. November 2026
+# Morgen-Digest · Samstag, 21. November 2026
 
-_Der Anthropic-Rekordbörsengang, der Dreiergipfel von Trump, Xi und Putin in Shenzhen und das Berliner Treffen der „Koalition der Willigen“ prägen den Tag. Ein KI-gestützter Cyberangriff auf die EU-Kommission und das Urteil des Internationalen Gerichtshofs gegen Myanmar sind weitere Schwerpunkte._
+_Russland greift Kiew und die Ukraine massiv an, ein Marschflugkörper schlägt in Polen ein, auch Österreichs Botschaft in Kiew wurde beschädigt. An den Börsen sorgt ein KI-Ausverkauf trotz Anthropic-Rekordbörsengang für Kursverluste, die Klimakonferenz COP31 geht in die Verlängerung._
 
 ## Innenpolitik
 
-### Wehrdienst-Reform: Für Zweidrittelmehrheit bleiben nur die Grünen
+### Österreichische Botschaft in Kiew bei Angriff beschädigt
 
-Für den Teil der Wehrdienstreform, der den Zivildienst betrifft, braucht die Regierung eine Zweidrittelmehrheit. Die FPÖ geht von einem Ende der Verhandlungen mit ihr aus, damit sind nur noch die Grünen als möglicher Partner im Rennen.
+Bei russischen Luftangriffen auf Kiew wurde die österreichische Botschaft beschädigt; laut Vertretung gab es einige kaputte Fenster und drei beschädigte Fahrzeuge. Außenministerin Meinl-Reisinger ließ den russischen Botschafter ins Ministerium zitieren, Moskau weist die Schuld zurück. Der Vorfall folgt zwei Tage nach einem Angriff auf das Honorarkonsulat in Dnipro.
 
-→ [ORF](https://orf.at/stories/3448721/) · [Der Standard](https://www.derstandard.at/story/3000000350159/wehrpflicht-f252r-zweidrittelmehrheit-nur-noch-die-gr252nen-im-rennen?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000350177/oesterreichische-botschaft-in-kyjiw-bei-russischem-angriff-beschaedigt?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000350207/oesterreichische-botschaft-in-kyjiw-einige-kaputte-fenster-und-drei-beschaedigte-kfz?ref=rss) · [ORF](https://orf.at/stories/3448782/)
 
-### Steiermark droht ab 2029 über eine Milliarde Euro Defizit pro Jahr
+### „Jugendstreik“ in Wien: Polizei löst Versammlung auf
 
-Die blau-schwarze Landesregierung hat den Finanzrahmen für 2027 bis 2030 beschlossen. Bis 2030 könnte der Schuldenstand auf fast zwölf Milliarden Euro wachsen; die SPÖ hat einen Misstrauensantrag angekündigt.
+Hunderte junge Menschen demonstrierten in Wien, Linz und weiteren Städten für ihre Anliegen. Bei der Uni Wien kam es zu Ausschreitungen, die Polizei nahm rund 60 Personen fest und löste die Versammlung auf. Ähnliche Proteste gab es am Freitag in vielen europäischen Ländern.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350135/steiermark-droht-ueber-eine-milliarde-euro-schulden-jaehrlich-ab-2029?ref=rss) · [Die Presse](https://www.diepresse.com/41470306/steiermark-steuert-auf-einen-milliardenschweren-schuldenberg-zu)
+→ [Der Standard](https://www.derstandard.at/story/3000000350174/ausschreitungen-bei-jugendstreik-polizei-loest-versammlung-auf?ref=rss) · [Die Presse](https://www.diepresse.com/41473756/polizei-loest-jugendstreik-vor-der-uni-wien-nach-ausschreitungen-auf)
 
 ## EU
 
-### EU-Großbritannien-Gipfel: Annäherung bei Jugendmobilität und Handel
+### EU und Großbritannien vereinbaren Annäherung nach dem Brexit
 
-Beim Gipfel in Brüssel sollen laut BBC ein Jugendmobilitätsprogramm sowie Vereinbarungen zu Lebensmittelhandel und Emissionen beschlossen werden. Die Verhandlungen liefen bis zuletzt, auf beiden Seiten herrscht Skepsis, wie weit die Annäherung gehen soll.
+Beim Gipfel in Brüssel einigten sich beide Seiten auf Erleichterungen beim Lebensmittelhandel, die Verbindung der CO2-Märkte und ein Jugendaustauschprogramm. Premier Burnham will noch engere Beziehungen prüfen, der Streit um Studiengebühren verzögert aber die Annahme durch die EU.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350133/rangelei-bis-zuletzt-wie-nahe-will-grossbritannien-an-die-eu-ruecken?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels)
+→ [ORF](https://orf.at/stories/3448754/) · [Der Standard](https://www.derstandard.at/story/3000000350287/freude-in-bruessel-ueber-einen-guten-tag-fuer-grossbritannien-und-fuer-europa?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html)
+
+### EU-Minister diskutieren EU-weites Social-Media-Verbot
+
+Die EU-Minister beraten über ein einheitliches Social-Media-Verbot für Kinder und Jugendliche. Staatssekretärin Michaela Schmidt spricht sich für eine rasche Umsetzung aus.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000350230/eu-minister-diskutieren-eu-weites-social-media-verbot?ref=rss)
 
 ## Welt
 
-### Trump, Xi und Putin: „Friedenserklärung“ ohne konkrete Ergebnisse
+### Russland greift Kiew an, Marschflugkörper schlägt in Polen ein
 
-Beim ersten Dreiergipfel der drei Atommächte in Shenzhen verabredeten die Präsidenten einen Dialog über nukleare Risiken. Die Erklärung erwähnt weder den Ukraine- noch den Iran-Krieg; Beobachter sehen vor allem Symbolik und einen Gewinn für Xi und Putin.
+Russland beschoss in der Nacht Brücken und Infrastruktur in Kiew, mehrere Menschen starben, auch in Krywyj Rih gab es Tote. Ein russischer Marschflugkörper drang in den polnischen Luftraum ein und stürzte ab; Warschau spricht von gezielter Provokation und bittet die NATO um mehr Unterstützung.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349977/triumph-fuer-putin-mini-genugtuung-fuer-trump-xi-goennt-seinen-gaesten-beim-dreiergipfel-etwas-licht?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars)
+→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000350151/trump-und-putin-fuehrten-gespraech-vor-dreiertreffen-mit-xi?ref=rss) · [ORF](https://orf.at/stories/3448767/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html)
 
-### Koalition der Willigen sagt Ukraine Hilfe „so lange wie nötig“ zu
+### Gipfel von Shenzhen: Trump, Xi und Putin ohne große Ergebnisse
 
-In Berlin trafen sich Vertreter von rund 30 Staaten mit Selenskyj und US-Unterhändlern; Europa zeigt sich zu Gesprächen mit Russland bereit. Bei russischen Angriffen auf Kiew wurden die Botschaften Österreichs und der Niederlande beschädigt, eine Person starb.
+Erstmals trafen die Staatschefs der USA, Chinas und Russlands gemeinsam zusammen. Große Deals blieben offenbar aus, Beobachter sehen mehr Rhetorik als Substanz. Trump fordert von Kiew Frieden bis Anfang 2027.
 
-→ [ORF](https://orf.at/stories/3448674/) · [ORF](https://orf.at/stories/3448702/) · [BBC](https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000349735/kein-jalta-20-der-gipfel-von-shenzhen-hat-putins-grossmannssucht-einen-daempfer-verpasst?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html) · [ORF](https://orf.at/stories/3448810/)
 
-### IGH: Myanmar ist für Völkermord an den Rohingya verantwortlich
+### Dänemark weist russischen Diplomaten wegen Mordkomplotts aus
 
-Der Internationale Gerichtshof sah die Vernichtungsabsicht gegenüber einem wesentlichen Teil der Rohingya erwiesen. Erstmals wurde damit ein Staat von einem internationalen Gericht wegen Völkermords verurteilt; Myanmar muss auch die sichere Rückkehr ermöglichen.
+Laut dänischem Geheimdienst plante Russland einen Anschlag auf einen ukrainischen Rapper in Dänemark, den der Dienst vereitelte. Als Reaktion wurde ein russischer Diplomat ausgewiesen; Moskau bestreitet die Vorwürfe.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350028/uno-weltgericht-stellt-genozid-an-rohingya-durch-myanmar-fest?ref=rss) · [Die Presse](https://www.diepresse.com/41469152/internationaler-gerichtshof-myanmar-verantwortlich-fuer-rohingya-voelkermord) · [BBC](https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448813/) · [Die Presse](https://www.diepresse.com/41474821/daenischer-geheimdienst-vereitelte-russischen-mordanschlag-auf-rapper) · [Tagesschau](https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html)
 
 ## Wirtschaft
 
-### Anthropic gelingt größter Börsengang der Geschichte
+### KI-Ausverkauf drückt Börsen trotz Anthropic-Börsengang
 
-Anthropic nahm bei seinem Börsendebüt laut Berichten über 80 Milliarden Dollar ein (ORF: 107 Mrd.) und wurde mit über einer Billion Dollar bewertet. Die Aktie legte zum Start stark zu, der erhoffte Impuls für den gesamten KI-Sektor blieb aber aus, Börsen in Asien und der DAX gaben nach.
+Nach dem Rekordbörsengang von Anthropic verloren Tech- und KI-Aktien weltweit weiter deutlich, die Anthropic-Aktie fiel am zweiten Handelstag. Die Nasdaq gab alle Gewinne dieses Jahres ab, S&P 500 und Dow Jones rutschten in eine Korrektur. Gold fiel auf ein Jahrestief, Bitcoin unter 60.000 Dollar – wegen steigender Zinserwartungen.
 
-→ [ORF](https://orf.at/stories/3448693/) · [Der Standard](https://www.derstandard.at/story/3000000350134/anthropic-ist-an-der-boerse-und-doppelt-so-viel-wert-wie-das-oesterreichische-bip?ref=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo)
+→ [Der Standard](https://www.derstandard.at/story/3000000350321/ki-ausverkauf-schickt-us-boersen-auf-korrekturkurs?ref=rss) · [ORF](https://orf.at/stories/3448808/) · [Tagesschau](https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html) · [Die Presse 🔒](https://www.diepresse.com/41472002/absturz-auf-ein-jahres-tief-auch-gold-leidet-unter-den-zinsaengsten)
 
-### Commerzbank-Übernahme durch Unicredit nimmt Hürde
+### US-Gericht billigt Bayers Glyphosat-Vergleich über 7,25 Mrd. Dollar
 
-Der Bund macht den Weg für die Übernahme frei, Unicredit-Chef Orcel sagte in einem Brief an Finanzminister Klingbeil Zusagen zu. Der Stellenabbau soll an der Spitze beginnen, Frankfurt und die Börsennotiz bleiben bestehen.
+Ein Richter in Missouri genehmigte den Vergleich im Streit um Roundup-Krebsklagen. Für Bayer könnten die rund 65.000 Klagen damit bald erledigt sein.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000349989/commerzbank-werden-gemeinsam-mit-unicredit-an-strategie-arbeiten?ref=rss) · [ZDFheute](https://www.zdfheute.de/wirtschaft/commerzbank-uebernahme-unicredit-bundesregierung-100.html)
+→ [ORF](https://orf.at/stories/3448831/) · [Tagesschau](https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html) · [The Guardian](https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation)
 
 ## Klima
 
-### COP31: Entwurf streicht fossile Brennstoffe, Streit ums Geld
+### Weltklimakonferenz COP31 geht in die Verlängerung
 
-Der neue Beschlussentwurf der Klimakonferenz in Antalya erwähnt fossile Brennstoffe nicht mehr. Ärmere Länder fordern mehr Klimafinanzierung, ohne dass der Entwurf klärt, woher das Geld kommt.
+Die Verhandlungen in Antalya überschritten das offizielle Ende, weil der Entwurf den Ausstieg aus fossilen Energien nicht erwähnt. Mehr als 20 Staaten und die EU fordern ein klares Bekenntnis, auch die Klimafinanzierung für ärmere Länder ist umstritten.
 
-→ [ORF](https://orf.at/stories/3448676/) · [SRF](https://www.srf.ch/news/international/klimakonferenz-in-antalya-cop31-entwurf-streicht-alle-hinweise-auf-fossile-brennstoffe) · [The Guardian](https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text)
-
-### IEA: Erstmals mehr Energie zum Kühlen als zum Heizen
-
-Laut dem World Energy Outlook der Internationalen Energieagentur wird weltweit erstmals mehr Energie zum Kühlen verbraucht. Die Hormus-Krise löste zudem den größten Energieversorgungsschock der Geschichte aus; Rechenzentren treiben den Bedarf weiter.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000349915/energieagentur-report-atomkraft-comeback-und-weltweit-steigender-kuehlbedarf?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html) · [heise online](https://www.heise.de/news/Erstmals-braucht-die-Welt-mehr-Energie-zum-Kuehlen-als-zum-Heizen-11531700.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [ORF](https://orf.at/stories/3448795/) · [Der Standard](https://www.derstandard.at/story/3000000350036/geiseln-der-erdoel-mafia-staaten-ringen-in-antalya-um-das-ende-des-fossilen-zeitalters?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss)
 
 ## Tech/KI
 
-### Pröll legt KI-Agenda für Österreich vor
+### Trump droht Verbot von US-Rechenzentren im Ausland an
 
-Der Digitalisierungsstaatssekretär will Österreich mit Rechenzentren und Physical AI für das KI-Zeitalter aufstellen und den Umgang mit KI in der Verfassung verankern. Die Pläne stoßen teils auf Kritik wegen des hohen Strombedarfs der Rechenzentren.
+Trump kündigte an, den Bau von KI-Rechenzentren amerikanischer Firmen im Ausland zu verbieten oder mit einer „enormen Steuer“ zu belegen. Details nannte er kaum, selbst Teile seines Teams hörten davon offenbar erstmals.
 
-→ [ORF](https://orf.at/stories/3448704/) · [Der Standard](https://www.derstandard.at/story/3000000349924/ki-strategie-soll-aus-oesterreich-ein-auenland-der-rechenzentren-machen?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41467182/papier-vorgelegt-so-will-proell-oesterreich-fuer-das-ki-zeitalter-neu-aufstellen)
+→ [Der Standard](https://www.derstandard.at/story/3000000350319/trump-will-bau-von-us-rechenzentren-im-ausland-verbieten?ref=rss) · [Die Presse](https://www.diepresse.com/41474921/trump-will-bau-von-us-rechenzentren-im-ausland-verbieten) · [BBC](https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss)
 
-### Kalifornien untersucht Nvidias China-Lieferungen
+### Kalifornien untersucht Nvidia wegen China-Lieferungen
 
-Nach dem Abgang von Konzernchef Jensen Huang leitet Kalifornien eine Untersuchung zu KI-Chip-Lieferungen nach China ein. Laut einem Kongressausschuss genehmigten die USA in sechs Monaten den Verkauf von fast 900.000 KI-Chips dorthin.
+Kaliforniens Justiz will klären, ob KI-Chips in China landeten und Anleger getäuscht wurden. Die Untersuchung folgt auf den Rücktritt von Nvidia-Chef Jensen Huang.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350163/kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss) · [Al Jazeera](https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000350163/kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html) · [The Guardian](https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china)
 
 ## IT-Security
 
-### KI-gestützter Cyberangriff legt EU-Kommission tagelang lahm
+### Cyberangriff auf das österreichische Außenministerium
 
-Die Kommission bestätigte einen Angriff, der Personalsysteme für Tage lahmlegte; ob Daten der über 33.000 Beschäftigten abflossen, ist unklar. Laut CERT-EU kam das Open-Source-KI-Hacking-Werkzeug ARTEX zum Einsatz, vor dem auch das FBI gewarnt hatte.
+Zwischen 12. und 13. November kam es zu unbefugtem Zugriff auf Datensätze mit Namen und dienstlichen Kontaktdaten von Mitarbeitenden der Zentrale und der Auslandsvertretungen. Der Vorfall fiel zeitlich mit der weltweiten Microsoft-Störung zusammen.
 
-→ [ORF](https://orf.at/stories/3448677/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html) · [heise online](https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [Der Standard](https://www.derstandard.at/story/3000000350317/cyberangriff-auf-au223enministerium?ref=rss) · [Die Presse](https://www.diepresse.com/41474811/das-aussenministerium-verzeichnete-einen-cyberangriff) · [ORF](https://orf.at/stories/3448812/)
 
-### PHP schließt 17 Sicherheitslücken, fünf erlauben Codeausführung
+### VMware: Broadcom schließt teils kritische Lücken, vCenter-Lücke wird angegriffen
 
-Die kritischen Lücken sind nur unter Vorbedingungen und nicht in Standardinstallationen ausnutzbar. Administratoren sollten dennoch zeitnah die verfügbaren Updates einspielen, empfiehlt auch CERT.at.
+Broadcom veröffentlichte Updates für mehrere VMware-Produkte. Laut Mandiant wird eine der Schwachstellen in vCenter bereits aktiv ausgenutzt, Admins sollten zügig patchen.
 
-→ [CERT.at](https://www.cert.at/de/warnungen/2026/11/kritische-sicherheitslucken-in-php-updates-verfugbar2) · [heise online](https://www.heise.de/news/PHP-behebt-17-Sicherheitsluecken-vier-erlauben-Ausfuehrung-von-Schadcode-11531249.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [heise online](https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [heise Security](https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html)
 
-### ruby2ßhell: Codeausführung in Ruby durch fehlerhafte ß-Verarbeitung
+### Kritische Ruby-Lücken: Rails, GitHub und GitLab betroffen
 
-Eine Schwachstelle in Ruby erlaubt Remote Code Execution wegen falscher Behandlung des Zeichens ß. Betroffen sind Ruby-Projekte wie GitLab und Mastodon.
+Ruby korrigiert mehrere als kritisch eingestufte Schwachstellen; fünf Exploits sind bereits verfügbar. Ein schnelles Update wird empfohlen.
 
-→ [heise Security](https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html)
+→ [heise Security](https://www.heise.de/news/Kritisch-eingestufte-Luecken-in-Ruby-auch-Rails-GitHub-und-GitLab-betroffen-11532469.html)
 
 ## Wissenschaft
 
-### BepiColombo erreicht den Merkur
+### Anthropic-Mathematiker will Riemannsche Vermutung bewiesen haben
 
-Nach mehr als acht Jahren Flug ist die europäisch-japanische Doppelsonde in die Umlaufbahn des Planeten eingetreten. Sie soll die Oberfläche kartieren und das Innere samt des ungewöhnlich großen Kerns erforschen.
+Levent Alpöge hat einen Lean-Beweis der Generalisierten Riemannschen Vermutung veröffentlicht, entstanden mit KI-Hilfe. Die Überprüfung wird dauern; bestätigt, wäre es eine der größten mathematischen Sensationen.
 
-→ [The Guardian](https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo)
+→ [Der Standard](https://www.derstandard.at/story/3000000350307/anthropic-mathematiker-behauptet-das-groesste-offene-problem-der-mathematik-geloest-zu-haben?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss)
 
 ## Nahost
 
-### Israel beendet größten Bodeneinsatz seit Beginn der Waffenruhe in Gaza
+### Berichte über Explosionen im Süden des Iran
 
-Israels Armee drang über die „Gelbe Linie“ vor, um einen mutmaßlichen Hamas-Tunnel zu zerstören, und hat den Einsatz nun abgeschlossen. Die Hamas spricht von einem klaren Bruch der Waffenruhe.
+Auf der Insel Qeshm soll unbestätigten Meldungen zufolge ein Raketenangriff eine Flugabwehrstellung getroffen haben. Parallel fing eine saudisch geführte Koalition Huthi-Raketen auf Riad ab, und Iran weist US-Vorwürfe zu Waffenentwicklung zurück.
 
-→ [ORF](https://orf.at/stories/3448708/) · [Der Standard](https://www.derstandard.at/story/3000000350156/israel-beendet-panzereinsatz-im-gazastreifen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448806/) · [Der Standard](https://www.derstandard.at/story/3000000350316/explosion-auf-der-iranischen-insel-qeshm?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss)
 
-### Huthis greifen Riad an, Saudi-Arabien wehrt Angriffe ab
+### Israel: Eisenkot bringt Minderheitsregierung ins Spiel
 
-Die Huthis nahmen laut Berichten Flughafen und Finanzzentrum der saudischen Hauptstadt ins Visier. Nach ersten Einschätzungen gingen nur Trümmer nieder.
+Gadi Eisenkot kann sich eine Minderheitsregierung vorstellen, die auf Unterstützung arabischer Parteien angewiesen wäre. Er deutete an, sie könne noch erweitert werden.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350012/saudi-arabien-wehrt-angriffe-auf-riad-ab?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss)
+→ [ORF](https://orf.at/stories/3448809/) · [Der Standard](https://www.derstandard.at/story/3000000350318/israel-eisenkot-bringt-minderheitsregierung-ins-spiel?ref=rss) · [Die Presse](https://www.diepresse.com/41474826/eisenkot-bringt-in-israel-minderheitsregierung-ins-spiel)
 
 ## USA
 
-### US-Senat lehnt Resolution gegen Trumps Iran-Krieg ab
+### Weitere Richterin stoppt Trumps Triumphbogen vorerst
 
-Die Resolution scheiterte mit 48 zu 51 Stimmen, die Republikaner stellten sich hinter den Präsidenten. Laut Pentagon kostete der Krieg bisher über 48 Milliarden Dollar; der neu gewählte Kongress tritt erst im Jänner zusammen.
+Eine Bundesrichterin in Virginia blockierte den Bau des von Trump geplanten Triumphbogens und nannte das Projekt ein überstürztes Vorhaben ohne rechtliche Grundlage. Es ist schon die zweite gerichtliche Bremse.
 
-→ [ORF](https://orf.at/stories/3448720/) · [Der Standard](https://www.derstandard.at/story/3000000350157/us-senat-keine-mehrheit-fuer-resolution-gegen-trumps-iran-kurs?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected)
+→ [ORF](https://orf.at/stories/3448824/) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge)
 
-### Trump entlässt Cyberdirektor nach Serie von IT-Ausfällen
+### Trump entlässt Cyberdirektor nach IT-Ausfällen
 
-Nach Störungen bei Outlook, Flugaufsicht und Banken musste Sean Cairncross gehen, Kirsten Davies übernimmt. In den USA wachsen Sorgen vor Cyberangriffen, es gibt Berichte über Hamsterkäufe.
+Nach Störungen bei Microsoft Outlook, der Flugsicherung und Banken muss der Cyberchef des Weißen Hauses gehen. In den USA wachsen Sorgen vor Cyberangriffen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350161/nach-massiven-it-ausfaellen-trump-entlaesst-cyberdirektor-im-weissen-haus?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted) · [France 24](https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages)
+→ [Der Standard](https://www.derstandard.at/story/3000000350161/nach-massiven-it-ausfaellen-trump-entlaesst-cyberdirektor-im-weissen-haus?ref=rss) · [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-it-stoerung-technik-panne-ruecktritt-cyberchef-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss)
