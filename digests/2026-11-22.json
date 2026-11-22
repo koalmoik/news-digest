@@ -1,0 +1,372 @@
+{
+ "date": "2026-11-22",
+ "title": "Morgen-Digest · Sonntag, 22. November 2026",
+ "generated": "2026-11-22T06:06+01:00",
+ "intro": "Die UN-Klimakonferenz COP31 in Antalya geht ohne Einigung in die Verlängerung, während im Nahen Osten Iran-Angriffe auf Bahrain und die Huthi-Attacken auf Riad die Lage verschärfen. In Europa sorgen der Costa-Vorschlag zum EU-Budget und ein Drohnenangriff auf einen russischen Frachter in der Ostsee für Gesprächsstoff.",
+ "topics": [
+  {
+   "name": "Innenpolitik",
+   "items": [
+    {
+     "id": "2026-11-22-01",
+     "title": "Stocker fordert strengeres Sexualstrafrecht",
+     "summary": "Bundeskanzler Christian Stocker (ÖVP) verlangt eine Verschärfung des Sexualstrafrechts. Anlass ist ein Fall, bei dem vier Männer im Sommer mehrere Mädchen in einem Wellenbecken eingekreist, unter Wasser getaucht und eines davon sexuell missbraucht haben sollen.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41477216/bundeskanzler-stocker-fordert-strengeres-sexualstrafrecht"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-02",
+     "title": "Asylanträge sinken weiter – Ruanda-Deal kaum ein Faktor",
+     "summary": "Die Asylzahlen sind im Oktober weiter gesunken, 2026 dürfte das Jahr mit den wenigsten Anträgen seit Langem werden. Die meisten Anträge betreffen nachgeborene syrische Kinder; die geplanten Ruanda-Abschiebungen spielen für die Zahlen laut Kommentar keine Rolle.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476959/asylzahlen-sinken-im-oktober-weiter"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/innenpolitik/ruanda-in-oesterreichs-asylwesen-kein-faktor-art-685346",
+       "paywall": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "EU",
+   "items": [
+    {
+     "id": "2026-11-22-03",
+     "title": "Costa kürzt EU-Budget 2028–2034 und schlägt Digitalsteuer vor",
+     "summary": "Ratspräsident António Costa will für 2028 bis 2034 rund 204 Milliarden Euro weniger einplanen als die Kommission und große Tech-Konzerne zusätzlich besteuern. Gekürzt würde vor allem bei Wettbewerbsfähigkeit und Außenpolitik, Agrar- und Regionalmittel blieben weitgehend verschont. Deutschland und Frankreich lehnen den Vorschlag ab, den Nettozahlern gehen die Kürzungen nicht weit genug.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350372/streit-um-eu-budget-costa-k252rzt-und-schl228gt-digitalsteuer-vor?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476688/streit-um-eu-budget-costa-kuerzt-und-schlaegt-digitalsteuer-vor"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/costa-proposes-e204-billion-cut-to-eu-budget/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-04",
+     "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+     "summary": "Nach fast zehn Jahren Verhandlungen haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet. Es senkt die Zölle auf nahezu alle Waren und enthält ein eigenes Protokoll zu Palmöl.",
+     "sources": [
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/eu-and-indonesia-officially-sign-ambitious-trade-deal/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welt",
+   "items": [
+    {
+     "id": "2026-11-22-05",
+     "title": "Russischer Frachter in der Ostsee von Drohnen getroffen",
+     "summary": "Vor Finnland ist der russische Frachter „Sparta 2“ in internationalen Gewässern von Drohnen getroffen worden und in Brand geraten; die Besatzung verließ das Schiff. Finnische Behörden vermuten die Ukraine hinter dem Angriff. Ministerpräsident Orpo sagte, der Krieg greife auf Gebiete in der Nachbarschaft über.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000350315/macron-wirft-russland-aggressives-vorgehen-auf-europaeischem-boden-vor?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-06",
+     "title": "Raketen in Polen: NATO-Chef Rutte sichert Beistand zu",
+     "summary": "Nach dem Absturz zweier russischer Raketen und einer mutmaßlichen Drohne in Polen sicherte NATO-Generalsekretär Mark Rutte in Warschau zu, „jeden Zentimeter“ Polens zu verteidigen. Premier Tusk sprach von einer wahrscheinlich absichtlichen Provokation.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448891/"
+      },
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/politik/ausland/rutte-polen-nato-russland-100.html"
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wirtschaft",
+   "items": [
+    {
+     "id": "2026-11-22-07",
+     "title": "US-Gericht billigt Glyphosat-Vergleich von Bayer",
+     "summary": "Ein US-Gericht hat den Sammelvergleich des Bayer-Konzerns mit Klägern wegen möglicher Krebsrisiken des Unkrautvernichters Roundup genehmigt. Für Bayer könnten die Glyphosat-Klagen in den USA damit bald weitgehend erledigt sein.",
+     "sources": [
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html"
+      },
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/wirtschaft/unternehmen/bayer-glyphosat-sammelvergleich-usa-richter-100.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-08",
+     "title": "Regierung will bis zu 500 Mio. Euro in Start-ups lenken",
+     "summary": "Ein neuer Dachfonds soll mit bis zu 500 Millionen Euro über private Fonds Start-ups finanzieren. Schwerpunkt sind die in der Industriestrategie definierten Schlüsseltechnologien.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476719/bis-zu-500-millionen-euro-fuer-start-ups-regierung-setzt-auf-private-fonds"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Klima",
+   "items": [
+    {
+     "id": "2026-11-22-09",
+     "title": "COP31 in Antalya geht in die Verlängerung",
+     "summary": "Die UN-Klimakonferenz sollte am Freitag enden, die knapp 200 Staaten ringen aber weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien: Ein neuer Textentwurf erwähnt Öl und Gas nicht, die EU mit gleichgesinnten Staaten drängt auf ein Bekenntnis. Auch ein Scheitern gilt als möglich.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448884/"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476077/cop31-praesident-draengt-verhandler-zu-kompromissen"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech/KI",
+   "items": [
+    {
+     "id": "2026-11-22-10",
+     "title": "KI soll Riemannsche Vermutung gelöst haben",
+     "summary": "Der Mathematiker Levent Alpöge von Anthropic hat mithilfe von Claude einen Beweis der Riemannschen Vermutung vorgelegt, eines der größten Probleme der Mathematik. Laut Guardian haben zwei Gruppen den Beweis bestätigt; die Arbeit dauerte rund sechs Wochen.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476978/ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-11",
+     "title": "UN-Gespräche zu „Killerrobotern“ enden mit Minimalkonsens",
+     "summary": "Die Genfer Beratungen über autonome Waffensysteme brachten nur einen Minimalkonsens: Experten sollen weiter beraten, ein Verhandlungsmandat gibt es nicht. Russland und die USA blockierten, obwohl sich fast 100 Länder für Verhandlungen über ein Verbot ausgesprochen hatten.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350351/regeln-f252r-killerroboter-gespr228che-enden-mit-minimalkonsens?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41474952/regeln-fuer-killerroboter-gespraeche-enden-mit-minimalkonsens"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IT-Security",
+   "items": [
+    {
+     "id": "2026-11-22-12",
+     "title": "Mutmaßlicher Hack der FBI-Kriminaldatenbank NCIC",
+     "summary": "Laut Medienberichten sind Hacker in die National Crime Information Center-Datenbank des FBI eingedrungen, in der Behörden Haftbefehle, Vorstrafen und Hintergrundprüfungen teilen. Zudem soll ein Zahlungssystem für Landwirte im US-Agrarministerium kompromittiert worden sein. Die Vorfälle reihen sich in eine Serie von IT-Pannen und Angriffen auf US-Behörden ein.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350345/bericht-fbi-untersucht-mutmassliches-eindringen-in-kriminaldatenbank?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-13",
+     "title": "Hackerangriff auf deutsche Bundesagentur für Arbeit",
+     "summary": "Die Bundesagentur für Arbeit wurde Ziel eines Cyberangriffs. Nach bisherigen Erkenntnissen sind sensible Kundendaten, etwa von Leistungsempfängern, nicht betroffen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350344/hackerangriff-auf-deutsche-bundesagentur-fuer-arbeit?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wissenschaft",
+   "items": [
+    {
+     "id": "2026-11-22-14",
+     "title": "Sonde BepiColombo erreicht Merkur-Umlaufbahn",
+     "summary": "Nach achtjähriger Reise durch das innere Sonnensystem ist die europäisch-japanische Merkur-Sonde BepiColombo an ihrem Zielplaneten angekommen und in eine Umlaufbahn eingeschwenkt.",
+     "sources": [
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/panorama/international/sonde-bepicolombo-umkreist-den-merkur-art-685340",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-15",
+     "title": "„Unmögliches“ Dreifachsternsystem in 28 Lichtjahren entdeckt",
+     "summary": "Astronomen fanden in nur 28 Lichtjahren Entfernung ein System aus zwei Weißen Zwergen und einem Roten Zwerg. Nach gängigen Modellen dürfte es so eigentlich nicht existieren.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350118/unmoegliches-dreifachsternsystem-in-kosmischer-nachbarschaft-entdeckt?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nahost",
+   "items": [
+    {
+     "id": "2026-11-22-16",
+     "title": "Iran greift Bahrain an, Huthi-Angriffe auf Riad abgewehrt",
+     "summary": "Bahrain meldet einen iranischen Angriff auf eine Industrieanlage mit Brand, aber ohne Verletzte; die Revolutionsgarden erklären, US-Stützpunkte angegriffen zu haben. Saudi-Arabien wehrte erneut Huthi-Angriffe auf Riad mit Drohnen und Marschflugkörpern ab. Iran spricht unterdessen mit katarischen Vermittlern über die Öffnung der Straße von Hormus.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448897/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350341/saudi-arabien-erneut-angriffe-der-huthi-miliz-auf-riad-abgewehrt?ref=rss"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-17",
+     "title": "Tote bei israelischen Angriffen in Gaza",
+     "summary": "Bei einem israelischen Angriff in Gaza-Stadt wurden nach palästinensischen Angaben drei Mitarbeiter der Hilfsorganisation World Central Kitchen getötet. Insgesamt wurden mindestens vier Menschen getötet.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350370/nahost-berichte-252ber-drei-tote-bei-neuem-angriff-israels-in-gaza?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41477288/vier-tote-bei-neuen-israelischen-angriffen-im-gazastreifen"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-18",
+     "title": "Eisenkot lädt Likud zu Koalitionsgesprächen ein",
+     "summary": "Israels Oppositionsführer Gadi Eisenkot hat die Likud-Partei des geschäftsführenden Premiers Netanjahu zu „Marathon“-Koalitionsgesprächen eingeladen.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448902/"
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "USA",
+   "items": [
+    {
+     "id": "2026-11-22-19",
+     "title": "Schuldspruch im Prozess um das „Palisades“-Feuer",
+     "summary": "Eine Geschworenenjury in Los Angeles hat Jonathan Rinderknecht der Brandstiftung für das Palisades-Feuer vom Jänner 2025 schuldig gesprochen. Bei dem Brand starben zwölf Menschen, mehr als 6.800 Gebäude wurden zerstört. Das Strafmaß steht noch aus.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448865/"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-20",
+     "title": "Trump bringt Stabschef Miller als Kandidaten für 2028 ins Spiel",
+     "summary": "Präsident Trump hat Stabschef Stephen Miller als möglichen Präsidentschaftskandidaten genannt. Vizepräsident Vance und Außenminister Rubio werden ebenfalls Ambitionen auf die republikanische Nominierung 2028 nachgesagt.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350335/trump-bringt-stabschef-miller-als-praesidentschaftskandidaten-ins-spiel?ref=rss"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,43 +1,36 @@
 {
- "date": "2026-11-21",
- "title": "Morgen-Digest · Samstag, 21. November 2026",
- "generated": "2026-11-21T06:06+01:00",
- "intro": "Russland greift Kiew und die Ukraine massiv an, ein Marschflugkörper schlägt in Polen ein, auch Österreichs Botschaft in Kiew wurde beschädigt. An den Börsen sorgt ein KI-Ausverkauf trotz Anthropic-Rekordbörsengang für Kursverluste, die Klimakonferenz COP31 geht in die Verlängerung.",
+ "date": "2026-11-22",
+ "title": "Morgen-Digest · Sonntag, 22. November 2026",
+ "generated": "2026-11-22T06:06+01:00",
+ "intro": "Die UN-Klimakonferenz COP31 in Antalya geht ohne Einigung in die Verlängerung, während im Nahen Osten Iran-Angriffe auf Bahrain und die Huthi-Attacken auf Riad die Lage verschärfen. In Europa sorgen der Costa-Vorschlag zum EU-Budget und ein Drohnenangriff auf einen russischen Frachter in der Ostsee für Gesprächsstoff.",
  "topics": [
   {
    "name": "Innenpolitik",
    "items": [
     {
-     "id": "2026-11-21-01",
-     "title": "Österreichische Botschaft in Kiew bei Angriff beschädigt",
-     "summary": "Bei russischen Luftangriffen auf Kiew wurde die österreichische Botschaft beschädigt; laut Vertretung gab es einige kaputte Fenster und drei beschädigte Fahrzeuge. Außenministerin Meinl-Reisinger ließ den russischen Botschafter ins Ministerium zitieren, Moskau weist die Schuld zurück. Der Vorfall folgt zwei Tage nach einem Angriff auf das Honorarkonsulat in Dnipro.",
+     "id": "2026-11-22-01",
+     "title": "Stocker fordert strengeres Sexualstrafrecht",
+     "summary": "Bundeskanzler Christian Stocker (ÖVP) verlangt eine Verschärfung des Sexualstrafrechts. Anlass ist ein Fall, bei dem vier Männer im Sommer mehrere Mädchen in einem Wellenbecken eingekreist, unter Wasser getaucht und eines davon sexuell missbraucht haben sollen.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350177/oesterreichische-botschaft-in-kyjiw-bei-russischem-angriff-beschaedigt?ref=rss"
-      },
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350207/oesterreichische-botschaft-in-kyjiw-einige-kaputte-fenster-und-drei-beschaedigte-kfz?ref=rss"
-      },
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448782/"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41477216/bundeskanzler-stocker-fordert-strengeres-sexualstrafrecht"
       }
      ]
     },
     {
-     "id": "2026-11-21-02",
-     "title": "„Jugendstreik“ in Wien: Polizei löst Versammlung auf",
-     "summary": "Hunderte junge Menschen demonstrierten in Wien, Linz und weiteren Städten für ihre Anliegen. Bei der Uni Wien kam es zu Ausschreitungen, die Polizei nahm rund 60 Personen fest und löste die Versammlung auf. Ähnliche Proteste gab es am Freitag in vielen europäischen Ländern.",
+     "id": "2026-11-22-02",
+     "title": "Asylanträge sinken weiter – Ruanda-Deal kaum ein Faktor",
+     "summary": "Die Asylzahlen sind im Oktober weiter gesunken, 2026 dürfte das Jahr mit den wenigsten Anträgen seit Langem werden. Die meisten Anträge betreffen nachgeborene syrische Kinder; die geplanten Ruanda-Abschiebungen spielen für die Zahlen laut Kommentar keine Rolle.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350174/ausschreitungen-bei-jugendstreik-polizei-loest-versammlung-auf?ref=rss"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476959/asylzahlen-sinken-im-oktober-weiter"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41473756/polizei-loest-jugendstreik-vor-der-uni-wien-nach-ausschreitungen-auf"
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/innenpolitik/ruanda-in-oesterreichs-asylwesen-kein-faktor-art-685346",
+       "paywall": true
       }
      ]
     }
@@ -47,32 +40,36 @@
    "name": "EU",
    "items": [
     {
-     "id": "2026-11-21-03",
-     "title": "EU und Großbritannien vereinbaren Annäherung nach dem Brexit",
-     "summary": "Beim Gipfel in Brüssel einigten sich beide Seiten auf Erleichterungen beim Lebensmittelhandel, die Verbindung der CO2-Märkte und ein Jugendaustauschprogramm. Premier Burnham will noch engere Beziehungen prüfen, der Streit um Studiengebühren verzögert aber die Annahme durch die EU.",
+     "id": "2026-11-22-03",
+     "title": "Costa kürzt EU-Budget 2028–2034 und schlägt Digitalsteuer vor",
+     "summary": "Ratspräsident António Costa will für 2028 bis 2034 rund 204 Milliarden Euro weniger einplanen als die Kommission und große Tech-Konzerne zusätzlich besteuern. Gekürzt würde vor allem bei Wettbewerbsfähigkeit und Außenpolitik, Agrar- und Regionalmittel blieben weitgehend verschont. Deutschland und Frankreich lehnen den Vorschlag ab, den Nettozahlern gehen die Kürzungen nicht weit genug.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448754/"
-      },
-      {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350287/freude-in-bruessel-ueber-einen-guten-tag-fuer-grossbritannien-und-fuer-europa?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350372/streit-um-eu-budget-costa-k252rzt-und-schl228gt-digitalsteuer-vor?ref=rss"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476688/streit-um-eu-budget-costa-kuerzt-und-schlaegt-digitalsteuer-vor"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/costa-proposes-e204-billion-cut-to-eu-budget/"
       }
      ]
     },
     {
-     "id": "2026-11-21-04",
-     "title": "EU-Minister diskutieren EU-weites Social-Media-Verbot",
-     "summary": "Die EU-Minister beraten über ein einheitliches Social-Media-Verbot für Kinder und Jugendliche. Staatssekretärin Michaela Schmidt spricht sich für eine rasche Umsetzung aus.",
+     "id": "2026-11-22-04",
+     "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+     "summary": "Nach fast zehn Jahren Verhandlungen haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet. Es senkt die Zölle auf nahezu alle Waren und enthält ein eigenes Protokoll zu Palmöl.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350230/eu-minister-diskutieren-eu-weites-social-media-verbot?ref=rss"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/eu-and-indonesia-officially-sign-ambitious-trade-deal/"
       }
      ]
     }
@@ -82,59 +79,40 @@
    "name": "Welt",
    "items": [
     {
-     "id": "2026-11-21-05",
-     "title": "Russland greift Kiew an, Marschflugkörper schlägt in Polen ein",
-     "summary": "Russland beschoss in der Nacht Brücken und Infrastruktur in Kiew, mehrere Menschen starben, auch in Krywyj Rih gab es Tote. Ein russischer Marschflugkörper drang in den polnischen Luftraum ein und stürzte ab; Warschau spricht von gezielter Provokation und bittet die NATO um mehr Unterstützung.",
+     "id": "2026-11-22-05",
+     "title": "Russischer Frachter in der Ostsee von Drohnen getroffen",
+     "summary": "Vor Finnland ist der russische Frachter „Sparta 2“ in internationalen Gewässern von Drohnen getroffen worden und in Brand geraten; die Besatzung verließ das Schiff. Finnische Behörden vermuten die Ukraine hinter dem Angriff. Ministerpräsident Orpo sagte, der Krieg greife auf Gebiete in der Nachbarschaft über.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/jetzt/livebericht/3000000350151/trump-und-putin-fuehrten-gespraech-vor-dreiertreffen-mit-xi?ref=rss"
-      },
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448767/"
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000350315/macron-wirft-russland-aggressives-vorgehen-auf-europaeischem-boden-vor?ref=rss"
       },
       {
        "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html"
+       "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "id": "2026-11-21-06",
-     "title": "Gipfel von Shenzhen: Trump, Xi und Putin ohne große Ergebnisse",
-     "summary": "Erstmals trafen die Staatschefs der USA, Chinas und Russlands gemeinsam zusammen. Große Deals blieben offenbar aus, Beobachter sehen mehr Rhetorik als Substanz. Trump fordert von Kiew Frieden bis Anfang 2027.",
-     "sources": [
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000349735/kein-jalta-20-der-gipfel-von-shenzhen-hat-putins-grossmannssucht-einen-daempfer-verpasst?ref=rss"
-      },
-      {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html"
-      },
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448810/"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-21-07",
-     "title": "Dänemark weist russischen Diplomaten wegen Mordkomplotts aus",
-     "summary": "Laut dänischem Geheimdienst plante Russland einen Anschlag auf einen ukrainischen Rapper in Dänemark, den der Dienst vereitelte. Als Reaktion wurde ein russischer Diplomat ausgewiesen; Moskau bestreitet die Vorwürfe.",
+     "id": "2026-11-22-06",
+     "title": "Raketen in Polen: NATO-Chef Rutte sichert Beistand zu",
+     "summary": "Nach dem Absturz zweier russischer Raketen und einer mutmaßlichen Drohne in Polen sicherte NATO-Generalsekretär Mark Rutte in Warschau zu, „jeden Zentimeter“ Polens zu verteidigen. Premier Tusk sprach von einer wahrscheinlich absichtlichen Provokation.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3448813/"
+       "url": "https://orf.at/stories/3448891/"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41474821/daenischer-geheimdienst-vereitelte-russischen-mordanschlag-auf-rapper"
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/politik/ausland/rutte-polen-nato-russland-100.html"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html"
+       "name": "France 24",
+       "url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences"
       }
      ]
     }
@@ -144,45 +122,28 @@
    "name": "Wirtschaft",
    "items": [
     {
-     "id": "2026-11-21-08",
-     "title": "KI-Ausverkauf drückt Börsen trotz Anthropic-Börsengang",
-     "summary": "Nach dem Rekordbörsengang von Anthropic verloren Tech- und KI-Aktien weltweit weiter deutlich, die Anthropic-Aktie fiel am zweiten Handelstag. Die Nasdaq gab alle Gewinne dieses Jahres ab, S&P 500 und Dow Jones rutschten in eine Korrektur. Gold fiel auf ein Jahrestief, Bitcoin unter 60.000 Dollar – wegen steigender Zinserwartungen.",
+     "id": "2026-11-22-07",
+     "title": "US-Gericht billigt Glyphosat-Vergleich von Bayer",
+     "summary": "Ein US-Gericht hat den Sammelvergleich des Bayer-Konzerns mit Klägern wegen möglicher Krebsrisiken des Unkrautvernichters Roundup genehmigt. Für Bayer könnten die Glyphosat-Klagen in den USA damit bald weitgehend erledigt sein.",
      "sources": [
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350321/ki-ausverkauf-schickt-us-boersen-auf-korrekturkurs?ref=rss"
-      },
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448808/"
-      },
-      {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
-      },
-      {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41472002/absturz-auf-ein-jahres-tief-auch-gold-leidet-unter-den-zinsaengsten",
-       "paywall": true
-      }
-     ]
-    },
-    {
-     "id": "2026-11-21-09",
-     "title": "US-Gericht billigt Bayers Glyphosat-Vergleich über 7,25 Mrd. Dollar",
-     "summary": "Ein Richter in Missouri genehmigte den Vergleich im Streit um Roundup-Krebsklagen. Für Bayer könnten die rund 65.000 Klagen damit bald erledigt sein.",
-     "sources": [
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448831/"
-      },
       {
        "name": "Tagesschau",
        "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html"
       },
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation"
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/wirtschaft/unternehmen/bayer-glyphosat-sammelvergleich-usa-richter-100.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-08",
+     "title": "Regierung will bis zu 500 Mio. Euro in Start-ups lenken",
+     "summary": "Ein neuer Dachfonds soll mit bis zu 500 Millionen Euro über private Fonds Start-ups finanzieren. Schwerpunkt sind die in der Industriestrategie definierten Schlüsseltechnologien.",
+     "sources": [
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476719/bis-zu-500-millionen-euro-fuer-start-ups-regierung-setzt-auf-private-fonds"
       }
      ]
     }
@@ -192,21 +153,21 @@
    "name": "Klima",
    "items": [
     {
-     "id": "2026-11-21-10",
-     "title": "Weltklimakonferenz COP31 geht in die Verlängerung",
-     "summary": "Die Verhandlungen in Antalya überschritten das offizielle Ende, weil der Entwurf den Ausstieg aus fossilen Energien nicht erwähnt. Mehr als 20 Staaten und die EU fordern ein klares Bekenntnis, auch die Klimafinanzierung für ärmere Länder ist umstritten.",
+     "id": "2026-11-22-09",
+     "title": "COP31 in Antalya geht in die Verlängerung",
+     "summary": "Die UN-Klimakonferenz sollte am Freitag enden, die knapp 200 Staaten ringen aber weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien: Ein neuer Textentwurf erwähnt Öl und Gas nicht, die EU mit gleichgesinnten Staaten drängt auf ein Bekenntnis. Auch ein Scheitern gilt als möglich.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3448795/"
+       "url": "https://orf.at/stories/3448884/"
       },
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350036/geiseln-der-erdoel-mafia-staaten-ringen-in-antalya-um-das-ende-des-fossilen-zeitalters?ref=rss"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41476077/cop31-praesident-draengt-verhandler-zu-kompromissen"
       },
       {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -216,40 +177,40 @@
    "name": "Tech/KI",
    "items": [
     {
-     "id": "2026-11-21-11",
-     "title": "Trump droht Verbot von US-Rechenzentren im Ausland an",
-     "summary": "Trump kündigte an, den Bau von KI-Rechenzentren amerikanischer Firmen im Ausland zu verbieten oder mit einer „enormen Steuer“ zu belegen. Details nannte er kaum, selbst Teile seines Teams hörten davon offenbar erstmals.",
+     "id": "2026-11-22-10",
+     "title": "KI soll Riemannsche Vermutung gelöst haben",
+     "summary": "Der Mathematiker Levent Alpöge von Anthropic hat mithilfe von Claude einen Beweis der Riemannschen Vermutung vorgelegt, eines der größten Probleme der Mathematik. Laut Guardian haben zwei Gruppen den Beweis bestätigt; die Arbeit dauerte rund sechs Wochen.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350319/trump-will-bau-von-us-rechenzentren-im-ausland-verbieten?ref=rss"
-      },
-      {
        "name": "Die Presse",
-       "url": "https://www.diepresse.com/41474921/trump-will-bau-von-us-rechenzentren-im-ausland-verbieten"
+       "url": "https://www.diepresse.com/41476978/ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben"
       },
       {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
       }
      ]
     },
     {
-     "id": "2026-11-21-12",
-     "title": "Kalifornien untersucht Nvidia wegen China-Lieferungen",
-     "summary": "Kaliforniens Justiz will klären, ob KI-Chips in China landeten und Anleger getäuscht wurden. Die Untersuchung folgt auf den Rücktritt von Nvidia-Chef Jensen Huang.",
+     "id": "2026-11-22-11",
+     "title": "UN-Gespräche zu „Killerrobotern“ enden mit Minimalkonsens",
+     "summary": "Die Genfer Beratungen über autonome Waffensysteme brachten nur einen Minimalkonsens: Experten sollen weiter beraten, ein Verhandlungsmandat gibt es nicht. Russland und die USA blockierten, obwohl sich fast 100 Länder für Verhandlungen über ein Verbot ausgesprochen hatten.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350163/kalifornien-will-von-nvidia-aufklaerung-zu-china-lieferungen?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350351/regeln-f252r-killerroboter-gespr228che-enden-mit-minimalkonsens?ref=rss"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41474952/regeln-fuer-killerroboter-gespraeche-enden-mit-minimalkonsens"
       },
       {
        "name": "The Guardian",
-       "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+       "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
       }
      ]
     }
@@ -259,47 +220,32 @@
    "name": "IT-Security",
    "items": [
     {
-     "id": "2026-11-21-13",
-     "title": "Cyberangriff auf das österreichische Außenministerium",
-     "summary": "Zwischen 12. und 13. November kam es zu unbefugtem Zugriff auf Datensätze mit Namen und dienstlichen Kontaktdaten von Mitarbeitenden der Zentrale und der Auslandsvertretungen. Der Vorfall fiel zeitlich mit der weltweiten Microsoft-Störung zusammen.",
+     "id": "2026-11-22-12",
+     "title": "Mutmaßlicher Hack der FBI-Kriminaldatenbank NCIC",
+     "summary": "Laut Medienberichten sind Hacker in die National Crime Information Center-Datenbank des FBI eingedrungen, in der Behörden Haftbefehle, Vorstrafen und Hintergrundprüfungen teilen. Zudem soll ein Zahlungssystem für Landwirte im US-Agrarministerium kompromittiert worden sein. Die Vorfälle reihen sich in eine Serie von IT-Pannen und Angriffen auf US-Behörden ein.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350317/cyberangriff-auf-au223enministerium?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350345/bericht-fbi-untersucht-mutmassliches-eindringen-in-kriminaldatenbank?ref=rss"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41474811/das-aussenministerium-verzeichnete-einen-cyberangriff"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"
       },
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448812/"
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
       }
      ]
     },
     {
-     "id": "2026-11-21-14",
-     "title": "VMware: Broadcom schließt teils kritische Lücken, vCenter-Lücke wird angegriffen",
-     "summary": "Broadcom veröffentlichte Updates für mehrere VMware-Produkte. Laut Mandiant wird eine der Schwachstellen in vCenter bereits aktiv ausgenutzt, Admins sollten zügig patchen.",
+     "id": "2026-11-22-13",
+     "title": "Hackerangriff auf deutsche Bundesagentur für Arbeit",
+     "summary": "Die Bundesagentur für Arbeit wurde Ziel eines Cyberangriffs. Nach bisherigen Erkenntnissen sind sensible Kundendaten, etwa von Leistungsempfängern, nicht betroffen.",
      "sources": [
       {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-      },
-      {
-       "name": "heise Security",
-       "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-21-15",
-     "title": "Kritische Ruby-Lücken: Rails, GitHub und GitLab betroffen",
-     "summary": "Ruby korrigiert mehrere als kritisch eingestufte Schwachstellen; fünf Exploits sind bereits verfügbar. Ein schnelles Update wird empfohlen.",
-     "sources": [
-      {
-       "name": "heise Security",
-       "url": "https://www.heise.de/news/Kritisch-eingestufte-Luecken-in-Ruby-auch-Rails-GitHub-und-GitLab-betroffen-11532469.html"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350344/hackerangriff-auf-deutsche-bundesagentur-fuer-arbeit?ref=rss"
       }
      ]
     }
@@ -309,17 +255,25 @@
    "name": "Wissenschaft",
    "items": [
     {
-     "id": "2026-11-21-16",
-     "title": "Anthropic-Mathematiker will Riemannsche Vermutung bewiesen haben",
-     "summary": "Levent Alpöge hat einen Lean-Beweis der Generalisierten Riemannschen Vermutung veröffentlicht, entstanden mit KI-Hilfe. Die Überprüfung wird dauern; bestätigt, wäre es eine der größten mathematischen Sensationen.",
+     "id": "2026-11-22-14",
+     "title": "Sonde BepiColombo erreicht Merkur-Umlaufbahn",
+     "summary": "Nach achtjähriger Reise durch das innere Sonnensystem ist die europäisch-japanische Merkur-Sonde BepiColombo an ihrem Zielplaneten angekommen und in eine Umlaufbahn eingeschwenkt.",
+     "sources": [
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/panorama/international/sonde-bepicolombo-umkreist-den-merkur-art-685340",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-15",
+     "title": "„Unmögliches“ Dreifachsternsystem in 28 Lichtjahren entdeckt",
+     "summary": "Astronomen fanden in nur 28 Lichtjahren Entfernung ein System aus zwei Weißen Zwergen und einem Roten Zwerg. Nach gängigen Modellen dürfte es so eigentlich nicht existieren.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350307/anthropic-mathematiker-behauptet-das-groesste-offene-problem-der-mathematik-geloest-zu-haben?ref=rss"
-      },
-      {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+       "url": "https://www.derstandard.at/story/3000000350118/unmoegliches-dreifachsternsystem-in-kosmischer-nachbarschaft-entdeckt?ref=rss"
       }
      ]
     }
@@ -329,40 +283,51 @@
    "name": "Nahost",
    "items": [
     {
-     "id": "2026-11-21-17",
-     "title": "Berichte über Explosionen im Süden des Iran",
-     "summary": "Auf der Insel Qeshm soll unbestätigten Meldungen zufolge ein Raketenangriff eine Flugabwehrstellung getroffen haben. Parallel fing eine saudisch geführte Koalition Huthi-Raketen auf Riad ab, und Iran weist US-Vorwürfe zu Waffenentwicklung zurück.",
+     "id": "2026-11-22-16",
+     "title": "Iran greift Bahrain an, Huthi-Angriffe auf Riad abgewehrt",
+     "summary": "Bahrain meldet einen iranischen Angriff auf eine Industrieanlage mit Brand, aber ohne Verletzte; die Revolutionsgarden erklären, US-Stützpunkte angegriffen zu haben. Saudi-Arabien wehrte erneut Huthi-Angriffe auf Riad mit Drohnen und Marschflugkörpern ab. Iran spricht unterdessen mit katarischen Vermittlern über die Öffnung der Straße von Hormus.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3448806/"
+       "url": "https://orf.at/stories/3448897/"
       },
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350316/explosion-auf-der-iranischen-insel-qeshm?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350341/saudi-arabien-erneut-angriffe-der-huthi-miliz-auf-riad-abgewehrt?ref=rss"
       },
       {
        "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
+       "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
       }
      ]
     },
     {
-     "id": "2026-11-21-18",
-     "title": "Israel: Eisenkot bringt Minderheitsregierung ins Spiel",
-     "summary": "Gadi Eisenkot kann sich eine Minderheitsregierung vorstellen, die auf Unterstützung arabischer Parteien angewiesen wäre. Er deutete an, sie könne noch erweitert werden.",
+     "id": "2026-11-22-17",
+     "title": "Tote bei israelischen Angriffen in Gaza",
+     "summary": "Bei einem israelischen Angriff in Gaza-Stadt wurden nach palästinensischen Angaben drei Mitarbeiter der Hilfsorganisation World Central Kitchen getötet. Insgesamt wurden mindestens vier Menschen getötet.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3448809/"
-      },
-      {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350318/israel-eisenkot-bringt-minderheitsregierung-ins-spiel?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350370/nahost-berichte-252ber-drei-tote-bei-neuem-angriff-israels-in-gaza?ref=rss"
       },
       {
        "name": "Die Presse",
-       "url": "https://www.diepresse.com/41474826/eisenkot-bringt-in-israel-minderheitsregierung-ins-spiel"
+       "url": "https://www.diepresse.com/41477288/vier-tote-bei-neuen-israelischen-angriffen-im-gazastreifen"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-22-18",
+     "title": "Eisenkot lädt Likud zu Koalitionsgesprächen ein",
+     "summary": "Israels Oppositionsführer Gadi Eisenkot hat die Likud-Partei des geschäftsführenden Premiers Netanjahu zu „Marathon“-Koalitionsgesprächen eingeladen.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3448902/"
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks"
       }
      ]
     }
@@ -372,36 +337,32 @@
    "name": "USA",
    "items": [
     {
-     "id": "2026-11-21-19",
-     "title": "Weitere Richterin stoppt Trumps Triumphbogen vorerst",
-     "summary": "Eine Bundesrichterin in Virginia blockierte den Bau des von Trump geplanten Triumphbogens und nannte das Projekt ein überstürztes Vorhaben ohne rechtliche Grundlage. Es ist schon die zweite gerichtliche Bremse.",
+     "id": "2026-11-22-19",
+     "title": "Schuldspruch im Prozess um das „Palisades“-Feuer",
+     "summary": "Eine Geschworenenjury in Los Angeles hat Jonathan Rinderknecht der Brandstiftung für das Palisades-Feuer vom Jänner 2025 schuldig gesprochen. Bei dem Brand starben zwölf Menschen, mehr als 6.800 Gebäude wurden zerstört. Das Strafmaß steht noch aus.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3448824/"
+       "url": "https://orf.at/stories/3448865/"
       },
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "id": "2026-11-21-20",
-     "title": "Trump entlässt Cyberdirektor nach IT-Ausfällen",
-     "summary": "Nach Störungen bei Microsoft Outlook, der Flugsicherung und Banken muss der Cyberchef des Weißen Hauses gehen. In den USA wachsen Sorgen vor Cyberangriffen.",
+     "id": "2026-11-22-20",
+     "title": "Trump bringt Stabschef Miller als Kandidaten für 2028 ins Spiel",
+     "summary": "Präsident Trump hat Stabschef Stephen Miller als möglichen Präsidentschaftskandidaten genannt. Vizepräsident Vance und Außenminister Rubio werden ebenfalls Ambitionen auf die republikanische Nominierung 2028 nachgesagt.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350161/nach-massiven-it-ausfaellen-trump-entlaesst-cyberdirektor-im-weissen-haus?ref=rss"
-      },
-      {
-       "name": "ZDFheute",
-       "url": "https://www.zdfheute.de/politik/ausland/usa-it-stoerung-technik-panne-ruecktritt-cyberchef-100.html"
-      },
-      {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+       "url": "https://www.derstandard.at/story/3000000350335/trump-bringt-stabschef-miller-als-praesidentschaftskandidaten-ins-spiel?ref=rss"
       }
      ]
     }
