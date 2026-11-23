@@ -1,143 +1,137 @@
-# Morgen-Digest · Sonntag, 22. November 2026
+# Morgen-Digest · Montag, 23. November 2026
 
-_Die UN-Klimakonferenz COP31 in Antalya geht ohne Einigung in die Verlängerung, während im Nahen Osten Iran-Angriffe auf Bahrain und die Huthi-Attacken auf Riad die Lage verschärfen. In Europa sorgen der Costa-Vorschlag zum EU-Budget und ein Drohnenangriff auf einen russischen Frachter in der Ostsee für Gesprächsstoff._
+_Die UN-Klimakonferenz COP31 in Antalya ist nach Rekordverlängerung ohne Abschlussbeschluss zu Ende gegangen, während Russland bei einem Angriff nahe Kiew mindestens zehn Menschen tötete. In den USA haben die Demokraten die größte Mehrheit im Repräsentantenhaus seit 1992 errungen; in Österreich will Kanzler Stocker das Sexualstrafrecht verschärfen._
 
 ## Innenpolitik
 
-### Stocker fordert strengeres Sexualstrafrecht
+### Stocker will Sexualstrafrecht nach Freisprüchen verschärfen
 
-Bundeskanzler Christian Stocker (ÖVP) verlangt eine Verschärfung des Sexualstrafrechts. Anlass ist ein Fall, bei dem vier Männer im Sommer mehrere Mädchen in einem Wellenbecken eingekreist, unter Wasser getaucht und eines davon sexuell missbraucht haben sollen.
+Nach Freisprüchen in einem Vergewaltigungsverfahren will Kanzler Christian Stocker (ÖVP) das Strafrecht ändern: Künftig soll auch bestraft werden können, wer Teil einer Gruppe ist, in der jemand ein Sexualdelikt begeht. Die Koalitionspartner zeigen sich offen, mahnen aber erneut ein „Ja heißt Ja“-Prinzip ein; Strafrechtsprofessor Kert sieht den Vorschlag potenziell kritisch.
 
-→ [Die Presse](https://www.diepresse.com/41477216/bundeskanzler-stocker-fordert-strengeres-sexualstrafrecht)
+→ [Der Standard](https://www.derstandard.at/story/3000000350415/wegen-freispruechen-nach-vergewaltigungs-anklage-stocker-will-strafrecht-verschaerfen?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41479175/bedarf-nachzuschaerfen-koalitionspartner-offen-fuer-kanzler-vorstoss-zum-sexualstrafrecht)
 
-### Asylanträge sinken weiter – Ruanda-Deal kaum ein Faktor
+### ÖVP-Staatssekretärin drängt auf Senkung der Flugabgabe
 
-Die Asylzahlen sind im Oktober weiter gesunken, 2026 dürfte das Jahr mit den wenigsten Anträgen seit Langem werden. Die meisten Anträge betreffen nachgeborene syrische Kinder; die geplanten Ruanda-Abschiebungen spielen für die Zahlen laut Kommentar keine Rolle.
+Staatssekretärin Elisabeth Zehetner (ÖVP) hat in der ORF-„Pressestunde“ auf eine rasche Senkung der Flugabgabe gepocht. Derzeit würden noch „Modalitäten“ verhandelt. Umbaupläne im ÖVP-Regierungsteam gebe es nicht.
 
-→ [Die Presse](https://www.diepresse.com/41476959/asylzahlen-sinken-im-oktober-weiter) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/innenpolitik/ruanda-in-oesterreichs-asylwesen-kein-faktor-art-685346)
+→ [ORF](https://orf.at/stories/3448936/) · [Der Standard](https://www.derstandard.at/story/3000000350441/oevp-staatssekretaerin-draengt-auf-rasche-senkung-der-flugabgabe?ref=rss)
 
 ## EU
 
-### Costa kürzt EU-Budget 2028–2034 und schlägt Digitalsteuer vor
+### EU und Indonesien besiegeln umfangreiches Handelsabkommen
 
-Ratspräsident António Costa will für 2028 bis 2034 rund 204 Milliarden Euro weniger einplanen als die Kommission und große Tech-Konzerne zusätzlich besteuern. Gekürzt würde vor allem bei Wettbewerbsfähigkeit und Außenpolitik, Agrar- und Regionalmittel blieben weitgehend verschont. Deutschland und Frankreich lehnen den Vorschlag ab, den Nettozahlern gehen die Kürzungen nicht weit genug.
+Die EU hat mit Indonesien ein Freihandelsabkommen unterzeichnet, um neue Absatzmärkte zu erschließen. Besonders wichtig für Europa ist der Zugang zu Rohstoffen wie Nickel.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350372/streit-um-eu-budget-costa-k252rzt-und-schl228gt-digitalsteuer-vor?ref=rss) · [Die Presse](https://www.diepresse.com/41476688/streit-um-eu-budget-costa-kuerzt-und-schlaegt-digitalsteuer-vor) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/costa-proposes-e204-billion-cut-to-eu-budget/)
+→ [ORF](https://orf.at/stories/3448935/) · [Der Standard](https://www.derstandard.at/story/3000000350432/eu-sucht-neue-absatzmaerkte-und-schliesst-handelsdeal-mit-indonesien?ref=rss) · [Deutsche Welle](https://www.dw.com/de/eu-und-indonesien-besiegeln-handelsabkommen/a-80012521?maca=de-rss-de-all-1119-rdf)
 
-### EU und Indonesien unterzeichnen Freihandelsabkommen
+### Großbritannien und EU einigen sich auf weitreichendes Abkommen
 
-Nach fast zehn Jahren Verhandlungen haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet. Es senkt die Zölle auf nahezu alle Waren und enthält ein eigenes Protokoll zu Palmöl.
+Premier Andy Burnham will dem Parlament den am Freitag vereinbarten Deal als „Wahl zwischen kaputtem Status quo und Veränderung“ präsentieren. Britische Exporteure begrüßen das Ende der Brexit-Kontrollen bei Lebensmitteln, kritisieren aber die lange Umsetzungsdauer.
 
-→ [Tagesschau](https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-and-indonesia-officially-sign-ambitious-trade-deal/)
+→ [BBC](https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks)
 
 ## Welt
 
-### Russischer Frachter in der Ostsee von Drohnen getroffen
+### Russischer Angriff nahe Kiew: mindestens zehn Tote
 
-Vor Finnland ist der russische Frachter „Sparta 2“ in internationalen Gewässern von Drohnen getroffen worden und in Brand geraten; die Besatzung verließ das Schiff. Finnische Behörden vermuten die Ukraine hinter dem Angriff. Ministerpräsident Orpo sagte, der Krieg greife auf Gebiete in der Nachbarschaft über.
+Bei einem russischen Angriff auf ein Mehrfamilienhaus in Dymer nördlich von Kiew sind mindestens zehn Menschen getötet worden; ein siebenjähriger Bub wurde nach rund 14 Stunden lebend aus den Trümmern gerettet. Die Suche nach Vermissten dauert an. Selenskyj klagt zudem über Lieferverzögerungen bei der Flugabwehr.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000350315/macron-wirft-russland-aggressives-vorgehen-auf-europaeischem-boden-vor?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss)
+→ [Tagesschau](https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html) · [BBC](https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss) · [ORF](https://orf.at/stories/3448947/)
 
-### Raketen in Polen: NATO-Chef Rutte sichert Beistand zu
+### Russische Schiffe in Ostsee und Libyen von Drohnen getroffen
 
-Nach dem Absturz zweier russischer Raketen und einer mutmaßlichen Drohne in Polen sicherte NATO-Generalsekretär Mark Rutte in Warschau zu, „jeden Zentimeter“ Polens zu verteidigen. Premier Tusk sprach von einer wahrscheinlich absichtlichen Provokation.
+Der russische Frachter „Sparta II“ geriet nach einem mutmaßlichen ukrainischen Drohnenangriff in der Ostsee in Brand und wird in russische Gewässer geschleppt. Im libyschen Bengasi wurde ein russisches Kriegsschiff durch eine Explosion zerstört; die Behörden vermuten einen Drohnenangriff. Bekannt hat sich bislang niemand.
 
-→ [ORF](https://orf.at/stories/3448891/) · [ZDFheute](https://www.zdfheute.de/politik/ausland/rutte-polen-nato-russland-100.html) · [France 24](https://www.france24.com/en/russia-tests-nato-s-eastern-defences)
+→ [ORF](https://orf.at/stories/3448974/) · [ORF](https://orf.at/stories/3448956/) · [The Guardian](https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya)
 
 ## Wirtschaft
 
-### US-Gericht billigt Glyphosat-Vergleich von Bayer
+### KI-Aktien unter Druck: Sorge vor Blase wächst
 
-Ein US-Gericht hat den Sammelvergleich des Bayer-Konzerns mit Klägern wegen möglicher Krebsrisiken des Unkrautvernichters Roundup genehmigt. Für Bayer könnten die Glyphosat-Klagen in den USA damit bald weitgehend erledigt sein.
+Nach den Nvidia-Zahlen und dem Rekord-Börsengang von Anthropic sind KI-Titel weltweit unter Druck geraten; asiatische Börsen in Südkorea, China und Hongkong gaben nach. Beobachter diskutieren, ob es sich um eine gesunde Bereinigung oder das Ende des Hypes handelt.
 
-→ [Tagesschau](https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html) · [ZDFheute](https://www.zdfheute.de/wirtschaft/unternehmen/bayer-glyphosat-sammelvergleich-usa-richter-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000350434/menschen-mit-ki-aktien-brauchten-vergangene-woche-harte-nerven?ref=rss) · [SRF](https://www.srf.ch/news/wirtschaft/ki-aktien-im-sinkflug-ki-boersenkorrektur-hype-vorbei-oder-gesunde-bereinigung) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss)
 
-### Regierung will bis zu 500 Mio. Euro in Start-ups lenken
+### Fluglotsenstreik in Belgien: AUA streicht Flüge
 
-Ein neuer Dachfonds soll mit bis zu 500 Millionen Euro über private Fonds Start-ups finanzieren. Schwerpunkt sind die in der Industriestrategie definierten Schlüsseltechnologien.
+Belgische Fluglotsen streiken am Montag, der Flugverkehr in Belgien steht weitgehend still. Austrian Airlines hat bereits einige Flüge nach Belgien gestrichen.
 
-→ [Die Presse](https://www.diepresse.com/41476719/bis-zu-500-millionen-euro-fuer-start-ups-regierung-setzt-auf-private-fonds)
+→ [Der Standard](https://www.derstandard.at/story/3000000350394/streik-k246nnte-fast-gesamten-flugverkehr-in-belgien-lahmlegen?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss)
 
 ## Klima
 
-### COP31 in Antalya geht in die Verlängerung
+### Weltklimakonferenz COP31 endet ohne Abschlussbeschluss
 
-Die UN-Klimakonferenz sollte am Freitag enden, die knapp 200 Staaten ringen aber weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien: Ein neuer Textentwurf erwähnt Öl und Gas nicht, die EU mit gleichgesinnten Staaten drängt auf ein Bekenntnis. Auch ein Scheitern gilt als möglich.
+Nach der längsten Klimakonferenz der Geschichte ist COP31 in Antalya ohne gemeinsamen Beschluss zu Ende gegangen. Die EU und weitere Staaten lehnten den Entwurf ab, weil er keine ausdrückliche Abkehr von Kohle, Öl und Gas enthielt. Es ist das erste Mal seit 2009 ohne Einigung; Umweltorganisationen üben scharfe Kritik.
 
-→ [ORF](https://orf.at/stories/3448884/) · [Die Presse](https://www.diepresse.com/41476077/cop31-praesident-draengt-verhandler-zu-kompromissen) · [BBC](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3448942/) · [Der Standard](https://www.derstandard.at/story/3000000350418/cop31-abschluss-plenum-der-uno-klimakonferenz-in-antalya-gestartet?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41479804/klimakonferenz-erstmals-seit-2009-ohne-einigung)
 
 ## Tech/KI
 
-### KI soll Riemannsche Vermutung gelöst haben
+### Anthropic-Mathematiker will Riemannsche Vermutung bewiesen haben
 
-Der Mathematiker Levent Alpöge von Anthropic hat mithilfe von Claude einen Beweis der Riemannschen Vermutung vorgelegt, eines der größten Probleme der Mathematik. Laut Guardian haben zwei Gruppen den Beweis bestätigt; die Arbeit dauerte rund sechs Wochen.
+Levent Alpöge von Anthropic hat mit Hilfe des KI-Modells Claude nach eigenen Angaben einen Beweis der Riemannschen Vermutung erarbeitet. Zwei Gruppen haben den Beweis laut Guardian verifiziert, Fachleute betonen aber, dass die Prüfung Jahre dauern kann.
 
-→ [Die Presse](https://www.diepresse.com/41476978/ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben) · [Tagesschau](https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html) · [The Guardian](https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai)
+→ [Die Presse](https://www.diepresse.com/41476978/heiliger-gral-anthropic-ki-claude-soll-riemannsche-vermutung-geloest-haben) · [The Guardian](https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai) · [France 24](https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled)
 
-### UN-Gespräche zu „Killerrobotern“ enden mit Minimalkonsens
+### Nvidia-Affäre: Huangs Ex-Geliebte hatte Kontakt zu Chinas Geheimdienst
 
-Die Genfer Beratungen über autonome Waffensysteme brachten nur einen Minimalkonsens: Experten sollen weiter beraten, ein Verhandlungsmandat gibt es nicht. Russland und die USA blockierten, obwohl sich fast 100 Länder für Verhandlungen über ein Verbot ausgesprochen hatten.
+Laut „New York Times“ soll die mutmaßliche Spionin Alice Huang während ihrer Beziehung mit dem damaligen Nvidia-Chef Jensen Huang mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes gehalten haben. In den USA wird nun gefragt, wie China Exportkontrollen für Spitzenchips umgehen konnte.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350351/regeln-f252r-killerroboter-gespr228che-enden-mit-minimalkonsens?ref=rss) · [Die Presse](https://www.diepresse.com/41474952/regeln-fuer-killerroboter-gespraeche-enden-mit-minimalkonsens) · [The Guardian](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse)
+→ [Der Standard](https://www.derstandard.at/story/3000000350460/schl252sselfigur-im-nvidia-skandal-hatte-kontakt-zu-chinas-geheimdienst?ref=rss) · [Die Presse](https://www.diepresse.com/41480906/nvidia-skandal-alice-huang-soll-kontakt-zu-chinas-geheimdienst-gehabt-haben) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy)
 
 ## IT-Security
 
-### Mutmaßlicher Hack der FBI-Kriminaldatenbank NCIC
+### GL.iNet: Ausgenutzte Lücke in Cloud-Fernverwaltung
 
-Laut Medienberichten sind Hacker in die National Crime Information Center-Datenbank des FBI eingedrungen, in der Behörden Haftbefehle, Vorstrafen und Hintergrundprüfungen teilen. Zudem soll ein Zahlungssystem für Landwirte im US-Agrarministerium kompromittiert worden sein. Die Vorfälle reihen sich in eine Serie von IT-Pannen und Angriffen auf US-Behörden ein.
+In den cloudbasierten Fernverwaltungsdiensten von GL.iNet wurde eine Schwachstelle entdeckt, die bereits aktiv ausgenutzt wird. Ein Patch ist verfügbar; Administratoren sollten rasch aktualisieren.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350345/bericht-fbi-untersucht-mutmassliches-eindringen-in-kriminaldatenbank?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack)
+→ [heise online](https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
-### Hackerangriff auf deutsche Bundesagentur für Arbeit
+### Signal warnt vor KI-Agenten im Betriebssystem
 
-Die Bundesagentur für Arbeit wurde Ziel eines Cyberangriffs. Nach bisherigen Erkenntnissen sind sensible Kundendaten, etwa von Leistungsempfängern, nicht betroffen.
+Der verschlüsselte Messenger Signal bezeichnet KI als „existenzielle Gefahr für die Privatsphäre“ und wehrt sich gegen Chat-Spionage durch Agenten, die tief im Betriebssystem verankert werden. Das betrifft die Vertraulichkeit Ende-zu-Ende-verschlüsselter Kommunikation.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350344/hackerangriff-auf-deutsche-bundesagentur-fuer-arbeit?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000350413/ki-ist-eine-existenzielle-gefahr-fuer-die-privatsphaere-signal-wehrt-sich-gegen-chat-spionage?ref=rss)
 
 ## Wissenschaft
 
-### Sonde BepiColombo erreicht Merkur-Umlaufbahn
+### Raumsonde erreicht nach achtjähriger Reise den Merkur
 
-Nach achtjähriger Reise durch das innere Sonnensystem ist die europäisch-japanische Merkur-Sonde BepiColombo an ihrem Zielplaneten angekommen und in eine Umlaufbahn eingeschwenkt.
+Nach achtjährigem Flug ist die Raumsonde beim Merkur angekommen. Die Mission soll die bislang besten Aufnahmen des sonnennächsten Planeten liefern.
 
-→ [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/international/sonde-bepicolombo-umkreist-den-merkur-art-685340)
+→ [BBC](https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss)
 
-### „Unmögliches“ Dreifachsternsystem in 28 Lichtjahren entdeckt
+### GLP-1-Medikamente könnten große Agrarflächen freisetzen
 
-Astronomen fanden in nur 28 Lichtjahren Entfernung ein System aus zwei Weißen Zwergen und einem Roten Zwerg. Nach gängigen Modellen dürfte es so eigentlich nicht existieren.
+Laut einer Analyse könnten Abnehmmedikamente wie GLP-1-Präparate die Nachfrage nach Lebensmitteln so stark senken, dass Ackerland größer als Italien frei würde. Das hätte erhebliche Umweltvorteile.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350118/unmoegliches-dreifachsternsystem-in-kosmischer-nachbarschaft-entdeckt?ref=rss)
+→ [Ars Technica](https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/)
 
 ## Nahost
 
-### Iran greift Bahrain an, Huthi-Angriffe auf Riad abgewehrt
+### Siedler zünden Autos in Westjordanland-Dörfern an
 
-Bahrain meldet einen iranischen Angriff auf eine Industrieanlage mit Brand, aber ohne Verletzte; die Revolutionsgarden erklären, US-Stützpunkte angegriffen zu haben. Saudi-Arabien wehrte erneut Huthi-Angriffe auf Riad mit Drohnen und Marschflugkörpern ab. Iran spricht unterdessen mit katarischen Vermittlern über die Öffnung der Straße von Hormus.
+Militante israelische Siedler griffen drei Dörfer nahe Ramallah an und setzten Fahrzeuge und mehrere Häuser in Brand. Oppositionsführer Gadi Eisenkot sprach von „jüdischem Terrorismus“, die israelischen Behörden ermitteln. Gespräche zwischen Eisenkots Partei und Netanjahus Likud über eine Regierungsbildung endeten ohne Einigung.
 
-→ [ORF](https://orf.at/stories/3448897/) · [Der Standard](https://www.derstandard.at/story/3000000350341/saudi-arabien-erneut-angriffe-der-huthi-miliz-auf-riad-abgewehrt?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss)
+→ [ORF](https://orf.at/stories/3448931/) · [Der Standard](https://www.derstandard.at/story/3000000350406/nahost-j252dische-siedler-z252ndeten-autos-im-westjordanland-an?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss)
 
-### Tote bei israelischen Angriffen in Gaza
+### Trump: Iran feuerte zuletzt mehr Raketen und Drohnen ab
 
-Bei einem israelischen Angriff in Gaza-Stadt wurden nach palästinensischen Angaben drei Mitarbeiter der Hilfsorganisation World Central Kitchen getötet. Insgesamt wurden mindestens vier Menschen getötet.
+US-Präsident Trump sagt, der Iran habe in der vergangenen Woche mehr Drohnen und Raketen abgefeuert als je zuvor seit einem Jahr. Teheran stellte zugleich einen neuen Doppel-Raketenwerfer vor. In der Straße von Hormus stehen laut iranischer Marine Tanker in Brand.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350370/nahost-berichte-252ber-drei-tote-bei-neuem-angriff-israels-in-gaza?ref=rss) · [Die Presse](https://www.diepresse.com/41477288/vier-tote-bei-neuen-israelischen-angriffen-im-gazastreifen)
-
-### Eisenkot lädt Likud zu Koalitionsgesprächen ein
-
-Israels Oppositionsführer Gadi Eisenkot hat die Likud-Partei des geschäftsführenden Premiers Netanjahu zu „Marathon“-Koalitionsgesprächen eingeladen.
-
-→ [ORF](https://orf.at/stories/3448902/) · [France 24](https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks)
+→ [Der Standard](https://www.derstandard.at/story/3000000350461/trump-spricht-von-deutlich-mehr-iranischen-angriffen-zuletzt?ref=rss) · [Die Presse](https://www.diepresse.com/41480905/gegner-einschuechtern-iran-stellt-neuen-raketenwerfer-vor) · [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss)
 
 ## USA
 
-### Schuldspruch im Prozess um das „Palisades“-Feuer
+### Demokraten holen größte Mehrheit im Repräsentantenhaus seit 1992
 
-Eine Geschworenenjury in Los Angeles hat Jonathan Rinderknecht der Brandstiftung für das Palisades-Feuer vom Jänner 2025 schuldig gesprochen. Bei dem Brand starben zwölf Menschen, mehr als 6.800 Gebäude wurden zerstört. Das Strafmaß steht noch aus.
+Nach dem Sieg von Chuck Hubbard in North Carolina stellen die Demokraten ab Januar mindestens 258 der 435 Abgeordneten. Sie kontrollieren damit Repräsentantenhaus und Senat, was erheblichen Widerstand gegen Präsident Trump ermöglicht.
 
-→ [ORF](https://orf.at/stories/3448865/) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html) · [BBC](https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000350462/us-demokraten-erringen-im-repr228sentantenhaus-gr246223te-mehrheit-seit-jahrzehnten?ref=rss) · [ORF](https://orf.at/stories/3448983/) · [ZDFheute](https://www.zdfheute.de/politik/ausland/usa-demokraten-repraesentantenhaus-midterms-wahl-100.html)
 
-### Trump bringt Stabschef Miller als Kandidaten für 2028 ins Spiel
+### US-Armee will Sprengstoff in Iowa trotz Gerichtsbeschluss vernichten
 
-Präsident Trump hat Stabschef Stephen Miller als möglichen Präsidentschaftskandidaten genannt. Vizepräsident Vance und Außenminister Rubio werden ebenfalls Ambitionen auf die republikanische Nominierung 2028 nachgesagt.
+Die US-Armee will in einem Munitionswerk in Iowa rund vier Tonnen instabile Chemikalien (Bleiazid) unter Berufung auf Notfallbefugnisse sprengen, obwohl ein Gericht dies gestoppt hat. Kritiker warnen vor Gesundheits- und Umweltrisiken.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350335/trump-bringt-stabschef-miller-als-praesidentschaftskandidaten-ins-spiel?ref=rss)
+→ [BBC](https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss)
