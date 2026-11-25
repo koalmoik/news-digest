@@ -1,143 +1,143 @@
-# Morgen-Digest · Dienstag, 24. November 2026
+# Morgen-Digest · Mittwoch, 25. November 2026
 
-_Die UN-Klimakonferenz in Antalya ist ohne Einigung zu Ende gegangen, und westliche Geheimdienste warnen vor einem russischen Atomsprengkopf im All. In Österreich übernimmt die WKStA die Benko-Ermittlungen, Wien legt ein Sparbudget mit 1,46 Milliarden Euro Defizit vor._
+_Österreich präsentiert seine erste Drohnenschutzstrategie, im Pilnacek-U-Ausschuss sagen ÖVP-Größen aus. International sorgen geleakte russische Verlustzahlen, Ukraines Angriffe auf Russlands Schiffe vor Libyen und die politisch umstrittene Rückkehr von Nvidia-Chef Huang für Schlagzeilen._
 
 ## Innenpolitik
 
-### WKStA übernimmt Betrugsermittlungen gegen Benko
+### Regierung stellt erste gesamtstaatliche Drohnenstrategie vor
 
-Die deutschen Behörden in Hamburg geben die Ermittlungen gegen René Benko an die Wirtschafts- und Korruptionsstaatsanwaltschaft ab. Begründet wird das damit, dass die Beschuldigten und die betroffenen Projektgesellschaften ihren Sitz in Österreich haben.
+Nach wiederholten Luftraumverletzungen durch Drohnen in Europa hat die Bundesregierung eine Schutzstrategie präsentiert. Betreiber kritischer Infrastruktur sollen Drohnen künftig selbst abschießen dürfen. Viele technische und finanzielle Fragen sind noch offen.
 
-→ [ORF](https://orf.at/stories/3449075/) · [Die Presse](https://www.diepresse.com/41485960/wksta-uebernimmt-aus-hamburg-betrugsermittlungen-gegen-benko)
+→ [ORF](https://orf.at/stories/3449119/) · [Der Standard](https://www.derstandard.at/story/3000000350756/wie-oesterreich-kuenftig-drohnen-abwehren-will?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000350814/regierung-hat-neue-drohnenschutzstrategie-pr228sentiert?ref=rss)
 
-### Wiens Budget 2027: Defizit von 1,46 Milliarden Euro
+### Pilnacek-U-Ausschuss befragt Sobotka und Edtstadler
 
-Die Stadt Wien setzt ihren Sparkurs fort, fast alle Ressorts müssen Einschnitte hinnehmen. Der Fonds Soziales Wien erhält rund 100 Millionen Euro weniger, neue Abgaben sind laut Bericht nicht geplant.
+In der Befragungswoche des parlamentarischen Ausschusses sagten Ex-Nationalratspräsident Wolfgang Sobotka und Europaministerin Karoline Edtstadler aus. Edtstadler beschrieb ihr Verhältnis zum 2023 verstorbenen Justiz-Sektionschef Pilnacek als teils „frostig“. Sobotka sprach unter anderem über eine „KGB“-Aufnahme und eine Interventionsliste.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350492/wien-setzt-sparkurs-fort-das-defizit-2027-betraegt-aber-146-milliarden-euro?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41473862/wiener-budget-2027-sieben-fragen-zum-milliardenloch-der-stadt)
-
-### Stocker will Sexualstrafrecht nach Freisprüchen verschärfen
-
-Nach Freisprüchen in einem Vergewaltigungsprozess will Bundeskanzler Stocker das Strafrecht ändern: Künftig soll auch bestraft werden können, wer Teil einer Gruppe ist, in der jemand ein Sexualdelikt begeht. Strafrechtsprofessor Kert sieht den Vorschlag potenziell kritisch.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000350415/wegen-freispruechen-nach-vergewaltigungs-anklage-stocker-will-strafrecht-verschaerfen?ref=rss) · [ORF](https://orf.at/stories/3449068/)
+→ [ORF](https://orf.at/stories/3449159/) · [ORF](https://orf.at/stories/3449158/) · [Der Standard](https://www.derstandard.at/story/3000000350762/sobotka-in-u-ausschuss-ueber-kgb-aufnahme-ratgebergespraech-und-eine-interventionsliste?ref=rss)
 
 ## EU
 
-### EU-Budgetentwurf stößt auf breite Ablehnung
+### EU-Kommission: Österreich bei Defizitabbau planmäßig unterwegs
 
-Auch der Kompromissplan von Ratspräsident Costa zum mehrjährigen EU-Finanzrahmen findet keine Zustimmung. Bundeskanzler Stocker und die Visegrád-Staaten nannten den Entwurf in Bratislava inakzeptabel; Regierungen, Bauern und Regionen ringen vor dem EU-Gipfel um künftige Mittel.
+Im Herbstpaket zu den nationalen Haushalten gab es für Österreich keine bösen Überraschungen. Deutschland kam laut Kommission nur knapp an einem Verstoß gegen die Fiskalregeln vorbei, Frankreich drohen ohne beschlossenes Budget Sanktionen.
 
-→ [ORF](https://orf.at/stories/3449074/) · [Der Standard](https://www.derstandard.at/story/3000000350399/auch-costas-kompromissplan-zu-eu-rahmenbudget-stoesst-auf-breite-ablehnung?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/visegrad-four-plus-austria-leaders-slam-eu-budget/)
+→ [ORF](https://orf.at/stories/3449163/) · [Der Standard](https://www.derstandard.at/story/3000000350840/oesterreich-laut-eu-kommission-bei-defizit-planmaessig-unterwegs?ref=rss) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/germany-and-france-warned-against-breaching-eu-fiscal-rules/)
 
-### Neues Sanktionspaket: Keine Athleten mehr unter russischer Flagge
+### EU begrenzt Import chinesischer Hybridautos mit Quote
 
-Die EU-Kommission schlägt vor, dass russische Sportler und Teams nicht mehr unter russischer Flagge bei Sportevents in der EU antreten dürfen. Brüssel kündigt weitere Sanktionen an, bis Russland echte Bereitschaft zu einem dauerhaften Frieden zeigt.
+Ab Dezember gilt eine vorläufige Obergrenze von knapp 350.000 Fahrzeugen pro Jahr. Im Vorjahr waren mehr als 300.000 chinesische Hybrid- und Plug-in-Hybridautos importiert worden. Die Quote soll europäische Hersteller vor billiger Konkurrenz schützen.
 
-→ [ORF](https://orf.at/stories/3449052/) · [Tagesschau](https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/eu-targets-russian-athletes-soldiers-in-fresh-sanctions-package/)
+→ [ZDFheute](https://www.zdfheute.de/wirtschaft/eu-importquote-hybridautos-china-100.html) · [Deutsche Welle](https://www.dw.com/de/eu-macht-ernst-erste-importquoten-für-hybridautos-aus-china/a-80030678?maca=de-rss-de-all-1119-rdf) · [Tagesschau](https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html)
 
 ## Welt
 
-### Ukraine versenkt russisches Kriegsschiff vor Libyen
+### Datenleck zeigt: Bis zu 720.000 russische Soldaten im Krieg gefallen
 
-Die Ukraine bekennt sich zu Angriffen auf die russische Marine; die Korvette „Merkury“ wurde in einem libyschen Hafen versenkt, zwei Frachter wurden zerstört. Russland kündigt weitere Angriffe als Antwort an, Experten sprechen von einer gefährlichen Eskalation.
+Ein Hack der russischen Statistikbehörde Rosstat legt offen, was Moskau als Staatsgeheimnis hütet. Demnach wurde der Krieg 2025 zur führenden Todesursache russischer Männer unter 65 Jahren. Die Schätzungen reichen je nach Quelle von rund 500.000 bis 720.000 Toten.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000350445/u?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html) · [Tagesschau](https://www.tagesschau.de/ukraine-angriffe-ostsee-libyen-100.html)
+→ [ORF](https://orf.at/stories/3449103/) · [Der Standard](https://www.derstandard.at/story/3000000350731/bis-zu-700000-russen-im-ukrainekrieg-gefallen-was-der-hack-bei-russlands-statistikamt-noch-offenbart?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
 
-### Geheimdienste: Russland bereitet Atomwaffe im All vor
+### Ukraine greift russische Schiffe vor Libyen an – Italien besorgt
 
-Laut Recherchen mehrerer Medien gehen westliche Geheimdienste davon aus, dass Russland noch dieses Jahr einen Satelliten mit einem nuklearen Sprengkopf in den Orbit bringen könnte. Eine Detonation könnte tausende Satelliten beschädigen oder ausschalten.
+Die Ukraine bekennt sich zu Angriffen mit Marinedrohnen auf russische Schiffe nahe Bengasi, zwei libysche Soldaten starben. Italien äußerte gegenüber Kiew Sorge, dass die Angriffe Libyen destabilisieren könnten.
 
-→ [ORF](https://orf.at/stories/3448989/) · [Tagesschau](https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html) · [Ars Technica](https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/)
+→ [ORF](https://orf.at/stories/3449155/) · [France 24](https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi) · [Politico Europe](https://www.politico.eu/article/ukraine-strikes-russian-ships-libya-giorgia-meloni-italy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
 ## Wirtschaft
 
-### Huang kehrt an Nvidia-Spitze zurück, Börsen erholen sich
+### USA planen neue Zölle gegen 16 Handelspartner
 
-Der Nvidia-Verwaltungsrat hat Jensen Huang nach seinem Rücktritt wegen einer Spionageaffäre wieder als Konzernchef eingesetzt. Die Märkte in den USA und Asien reagierten mit kräftigen Kursgewinnen, Präsident Trump reklamiert die Rückkehr für sich.
+Insidern zufolge bereitet Washington wegen angeblicher industrieller Überkapazitäten eine neue Zollrunde vor, die unter anderem die EU und China treffen könnte. Hintergrund ist, dass der Supreme Court frühere Zölle gekippt hatte. Höhe und Ausnahmen sind noch unklar.
 
-→ [ORF](https://orf.at/stories/3449046/) · [Der Standard](https://www.derstandard.at/story/3000000350687/rueckkehr-von-nvidia-chef-jensen-huang-begeistert-auch-asiatische-anleger?ref=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive)
+→ [ORF](https://orf.at/stories/3449176/) · [Der Standard](https://www.derstandard.at/story/3000000350865/usa-planen-neue-z246lle-wegen-220berkapazit228ten-insider?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html)
+
+### Julian Jäger soll neuer ÖBB-Chef werden
+
+Das Aufsichtsratspräsidium der Bundesbahnen einigte sich Medienberichten zufolge auf den bisherigen Flughafen-Wien-Vorstand. Damit ist das Duell innerhalb der SPÖ um den Posten so gut wie entschieden.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000350864/medienberichte-julian-jaeger-soll-offenbar-neuer-oebb-chef-werden?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41488534/die-weichen-sind-gestellt-julian-jaeger-soll-oebb-chef-werden)
+
+### Huawei in den USA wegen Betrugs und Geheimnisdiebstahls verurteilt
+
+Eine Jury in Brooklyn sprach den chinesischen Konzern unter anderem wegen Bankbetrugs und Verschwörung zum Diebstahl von Geschäftsgeheimnissen schuldig. Vom schwersten Vorwurf, der Bildung einer kriminellen Vereinigung (Racketeering), wurde Huawei freigesprochen.
+
+→ [ORF](https://orf.at/stories/3449192/) · [Der Standard](https://www.derstandard.at/story/3000000350873/us-gericht-spricht-huawei-wegen-betrugs-schuldig?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
 
 ## Klima
 
-### Klimagipfel COP31 endet ohne Abschlusserklärung
+### Nach gescheiterter COP31 wächst Kritik am Verhandlungsformat
 
-Die Konferenz im türkischen Antalya ist ohne Einigung zu Ende gegangen, erstmals seit 2009 ohne Konsens. Streitpunkte waren fossile Energien und Klimafinanzierung; Delegierte werfen Saudi-Arabien übermäßigen Einfluss vor.
+Die Klimakonferenz im türkischen Antalya wird von vielen als gescheitert betrachtet. Die EU-Kommission weist Kritik zurück, die EU-Klimafinanzierung sei schuld gewesen. Die Sinnfrage der Konferenzen wird neu gestellt.
 
-→ [ORF](https://orf.at/stories/3449012/) · [Der Standard](https://www.derstandard.at/story/3000000350470/cop31-unterh228ndler-orten-zu-gro223en-einfluss-von-saudi-arabien?ref=rss) · [Ars Technica](https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/)
-
-### Rechnungshof: Hohe Förderungen verteuerten Heizungstausch
-
-Die Kosten für einen Heizungstausch sind laut Rechnungshof von 2020 bis 2024 um 60 Prozent gestiegen. Eine Wifo-Ökonomin sieht die hohen Fördersätze als Mitursache, weil sie die Nachfrage erhöhten.
-
-→ [ORF](https://orf.at/stories/3449049/) · [Der Standard](https://www.derstandard.at/story/3000000350569/wifo-oekonomin-hohe-foerderung-duerfte-heizungstausch-verteuert-haben?ref=rss)
+→ [ORF](https://orf.at/stories/3449130/) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/this-cop-did-not-fail-because-of-climate-finance/)
 
 ## Tech/KI
 
-### US-Banken beschränken Zugriffsrechte für KI-Agenten
+### Tech-Ausverkauf: Nvidia fällt, Anthropic-Aktie unter Ausgabepreis
 
-Immer mehr Banken, Behörden und Firmen in den USA schränken ein, worauf KI-Agenten zugreifen dürfen. Das betrifft sowohl Agenten von Kunden als auch intern eingesetzte Modelle.
+Die Euphorie nach der Rückkehr von Nvidia-Chef Huang verflog rasch, Technologiewerte gaben weltweit nach. Die Aktie von Anthropic schloss bei 81,90 Dollar und damit unter dem Preis zum Börsenstart vor einer Woche. Anleger zweifeln zunehmend am KI-Boom.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350613/ausser-kontrolle-us-banken-beschraenken-zugriffsrechte-fuer-ki-agenten?ref=rss) · [Die Presse](https://www.diepresse.com/41484518/us-banken-beschraenken-zugriffsrechte-fuer-ki-agenten)
+→ [Der Standard](https://www.derstandard.at/story/3000000350866/aktie-von-anthropic-rutscht-unter-den-ausgabepreis?ref=rss) · [The Guardian](https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss)
 
-### USA sperren Cloud-Firma Megaspeed nach Nvidia-Affäre
+### Microsoft ruft nach weltweitem Ausfall „Code Red“ aus
 
-Das US-Handelsministerium setzt die singapurische Firma Megaspeed auf die Sperrliste für Exporte. Sie soll KI-Chips nach China weitergeleitet haben; republikanische Senatoren kritisieren zugleich Huangs Rückkehr.
+Nach einem folgenschweren Cloud-Ausfall hat Microsoft intern die höchste Alarmstufe verhängt. Künftig sollen solche Störungen innerhalb einer Stunde behoben werden.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350688/usa-setzen-nvidia-kunden-megaspeed-auf-schwarze-liste?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia) · [BBC](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3449179/) · [Die Presse](https://www.diepresse.com/41489283/microsoft-sucht-nach-ausfall-mit-code-red-nach-verbesserungen) · [Ars Technica](https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/)
 
 ## IT-Security
 
-### Hacker dringen in Webseite des Außenministeriums ein
+### Microsoft Entra Connect Health: Sicherheitslücke führte zu Datenabfluss
 
-Das österreichische Außenministerium bestätigte, dass Angreifer eine seiner Webseiten kompromittiert und auf Namen und Kontaktdaten von Diplomaten zugegriffen haben. Zudem wurde die EU-Kommission Ziel eines Cyberangriffs, bei dem auch externe Nutzer betroffen waren.
+Microsoft informiert über unbefugte Zugriffe durch eine Schwachstelle in der API von Entra Connect Health. Dabei sind Daten abgeflossen; betroffene Kunden werden benachrichtigt.
 
-→ [The Record](https://therecord.media/austrian-foreign-ministry-says-website-hacked) · [Rapporteur (ex-Euractiv)](https://www.rapporteur.com/news/external-users-of-eu-website-caught-up-in-commission-cyberattack/)
+→ [heise online](https://www.heise.de/news/Microsoft-Entra-Datenabfluss-bei-Connect-Health-11535576.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [heise Security](https://www.heise.de/news/Microsoft-Entra-Datenabfluss-bei-Connect-Health-11535576.html)
 
-### Ghostscript-Lücke „Upload2Shell“ gefährdet viele Systeme
+### CISA warnt vor ausgenutzter Lücke in N-able Mail Assure
 
-Eine Schwachstelle in Ghostscript gefährdet diverse Betriebssysteme, Programme und Dienste im Netz. Administratoren sollten verfügbare Updates einspielen.
+Angreifer missbrauchen Sicherheitslücken in N-able Mail Assure sowie in der medizinischen KI-Software Monai Label. Die US-Behörde CISA verpflichtet Bundesbehörden, die Lücke bis Thanksgiving zu schließen.
 
-→ [heise Security](https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html)
+→ [heise Security](https://www.heise.de/news/Cyberattacken-auf-N-able-Mail-Assure-und-Monai-Label-11535820.html) · [The Record](https://therecord.media/cisa-nable-cybersecurity-bug)
 
-### Angriffe auf Cisco Expressway und SAP NetWeaver
+### Zahlungsdienstleister Cleverbridge: Kreditkartendaten abgegriffen
 
-Angreifer nutzen aktiv Sicherheitslücken in Cisco Expressway und SAP NetWeaver aus. Betroffene Organisationen sollten Patches prüfen und einspielen.
+Anfang November haben Angreifer sensible Daten beim Dienstleister Cleverbridge erbeutet, darunter Kreditkartendaten. Das Unternehmen räumte den Vorfall nun ein.
 
-→ [heise online](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [CERT.at](https://www.cert.at/de/tagesberichte/2026/11/tagesberichte-23112026)
+→ [heise online](https://www.heise.de/news/Datenleck-bei-Cleverbridge-Kreditkartendaten-abgegriffen-11535956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
 ## Wissenschaft
 
-### KI soll Riemannsche Vermutung bewiesen haben
+### KI-gestützter Beweis der Riemann-Vermutung wirft Fragen auf
 
-Mit Hilfe von Claude soll der Mathematiker Levent Alpöge das berühmteste offene Problem der Mathematik gelöst haben. Die Fachwelt zeigt sich überrascht und prüft den Beweis.
+Ein Beweis liegt als 17 Millionen Zeilen Code vor und erscheint laut Fachleuten solide, doch niemand versteht ihn bisher vollständig. Wenige Tage später legten Anthropic und OpenAI fast zeitgleich Beweise für das Problem VP ≠ VNP der theoretischen Informatik vor.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350504/wie-der-ki-beweis-der-riemannschen-vermutung-die-fachwelt-ueberraschte?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000350538/levent-alpoege-der-mann-der-den-gral-der-mathematik-fand?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41482629/eine-ki-hat-die-riemannsche-vermutung-bewiesen-erdbeben-oder-pfeiler-fuer-die-mathematik)
+→ [SRF](https://www.srf.ch/news/beweis-in-17-millionen-zeilen-ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben) · [heise online](https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [Ars Technica](https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/)
 
 ## Nahost
 
-### Oxfam: Fast der gesamte Gazastreifen schadstoffbelastet
+### Huthi greifen Riad an und rücken auf Aden vor
 
-Laut einem Bericht der Hilfsorganisation sind Luft, Boden und Wasser im Gazastreifen so stark belastet, dass sie noch über Jahrzehnte eine Gefahr darstellen. Genannt werden unter anderem Asbest in den Trümmern und verseuchtes Wasser.
+Bei einem Huthi-Angriff auf das höchste Gebäude Riads wurden elf Menschen verletzt. Jemens Armee warnt, die Huthi stünden etwa 60 Kilometer vor Aden. Eine saudisch geführte Koalition griff Ziele im Jemen an, darunter den Hafen von Hodeidah.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350627/oxfam-bericht-gefaehrliche-schadstoffbelastung-fast-im-gesamten-gazastreifen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html)
+→ [ORF](https://orf.at/stories/3449175/) · [Der Standard](https://www.derstandard.at/story/3000000350863/elf-verletzte-bei-houthi-angriff-auf-h246chsten-wolkenkratzer-in-riad?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/militaerkoalition-greift-ziele-im-jemen-an-art-685883) · [France 24](https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden)
 
-### Iran-Krieg: Minen im Hormus, Teheran fordert Reparationen
+### Iran peitscht Sängerin Parastoo Ahmadi aus – UNO verurteilt Strafe
 
-Die Revolutionsgarden melden, dass drei Öltanker nach Minentreffern in der Straße von Hormus Feuer gefangen haben. Iran verlangt laut Staatsfernsehen 290 Milliarden Dollar Reparationen von den USA, Katar versucht die Gespräche wiederzubeleben.
+Die 29-Jährige erhielt 74 Hiebe wegen eines ohne Kopftuch gestreamten Konzerts. UN-Menschenrechtskommissar Türk nannte die Strafe „abscheulich“.
 
-→ [Die Presse](https://www.diepresse.com/41485882/iran-verlangt-290-milliarden-dollar-reparationen-von-den-usa) · [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss)
+→ [ORF](https://orf.at/stories/3449189/) · [Der Standard](https://www.derstandard.at/story/3000000350871/auspeitschung-von-iranischer-s228ngerin-international-verurteilt?ref=rss) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss)
 
 ## USA
 
-### Trump fordert schnellere Vollstreckung von Todesurteilen
+### Huangs Nvidia-Comeback: Kongress und Trump im Streit
 
-Der Präsident wies das Justizministerium an, bundesweit verhängte Todesstrafen zügiger zu vollstrecken. Anlass ist die Umwandlung aller 548 Todesurteile in Kalifornien in lebenslange Haft durch Gouverneur Newsom.
+Nvidia-Chef Jensen Huang ist elf Tage nach seinem Rücktritt zurück, weil Präsident Trump persönlich im Vorstand interveniert haben soll. Republikaner und Demokraten kritisieren das scharf, Schumer wirft Huang Verstöße gegen Exportkontrollen vor. Die USA setzten zudem die Cloud-Firma Megaspeed auf die schwarze Liste.
 
-→ [ORF](https://orf.at/stories/3449080/) · [Der Standard](https://www.derstandard.at/story/3000000350686/umgang-mit-todesstrafe-trump-fuer-schnellere-vollstreckung?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/trump-fuer-schnellere-vollstreckung-von-todesurteilen-art-685644)
+→ [Der Standard](https://www.derstandard.at/story/3000000350707/scharfe-kritik-von-republikanern-und-demokraten-an-trumps-unterstuetzung-fuer-jensen-huang?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html) · [SRF](https://www.srf.ch/news/wirtschaft/us-chiphersteller-nvidia-trump-draengte-auf-huangs-rueckkehr-und-erzuernt-damit-den-kongress) · [Der Standard](https://www.derstandard.at/story/3000000350688/usa-setzen-nvidia-kunden-megaspeed-auf-schwarze-liste?ref=rss)
 
-### Demokraten mit größter Mehrheit im Repräsentantenhaus seit Jahrzehnten
+### Trump will Todesstrafe schneller vollstrecken lassen
 
-Nach den Midterms stellen die Demokraten mindestens 258 von 435 Sitzen. In der Partei wird diskutiert, wie sie die Mehrheit nutzen sollen; im Senat muss sich Fraktionschef Schumer einem Gegenkandidaten stellen.
+Nach der Umwandlung aller 548 kalifornischen Todesurteile in lebenslange Haft durch Gouverneur Newsom fordert Trump zügigere Vollstreckungen. Sobald ein Urteil gefällt sei, müsse es unweigerlich vollzogen werden.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350462/us-demokraten-erringen-im-repr228sentantenhaus-gr246223te-mehrheit-seit-jahrzehnten?ref=rss) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss) · [Die Presse 🔒](https://www.diepresse.com/41485494/demokraten-wollen-chuck-schumer-abservieren)
+→ [Der Standard](https://www.derstandard.at/story/3000000350686/umgang-mit-todesstrafe-trump-fuer-schnellere-vollstreckung?ref=rss) · [Deutsche Welle](https://www.dw.com/de/trump-will-todesstrafe-schneller-vollstrecken-lassen/a-80028901?maca=de-rss-de-all-1119-rdf)

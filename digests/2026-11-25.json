@@ -1,0 +1,420 @@
+{
+ "date": "2026-11-25",
+ "title": "Morgen-Digest · Mittwoch, 25. November 2026",
+ "generated": "2026-11-25T06:06+01:00",
+ "intro": "Österreich präsentiert seine erste Drohnenschutzstrategie, im Pilnacek-U-Ausschuss sagen ÖVP-Größen aus. International sorgen geleakte russische Verlustzahlen, Ukraines Angriffe auf Russlands Schiffe vor Libyen und die politisch umstrittene Rückkehr von Nvidia-Chef Huang für Schlagzeilen.",
+ "topics": [
+  {
+   "name": "Innenpolitik",
+   "items": [
+    {
+     "id": "2026-11-25-01",
+     "title": "Regierung stellt erste gesamtstaatliche Drohnenstrategie vor",
+     "summary": "Nach wiederholten Luftraumverletzungen durch Drohnen in Europa hat die Bundesregierung eine Schutzstrategie präsentiert. Betreiber kritischer Infrastruktur sollen Drohnen künftig selbst abschießen dürfen. Viele technische und finanzielle Fragen sind noch offen.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449119/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350756/wie-oesterreich-kuenftig-drohnen-abwehren-will?ref=rss"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350814/regierung-hat-neue-drohnenschutzstrategie-pr228sentiert?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-02",
+     "title": "Pilnacek-U-Ausschuss befragt Sobotka und Edtstadler",
+     "summary": "In der Befragungswoche des parlamentarischen Ausschusses sagten Ex-Nationalratspräsident Wolfgang Sobotka und Europaministerin Karoline Edtstadler aus. Edtstadler beschrieb ihr Verhältnis zum 2023 verstorbenen Justiz-Sektionschef Pilnacek als teils „frostig“. Sobotka sprach unter anderem über eine „KGB“-Aufnahme und eine Interventionsliste.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449159/"
+      },
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449158/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350762/sobotka-in-u-ausschuss-ueber-kgb-aufnahme-ratgebergespraech-und-eine-interventionsliste?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "EU",
+   "items": [
+    {
+     "id": "2026-11-25-03",
+     "title": "EU-Kommission: Österreich bei Defizitabbau planmäßig unterwegs",
+     "summary": "Im Herbstpaket zu den nationalen Haushalten gab es für Österreich keine bösen Überraschungen. Deutschland kam laut Kommission nur knapp an einem Verstoß gegen die Fiskalregeln vorbei, Frankreich drohen ohne beschlossenes Budget Sanktionen.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449163/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350840/oesterreich-laut-eu-kommission-bei-defizit-planmaessig-unterwegs?ref=rss"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/germany-and-france-warned-against-breaching-eu-fiscal-rules/"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-04",
+     "title": "EU begrenzt Import chinesischer Hybridautos mit Quote",
+     "summary": "Ab Dezember gilt eine vorläufige Obergrenze von knapp 350.000 Fahrzeugen pro Jahr. Im Vorjahr waren mehr als 300.000 chinesische Hybrid- und Plug-in-Hybridautos importiert worden. Die Quote soll europäische Hersteller vor billiger Konkurrenz schützen.",
+     "sources": [
+      {
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/wirtschaft/eu-importquote-hybridautos-china-100.html"
+      },
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/eu-macht-ernst-erste-importquoten-für-hybridautos-aus-china/a-80030678?maca=de-rss-de-all-1119-rdf"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welt",
+   "items": [
+    {
+     "id": "2026-11-25-05",
+     "title": "Datenleck zeigt: Bis zu 720.000 russische Soldaten im Krieg gefallen",
+     "summary": "Ein Hack der russischen Statistikbehörde Rosstat legt offen, was Moskau als Staatsgeheimnis hütet. Demnach wurde der Krieg 2025 zur führenden Todesursache russischer Männer unter 65 Jahren. Die Schätzungen reichen je nach Quelle von rund 500.000 bis 720.000 Toten.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449103/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350731/bis-zu-700000-russen-im-ukrainekrieg-gefallen-was-der-hack-bei-russlands-statistikamt-noch-offenbart?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-06",
+     "title": "Ukraine greift russische Schiffe vor Libyen an – Italien besorgt",
+     "summary": "Die Ukraine bekennt sich zu Angriffen mit Marinedrohnen auf russische Schiffe nahe Bengasi, zwei libysche Soldaten starben. Italien äußerte gegenüber Kiew Sorge, dass die Angriffe Libyen destabilisieren könnten.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449155/"
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi"
+      },
+      {
+       "name": "Politico Europe",
+       "url": "https://www.politico.eu/article/ukraine-strikes-russian-ships-libya-giorgia-meloni-italy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wirtschaft",
+   "items": [
+    {
+     "id": "2026-11-25-07",
+     "title": "USA planen neue Zölle gegen 16 Handelspartner",
+     "summary": "Insidern zufolge bereitet Washington wegen angeblicher industrieller Überkapazitäten eine neue Zollrunde vor, die unter anderem die EU und China treffen könnte. Hintergrund ist, dass der Supreme Court frühere Zölle gekippt hatte. Höhe und Ausnahmen sind noch unklar.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449176/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350865/usa-planen-neue-z246lle-wegen-220berkapazit228ten-insider?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-08",
+     "title": "Julian Jäger soll neuer ÖBB-Chef werden",
+     "summary": "Das Aufsichtsratspräsidium der Bundesbahnen einigte sich Medienberichten zufolge auf den bisherigen Flughafen-Wien-Vorstand. Damit ist das Duell innerhalb der SPÖ um den Posten so gut wie entschieden.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350864/medienberichte-julian-jaeger-soll-offenbar-neuer-oebb-chef-werden?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41488534/die-weichen-sind-gestellt-julian-jaeger-soll-oebb-chef-werden",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-09",
+     "title": "Huawei in den USA wegen Betrugs und Geheimnisdiebstahls verurteilt",
+     "summary": "Eine Jury in Brooklyn sprach den chinesischen Konzern unter anderem wegen Bankbetrugs und Verschwörung zum Diebstahl von Geschäftsgeheimnissen schuldig. Vom schwersten Vorwurf, der Bildung einer kriminellen Vereinigung (Racketeering), wurde Huawei freigesprochen.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449192/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350873/us-gericht-spricht-huawei-wegen-betrugs-schuldig?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Klima",
+   "items": [
+    {
+     "id": "2026-11-25-10",
+     "title": "Nach gescheiterter COP31 wächst Kritik am Verhandlungsformat",
+     "summary": "Die Klimakonferenz im türkischen Antalya wird von vielen als gescheitert betrachtet. Die EU-Kommission weist Kritik zurück, die EU-Klimafinanzierung sei schuld gewesen. Die Sinnfrage der Konferenzen wird neu gestellt.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449130/"
+      },
+      {
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/this-cop-did-not-fail-because-of-climate-finance/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech/KI",
+   "items": [
+    {
+     "id": "2026-11-25-11",
+     "title": "Tech-Ausverkauf: Nvidia fällt, Anthropic-Aktie unter Ausgabepreis",
+     "summary": "Die Euphorie nach der Rückkehr von Nvidia-Chef Huang verflog rasch, Technologiewerte gaben weltweit nach. Die Aktie von Anthropic schloss bei 81,90 Dollar und damit unter dem Preis zum Börsenstart vor einer Woche. Anleger zweifeln zunehmend am KI-Boom.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350866/aktie-von-anthropic-rutscht-unter-den-ausgabepreis?ref=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-12",
+     "title": "Microsoft ruft nach weltweitem Ausfall „Code Red“ aus",
+     "summary": "Nach einem folgenschweren Cloud-Ausfall hat Microsoft intern die höchste Alarmstufe verhängt. Künftig sollen solche Störungen innerhalb einer Stunde behoben werden.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449179/"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41489283/microsoft-sucht-nach-ausfall-mit-code-red-nach-verbesserungen"
+      },
+      {
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IT-Security",
+   "items": [
+    {
+     "id": "2026-11-25-13",
+     "title": "Microsoft Entra Connect Health: Sicherheitslücke führte zu Datenabfluss",
+     "summary": "Microsoft informiert über unbefugte Zugriffe durch eine Schwachstelle in der API von Entra Connect Health. Dabei sind Daten abgeflossen; betroffene Kunden werden benachrichtigt.",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Microsoft-Entra-Datenabfluss-bei-Connect-Health-11535576.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      },
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Microsoft-Entra-Datenabfluss-bei-Connect-Health-11535576.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-14",
+     "title": "CISA warnt vor ausgenutzter Lücke in N-able Mail Assure",
+     "summary": "Angreifer missbrauchen Sicherheitslücken in N-able Mail Assure sowie in der medizinischen KI-Software Monai Label. Die US-Behörde CISA verpflichtet Bundesbehörden, die Lücke bis Thanksgiving zu schließen.",
+     "sources": [
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Cyberattacken-auf-N-able-Mail-Assure-und-Monai-Label-11535820.html"
+      },
+      {
+       "name": "The Record",
+       "url": "https://therecord.media/cisa-nable-cybersecurity-bug"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-15",
+     "title": "Zahlungsdienstleister Cleverbridge: Kreditkartendaten abgegriffen",
+     "summary": "Anfang November haben Angreifer sensible Daten beim Dienstleister Cleverbridge erbeutet, darunter Kreditkartendaten. Das Unternehmen räumte den Vorfall nun ein.",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Datenleck-bei-Cleverbridge-Kreditkartendaten-abgegriffen-11535956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wissenschaft",
+   "items": [
+    {
+     "id": "2026-11-25-16",
+     "title": "KI-gestützter Beweis der Riemann-Vermutung wirft Fragen auf",
+     "summary": "Ein Beweis liegt als 17 Millionen Zeilen Code vor und erscheint laut Fachleuten solide, doch niemand versteht ihn bisher vollständig. Wenige Tage später legten Anthropic und OpenAI fast zeitgleich Beweise für das Problem VP ≠ VNP der theoretischen Informatik vor.",
+     "sources": [
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/beweis-in-17-millionen-zeilen-ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      },
+      {
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nahost",
+   "items": [
+    {
+     "id": "2026-11-25-17",
+     "title": "Huthi greifen Riad an und rücken auf Aden vor",
+     "summary": "Bei einem Huthi-Angriff auf das höchste Gebäude Riads wurden elf Menschen verletzt. Jemens Armee warnt, die Huthi stünden etwa 60 Kilometer vor Aden. Eine saudisch geführte Koalition griff Ziele im Jemen an, darunter den Hafen von Hodeidah.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449175/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350863/elf-verletzte-bei-houthi-angriff-auf-h246chsten-wolkenkratzer-in-riad?ref=rss"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/weltpolitik/militaerkoalition-greift-ziele-im-jemen-an-art-685883",
+       "paywall": true
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-18",
+     "title": "Iran peitscht Sängerin Parastoo Ahmadi aus – UNO verurteilt Strafe",
+     "summary": "Die 29-Jährige erhielt 74 Hiebe wegen eines ohne Kopftuch gestreamten Konzerts. UN-Menschenrechtskommissar Türk nannte die Strafe „abscheulich“.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449189/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350871/auspeitschung-von-iranischer-s228ngerin-international-verurteilt?ref=rss"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "USA",
+   "items": [
+    {
+     "id": "2026-11-25-19",
+     "title": "Huangs Nvidia-Comeback: Kongress und Trump im Streit",
+     "summary": "Nvidia-Chef Jensen Huang ist elf Tage nach seinem Rücktritt zurück, weil Präsident Trump persönlich im Vorstand interveniert haben soll. Republikaner und Demokraten kritisieren das scharf, Schumer wirft Huang Verstöße gegen Exportkontrollen vor. Die USA setzten zudem die Cloud-Firma Megaspeed auf die schwarze Liste.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350707/scharfe-kritik-von-republikanern-und-demokraten-an-trumps-unterstuetzung-fuer-jensen-huang?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html"
+      },
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/wirtschaft/us-chiphersteller-nvidia-trump-draengte-auf-huangs-rueckkehr-und-erzuernt-damit-den-kongress"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350688/usa-setzen-nvidia-kunden-megaspeed-auf-schwarze-liste?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-20",
+     "title": "Trump will Todesstrafe schneller vollstrecken lassen",
+     "summary": "Nach der Umwandlung aller 548 kalifornischen Todesurteile in lebenslange Haft durch Gouverneur Newsom fordert Trump zügigere Vollstreckungen. Sobald ein Urteil gefällt sei, müsse es unweigerlich vollzogen werden.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350686/umgang-mit-todesstrafe-trump-fuer-schnellere-vollstreckung?ref=rss"
+      },
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/trump-will-todesstrafe-schneller-vollstrecken-lassen/a-80028901?maca=de-rss-de-all-1119-rdf"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

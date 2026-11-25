@@ -1,55 +1,47 @@
 {
- "date": "2026-11-24",
- "title": "Morgen-Digest · Dienstag, 24. November 2026",
- "generated": "2026-11-24T06:06+01:00",
- "intro": "Die UN-Klimakonferenz in Antalya ist ohne Einigung zu Ende gegangen, und westliche Geheimdienste warnen vor einem russischen Atomsprengkopf im All. In Österreich übernimmt die WKStA die Benko-Ermittlungen, Wien legt ein Sparbudget mit 1,46 Milliarden Euro Defizit vor.",
+ "date": "2026-11-25",
+ "title": "Morgen-Digest · Mittwoch, 25. November 2026",
+ "generated": "2026-11-25T06:06+01:00",
+ "intro": "Österreich präsentiert seine erste Drohnenschutzstrategie, im Pilnacek-U-Ausschuss sagen ÖVP-Größen aus. International sorgen geleakte russische Verlustzahlen, Ukraines Angriffe auf Russlands Schiffe vor Libyen und die politisch umstrittene Rückkehr von Nvidia-Chef Huang für Schlagzeilen.",
  "topics": [
   {
    "name": "Innenpolitik",
    "items": [
     {
-     "id": "2026-11-24-01",
-     "title": "WKStA übernimmt Betrugsermittlungen gegen Benko",
-     "summary": "Die deutschen Behörden in Hamburg geben die Ermittlungen gegen René Benko an die Wirtschafts- und Korruptionsstaatsanwaltschaft ab. Begründet wird das damit, dass die Beschuldigten und die betroffenen Projektgesellschaften ihren Sitz in Österreich haben.",
+     "id": "2026-11-25-01",
+     "title": "Regierung stellt erste gesamtstaatliche Drohnenstrategie vor",
+     "summary": "Nach wiederholten Luftraumverletzungen durch Drohnen in Europa hat die Bundesregierung eine Schutzstrategie präsentiert. Betreiber kritischer Infrastruktur sollen Drohnen künftig selbst abschießen dürfen. Viele technische und finanzielle Fragen sind noch offen.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3449075/"
+       "url": "https://orf.at/stories/3449119/"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41485960/wksta-uebernimmt-aus-hamburg-betrugsermittlungen-gegen-benko"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350756/wie-oesterreich-kuenftig-drohnen-abwehren-will?ref=rss"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350814/regierung-hat-neue-drohnenschutzstrategie-pr228sentiert?ref=rss"
       }
      ]
     },
     {
-     "id": "2026-11-24-02",
-     "title": "Wiens Budget 2027: Defizit von 1,46 Milliarden Euro",
-     "summary": "Die Stadt Wien setzt ihren Sparkurs fort, fast alle Ressorts müssen Einschnitte hinnehmen. Der Fonds Soziales Wien erhält rund 100 Millionen Euro weniger, neue Abgaben sind laut Bericht nicht geplant.",
+     "id": "2026-11-25-02",
+     "title": "Pilnacek-U-Ausschuss befragt Sobotka und Edtstadler",
+     "summary": "In der Befragungswoche des parlamentarischen Ausschusses sagten Ex-Nationalratspräsident Wolfgang Sobotka und Europaministerin Karoline Edtstadler aus. Edtstadler beschrieb ihr Verhältnis zum 2023 verstorbenen Justiz-Sektionschef Pilnacek als teils „frostig“. Sobotka sprach unter anderem über eine „KGB“-Aufnahme und eine Interventionsliste.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350492/wien-setzt-sparkurs-fort-das-defizit-2027-betraegt-aber-146-milliarden-euro?ref=rss"
-      },
-      {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41473862/wiener-budget-2027-sieben-fragen-zum-milliardenloch-der-stadt",
-       "paywall": true
-      }
-     ]
-    },
-    {
-     "id": "2026-11-24-03",
-     "title": "Stocker will Sexualstrafrecht nach Freisprüchen verschärfen",
-     "summary": "Nach Freisprüchen in einem Vergewaltigungsprozess will Bundeskanzler Stocker das Strafrecht ändern: Künftig soll auch bestraft werden können, wer Teil einer Gruppe ist, in der jemand ein Sexualdelikt begeht. Strafrechtsprofessor Kert sieht den Vorschlag potenziell kritisch.",
-     "sources": [
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350415/wegen-freispruechen-nach-vergewaltigungs-anklage-stocker-will-strafrecht-verschaerfen?ref=rss"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449159/"
       },
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3449068/"
+       "url": "https://orf.at/stories/3449158/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350762/sobotka-in-u-ausschuss-ueber-kgb-aufnahme-ratgebergespraech-und-eine-interventionsliste?ref=rss"
       }
      ]
     }
@@ -59,40 +51,40 @@
    "name": "EU",
    "items": [
     {
-     "id": "2026-11-24-04",
-     "title": "EU-Budgetentwurf stößt auf breite Ablehnung",
-     "summary": "Auch der Kompromissplan von Ratspräsident Costa zum mehrjährigen EU-Finanzrahmen findet keine Zustimmung. Bundeskanzler Stocker und die Visegrád-Staaten nannten den Entwurf in Bratislava inakzeptabel; Regierungen, Bauern und Regionen ringen vor dem EU-Gipfel um künftige Mittel.",
+     "id": "2026-11-25-03",
+     "title": "EU-Kommission: Österreich bei Defizitabbau planmäßig unterwegs",
+     "summary": "Im Herbstpaket zu den nationalen Haushalten gab es für Österreich keine bösen Überraschungen. Deutschland kam laut Kommission nur knapp an einem Verstoß gegen die Fiskalregeln vorbei, Frankreich drohen ohne beschlossenes Budget Sanktionen.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3449074/"
+       "url": "https://orf.at/stories/3449163/"
       },
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350399/auch-costas-kompromissplan-zu-eu-rahmenbudget-stoesst-auf-breite-ablehnung?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350840/oesterreich-laut-eu-kommission-bei-defizit-planmaessig-unterwegs?ref=rss"
       },
       {
        "name": "Rapporteur (ex-Euractiv)",
-       "url": "https://www.rapporteur.com/news/visegrad-four-plus-austria-leaders-slam-eu-budget/"
+       "url": "https://www.rapporteur.com/news/germany-and-france-warned-against-breaching-eu-fiscal-rules/"
       }
      ]
     },
     {
-     "id": "2026-11-24-05",
-     "title": "Neues Sanktionspaket: Keine Athleten mehr unter russischer Flagge",
-     "summary": "Die EU-Kommission schlägt vor, dass russische Sportler und Teams nicht mehr unter russischer Flagge bei Sportevents in der EU antreten dürfen. Brüssel kündigt weitere Sanktionen an, bis Russland echte Bereitschaft zu einem dauerhaften Frieden zeigt.",
+     "id": "2026-11-25-04",
+     "title": "EU begrenzt Import chinesischer Hybridautos mit Quote",
+     "summary": "Ab Dezember gilt eine vorläufige Obergrenze von knapp 350.000 Fahrzeugen pro Jahr. Im Vorjahr waren mehr als 300.000 chinesische Hybrid- und Plug-in-Hybridautos importiert worden. Die Quote soll europäische Hersteller vor billiger Konkurrenz schützen.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3449052/"
+       "name": "ZDFheute",
+       "url": "https://www.zdfheute.de/wirtschaft/eu-importquote-hybridautos-china-100.html"
+      },
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/eu-macht-ernst-erste-importquoten-für-hybridautos-aus-china/a-80030678?maca=de-rss-de-all-1119-rdf"
       },
       {
        "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html"
-      },
-      {
-       "name": "Rapporteur (ex-Euractiv)",
-       "url": "https://www.rapporteur.com/news/eu-targets-russian-athletes-soldiers-in-fresh-sanctions-package/"
+       "url": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html"
       }
      ]
     }
@@ -102,40 +94,40 @@
    "name": "Welt",
    "items": [
     {
-     "id": "2026-11-24-06",
-     "title": "Ukraine versenkt russisches Kriegsschiff vor Libyen",
-     "summary": "Die Ukraine bekennt sich zu Angriffen auf die russische Marine; die Korvette „Merkury“ wurde in einem libyschen Hafen versenkt, zwei Frachter wurden zerstört. Russland kündigt weitere Angriffe als Antwort an, Experten sprechen von einer gefährlichen Eskalation.",
+     "id": "2026-11-25-05",
+     "title": "Datenleck zeigt: Bis zu 720.000 russische Soldaten im Krieg gefallen",
+     "summary": "Ein Hack der russischen Statistikbehörde Rosstat legt offen, was Moskau als Staatsgeheimnis hütet. Demnach wurde der Krieg 2025 zur führenden Todesursache russischer Männer unter 65 Jahren. Die Schätzungen reichen je nach Quelle von rund 500.000 bis 720.000 Toten.",
      "sources": [
       {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449103/"
+      },
+      {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/jetzt/livebericht/3000000350445/u?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350731/bis-zu-700000-russen-im-ukrainekrieg-gefallen-was-der-hack-bei-russlands-statistikamt-noch-offenbart?ref=rss"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html"
-      },
-      {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ukraine-angriffe-ostsee-libyen-100.html"
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
       }
      ]
     },
     {
-     "id": "2026-11-24-07",
-     "title": "Geheimdienste: Russland bereitet Atomwaffe im All vor",
-     "summary": "Laut Recherchen mehrerer Medien gehen westliche Geheimdienste davon aus, dass Russland noch dieses Jahr einen Satelliten mit einem nuklearen Sprengkopf in den Orbit bringen könnte. Eine Detonation könnte tausende Satelliten beschädigen oder ausschalten.",
+     "id": "2026-11-25-06",
+     "title": "Ukraine greift russische Schiffe vor Libyen an – Italien besorgt",
+     "summary": "Die Ukraine bekennt sich zu Angriffen mit Marinedrohnen auf russische Schiffe nahe Bengasi, zwei libysche Soldaten starben. Italien äußerte gegenüber Kiew Sorge, dass die Angriffe Libyen destabilisieren könnten.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3448989/"
+       "url": "https://orf.at/stories/3449155/"
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html"
+       "name": "France 24",
+       "url": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi"
       },
       {
-       "name": "Ars Technica",
-       "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/"
+       "name": "Politico Europe",
+       "url": "https://www.politico.eu/article/ukraine-strikes-russian-ships-libya-giorgia-meloni-italy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
       }
      ]
     }
@@ -145,21 +137,56 @@
    "name": "Wirtschaft",
    "items": [
     {
-     "id": "2026-11-24-08",
-     "title": "Huang kehrt an Nvidia-Spitze zurück, Börsen erholen sich",
-     "summary": "Der Nvidia-Verwaltungsrat hat Jensen Huang nach seinem Rücktritt wegen einer Spionageaffäre wieder als Konzernchef eingesetzt. Die Märkte in den USA und Asien reagierten mit kräftigen Kursgewinnen, Präsident Trump reklamiert die Rückkehr für sich.",
+     "id": "2026-11-25-07",
+     "title": "USA planen neue Zölle gegen 16 Handelspartner",
+     "summary": "Insidern zufolge bereitet Washington wegen angeblicher industrieller Überkapazitäten eine neue Zollrunde vor, die unter anderem die EU und China treffen könnte. Hintergrund ist, dass der Supreme Court frühere Zölle gekippt hatte. Höhe und Ausnahmen sind noch unklar.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3449046/"
+       "url": "https://orf.at/stories/3449176/"
       },
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350687/rueckkehr-von-nvidia-chef-jensen-huang-begeistert-auch-asiatische-anleger?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350865/usa-planen-neue-z246lle-wegen-220berkapazit228ten-insider?ref=rss"
       },
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-08",
+     "title": "Julian Jäger soll neuer ÖBB-Chef werden",
+     "summary": "Das Aufsichtsratspräsidium der Bundesbahnen einigte sich Medienberichten zufolge auf den bisherigen Flughafen-Wien-Vorstand. Damit ist das Duell innerhalb der SPÖ um den Posten so gut wie entschieden.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350864/medienberichte-julian-jaeger-soll-offenbar-neuer-oebb-chef-werden?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41488534/die-weichen-sind-gestellt-julian-jaeger-soll-oebb-chef-werden",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-09",
+     "title": "Huawei in den USA wegen Betrugs und Geheimnisdiebstahls verurteilt",
+     "summary": "Eine Jury in Brooklyn sprach den chinesischen Konzern unter anderem wegen Bankbetrugs und Verschwörung zum Diebstahl von Geschäftsgeheimnissen schuldig. Vom schwersten Vorwurf, der Bildung einer kriminellen Vereinigung (Racketeering), wurde Huawei freigesprochen.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449192/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350873/us-gericht-spricht-huawei-wegen-betrugs-schuldig?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
       }
      ]
     }
@@ -169,36 +196,17 @@
    "name": "Klima",
    "items": [
     {
-     "id": "2026-11-24-09",
-     "title": "Klimagipfel COP31 endet ohne Abschlusserklärung",
-     "summary": "Die Konferenz im türkischen Antalya ist ohne Einigung zu Ende gegangen, erstmals seit 2009 ohne Konsens. Streitpunkte waren fossile Energien und Klimafinanzierung; Delegierte werfen Saudi-Arabien übermäßigen Einfluss vor.",
+     "id": "2026-11-25-10",
+     "title": "Nach gescheiterter COP31 wächst Kritik am Verhandlungsformat",
+     "summary": "Die Klimakonferenz im türkischen Antalya wird von vielen als gescheitert betrachtet. Die EU-Kommission weist Kritik zurück, die EU-Klimafinanzierung sei schuld gewesen. Die Sinnfrage der Konferenzen wird neu gestellt.",
      "sources": [
       {
        "name": "ORF",
-       "url": "https://orf.at/stories/3449012/"
+       "url": "https://orf.at/stories/3449130/"
       },
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350470/cop31-unterh228ndler-orten-zu-gro223en-einfluss-von-saudi-arabien?ref=rss"
-      },
-      {
-       "name": "Ars Technica",
-       "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-24-10",
-     "title": "Rechnungshof: Hohe Förderungen verteuerten Heizungstausch",
-     "summary": "Die Kosten für einen Heizungstausch sind laut Rechnungshof von 2020 bis 2024 um 60 Prozent gestiegen. Eine Wifo-Ökonomin sieht die hohen Fördersätze als Mitursache, weil sie die Nachfrage erhöhten.",
-     "sources": [
-      {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3449049/"
-      },
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350569/wifo-oekonomin-hohe-foerderung-duerfte-heizungstausch-verteuert-haben?ref=rss"
+       "name": "Rapporteur (ex-Euractiv)",
+       "url": "https://www.rapporteur.com/news/this-cop-did-not-fail-because-of-climate-finance/"
       }
      ]
     }
@@ -208,36 +216,40 @@
    "name": "Tech/KI",
    "items": [
     {
-     "id": "2026-11-24-11",
-     "title": "US-Banken beschränken Zugriffsrechte für KI-Agenten",
-     "summary": "Immer mehr Banken, Behörden und Firmen in den USA schränken ein, worauf KI-Agenten zugreifen dürfen. Das betrifft sowohl Agenten von Kunden als auch intern eingesetzte Modelle.",
+     "id": "2026-11-25-11",
+     "title": "Tech-Ausverkauf: Nvidia fällt, Anthropic-Aktie unter Ausgabepreis",
+     "summary": "Die Euphorie nach der Rückkehr von Nvidia-Chef Huang verflog rasch, Technologiewerte gaben weltweit nach. Die Aktie von Anthropic schloss bei 81,90 Dollar und damit unter dem Preis zum Börsenstart vor einer Woche. Anleger zweifeln zunehmend am KI-Boom.",
      "sources": [
       {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350613/ausser-kontrolle-us-banken-beschraenken-zugriffsrechte-fuer-ki-agenten?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350866/aktie-von-anthropic-rutscht-unter-den-ausgabepreis?ref=rss"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41484518/us-banken-beschraenken-zugriffsrechte-fuer-ki-agenten"
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss"
       }
      ]
     },
     {
-     "id": "2026-11-24-12",
-     "title": "USA sperren Cloud-Firma Megaspeed nach Nvidia-Affäre",
-     "summary": "Das US-Handelsministerium setzt die singapurische Firma Megaspeed auf die Sperrliste für Exporte. Sie soll KI-Chips nach China weitergeleitet haben; republikanische Senatoren kritisieren zugleich Huangs Rückkehr.",
+     "id": "2026-11-25-12",
+     "title": "Microsoft ruft nach weltweitem Ausfall „Code Red“ aus",
+     "summary": "Nach einem folgenschweren Cloud-Ausfall hat Microsoft intern die höchste Alarmstufe verhängt. Künftig sollen solche Störungen innerhalb einer Stunde behoben werden.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350688/usa-setzen-nvidia-kunden-megaspeed-auf-schwarze-liste?ref=rss"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449179/"
       },
       {
-       "name": "The Guardian",
-       "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia"
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41489283/microsoft-sucht-nach-ausfall-mit-code-red-nach-verbesserungen"
       },
       {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/"
       }
      ]
     }
@@ -247,43 +259,43 @@
    "name": "IT-Security",
    "items": [
     {
-     "id": "2026-11-24-13",
-     "title": "Hacker dringen in Webseite des Außenministeriums ein",
-     "summary": "Das österreichische Außenministerium bestätigte, dass Angreifer eine seiner Webseiten kompromittiert und auf Namen und Kontaktdaten von Diplomaten zugegriffen haben. Zudem wurde die EU-Kommission Ziel eines Cyberangriffs, bei dem auch externe Nutzer betroffen waren.",
-     "sources": [
-      {
-       "name": "The Record",
-       "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked"
-      },
-      {
-       "name": "Rapporteur (ex-Euractiv)",
-       "url": "https://www.rapporteur.com/news/external-users-of-eu-website-caught-up-in-commission-cyberattack/"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-24-14",
-     "title": "Ghostscript-Lücke „Upload2Shell“ gefährdet viele Systeme",
-     "summary": "Eine Schwachstelle in Ghostscript gefährdet diverse Betriebssysteme, Programme und Dienste im Netz. Administratoren sollten verfügbare Updates einspielen.",
-     "sources": [
-      {
-       "name": "heise Security",
-       "url": "https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html"
-      }
-     ]
-    },
-    {
-     "id": "2026-11-24-15",
-     "title": "Angriffe auf Cisco Expressway und SAP NetWeaver",
-     "summary": "Angreifer nutzen aktiv Sicherheitslücken in Cisco Expressway und SAP NetWeaver aus. Betroffene Organisationen sollten Patches prüfen und einspielen.",
+     "id": "2026-11-25-13",
+     "title": "Microsoft Entra Connect Health: Sicherheitslücke führte zu Datenabfluss",
+     "summary": "Microsoft informiert über unbefugte Zugriffe durch eine Schwachstelle in der API von Entra Connect Health. Dabei sind Daten abgeflossen; betroffene Kunden werden benachrichtigt.",
      "sources": [
       {
        "name": "heise online",
-       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+       "url": "https://www.heise.de/news/Microsoft-Entra-Datenabfluss-bei-Connect-Health-11535576.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
       },
       {
-       "name": "CERT.at",
-       "url": "https://www.cert.at/de/tagesberichte/2026/11/tagesberichte-23112026"
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Microsoft-Entra-Datenabfluss-bei-Connect-Health-11535576.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-14",
+     "title": "CISA warnt vor ausgenutzter Lücke in N-able Mail Assure",
+     "summary": "Angreifer missbrauchen Sicherheitslücken in N-able Mail Assure sowie in der medizinischen KI-Software Monai Label. Die US-Behörde CISA verpflichtet Bundesbehörden, die Lücke bis Thanksgiving zu schließen.",
+     "sources": [
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Cyberattacken-auf-N-able-Mail-Assure-und-Monai-Label-11535820.html"
+      },
+      {
+       "name": "The Record",
+       "url": "https://therecord.media/cisa-nable-cybersecurity-bug"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-15",
+     "title": "Zahlungsdienstleister Cleverbridge: Kreditkartendaten abgegriffen",
+     "summary": "Anfang November haben Angreifer sensible Daten beim Dienstleister Cleverbridge erbeutet, darunter Kreditkartendaten. Das Unternehmen räumte den Vorfall nun ein.",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Datenleck-bei-Cleverbridge-Kreditkartendaten-abgegriffen-11535956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
       }
      ]
     }
@@ -293,22 +305,21 @@
    "name": "Wissenschaft",
    "items": [
     {
-     "id": "2026-11-24-16",
-     "title": "KI soll Riemannsche Vermutung bewiesen haben",
-     "summary": "Mit Hilfe von Claude soll der Mathematiker Levent Alpöge das berühmteste offene Problem der Mathematik gelöst haben. Die Fachwelt zeigt sich überrascht und prüft den Beweis.",
+     "id": "2026-11-25-16",
+     "title": "KI-gestützter Beweis der Riemann-Vermutung wirft Fragen auf",
+     "summary": "Ein Beweis liegt als 17 Millionen Zeilen Code vor und erscheint laut Fachleuten solide, doch niemand versteht ihn bisher vollständig. Wenige Tage später legten Anthropic und OpenAI fast zeitgleich Beweise für das Problem VP ≠ VNP der theoretischen Informatik vor.",
      "sources": [
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350504/wie-der-ki-beweis-der-riemannschen-vermutung-die-fachwelt-ueberraschte?ref=rss"
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/beweis-in-17-millionen-zeilen-ki-soll-beruehmtestes-problem-der-mathematik-geloest-haben"
       },
       {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350538/levent-alpoege-der-mann-der-den-gral-der-mathematik-fand?ref=rss"
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
       },
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41482629/eine-ki-hat-die-riemannsche-vermutung-bewiesen-erdbeben-oder-pfeiler-fuer-die-mathematik",
-       "paywall": true
+       "name": "Ars Technica",
+       "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
       }
      ]
     }
@@ -318,40 +329,45 @@
    "name": "Nahost",
    "items": [
     {
-     "id": "2026-11-24-17",
-     "title": "Oxfam: Fast der gesamte Gazastreifen schadstoffbelastet",
-     "summary": "Laut einem Bericht der Hilfsorganisation sind Luft, Boden und Wasser im Gazastreifen so stark belastet, dass sie noch über Jahrzehnte eine Gefahr darstellen. Genannt werden unter anderem Asbest in den Trümmern und verseuchtes Wasser.",
+     "id": "2026-11-25-17",
+     "title": "Huthi greifen Riad an und rücken auf Aden vor",
+     "summary": "Bei einem Huthi-Angriff auf das höchste Gebäude Riads wurden elf Menschen verletzt. Jemens Armee warnt, die Huthi stünden etwa 60 Kilometer vor Aden. Eine saudisch geführte Koalition griff Ziele im Jemen an, darunter den Hafen von Hodeidah.",
      "sources": [
       {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449175/"
+      },
+      {
        "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350627/oxfam-bericht-gefaehrliche-schadstoffbelastung-fast-im-gesamten-gazastreifen?ref=rss"
+       "url": "https://www.derstandard.at/story/3000000350863/elf-verletzte-bei-houthi-angriff-auf-h246chsten-wolkenkratzer-in-riad?ref=rss"
       },
       {
-       "name": "BBC",
-       "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss"
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/weltpolitik/militaerkoalition-greift-ziele-im-jemen-an-art-685883",
+       "paywall": true
       },
       {
-       "name": "Tagesschau",
-       "url": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html"
+       "name": "France 24",
+       "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden"
       }
      ]
     },
     {
-     "id": "2026-11-24-18",
-     "title": "Iran-Krieg: Minen im Hormus, Teheran fordert Reparationen",
-     "summary": "Die Revolutionsgarden melden, dass drei Öltanker nach Minentreffern in der Straße von Hormus Feuer gefangen haben. Iran verlangt laut Staatsfernsehen 290 Milliarden Dollar Reparationen von den USA, Katar versucht die Gespräche wiederzubeleben.",
+     "id": "2026-11-25-18",
+     "title": "Iran peitscht Sängerin Parastoo Ahmadi aus – UNO verurteilt Strafe",
+     "summary": "Die 29-Jährige erhielt 74 Hiebe wegen eines ohne Kopftuch gestreamten Konzerts. UN-Menschenrechtskommissar Türk nannte die Strafe „abscheulich“.",
      "sources": [
       {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41485882/iran-verlangt-290-milliarden-dollar-reparationen-von-den-usa"
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449189/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350871/auspeitschung-von-iranischer-s228ngerin-international-verurteilt?ref=rss"
       },
       {
        "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss"
-      },
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss"
       }
      ]
     }
@@ -361,42 +377,40 @@
    "name": "USA",
    "items": [
     {
-     "id": "2026-11-24-19",
-     "title": "Trump fordert schnellere Vollstreckung von Todesurteilen",
-     "summary": "Der Präsident wies das Justizministerium an, bundesweit verhängte Todesstrafen zügiger zu vollstrecken. Anlass ist die Umwandlung aller 548 Todesurteile in Kalifornien in lebenslange Haft durch Gouverneur Newsom.",
+     "id": "2026-11-25-19",
+     "title": "Huangs Nvidia-Comeback: Kongress und Trump im Streit",
+     "summary": "Nvidia-Chef Jensen Huang ist elf Tage nach seinem Rücktritt zurück, weil Präsident Trump persönlich im Vorstand interveniert haben soll. Republikaner und Demokraten kritisieren das scharf, Schumer wirft Huang Verstöße gegen Exportkontrollen vor. Die USA setzten zudem die Cloud-Firma Megaspeed auf die schwarze Liste.",
      "sources": [
       {
-       "name": "ORF",
-       "url": "https://orf.at/stories/3449080/"
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350707/scharfe-kritik-von-republikanern-und-demokraten-an-trumps-unterstuetzung-fuer-jensen-huang?ref=rss"
       },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html"
+      },
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/wirtschaft/us-chiphersteller-nvidia-trump-draengte-auf-huangs-rueckkehr-und-erzuernt-damit-den-kongress"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000350688/usa-setzen-nvidia-kunden-megaspeed-auf-schwarze-liste?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-25-20",
+     "title": "Trump will Todesstrafe schneller vollstrecken lassen",
+     "summary": "Nach der Umwandlung aller 548 kalifornischen Todesurteile in lebenslange Haft durch Gouverneur Newsom fordert Trump zügigere Vollstreckungen. Sobald ein Urteil gefällt sei, müsse es unweigerlich vollzogen werden.",
+     "sources": [
       {
        "name": "Der Standard",
        "url": "https://www.derstandard.at/story/3000000350686/umgang-mit-todesstrafe-trump-fuer-schnellere-vollstreckung?ref=rss"
       },
       {
-       "name": "Salzburger Nachrichten",
-       "url": "https://www.sn.at/politik/weltpolitik/trump-fuer-schnellere-vollstreckung-von-todesurteilen-art-685644",
-       "paywall": true
-      }
-     ]
-    },
-    {
-     "id": "2026-11-24-20",
-     "title": "Demokraten mit größter Mehrheit im Repräsentantenhaus seit Jahrzehnten",
-     "summary": "Nach den Midterms stellen die Demokraten mindestens 258 von 435 Sitzen. In der Partei wird diskutiert, wie sie die Mehrheit nutzen sollen; im Senat muss sich Fraktionschef Schumer einem Gegenkandidaten stellen.",
-     "sources": [
-      {
-       "name": "Der Standard",
-       "url": "https://www.derstandard.at/story/3000000350462/us-demokraten-erringen-im-repr228sentantenhaus-gr246223te-mehrheit-seit-jahrzehnten?ref=rss"
-      },
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss"
-      },
-      {
-       "name": "Die Presse",
-       "url": "https://www.diepresse.com/41485494/demokraten-wollen-chuck-schumer-abservieren",
-       "paywall": true
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/trump-will-todesstrafe-schneller-vollstrecken-lassen/a-80028901?maca=de-rss-de-all-1119-rdf"
       }
      ]
     }
