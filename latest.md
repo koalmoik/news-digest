@@ -1,149 +1,143 @@
-# Morgen-Digest · Donnerstag, 26. November 2026
+# Morgen-Digest · Freitag, 27. November 2026
 
-_Die USA kündigen neue Zölle gegen die EU und 13 weitere Handelspartner an, während die EU-Staats- und Regierungschefs in Brüssel um das Budget bis 2034 ringen. Dazu Techwerte unter Druck, neue Angriffe in der Ukraine und Nahost sowie ein Casinos-Prozess gegen Strache in Wien._
+_Der EU-Sondergipfel zum Budget bis 2034 ist ohne Einigung zu Ende gegangen, dafür steht mit dem Spanier Pablo Hernández de Cos der nächste EZB-Chef fest. In Österreich sorgen die geplante Bundesstaatsanwaltschaft und der Wechsel an der SPÖ-Spitze für Debatten, in den USA legen Unwetter zu Thanksgiving fast eine Million Haushalte lahm._
 
 ## Innenpolitik
 
-### Regierung bekennt sich zu „Nur Ja heißt Ja“, Details offen
+### Kritik an Plänen zur Bundesstaatsanwaltschaft
 
-Der Ministerrat hat am Mittwoch nur die Eckpunkte einer Reform des Sexualstrafrechts beschlossen. Ein ausgearbeiteter Entwurf lässt weiter auf sich warten. Zum Auftakt der Aktionstage gegen Gewalt an Frauen soll zudem ein neues Gewaltschutzpaket präsentiert werden.
+Juristen warnen, der Gesetzesentwurf zur Bundesstaatsanwaltschaft könne die Unabhängigkeit der Justiz untergraben, und fordern eine parlamentarische Enquete. Auch aus anderen Richtungen werden Rufe nach einem „Neustart“ des Projekts laut.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350956/regierung-bekennt-sich-zu-nur-ja-heisst-ja-details-bleiben-offen?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000350882/nur-ja-heisst-ja-regierung-nimmt-neuen-anlauf-zur-verschaerfung-des-sexualstrafrechts?ref=rss)
+→ [ORF](https://orf.at/stories/3449375/) · [Der Standard](https://www.derstandard.at/story/3000000351208/experten-warnen-vor-manipulierbarer-justiz?ref=rss)
 
-### Casinos-Prozess gegen Strache, Neumann und Graf begonnen
+### Marterbauer zögert bei SPÖ-Vorsitz
 
-Sieben Jahre nach Ermittlungsbeginn steht die Causa Casinos vor Gericht. Ex-Vizekanzler Strache, Ex-Novomatic-Chef Neumann und Konzerngründer Graf bestreiten die Vorwürfe; Strache sprach von „Gedankenpolizei“ und sagte, er habe nie an Korruption gedacht.
+Finanzminister Markus Marterbauer soll im Jänner das Vizekanzleramt übernehmen, zögert aber noch, zusätzlich auch den SPÖ-Parteivorsitz zu übernehmen. Klubchef Philip Kucher gilt als Alternative. Laut einer Umfrage ist Marterbauer der einzige Minister mit positivem Vertrauensvotum.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350964/in-ibiza-hat-wahrheit-aus-wodka-gesprochen-auftakt-im-casinos-prozess-gegen-strache-und-co?ref=rss) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000350150/strache-erneut-vor-gericht-strafprozess-zur-causa-casinos-startet?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000351102/wird-marterbauer-tatsaechlich-spoe-chef?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/innenpolitik/marterbauer-einziger-minister-mit-positivem-vertrauensvotum-art-686354)
+
+### U-Ausschuss: Nehammer bestreitet Intervention im Fall Pilnacek
+
+Ex-Kanzler Karl Nehammer wies im U-Ausschuss vehement zurück, Recherchen zum Fall Pilnacek abgedreht haben zu wollen. Zugleich gibt es Widersprüche zu einem Vermerk, wonach Pilnacek „vermutlich in suizidaler Absicht“ als Geisterfahrer unterwegs war.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000351210/nehammer-bestreitet-vehement-dass-er-pilnacek-recherchen-abdrehen-wollte?ref=rss) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000351099/u-ausschuss-befragt-exkanzler-karl-nehammer-zu-causa-pilnacek?ref=rss)
 
 ## EU
 
-### EU-Sondergipfel ringt um Budget bis 2034 und Ukraine-Hilfe
+### EU-Budgetgipfel endet ohne Einigung
 
-Die Staats- und Regierungschefs beraten in Brüssel über den langfristigen Haushalt. Die Positionen liegen noch weit auseinander; die Finanzierung der Ukraine gilt als Schlüsselthema. Auch die österreichischen Bundesländer wehren sich gegen Mittelkürzungen.
+Der Sondergipfel zum EU-Haushalt 2028 bis 2034 wurde vorzeitig beendet, die Positionen lagen laut Kanzler Merz zu weit auseinander. Die Gespräche sollen beim Gipfel im Dezember weitergehen; Kanzler Stocker spricht von keinem „Reinfall“.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350852/eu--vor-dem-eu-gipfel-am-donnerstag-die-grosse-schlacht-ums-geld--fokus-ukrainewinter-budget?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/eu-sondergipfel-ringt-um-neues-eu-budget-und-ukraine-mittel-art-686100) · [Tagesschau](https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html)
+→ [ORF](https://orf.at/stories/3449395/) · [Der Standard](https://www.derstandard.at/story/3000000351313/gipfel-zu-eu-budget-vorzeitiges-ende-f252r-stocker-kein-reinfall?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html)
 
-### EU-Parlament lockert Umweltvorgaben für Bauprojekte
+### Hernández de Cos wird neuer EZB-Präsident
 
-Mit 367 zu 268 Stimmen sprachen sich die Abgeordneten in Straßburg für schnellere Umweltprüfungen bei Bauprojekten aus. Die Kommission soll zudem die Vogelschutz- und die Habitat-Richtlinie überprüfen.
+Die EU-Staats- und Regierungschefs haben sich auf den Spanier Pablo Hernández de Cos als Nachfolger von Christine Lagarde geeinigt, die im Februar abtritt. Der frühere Chef der spanischen Notenbank ist der erste Spanier an der EZB-Spitze.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351095/eu-parlament-bef252rwortet-lockerung-von-umweltvorgaben?ref=rss) · [Die Presse](https://www.diepresse.com/41492436/eu-parlament-stimmt-fuer-lockerung-von-umweltvorgaben)
+→ [ORF](https://orf.at/stories/3449363/) · [Der Standard](https://www.derstandard.at/story/3000000351166/viel-streit-auf-dem-eu-gipfel-aber-der-ezb-topjob-ist-geklaert-hernandez-de-cos-loest-lagarde-ab?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html)
 
 ## Welt
 
-### Ukraine: Polen richtet Flugverbotszone ein, Angriffe auf Luftbasis
+### Selenskyj warnt vor neuem russischem Großangriff
 
-Nach russischen Angriffen, die in Teilen der Ukraine die Stromversorgung unterbrachen und ein Wärmekraftwerk trafen, richtet Polen an der Grenze eine Flugverbotszone ein. Die Ukraine meldet ihrerseits fünf beschädigte Kampfflugzeuge bei einem Angriff auf den russischen Stützpunkt Sawasleika.
+Der ukrainische Präsident erwartet eine neue russische Großoffensive, nach Angriffen auf Kiew und Charkiw gab es Tote und Verletzte. US-Präsident Trump sagt, er habe Putin gebeten, die Aggressionen in Europa zu beenden; auch NATO-Chef Rutte und Trump warnen vor einer Ausweitung des Krieges.
 
-→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000350862/mehrere-todesopfer-bei-russischen-angriffen?ref=rss) · [Die Presse](https://www.diepresse.com/41492051/ukraine-greift-russische-luftwaffenbasis-an) · [BBC](https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss)
+→ [ORF](https://orf.at/stories/3449393/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000351094/mehrere-todesopfer-bei-russischen-angriffen?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000351188/mark-rutte-und-donald-trump-warnen-russland-vor-ausweitung-des-krieges?ref=rss)
 
-### Rekord an Migranten auf El Hierro
+### Neuseelands Regierung verliert ihre Mehrheit
 
-Am Dienstag erreichten mehr als 2.000 Migranten die Kanareninsel El Hierro, so viele wie nie zuvor an einem Tag. Regionalpräsident Clavijo spricht von „beispiellosem Migrationsdruck“ und fordert ein Treffen mit Kommissionspräsidentin von der Leyen.
+Die rechtsgerichtete Koalition unter Premier Christopher Luxon hat bei der Wahl nach den Endergebnissen die Mehrheit verfehlt. Sie braucht die Unterstützung einer Kleinpartei, sonst drohen Neuwahlen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351096/migration-neuer-rekord-von-ank252nften-auf-el-hierro-am-dienstag?ref=rss) · [Die Presse](https://www.diepresse.com/41492447/rekordzahlen-von-fluechtlingen-auf-kanaren-insel-el-hierro)
+→ [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/rechte-regierung-verliert-mehrheit-in-neuseeland-art-686349) · [The Guardian](https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results)
 
 ## Wirtschaft
 
-### USA planen neue Zölle gegen EU, China und zwölf weitere Partner
+### Spritpreisbremse: Margeneingriff soll auslaufen
 
-Die US-Regierung begründet die Abgaben mit strukturellen Überkapazitäten. Für die EU soll die vereinbarte Obergrenze von 15 Prozent gelten, am härtesten dürfte es China treffen. Die EU weist die Begründung zurück.
+Wirtschaftsminister Hattmannsdorfer will die Margenbegrenzung bei den Spritpreisen Ende November auslaufen lassen. Die Spritpreisbremse soll ab 1. Dezember als Senkung der Mineralölsteuer weitergeführt werden.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351038/usa-plant-neue-zoelle-gegen-eu-und-13-weitere-handelspartner?ref=rss) · [ORF](https://orf.at/stories/3449253/) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html)
+→ [ORF](https://orf.at/stories/3449364/) · [Der Standard](https://www.derstandard.at/story/3000000351256/spritpreisbremse-hattmannsdorfer-f252r-auslaufen-des-margeneingriffs?ref=rss) · [Die Presse](https://www.diepresse.com/41495014/spritpreisbremse-hattmannsdorfer-fuer-auslaufen-des-margeneingriffs)
 
-### Kursrutsch bei Tech-Aktien hält an
+### Irisches Gericht stoppt Bawag-Übernahme der PTSB
 
-Zweifel am KI-Boom und neue Zolldrohungen drücken die Märkte: Der Nasdaq lag zeitweise fast 4 Prozent im Minus, der DAX fiel unter 25.000 Punkte, Bitcoin sank unter 60.000 Dollar. In den USA stieg die Inflation auf 3,8 Prozent.
+Ein irisches Gericht lehnte die 1,6 Milliarden Euro schwere Übernahme der Bank PTSB durch die Bawag ab, weil die Minderheitsaktionäre nicht gesondert abstimmen konnten. Nun beginnt laut Presse der Kampf um den Preis.
 
-→ [Die Presse](https://www.diepresse.com/41491839/an-den-boersen-zerbroeselt-es-die-techwerte-und-gold) · [BBC](https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss) · [Der Standard](https://www.derstandard.at/story/3000000350892/huang-effekt-endg252ltig-verpufft-bitcoin-f228llt-unter-60000-dollar?ref=rss)
-
-### Samsung steigt bei AMS-Osram ein
-
-Der Konzern verkauft sein Werk in Kulim nun doch nicht, stattdessen investiert Samsung laut Bericht 210 Millionen Euro. Die Aktie stieg zwischenzeitlich um 20 Prozent.
-
-→ [Die Presse 🔒](https://www.diepresse.com/41490257/ams-osram-gelingt-deal-mit-samsung-aktie-steigt-zwischenzeitlich-um-20-prozent) · [Tagesschau](https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/samsung-einstieg-osram-100.html)
+→ [ORF](https://orf.at/stories/3449382/) · [Der Standard](https://www.derstandard.at/story/3000000351284/gericht-stoppt-220bernahme-der-irischen-bank-ptsb-durch-bawag?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41495673/irisches-hoechstgericht-lehnt-uebernahme-der-ptsb-durch-bawag-ab-jetzt-beginnt-der-kampf-um-den-preis)
 
 ## Klima
 
-### Erstmals sechs Tage in Folge über 2 Grad über vorindustriell
+### Weltklimakonferenz in Antalya ohne Ergebnis
 
-Die globale Oberflächentemperatur lag am Montag mit 2,24 Grad über dem vorindustriellen Niveau auf einem Tagesrekord. Der Trend soll laut Prognose anhalten.
+Die Verhandlungen sind gescheitert, nachdem 130 Staaten erklärt hatten, keinen Kompromiss zu akzeptieren, der fossile Energien ausspart. Wie es weitergeht, ist offen.
 
-→ [The Guardian](https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time)
+→ [Der Standard](https://www.derstandard.at/story/3000000351151/die-weltklimakonferenz-in-antalya-ist-gescheitert-ist-das-vielleicht-sogar-positiv?ref=rss)
+
+### Globale Temperatur erstmals sechs Tage über zwei Grad
+
+Die weltweite Durchschnittstemperatur lag erstmals sechs Tage in Folge mehr als zwei Grad über dem vorindustriellen Niveau. Fachleute sehen darin einen Vorgeschmack auf künftige Bedingungen, trotz Kälte in Österreich.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000351143/erstmals-sechs-tage-in-folge-mehr-als-zwei-grad-erderwaermung?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/international/globale-temperatur-erstmals-eine-woche-ueber-zwei-grad-marke-art-686350)
 
 ## Tech/KI
 
-### US-Behörde erlaubt SpaceX eine Million Satelliten
+### USA erlauben eine Million SpaceX-Satelliten für KI-Rechenzentren
 
-Die FCC hat Rechenzentren im All genehmigt. Die Satelliten sollen Sonnenenergie fast durchgehend nutzen; bis spätestens November 2035 müssen 100.000 im Orbit sein. Ob SpaceX das Projekt tatsächlich umsetzt, ist offen.
+Die US-Behörden haben das Projekt „Starmind“ genehmigt, das KI-Rechenzentren im All aufbauen soll. Kritiker befürchten Folgen für Erdklima, Raumfahrt und Astronomie; Experten sehen viele ungelöste technische Fragen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351100/spacex-darf-eine-million-satelliten-f252r-ki-rechenzentren-einsetzen?ref=rss) · [ORF](https://orf.at/stories/3449282/) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/25/spacex-datacenter-satellites-approval)
-
-### Amazon startet Autoverkauf in Europa
-
-Nach dem Start in den USA 2024 weitet Amazon sein Autogeschäft aus, zunächst in Großbritannien, wo es mit Hyundai kooperiert. Angeboten werden Neu- und Gebrauchtwagen.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000350974/briten-koennen-bald-autos-ueber-amazon-kaufen?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41474885/amazon-koennte-schon-bald-europas-automarkt-aufmischen) · [The Guardian](https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market)
+→ [Der Standard](https://www.derstandard.at/story/3000000351230/genehmigung-fuer-eine-million-spacex-satelliten-sorgt-fuer-entsetzen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss) · [Deutsche Welle](https://www.dw.com/de/ki-rechenzentren-im-all-eine-million-satelliten-und-probleme/a-80057290?maca=de-rss-de-all-1119-rdf)
 
 ## IT-Security
 
-### KI-gestützte Cyberangriffe auf EU-Kommission und CIA
+### FIFA bestätigt Cyberangriff mit Datenabfluss
 
-Von EU-Servern wurden persönliche Daten entwendet; ob die Angreifer noch im System sind, ist unklar. Auch der US-Auslandsgeheimdienst CIA soll betroffen sein.
+Hacker haben bei der FIFA persönliche und geschäftliche Daten abgegriffen; der Verband spricht von einem begrenzten Datensatz, warnt aber vor möglichen Folgen.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350898/ki-gestuetzte-cyberangriffe-treffen-eu-kommission-und-cia?ref=rss) · [heise Security](https://www.heise.de/news/Cyberangriff-auf-US-Geheimdienst-CIA-11537061.html)
+→ [heise online](https://www.heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Guardian](https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information)
 
-### Broadcom schließt 23 Lücken in VMware-Produkten
+### Palo-Alto-Firewalls werden über zwei Lücken angegriffen
 
-Mehrere VMware-Produkte waren verwundbar. Aktualisierte Software behebt 23 Sicherheitslücken; Administratoren sollten zeitnah patchen.
+Angreifer kombinieren derzeit zwei Sicherheitslücken, um öffentlich erreichbare PAN-OS-Firewalls zu kompromittieren; Patches stehen bereit. Die US-Behörde CISA warnt zudem vor laufenden Angriffen auf zehn Lücken, darunter Danfoss-Geräte, HPE-Juniper-Router und Mitel MiCollab.
 
-→ [heise Security](https://www.heise.de/news/Broadcom-stopft-viele-Sicherheitsluecken-in-mehreren-VMware-Produkten-11537743.html)
+→ [heise Security](https://www.heise.de/news/Palo-Alto-Angriffe-auf-PAN-OS-Firewalls-mit-offenem-Managementzugang-beobachtet-11538805.html) · [heise online](https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
 
-### CISA warnt vor Angriffen auf Drupal Core, AntiCsrf und Optimizely
+### 1Password-Hack: Kundendaten erbeutet, angeblich keine Passwörter
 
-Die US-Behörde beobachtet aktive Angriffe auf die drei Produkte. Teils waren die Exploits bereits bekannt.
+Angreifer haben Kundendaten von 1Password erbeutet, Passwörter seien laut Hersteller nicht betroffen. Zur Zahl der Betroffenen gibt es keine Angaben; Nutzer könnten verstärkt Phishing-Ziele werden.
 
-→ [heise Security](https://www.heise.de/news/Angriffswarnung-Drupal-Core-AntiCsrf-und-Optimizely-11537363.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000351251/1password-gehackt-angreifer-erbeuten-kundendaten-aber-angeblich-keine-passwoerter?ref=rss)
 
 ## Wissenschaft
 
-### Hera zeigt stadiongroßen Krater auf Asteroid Dimorphos
+### Hinweise auf einen „erdähnlichen“ Planeten jenseits von Neptun
 
-Erste Nahaufnahmen der ESA-Sonde belegen, dass die vom Einschlag der NASA-Sonde Dart getroffene Seite abgeflacht ist. Der Rest des Asteroiden blieb unverändert. Die Daten sollen helfen, künftige Asteroiden-Abwehr zu planen.
+Simulationen legen eine Welt mit etwa doppelter Erdmasse weit außerhalb der Neptun-Bahn nahe, die die rätselhaften Bahnen eisiger Kleinkörper erklären würde. Direkt nachgewiesen ist der Planet nicht.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350994/dart-sonde-schlug-stadion-grossen-krater-in-asteroiden?ref=rss) · [heise online](https://www.heise.de/news/Weltraumsonde-Hera-entdeckt-hunderte-Mini-Asteroiden-rund-um-Dimorphos-11538102.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [BBC](https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss)
-
-### China schickt erstmals einen Ausländer zur Raumstation
-
-Mit Muhammad Zeeshan Ali fliegt ein Pakistaner, ein früherer Kampfpilot, an Bord von Shenzhou-24 zur Station Tiangong. Es ist der erste Ausländer auf einer chinesischen bemannten Mission.
-
-→ [ZDFheute](https://www.zdfheute.de/panorama/china-raumfahrt-weltraumstation-pakistan-astronaut-100.html) · [BBC](https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss) · [BBC](https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000351067/spuren-eines-erdaehnlichen-planeten-in-unserem-sonnensystem-entdeckt?ref=rss)
 
 ## Nahost
 
-### Richter empfehlen Einstellung des Korruptionsverfahrens gegen Netanjahu
+### Zwei Rheinmetall-Techniker bei Drohnenangriff in Kuwait getötet
 
-Die Richter sehen kaum Aussicht auf eine Verurteilung in einem der drei Fälle. Netanjahu sagt, der Prozess müsse enden; die Anklage kann die Empfehlung aufgreifen.
+Zwei Italiener, die für Rheinmetall arbeiteten, starben bei einem Drohnenangriff an einer Radarstation der kuwaitischen Luftabwehr. Italien macht den Iran verantwortlich, Teheran weist das zurück und nennt den Vorfall „verdächtig“.
 
-→ [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html) · [BBC](https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss)
+→ [ORF](https://orf.at/stories/3449373/) · [Der Standard](https://www.derstandard.at/story/3000000351276/zwei-italienische-techniker-bei-drohnenangriff-im-kuwait-get246tet?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss)
 
-### Huthi-Angriffe auf Saudi-Arabien eskalieren
+### Netanjahu-Prozess: Richter empfehlen Fallenlassen des Bestechungsvorwurfs
 
-Ein Huthi-Geschoss schlug im Hafen von Jazan ein, über Riad wurden Raketen abgefangen. Das saudische Bündnis bombardierte zuvor die Küstenstadt Hodeidah im Jemen.
+Im Korruptionsprozess haben die Richter empfohlen, den Vorwurf der Bestechlichkeit fallenzulassen. Netanjahus Lager sieht sich entlastet, die Staatsanwältin steht vor einem Dilemma. Parallel schloss Gadi Eisenkot ein weiteres Koalitionsabkommen der Opposition.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350881/von-saudi-arabien-gefuehrte-militaerkoalition-greift-ziele-im-jemen-an?ref=rss) · [ORF](https://orf.at/stories/3449296/) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate?traffic_source=rss)
+→ [SRF](https://www.srf.ch/news/international/nahost/premier-unter-verdacht-richter-empfehlen-einstellung-des-strafverfahrens-gegen-netanjahu) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html) · [Der Standard](https://www.derstandard.at/story/3000000351290/eisenkot-einigt-sich-mit-partei-auf-koalitionsvereinbarung?ref=rss)
 
 ## USA
 
-### Nvidia: Streit um Rückkehr von Konzernchef Huang
+### Unwetter zu Thanksgiving: fast eine Million ohne Strom
 
-Senator Schumer wirft Huang Verstöße gegen Exportkontrollen vor; er soll am 3. Dezember vor dem Bankenausschuss aussagen. Trump hält eine Begnadigung für möglich, Vance stützt die Rückkehr. Laut Bericht fanden US-Behörden keine Beweise für Spionage.
+Stürme an beiden Küsten sorgen für Überschwemmungen, Flugverspätungen und Stromausfälle bei rund 820.000 bis einer Million Haushalten. Die Macy’s-Parade in New York wurde erstmals verschoben.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000350880/schumer-wirft-nvidia-chef-versto223-gegen-us-exportkontrollgesetze-vor?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000351101/bericht-us-beh246rden-finden-keine-beweise-f252r-spionage-bei-nvidia?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia)
+→ [ORF](https://orf.at/stories/3449390/) · [BBC](https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather)
 
-### US-Armee sprengt Bleiazid-Vorrat in Iowa
+### Trump droht 14 Handelspartnern mit neuen Zöllen
 
-In der Munitionsfabrik in Middletown wurde der gesamte US-Bestand des Sprengstoffs kontrolliert gesprengt. Die Armee spricht von einem „großen Erfolg“; erste Bleimessungen seien unauffällig, Anwohner waren zuvor besorgt.
+Die Zollpläne richten sich gegen Staaten, denen Überproduktion vorgeworfen wird. China behält sich „notwendige Maßnahmen“ vor, die EU weist den Vorwurf zurück, Japan nennt den Schritt „bedauerlich“ und Brasilien „inakzeptabel“.
 
-→ [ORF](https://orf.at/stories/3449242/) · [BBC](https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss) · [ZDFheute](https://www.zdfheute.de/video/us-armee-sprengt-chemikalien-video-100.html)
+→ [Der Standard](https://www.derstandard.at/story/3000000351181/scharfe-kritik-von-us-handelspartnern-an-neuer-zoll-drohung?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat)

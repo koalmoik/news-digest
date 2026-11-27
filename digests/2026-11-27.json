@@ -1,0 +1,386 @@
+{
+ "date": "2026-11-27",
+ "title": "Morgen-Digest · Freitag, 27. November 2026",
+ "generated": "2026-11-27T06:06+01:00",
+ "intro": "Der EU-Sondergipfel zum Budget bis 2034 ist ohne Einigung zu Ende gegangen, dafür steht mit dem Spanier Pablo Hernández de Cos der nächste EZB-Chef fest. In Österreich sorgen die geplante Bundesstaatsanwaltschaft und der Wechsel an der SPÖ-Spitze für Debatten, in den USA legen Unwetter zu Thanksgiving fast eine Million Haushalte lahm.",
+ "topics": [
+  {
+   "name": "Innenpolitik",
+   "items": [
+    {
+     "id": "2026-11-27-01",
+     "title": "Kritik an Plänen zur Bundesstaatsanwaltschaft",
+     "summary": "Juristen warnen, der Gesetzesentwurf zur Bundesstaatsanwaltschaft könne die Unabhängigkeit der Justiz untergraben, und fordern eine parlamentarische Enquete. Auch aus anderen Richtungen werden Rufe nach einem „Neustart“ des Projekts laut.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449375/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351208/experten-warnen-vor-manipulierbarer-justiz?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-02",
+     "title": "Marterbauer zögert bei SPÖ-Vorsitz",
+     "summary": "Finanzminister Markus Marterbauer soll im Jänner das Vizekanzleramt übernehmen, zögert aber noch, zusätzlich auch den SPÖ-Parteivorsitz zu übernehmen. Klubchef Philip Kucher gilt als Alternative. Laut einer Umfrage ist Marterbauer der einzige Minister mit positivem Vertrauensvotum.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351102/wird-marterbauer-tatsaechlich-spoe-chef?ref=rss"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/innenpolitik/marterbauer-einziger-minister-mit-positivem-vertrauensvotum-art-686354",
+       "paywall": true
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-03",
+     "title": "U-Ausschuss: Nehammer bestreitet Intervention im Fall Pilnacek",
+     "summary": "Ex-Kanzler Karl Nehammer wies im U-Ausschuss vehement zurück, Recherchen zum Fall Pilnacek abgedreht haben zu wollen. Zugleich gibt es Widersprüche zu einem Vermerk, wonach Pilnacek „vermutlich in suizidaler Absicht“ als Geisterfahrer unterwegs war.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351210/nehammer-bestreitet-vehement-dass-er-pilnacek-recherchen-abdrehen-wollte?ref=rss"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000351099/u-ausschuss-befragt-exkanzler-karl-nehammer-zu-causa-pilnacek?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "EU",
+   "items": [
+    {
+     "id": "2026-11-27-04",
+     "title": "EU-Budgetgipfel endet ohne Einigung",
+     "summary": "Der Sondergipfel zum EU-Haushalt 2028 bis 2034 wurde vorzeitig beendet, die Positionen lagen laut Kanzler Merz zu weit auseinander. Die Gespräche sollen beim Gipfel im Dezember weitergehen; Kanzler Stocker spricht von keinem „Reinfall“.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449395/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351313/gipfel-zu-eu-budget-vorzeitiges-ende-f252r-stocker-kein-reinfall?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-05",
+     "title": "Hernández de Cos wird neuer EZB-Präsident",
+     "summary": "Die EU-Staats- und Regierungschefs haben sich auf den Spanier Pablo Hernández de Cos als Nachfolger von Christine Lagarde geeinigt, die im Februar abtritt. Der frühere Chef der spanischen Notenbank ist der erste Spanier an der EZB-Spitze.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449363/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351166/viel-streit-auf-dem-eu-gipfel-aber-der-ezb-topjob-ist-geklaert-hernandez-de-cos-loest-lagarde-ab?ref=rss"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welt",
+   "items": [
+    {
+     "id": "2026-11-27-06",
+     "title": "Selenskyj warnt vor neuem russischem Großangriff",
+     "summary": "Der ukrainische Präsident erwartet eine neue russische Großoffensive, nach Angriffen auf Kiew und Charkiw gab es Tote und Verletzte. US-Präsident Trump sagt, er habe Putin gebeten, die Aggressionen in Europa zu beenden; auch NATO-Chef Rutte und Trump warnen vor einer Ausweitung des Krieges.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449393/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/jetzt/livebericht/3000000351094/mehrere-todesopfer-bei-russischen-angriffen?ref=rss"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351188/mark-rutte-und-donald-trump-warnen-russland-vor-ausweitung-des-krieges?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-07",
+     "title": "Neuseelands Regierung verliert ihre Mehrheit",
+     "summary": "Die rechtsgerichtete Koalition unter Premier Christopher Luxon hat bei der Wahl nach den Endergebnissen die Mehrheit verfehlt. Sie braucht die Unterstützung einer Kleinpartei, sonst drohen Neuwahlen.",
+     "sources": [
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/politik/weltpolitik/rechte-regierung-verliert-mehrheit-in-neuseeland-art-686349",
+       "paywall": true
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wirtschaft",
+   "items": [
+    {
+     "id": "2026-11-27-08",
+     "title": "Spritpreisbremse: Margeneingriff soll auslaufen",
+     "summary": "Wirtschaftsminister Hattmannsdorfer will die Margenbegrenzung bei den Spritpreisen Ende November auslaufen lassen. Die Spritpreisbremse soll ab 1. Dezember als Senkung der Mineralölsteuer weitergeführt werden.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449364/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351256/spritpreisbremse-hattmannsdorfer-f252r-auslaufen-des-margeneingriffs?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41495014/spritpreisbremse-hattmannsdorfer-fuer-auslaufen-des-margeneingriffs"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-09",
+     "title": "Irisches Gericht stoppt Bawag-Übernahme der PTSB",
+     "summary": "Ein irisches Gericht lehnte die 1,6 Milliarden Euro schwere Übernahme der Bank PTSB durch die Bawag ab, weil die Minderheitsaktionäre nicht gesondert abstimmen konnten. Nun beginnt laut Presse der Kampf um den Preis.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449382/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351284/gericht-stoppt-220bernahme-der-irischen-bank-ptsb-durch-bawag?ref=rss"
+      },
+      {
+       "name": "Die Presse",
+       "url": "https://www.diepresse.com/41495673/irisches-hoechstgericht-lehnt-uebernahme-der-ptsb-durch-bawag-ab-jetzt-beginnt-der-kampf-um-den-preis",
+       "paywall": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Klima",
+   "items": [
+    {
+     "id": "2026-11-27-10",
+     "title": "Weltklimakonferenz in Antalya ohne Ergebnis",
+     "summary": "Die Verhandlungen sind gescheitert, nachdem 130 Staaten erklärt hatten, keinen Kompromiss zu akzeptieren, der fossile Energien ausspart. Wie es weitergeht, ist offen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351151/die-weltklimakonferenz-in-antalya-ist-gescheitert-ist-das-vielleicht-sogar-positiv?ref=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-11",
+     "title": "Globale Temperatur erstmals sechs Tage über zwei Grad",
+     "summary": "Die weltweite Durchschnittstemperatur lag erstmals sechs Tage in Folge mehr als zwei Grad über dem vorindustriellen Niveau. Fachleute sehen darin einen Vorgeschmack auf künftige Bedingungen, trotz Kälte in Österreich.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351143/erstmals-sechs-tage-in-folge-mehr-als-zwei-grad-erderwaermung?ref=rss"
+      },
+      {
+       "name": "Salzburger Nachrichten",
+       "url": "https://www.sn.at/panorama/international/globale-temperatur-erstmals-eine-woche-ueber-zwei-grad-marke-art-686350",
+       "paywall": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tech/KI",
+   "items": [
+    {
+     "id": "2026-11-27-12",
+     "title": "USA erlauben eine Million SpaceX-Satelliten für KI-Rechenzentren",
+     "summary": "Die US-Behörden haben das Projekt „Starmind“ genehmigt, das KI-Rechenzentren im All aufbauen soll. Kritiker befürchten Folgen für Erdklima, Raumfahrt und Astronomie; Experten sehen viele ungelöste technische Fragen.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351230/genehmigung-fuer-eine-million-spacex-satelliten-sorgt-fuer-entsetzen?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "Deutsche Welle",
+       "url": "https://www.dw.com/de/ki-rechenzentren-im-all-eine-million-satelliten-und-probleme/a-80057290?maca=de-rss-de-all-1119-rdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IT-Security",
+   "items": [
+    {
+     "id": "2026-11-27-13",
+     "title": "FIFA bestätigt Cyberangriff mit Datenabfluss",
+     "summary": "Hacker haben bei der FIFA persönliche und geschäftliche Daten abgegriffen; der Verband spricht von einem begrenzten Datensatz, warnt aber vor möglichen Folgen.",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-14",
+     "title": "Palo-Alto-Firewalls werden über zwei Lücken angegriffen",
+     "summary": "Angreifer kombinieren derzeit zwei Sicherheitslücken, um öffentlich erreichbare PAN-OS-Firewalls zu kompromittieren; Patches stehen bereit. Die US-Behörde CISA warnt zudem vor laufenden Angriffen auf zehn Lücken, darunter Danfoss-Geräte, HPE-Juniper-Router und Mitel MiCollab.",
+     "sources": [
+      {
+       "name": "heise Security",
+       "url": "https://www.heise.de/news/Palo-Alto-Angriffe-auf-PAN-OS-Firewalls-mit-offenem-Managementzugang-beobachtet-11538805.html"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-15",
+     "title": "1Password-Hack: Kundendaten erbeutet, angeblich keine Passwörter",
+     "summary": "Angreifer haben Kundendaten von 1Password erbeutet, Passwörter seien laut Hersteller nicht betroffen. Zur Zahl der Betroffenen gibt es keine Angaben; Nutzer könnten verstärkt Phishing-Ziele werden.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351251/1password-gehackt-angreifer-erbeuten-kundendaten-aber-angeblich-keine-passwoerter?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wissenschaft",
+   "items": [
+    {
+     "id": "2026-11-27-16",
+     "title": "Hinweise auf einen „erdähnlichen“ Planeten jenseits von Neptun",
+     "summary": "Simulationen legen eine Welt mit etwa doppelter Erdmasse weit außerhalb der Neptun-Bahn nahe, die die rätselhaften Bahnen eisiger Kleinkörper erklären würde. Direkt nachgewiesen ist der Planet nicht.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351067/spuren-eines-erdaehnlichen-planeten-in-unserem-sonnensystem-entdeckt?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nahost",
+   "items": [
+    {
+     "id": "2026-11-27-17",
+     "title": "Zwei Rheinmetall-Techniker bei Drohnenangriff in Kuwait getötet",
+     "summary": "Zwei Italiener, die für Rheinmetall arbeiteten, starben bei einem Drohnenangriff an einer Radarstation der kuwaitischen Luftabwehr. Italien macht den Iran verantwortlich, Teheran weist das zurück und nennt den Vorfall „verdächtig“.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449373/"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351276/zwei-italienische-techniker-bei-drohnenangriff-im-kuwait-get246tet?ref=rss"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-18",
+     "title": "Netanjahu-Prozess: Richter empfehlen Fallenlassen des Bestechungsvorwurfs",
+     "summary": "Im Korruptionsprozess haben die Richter empfohlen, den Vorwurf der Bestechlichkeit fallenzulassen. Netanjahus Lager sieht sich entlastet, die Staatsanwältin steht vor einem Dilemma. Parallel schloss Gadi Eisenkot ein weiteres Koalitionsabkommen der Opposition.",
+     "sources": [
+      {
+       "name": "SRF",
+       "url": "https://www.srf.ch/news/international/nahost/premier-unter-verdacht-richter-empfehlen-einstellung-des-strafverfahrens-gegen-netanjahu"
+      },
+      {
+       "name": "Tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html"
+      },
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351290/eisenkot-einigt-sich-mit-partei-auf-koalitionsvereinbarung?ref=rss"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "USA",
+   "items": [
+    {
+     "id": "2026-11-27-19",
+     "title": "Unwetter zu Thanksgiving: fast eine Million ohne Strom",
+     "summary": "Stürme an beiden Küsten sorgen für Überschwemmungen, Flugverspätungen und Stromausfälle bei rund 820.000 bis einer Million Haushalten. Die Macy’s-Parade in New York wurde erstmals verschoben.",
+     "sources": [
+      {
+       "name": "ORF",
+       "url": "https://orf.at/stories/3449390/"
+      },
+      {
+       "name": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather"
+      }
+     ]
+    },
+    {
+     "id": "2026-11-27-20",
+     "title": "Trump droht 14 Handelspartnern mit neuen Zöllen",
+     "summary": "Die Zollpläne richten sich gegen Staaten, denen Überproduktion vorgeworfen wird. China behält sich „notwendige Maßnahmen“ vor, die EU weist den Vorwurf zurück, Japan nennt den Schritt „bedauerlich“ und Brasilien „inakzeptabel“.",
+     "sources": [
+      {
+       "name": "Der Standard",
+       "url": "https://www.derstandard.at/story/3000000351181/scharfe-kritik-von-us-handelspartnern-an-neuer-zoll-drohung?ref=rss"
+      },
+      {
+       "name": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
