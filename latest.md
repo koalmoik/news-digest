@@ -1,143 +1,143 @@
-# Morgen-Digest · Freitag, 27. November 2026
+# Morgen-Digest · Samstag, 28. November 2026
 
-_Der EU-Sondergipfel zum Budget bis 2034 ist ohne Einigung zu Ende gegangen, dafür steht mit dem Spanier Pablo Hernández de Cos der nächste EZB-Chef fest. In Österreich sorgen die geplante Bundesstaatsanwaltschaft und der Wechsel an der SPÖ-Spitze für Debatten, in den USA legen Unwetter zu Thanksgiving fast eine Million Haushalte lahm._
+_Der EU-Sondergipfel zum Finanzrahmen ist ohne Einigung zu Ende gegangen, die Ukraine bietet eine Waffenruhe im Schwarzen Meer an. In Österreich rücken die steigenden Pensionszuschüsse in den Fokus, Spanien wählt am Sonntag._
 
 ## Innenpolitik
 
-### Kritik an Plänen zur Bundesstaatsanwaltschaft
+### Pensionszuschüsse steigen bis 2031 auf 27 Milliarden Euro
 
-Juristen warnen, der Gesetzesentwurf zur Bundesstaatsanwaltschaft könne die Unabhängigkeit der Justiz untergraben, und fordern eine parlamentarische Enquete. Auch aus anderen Richtungen werden Rufe nach einem „Neustart“ des Projekts laut.
+Laut der neuen Pensionsprognose steigen die Ausgaben für Pensionen bis 2031 auf 77 Milliarden Euro, der Zuschuss aus dem Budget auf 27 Milliarden. Die Lage ist etwas günstiger als in der Vorjahresprognose, die eigenen Vorgaben dürfte die Regierung nach heutigem Stand aber verfehlen. Die Neos drängen auf weitere Schritte.
 
-→ [ORF](https://orf.at/stories/3449375/) · [Der Standard](https://www.derstandard.at/story/3000000351208/experten-warnen-vor-manipulierbarer-justiz?ref=rss)
+→ [ORF](https://orf.at/stories/3449469/) · [Der Standard](https://www.derstandard.at/story/3000000351302/entspannung-oder-alarmsignal-die-neue-pensionsprognose-zeigt-beides?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41496452/27-milliarden-euro-zuschuss-ausgaben-fuer-pensionen-steigen-staerker-als-erwartet)
 
-### Marterbauer zögert bei SPÖ-Vorsitz
+### Kickl fordert von der Ukraine Rücknahme abgelehnter Asylwerber
 
-Finanzminister Markus Marterbauer soll im Jänner das Vizekanzleramt übernehmen, zögert aber noch, zusätzlich auch den SPÖ-Parteivorsitz zu übernehmen. Klubchef Philip Kucher gilt als Alternative. Laut einer Umfrage ist Marterbauer der einzige Minister mit positivem Vertrauensvotum.
+FPÖ-Chef Herbert Kickl will, dass die EU von der Ukraine als Gegenleistung für die erhaltene Hilfe die Aufnahme abgelehnter Asylwerber verlangt. Die anderen Parteien kritisieren den Vorschlag scharf.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351102/wird-marterbauer-tatsaechlich-spoe-chef?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/politik/innenpolitik/marterbauer-einziger-minister-mit-positivem-vertrauensvotum-art-686354)
-
-### U-Ausschuss: Nehammer bestreitet Intervention im Fall Pilnacek
-
-Ex-Kanzler Karl Nehammer wies im U-Ausschuss vehement zurück, Recherchen zum Fall Pilnacek abgedreht haben zu wollen. Zugleich gibt es Widersprüche zu einem Vermerk, wonach Pilnacek „vermutlich in suizidaler Absicht“ als Geisterfahrer unterwegs war.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000351210/nehammer-bestreitet-vehement-dass-er-pilnacek-recherchen-abdrehen-wollte?ref=rss) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000351099/u-ausschuss-befragt-exkanzler-karl-nehammer-zu-causa-pilnacek?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000351418/asyl-kickl-fordert-von-ukraine-aufnahme-von-abgelehnten-asylwerbern?ref=rss) · [Die Presse](https://www.diepresse.com/41497761/gegenleistung-fpoe-chef-kickl-fordert-von-der-ukraine-die-aufnahme-abgelehnter-asylwerber)
 
 ## EU
 
-### EU-Budgetgipfel endet ohne Einigung
+### EU-Sondergipfel zum Finanzrahmen endet ohne Einigung
 
-Der Sondergipfel zum EU-Haushalt 2028 bis 2034 wurde vorzeitig beendet, die Positionen lagen laut Kanzler Merz zu weit auseinander. Die Gespräche sollen beim Gipfel im Dezember weitergehen; Kanzler Stocker spricht von keinem „Reinfall“.
+Der Gipfel zum EU-Budget bis 2034 wurde vorzeitig und ohne Konsens beendet; Italiens Premierin Meloni sprach von „Lichtjahren“ bis zu einer Einigung. Im Dezember muss weiterverhandelt werden, der Zeitdruck wächst. Kanzler Stocker wertete das vorzeitige Ende nicht als Reinfall.
 
-→ [ORF](https://orf.at/stories/3449395/) · [Der Standard](https://www.derstandard.at/story/3000000351313/gipfel-zu-eu-budget-vorzeitiges-ende-f252r-stocker-kein-reinfall?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html)
+→ [ORF](https://orf.at/stories/3449431/) · [Der Standard](https://www.derstandard.at/story/3000000351313/gipfel-zu-eu-budget-vorzeitiges-ende-f252r-stocker-kein-reinfall?ref=rss) · [ZDFheute](https://www.zdfheute.de/politik/eu-haushalt-finanzrahmen-ausgaben-100.html)
 
-### Hernández de Cos wird neuer EZB-Präsident
+### Spanien wählt: Sánchez gegen konservative PP
 
-Die EU-Staats- und Regierungschefs haben sich auf den Spanier Pablo Hernández de Cos als Nachfolger von Christine Lagarde geeinigt, die im Februar abtritt. Der frühere Chef der spanischen Notenbank ist der erste Spanier an der EZB-Spitze.
+Am Sonntag wird in Spanien das Parlament gewählt. Die konservative Volkspartei PP hat Umfragen zufolge gute Chancen, stärkste Kraft zu werden, Premier Sánchez will den Umfragen trotzen. Wohnungsnot und Migration sind zentrale Themen.
 
-→ [ORF](https://orf.at/stories/3449363/) · [Der Standard](https://www.derstandard.at/story/3000000351166/viel-streit-auf-dem-eu-gipfel-aber-der-ezb-topjob-ist-geklaert-hernandez-de-cos-loest-lagarde-ab?ref=rss) · [Tagesschau](https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html)
+→ [Tagesschau](https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html) · [Der Standard](https://www.derstandard.at/story/3000000350589/migrationsland-spanien-einwanderer-gebraucht-aber-wohnraum-eng?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss)
 
 ## Welt
 
-### Selenskyj warnt vor neuem russischem Großangriff
+### Ukraine bietet Waffenruhe im Schwarzen Meer an
 
-Der ukrainische Präsident erwartet eine neue russische Großoffensive, nach Angriffen auf Kiew und Charkiw gab es Tote und Verletzte. US-Präsident Trump sagt, er habe Putin gebeten, die Aggressionen in Europa zu beenden; auch NATO-Chef Rutte und Trump warnen vor einer Ausweitung des Krieges.
+Kiew hat Verbündeten einen Vorschlag für eine Waffenruhe im Schwarzen Meer übermittelt, um Lebensmittelexporte zu sichern. Die Ukraine wartet auf eine Antwort Russlands, das laut Kiew auch Öltransporte in das Abkommen einbeziehen will.
 
-→ [ORF](https://orf.at/stories/3449393/) · [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000351094/mehrere-todesopfer-bei-russischen-angriffen?ref=rss) · [Der Standard](https://www.derstandard.at/story/3000000351188/mark-rutte-und-donald-trump-warnen-russland-vor-ausweitung-des-krieges?ref=rss)
+→ [Der Standard](https://www.derstandard.at/jetzt/livebericht/3000000351299/iaea-warnt-nach-stromausfall-im-atomkraftwerk-saporischschja-vor-prekaerer-sicherheitslage?ref=rss) · [Die Presse](https://www.diepresse.com/41499435/kiew-bietet-waffenruhe-im-schwarzen-meer-an) · [France 24](https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response)
 
-### Neuseelands Regierung verliert ihre Mehrheit
+### Putin stellt neues Atom-U-Boot „Perm“ in Dienst
 
-Die rechtsgerichtete Koalition unter Premier Christopher Luxon hat bei der Wahl nach den Endergebnissen die Mehrheit verfehlt. Sie braucht die Unterstützung einer Kleinpartei, sonst drohen Neuwahlen.
+Russland hat ein neues nuklear angetriebenes U-Boot mit Hyperschallwaffen präsentiert. Bis 2030 sollen fünf weitere neue Atom-U-Boote folgen. Das geschieht inmitten der Spannungen mit dem Westen.
 
-→ [Salzburger Nachrichten 🔒](https://www.sn.at/politik/weltpolitik/rechte-regierung-verliert-mehrheit-in-neuseeland-art-686349) · [The Guardian](https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results)
+→ [Die Presse](https://www.diepresse.com/41499620/putin-praesentiert-neues-russisches-atom-u-boot-perm) · [ORF](https://orf.at/stories/3449492/) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss)
 
 ## Wirtschaft
 
-### Spritpreisbremse: Margeneingriff soll auslaufen
+### S&P stuft Ausblick für Frankreich auf „negativ“
 
-Wirtschaftsminister Hattmannsdorfer will die Margenbegrenzung bei den Spritpreisen Ende November auslaufen lassen. Die Spritpreisbremse soll ab 1. Dezember als Senkung der Mineralölsteuer weitergeführt werden.
+Die Ratingagentur S&P hat den Ausblick für Frankreichs Kreditwürdigkeit von „stabil“ auf „negativ“ gesenkt. Begründet wird das mit wachsendem Budgetdruck bei schwachem Wachstum und höheren Zinsen. Das erhöht die Sorgen vor der Frankreich-Wahl.
 
-→ [ORF](https://orf.at/stories/3449364/) · [Der Standard](https://www.derstandard.at/story/3000000351256/spritpreisbremse-hattmannsdorfer-f252r-auslaufen-des-margeneingriffs?ref=rss) · [Die Presse](https://www.diepresse.com/41495014/spritpreisbremse-hattmannsdorfer-fuer-auslaufen-des-margeneingriffs)
+→ [ORF](https://orf.at/stories/3449496/) · [France 24](https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative)
 
-### Irisches Gericht stoppt Bawag-Übernahme der PTSB
+### Deutscher Bundestag beschließt Rekordhaushalt für 2027
 
-Ein irisches Gericht lehnte die 1,6 Milliarden Euro schwere Übernahme der Bank PTSB durch die Bawag ab, weil die Minderheitsaktionäre nicht gesondert abstimmen konnten. Nun beginnt laut Presse der Kampf um den Preis.
+Der Haushalt 2027 sieht Ausgaben von 556 Milliarden Euro vor, so viel wie nie, bei steigender Neuverschuldung. Die Stromsteuer sinkt für ein Jahr, eine Zuckersteuer auf Getränke kommt.
 
-→ [ORF](https://orf.at/stories/3449382/) · [Der Standard](https://www.derstandard.at/story/3000000351284/gericht-stoppt-220bernahme-der-irischen-bank-ptsb-durch-bawag?ref=rss) · [Die Presse 🔒](https://www.diepresse.com/41495673/irisches-hoechstgericht-lehnt-uebernahme-der-ptsb-durch-bawag-ab-jetzt-beginnt-der-kampf-um-den-preis)
+→ [ORF](https://orf.at/stories/3449471/) · [Die Presse](https://www.diepresse.com/41499170/deutscher-bundestag-beschliesst-budget) · [ZDFheute](https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html)
 
 ## Klima
 
-### Weltklimakonferenz in Antalya ohne Ergebnis
+### Herbst in Österreich war zu warm und zu trocken
 
-Die Verhandlungen sind gescheitert, nachdem 130 Staaten erklärt hatten, keinen Kompromiss zu akzeptieren, der fossile Energien ausspart. Wie es weitergeht, ist offen.
+Trotz des kräftigen Wintereinbruchs am Ende war der Herbst über weite Strecken deutlich zu warm und zu trocken. Die Schneefälle konnten die lang anhaltende Trockenheit bisher nicht mildern, Landwirte klagen über Futtermangel.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351151/die-weltklimakonferenz-in-antalya-ist-gescheitert-ist-das-vielleicht-sogar-positiv?ref=rss)
-
-### Globale Temperatur erstmals sechs Tage über zwei Grad
-
-Die weltweite Durchschnittstemperatur lag erstmals sechs Tage in Folge mehr als zwei Grad über dem vorindustriellen Niveau. Fachleute sehen darin einen Vorgeschmack auf künftige Bedingungen, trotz Kälte in Österreich.
-
-→ [Der Standard](https://www.derstandard.at/story/3000000351143/erstmals-sechs-tage-in-folge-mehr-als-zwei-grad-erderwaermung?ref=rss) · [Salzburger Nachrichten 🔒](https://www.sn.at/panorama/international/globale-temperatur-erstmals-eine-woche-ueber-zwei-grad-marke-art-686350)
+→ [ORF](https://orf.at/stories/3449458/) · [Der Standard](https://www.derstandard.at/story/3000000351394/von-hitze-zu-frau-holle-herbst-war-zu-warm-und-zu-trocken?ref=rss)
 
 ## Tech/KI
 
-### USA erlauben eine Million SpaceX-Satelliten für KI-Rechenzentren
+### Belgien stoppt Bau von Google-Rechenzentrum
 
-Die US-Behörden haben das Projekt „Starmind“ genehmigt, das KI-Rechenzentren im All aufbauen soll. Kritiker befürchten Folgen für Erdklima, Raumfahrt und Astronomie; Experten sehen viele ungelöste technische Fragen.
+Belgische Behörden haben Google einen Baustopp für ein Rechenzentrum auferlegt, weil keine ordentliche Baugenehmigung vorliege. Laut Greenpeace wurde trotz laufender Berufung weitergebaut.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351230/genehmigung-fuer-eine-million-spacex-satelliten-sorgt-fuer-entsetzen?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss) · [Deutsche Welle](https://www.dw.com/de/ki-rechenzentren-im-all-eine-million-satelliten-und-probleme/a-80057290?maca=de-rss-de-all-1119-rdf)
+→ [ORF](https://orf.at/stories/3449491/) · [Der Standard](https://www.derstandard.at/story/3000000351463/belgische-beh246rden-erzwingen-baustopp-f252r-google-rechenzentrum?ref=rss) · [The Guardian](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits)
+
+### OpenAI klagt Apple wegen Geschäftsgeheimnissen
+
+OpenAI hat Gegenklage gegen Apple eingereicht und wirft dem Konzern vor, Geschäftsgeheimnisse gestohlen und Hardware-Zulieferer unter Druck gesetzt zu haben. Zuvor hatte Apple OpenAI verklagt, weil es Mitarbeiter abgeworben haben soll.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000351467/openai-reicht-im-streit-um-ki-technologie-gegenklage-gegen-apple-ein?ref=rss) · [The Guardian](https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets) · [Al Jazeera](https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss)
 
 ## IT-Security
 
-### FIFA bestätigt Cyberangriff mit Datenabfluss
+### Hacker dringen offenbar in US-Luftwaffen-Cloud „Cloud One“ ein
 
-Hacker haben bei der FIFA persönliche und geschäftliche Daten abgegriffen; der Verband spricht von einem begrenzten Datensatz, warnt aber vor möglichen Folgen.
+Laut Reuters sind Angreifer in die zentrale Cloud-Plattform der US-Luftwaffe eingedrungen. Updates sind blockiert, der Umfang des Einbruchs ist unklar; betroffen sein könnten Personal-, Logistik- und taktische Daten.
 
-→ [heise online](https://www.heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Guardian](https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information)
+→ [heise Security](https://www.heise.de/news/Hacker-brechen-angeblich-in-Cloud-Plattform-der-US-Air-Force-ein-11541212.html) · [Der Standard](https://www.derstandard.at/story/3000000351411/insider-hacker-dringen-in-zentrale-cloud-plattform-der-us-luftwaffe-ein?ref=rss) · [Die Presse](https://www.diepresse.com/41499316/hacker-dringen-offenbar-in-zentrale-cloud-plattform-der-us-luftwaffe-ein)
 
-### Palo-Alto-Firewalls werden über zwei Lücken angegriffen
+### SAP räumt IT-Vorfall in Entwicklungssystemen ein
 
-Angreifer kombinieren derzeit zwei Sicherheitslücken, um öffentlich erreichbare PAN-OS-Firewalls zu kompromittieren; Patches stehen bereit. Die US-Behörde CISA warnt zudem vor laufenden Angriffen auf zehn Lücken, darunter Danfoss-Geräte, HPE-Juniper-Router und Mitel MiCollab.
+SAP bestätigt einen Sicherheitsvorfall; betroffen sind Berichten zufolge Entwicklungssysteme auf der GitHub-Plattform. Mitarbeiter sollen prüfen, ob Zugangsdaten zu ändern sind. Hinweise auf Kundenschäden gibt es laut SAP bisher nicht.
 
-→ [heise Security](https://www.heise.de/news/Palo-Alto-Angriffe-auf-PAN-OS-Firewalls-mit-offenem-Managementzugang-beobachtet-11538805.html) · [heise online](https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag)
+→ [heise online](https://www.heise.de/news/IT-Vorfall-bei-SAP-Entwicklungssysteme-betroffen-11539973.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag) · [The Record](https://therecord.media/sap-germany-cyberattack-github) · [Tagesschau](https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html)
 
-### 1Password-Hack: Kundendaten erbeutet, angeblich keine Passwörter
+### Kritische Lücke im Linux-NFS-Server
 
-Angreifer haben Kundendaten von 1Password erbeutet, Passwörter seien laut Hersteller nicht betroffen. Zur Zahl der Betroffenen gibt es keine Angaben; Nutzer könnten verstärkt Phishing-Ziele werden.
+Über den NFS-Server im Linux-Kernel können Angreifer ein System kompromittieren. Anwender sollen Patches einspielen oder den NFS-Server vorübergehend abschalten bzw. einschränken.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351251/1password-gehackt-angreifer-erbeuten-kundendaten-aber-angeblich-keine-passwoerter?ref=rss)
+→ [heise Security](https://www.heise.de/news/Kritische-Luecke-in-Linux-NFS-Server-11540361.html)
 
 ## Wissenschaft
 
-### Hinweise auf einen „erdähnlichen“ Planeten jenseits von Neptun
+### KI-Beweis zur Riemannschen Vermutung wird geprüft
 
-Simulationen legen eine Welt mit etwa doppelter Erdmasse weit außerhalb der Neptun-Bahn nahe, die die rätselhaften Bahnen eisiger Kleinkörper erklären würde. Direkt nachgewiesen ist der Planet nicht.
+Fachleute arbeiten daran, den von Levent Alpöge veröffentlichten, in Lean formulierten Beweis zu entschlüsseln. Die KI griff dabei offenbar auf historische mathematische Ideen zurück. Ob der Beweis hält, ist noch Gegenstand der Prüfung.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351067/spuren-eines-erdaehnlichen-planeten-in-unserem-sonnensystem-entdeckt?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000351002/was-in-dem-monumentalen-ki-beweis-der-riemannschen-vermutung-steht?ref=rss)
+
+### KI-Ergebnis stellt Annahme zur Matrixmultiplikation infrage
+
+Ein KI-Ergebnis erschüttert eine alte Annahme der Informatik zur Multiplikation von Matrizen, einer der wichtigsten Rechenoperationen. Effizienz ist hier besonders wichtig.
+
+→ [Der Standard](https://www.derstandard.at/story/3000000351358/ein-ki-ergebnis-erschuettert-eine-alte-annahme-der-informatik?ref=rss)
 
 ## Nahost
 
-### Zwei Rheinmetall-Techniker bei Drohnenangriff in Kuwait getötet
+### Israelischer Angriff auf Klinik von Ärzte ohne Grenzen in Gaza
 
-Zwei Italiener, die für Rheinmetall arbeiteten, starben bei einem Drohnenangriff an einer Radarstation der kuwaitischen Luftabwehr. Italien macht den Iran verantwortlich, Teheran weist das zurück und nennt den Vorfall „verdächtig“.
+Bei einem israelischen Angriff auf eine Klinik von Ärzte ohne Grenzen in Gaza wurden zwei Mitarbeiter getötet. Die Organisation spricht von einem direkten Treffer und fordert, die Verantwortlichen zur Rechenschaft zu ziehen.
 
-→ [ORF](https://orf.at/stories/3449373/) · [Der Standard](https://www.derstandard.at/story/3000000351276/zwei-italienische-techniker-bei-drohnenangriff-im-kuwait-get246tet?ref=rss) · [BBC](https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss)
+→ [SRF](https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-aerzte-ohne-grenzen-mitarbeiter-bei-israelischem-angriff-getoetet) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss) · [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss)
 
-### Netanjahu-Prozess: Richter empfehlen Fallenlassen des Bestechungsvorwurfs
+### US-Militär setzt Frachter bei Iran-Blockade außer Gefecht
 
-Im Korruptionsprozess haben die Richter empfohlen, den Vorwurf der Bestechlichkeit fallenzulassen. Netanjahus Lager sieht sich entlastet, die Staatsanwältin steht vor einem Dilemma. Parallel schloss Gadi Eisenkot ein weiteres Koalitionsabkommen der Opposition.
+Das US-Militär hat im Golf von Oman ein Handelsschiff beschossen, das den Antrieb verlor. Es soll die US-Blockade iranischer Häfen durchbrochen haben; die Besatzung blieb unverletzt.
 
-→ [SRF](https://www.srf.ch/news/international/nahost/premier-unter-verdacht-richter-empfehlen-einstellung-des-strafverfahrens-gegen-netanjahu) · [Tagesschau](https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html) · [Der Standard](https://www.derstandard.at/story/3000000351290/eisenkot-einigt-sich-mit-partei-auf-koalitionsvereinbarung?ref=rss)
+→ [Der Standard](https://www.derstandard.at/story/3000000351462/us-milit228r-haben-handelsschiff-im-golf-von-oman-angegriffen?ref=rss) · [Tagesschau](https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html) · [Al Jazeera](https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss)
 
 ## USA
 
-### Unwetter zu Thanksgiving: fast eine Million ohne Strom
+### Selenskyj kritisiert „seltsame“ Freundschaft von Trump und Putin
 
-Stürme an beiden Küsten sorgen für Überschwemmungen, Flugverspätungen und Stromausfälle bei rund 820.000 bis einer Million Haushalten. Die Macy’s-Parade in New York wurde erstmals verschoben.
+Im BBC-Interview zeigt sich der ukrainische Präsident frustriert: Die USA setzten Russland in den Friedensgesprächen nicht hart genug unter Druck. Auch Kushners Aussagen zu Putin lösten in Europa Empörung aus.
 
-→ [ORF](https://orf.at/stories/3449390/) · [BBC](https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather)
+→ [ORF](https://orf.at/stories/3449486/) · [BBC](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss) · [Politico Europe](https://www.politico.eu/article/an-advocate-for-russia-jared-kushner-vladimir-putin-comments-spark-outrage-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
 
-### Trump droht 14 Handelspartnern mit neuen Zöllen
+### Thanksgiving-Sturm: Hunderttausende weiter ohne Strom
 
-Die Zollpläne richten sich gegen Staaten, denen Überproduktion vorgeworfen wird. China behält sich „notwendige Maßnahmen“ vor, die EU weist den Vorwurf zurück, Japan nennt den Schritt „bedauerlich“ und Brasilien „inakzeptabel“.
+Starkregen und Sturmböen haben an beiden US-Küsten Flüge gestrichen und Straßen überflutet. Am Freitag waren vor allem in Pennsylvania und Nachbarstaaten noch Hunderttausende ohne Strom; die New Yorker Thanksgiving-Parade wurde erstmals verschoben.
 
-→ [Der Standard](https://www.derstandard.at/story/3000000351181/scharfe-kritik-von-us-handelspartnern-an-neuer-zoll-drohung?ref=rss) · [The Guardian](https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat)
+→ [SRF](https://www.srf.ch/news/international/unwetter-an-thanksgiving-hunderttausende-an-us-ostkueste-ohne-strom) · [BBC](https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss) · [Tagesschau](https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html)
